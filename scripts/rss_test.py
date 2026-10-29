@@ -1,5 +1,6 @@
 import unittest
 from rss import parse_feed, resolve_channel_id, relevant, merge_previous
+from coverage import matches, person
 
 class FeedTests(unittest.TestCase):
     def test_feed_and_entities(self):
@@ -47,5 +48,11 @@ class FeedTests(unittest.TestCase):
         for label in ['Leak','CBT','BETA','All Characters']:
             self.assertFalse(relevant({'title':label+' Skill Showcase | Wuthering Waves'},game))
         self.assertFalse(relevant({'title':'Jane Skill Showcase | Zenless Zone Zero'},game))
+
+    def test_coverage_keeps_character_variants_separate(self):
+        self.assertTrue(matches('Jane Doe Skill & Moveset Exhibition','제인',['Jane']))
+        self.assertFalse(matches('Silver Soldier Anby Skill Showcase','엔비',['Anby']))
+        self.assertFalse(matches('Starlight Billy Gameplay','빌리',['Billy']))
+        self.assertEqual(person({'gameId':'neverness-to-everness','title':'이환 | 나나리 캐릭터 쇼케이스'}),'나나리')
 
 if __name__=='__main__':unittest.main()

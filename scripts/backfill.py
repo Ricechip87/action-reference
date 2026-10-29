@@ -1,5 +1,7 @@
 """One-time metadata-only archive import. Requires yt-dlp; never downloads media."""
 import argparse
+import threading
+import urllib.error
 import concurrent.futures
 import datetime as dt
 import json
@@ -56,14 +58,27 @@ def main():
             result=ydl.extract_info(source,download=False)
             for entry in result.get('entries',[]):
                 if candidate(entry):candidates[entry['id']]=entry
-    with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:videos=[v for v in pool.map(lambda entry:metadata(entry,game,channel,handle),candidates.values()) if v]
-    if not videos:raise ValueError('No archive entries found')
+    # A private/unavailable item must not discard the verified entries of a whole channel.
+    stopped=threading.Event();failures=[]
+    def verify(entry):
+        if stopped.is_set():return None
+        try:return metadata(entry,game,channel,handle)
+        except Exception as error:
+            failures.append({'id':entry['id'],'sourceChannel':handle,'gameId':game['id'],'reason':str(error)[:180]})
+            if isinstance(error,urllib.error.HTTPError) and error.code==429:stopped.set()
+            return None
+    with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:videos=[v for v in pool.map(verify,candidates.values()) if v]
+    if not videos and not candidates:raise ValueError('No matching candidates found')
+    errors_path=Path('data/initialization-errors.json')
+    errors=json.loads(errors_path.read_text(encoding='utf-8')) if errors_path.exists() else {'entries':[]}
+    errors['entries']=[e for e in errors['entries'] if e.get('sourceChannel')!=handle or e.get('gameId')!=game['id']]+failures
+    errors_path.write_text(json.dumps(errors,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     videos.sort(key=lambda v:v['publishedAt'],reverse=True)
     previous=json.loads(Path('data/archive.json').read_text(encoding='utf-8')) if Path('data/archive.json').exists() else {}
     combined={v['id']:v for v in previous.get('videos',[])}
     combined.update({v['id']:v for v in videos})
     result={'initializedAt':dt.datetime.now(dt.timezone.utc).isoformat(),'videos':list(combined.values())}
     Path('data/archive.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    print('Verified and archived:',len(videos))
+    print('Verified and archived:',len(videos),'Unverified:',len(failures),'Rate limited:',stopped.is_set())
 
 if __name__=='__main__':main()
