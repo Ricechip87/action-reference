@@ -23,11 +23,14 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
-      - name: Collect when API key is configured
-        env:
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify and collect public RSS feeds
         run: |
-          if [ -n "$YOUTUBE_API_KEY" ]; then node scripts/collect.mjs; fi
+          node --test scripts/dedupe.test.mjs
+          python -m unittest discover -s scripts -p rss_test.py
+          node scripts/collect.mjs
       - name: Prepare public files only
         run: |
           mkdir public

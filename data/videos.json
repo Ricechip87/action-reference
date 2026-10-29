@@ -1,1 +1,33 @@
-{"updatedAt":null,"videos":[]}
+{
+  "updatedAt": "2026-10-29T19:07:08.197641+00:00",
+  "source": "rss",
+  "channels": [
+    {
+      "gameId": "wuthering-waves",
+      "channel": "@WW_KR_Official",
+      "ok": true,
+      "feedCount": 15,
+      "matchedCount": 1
+    }
+  ],
+  "videos": [
+    {
+      "id": "h9M1cEVHPlw",
+      "title": "공명자 전투 모션 | 쇄명",
+      "publishedAt": "2026-10-18T03:00:35+00:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "variants": [
+        {
+          "id": "h9M1cEVHPlw",
+          "title": "공명자 전투 모션 | 쇄명",
+          "language": "ko"
+        }
+      ]
+    }
+  ]
+}

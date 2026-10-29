@@ -10,8 +10,11 @@
         "鸣潮"
       ],
       "channels": [
-        "@WW_KR_Official",
-        "@WutheringWaves"
+        "@WW_KR_Official"
+      ],
+      "enabled": true,
+      "includeKeywords": [
+        "전투 모션"
       ]
     },
     {
@@ -27,6 +30,10 @@
       "channels": [
         "@ZZZ_KO",
         "@ZZZ_Official"
+      ],
+      "enabled": false,
+      "includeKeywords": [
+        "전투 모션"
       ]
     },
     {
@@ -42,6 +49,10 @@
       "channels": [
         "@NTE_KO",
         "@NTE_Official"
+      ],
+      "enabled": false,
+      "includeKeywords": [
+        "전투 모션"
       ]
     }
   ]
