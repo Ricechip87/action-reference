@@ -87,6 +87,12 @@ class FeedTests(unittest.TestCase):
         for marker in rule['excludeKeywords']:
             self.assertFalse(relevant({'title':marker+' Laevatain all Moveset Gameplay | Endfield'},rule))
 
+    def test_character_scoped_channel_can_omit_game_name_but_not_match_other_games(self):
+        rule={'keywords':['NTE'],'includeKeywords':['Animations Showcase'],'requireCharacterMatch':True,'characterAliases':['Mint','Fadia']}
+        self.assertTrue(relevant({'title':'Mint Animations Showcase','description':'NTE'},rule))
+        self.assertFalse(relevant({'title':'Zoey Animations Showcase','description':'NTE and Tower of Fantasy'},rule))
+        self.assertFalse(relevant({'title':'Minty Animations Showcase','description':'NTE'},rule))
+
     def test_unmarked_prelaunch_creator_video_is_excluded(self):
         rule={'sourceKind':'creator','channelSpecific':True,'releaseDate':'2024-07-04','includeKeywords':['Skill Showcase']}
         self.assertFalse(relevant({'title':'Grace Skill Showcase','publishedAt':'2024-06-17T10:00:00Z'},rule))

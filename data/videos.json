@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T20:54:16.296744+00:00",
+  "updatedAt": "2026-10-29T20:58:23.726029+00:00",
   "source": "rss",
   "channels": [
     {
@@ -91,7 +91,7 @@
       "channel": "UCca8OKY6cbiLbcJlRmWyDLQ",
       "ok": true,
       "feedCount": 15,
-      "matchedCount": 7
+      "matchedCount": 15
     },
     {
       "gameId": "neverness-to-everness",
@@ -4600,6 +4600,34 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "fQzxH9Ov2VE",
+      "title": "How to Play Nicole (Beginner Move List Visual Guide) | ZZZ Made EZ",
+      "publishedAt": "2024-07-31T07:16:06-07:00",
+      "channelTitle": "The Sacred Spear",
+      "channelId": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "A beginner guide to learn how to play Nicole in Zenless Zone Zero! Nicole offers support through Def shred debuffs and energy fields that can group enemies together. \n\nFollow me on Twitter: @TheSacredSpear\nhttps://twitter.com/TheSacredSpear\n\nPlaylist of all my videos: https://www.youtube.com/TheSacredSpear/playlists\n\n#zzzero #zenlesszonezero #thesacredspear",
+      "duration": "PT374S",
+      "variants": [
+        {
+          "id": "fQzxH9Ov2VE",
+          "title": "How to Play Nicole (Beginner Move List Visual Guide) | ZZZ Made EZ",
+          "language": "en"
+        }
+      ],
+      "characterId": "zenless-zone-zero:nicole-demara",
+      "characterName": "니콜",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-07-04",
+      "characterReleaseOrder": 4,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
       "id": "lOziXeSnbWg",
       "title": "리나 캐릭터 플레이 「방문객 안전 수칙」 | 젠레스 존 제로",
       "publishedAt": "2024-06-20T21:00:19-07:00",
@@ -4675,6 +4703,34 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "oBIf-5FS4zA",
+      "title": "How to Play Billy (Beginner Move List Visual Guide) | ZZZ Made EZ",
+      "publishedAt": "2024-09-02T16:04:54-07:00",
+      "channelTitle": "The Sacred Spear",
+      "channelId": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "A Beginner's guide to Billy's move list in Zenless Zone Zero. Learn how to utilize the Starlight Knight to his full potential.\n\n0:00 Intro\n0:22 Damage Falloff\n0:41 Signature W-Engine\n1:04 Crouching Shot & Core Passive\n2:25 EX Special\n2:52 Ultimate & Additional Ability\n3:50 Evasive Assist + Follow-Up\n4:09 Rolling Shot & Dash Attack\n5:25 Dodge Counter & Mindscapes\n\nMore Zenless Zone Zero Videos:\nhttps://www.youtube.com/playlist?list=PLwD3z-ceqI_Pwa9AlbmiWCd15CaRhRpIQ\n\nFollow me on Twitter: @TheSacredSpear\nhttps://twitter.com/TheSacredSpear\n\nPlaylist of all my videos: https://www.youtube.com/TheSacredSpear/playlists\n\n#zzzero #hoyocreators #zenlesszonezero #zzzguide #thesacredspear",
+      "duration": "PT433S",
+      "variants": [
+        {
+          "id": "oBIf-5FS4zA",
+          "title": "How to Play Billy (Beginner Move List Visual Guide) | ZZZ Made EZ",
+          "language": "en"
+        }
+      ],
+      "characterId": "zenless-zone-zero:billy-kid",
+      "characterName": "빌리",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-07-04",
+      "characterReleaseOrder": 9,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
       "id": "PXaowGDA_2Y",
       "title": "엔비 캐릭터 플레이 -「천둥의 빛과 그림자」| 젠레스 존 제로",
       "publishedAt": "2023-12-28T20:00:37-08:00",
@@ -4700,6 +4756,34 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "QwlRAVR0nhk",
+      "title": "How to Play Anby (Beginner Move List Visual Guide) | ZZZ Made EZ",
+      "publishedAt": "2024-08-12T21:13:48-07:00",
+      "channelTitle": "The Sacred Spear",
+      "channelId": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "A Beginner's Guide on how to play Anby in Zenless Zone Zero. Learn about Anby's move list and combos to use in combat. \n\n0:00 Intro\n0:26 Basic Attack: Thunderbolt\n0:55 EX Special\n1:09 Core Passive & Extra Combo\n2:00 i-Frames & Dodge Counter\n2:56 Anby's Signature W-Engine & Mindscape 1\n3:54 Chain Attack & Ultimate (Mindscape 4)\n4:44 Conclusion\n\nMore Zenless Zone Zero Videos:\nhttps://www.youtube.com/playlist?list=PLwD3z-ceqI_Pwa9AlbmiWCd15CaRhRpIQ\n\nFollow me on Twitter: @TheSacredSpear\nhttps://twitter.com/TheSacredSpear\n\nPlaylist of all my videos: https://www.youtube.com/TheSacredSpear/playlists\n\n#zzzero #zenlesszonezero #thesacredspear",
+      "duration": "PT316S",
+      "variants": [
+        {
+          "id": "QwlRAVR0nhk",
+          "title": "How to Play Anby (Beginner Move List Visual Guide) | ZZZ Made EZ",
+          "language": "en"
+        }
+      ],
+      "characterId": "zenless-zone-zero:anby-demara",
+      "characterName": "엔비",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-07-04",
+      "characterReleaseOrder": 12,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
       "id": "0I4nDRxlmrs",
       "title": "엘렌 캐릭터 플레이 -「유니폼·가위·상어 꼬리」 | 젠레스 존 제로",
       "publishedAt": "2024-07-02T20:59:26-07:00",
@@ -4715,6 +4799,34 @@
           "id": "0I4nDRxlmrs",
           "title": "엘렌 캐릭터 플레이 -「유니폼·가위·상어 꼬리」 | 젠레스 존 제로",
           "language": "ko"
+        }
+      ],
+      "characterId": "zenless-zone-zero:ellen-joe",
+      "characterName": "엘렌",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-07-04",
+      "characterReleaseOrder": 13,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "4gjM7dPl-dQ",
+      "title": "How to Play Ellen (Move List Visual Guide) | ZZZ Made EZ",
+      "publishedAt": "2024-07-18T18:51:45-07:00",
+      "channelTitle": "The Sacred Spear",
+      "channelId": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "[UPDATE] As of Version 2.0 Ellen has received a rework to her kit. I have made a new guide - both a longer in-depth version and a simplified version. Check them out below!\nHow to Play Ellen 2.0 : https://youtu.be/Ql7Lkz2G5WE\nEllen 2.0 Simplified Guide: https://youtu.be/DvW0-jzOyiw\n\nThis episode of ZZZ Made EZ is a quick visual guide to Ellen's Move List in-game. Like a true shark, Ellen wants to always be Roaming.\n\nMore Zenless Zone Zero Videos:\nhttps://www.youtube.com/playlist?list=PLwD3z-ceqI_Pwa9AlbmiWCd15CaRhRpIQ\n\nFollow me on Twitter: @TheSacredSpear\nhttps://twitter.com/TheSacredSpear\n\nPlaylist of all my videos: https://www.youtube.com/TheSacredSpear/playlists\n\n#zzzero #zenlesszonezero #thesacredspear",
+      "duration": "PT270S",
+      "variants": [
+        {
+          "id": "4gjM7dPl-dQ",
+          "title": "How to Play Ellen (Move List Visual Guide) | ZZZ Made EZ",
+          "language": "en"
         }
       ],
       "characterId": "zenless-zone-zero:ellen-joe",
@@ -4822,6 +4934,34 @@
           "id": "VjGAIlePij4",
           "title": "주연 캐릭터 플레이 「전천후 치안관, 주연!」 | 젠레스 존 제로",
           "language": "ko"
+        }
+      ],
+      "characterId": "zenless-zone-zero:zhu-yuan",
+      "characterName": "주연",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-07-24",
+      "characterReleaseOrder": 17,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "cwoHNiybTH0",
+      "title": "How to Play Zhu Yuan (Beginner Move List Visual Guide) | ZZZ Made EZ",
+      "publishedAt": "2024-07-27T17:27:23-07:00",
+      "channelTitle": "The Sacred Spear",
+      "channelId": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "A starter guide to understand the basics on how to play Zhu Yuan in Zenless Zone Zero.  \n\nFollow me on Twitter: @TheSacredSpear\nhttps://twitter.com/TheSacredSpear\n\nPlaylist of all my videos: https://www.youtube.com/TheSacredSpear/playlists\n\n#zzzero #zenlesszonezero #thesacredspear",
+      "duration": "PT516S",
+      "variants": [
+        {
+          "id": "cwoHNiybTH0",
+          "title": "How to Play Zhu Yuan (Beginner Move List Visual Guide) | ZZZ Made EZ",
+          "language": "en"
         }
       ],
       "characterId": "zenless-zone-zero:zhu-yuan",
@@ -9224,6 +9364,34 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "iw0_CjRFOuk",
+      "title": "Ye Shunguang Gameplay & Ye Shunguang Skill Showcase | Zenless Zone Zeros 2.5 Ye Shunguang Gameplay",
+      "publishedAt": "2025-12-19T04:12:58-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#ZenlessZoneZero #ZZZ #zzzero #zzzcreators #hoyocreators #zzztrailer #UkinamiYuzuha #Alice #zzzfaction #hoyoverse #zzzguide #zzzvideo #ZZZUpdate",
+      "duration": "PT138S",
+      "variants": [
+        {
+          "id": "iw0_CjRFOuk",
+          "title": "Ye Shunguang Gameplay & Ye Shunguang Skill Showcase | Zenless Zone Zeros 2.5 Ye Shunguang Gameplay",
+          "language": "en"
+        }
+      ],
+      "characterId": "zenless-zone-zero:ye-shunguang",
+      "characterName": "엽빛나",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-12-30",
+      "characterReleaseOrder": 46,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
       "id": "UwNCIb8rnM8",
       "title": "자오 캐릭터 플레이 「토끼 아가씨의 고민 상담소」 | 젠레스 존 제로",
       "publishedAt": "2025-12-29T20:00:26-08:00",
@@ -9239,6 +9407,34 @@
           "id": "UwNCIb8rnM8",
           "title": "자오 캐릭터 플레이 「토끼 아가씨의 고민 상담소」 | 젠레스 존 제로",
           "language": "ko"
+        }
+      ],
+      "characterId": "zenless-zone-zero:zhao",
+      "characterName": "자오",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-12-30",
+      "characterReleaseOrder": 47,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "ZYlgQ9O75Ko",
+      "title": "Zhao Gameplay & Zhao Skill Showcase | Zenless Zone Zeros 2.5 Zhao Gameplay",
+      "publishedAt": "2025-12-19T04:32:19-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "❗Genshin 6.0 Guide Playlist \nhttps://www.youtube.com/playlist?list=PLPH2f477dnay8GkjRH7AALWePY1nXjF5O\n\nGenshin All Chest & Culus Location \nhttps://www.youtube.com/playlist?list=PLPH2f477dnaz60vfwS_w_eX9ihhbdP_M2\nGenshin All Hidden Achievement\nhttps://www.youtube.com/playlist?list=PLPH2f477dnax1G5P6G6tP1dFYMl3dcOlM\nGenshin All World Quest\nhttps://www.youtube.com/playlist?list=PLPH2f477dnawIO-AJDMIJPlGuEi12-ulL\nGenshin Changes & New Fatures\nhttps://www.youtube.com/playlist?list=PLPH2f477dnaxVS81W3M47dIye2nubStpE\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#genshin  #genshinimpact   #원신 #原神 #ГеншинИмпакт #genshinlore #memes #bugs #glitches #HoYoCREATORS #GenshinViews\n#genshinimpact #GenshinNewbie #SEANightMarket #GenshinOffline #ongame #genshinimpact #hoyocreators #genshintrailer",
+      "duration": "PT157S",
+      "variants": [
+        {
+          "id": "ZYlgQ9O75Ko",
+          "title": "Zhao Gameplay & Zhao Skill Showcase | Zenless Zone Zeros 2.5 Zhao Gameplay",
+          "language": "en"
         }
       ],
       "characterId": "zenless-zone-zero:zhao",
@@ -9994,6 +10190,34 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "tBS__wij5c8",
+      "title": "Aria Gameplay & Aria Skill Showcase | Zenless Zone Zeros 2.6 Aria Gameplay",
+      "publishedAt": "2026-01-30T04:34:05-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "❗Genshin 6.0 Guide Playlist \nhttps://www.youtube.com/playlist?list=PLPH2f477dnay8GkjRH7AALWePY1nXjF5O\n\nGenshin All Chest & Culus Location \nhttps://www.youtube.com/playlist?list=PLPH2f477dnaz60vfwS_w_eX9ihhbdP_M2\nGenshin All Hidden Achievement\nhttps://www.youtube.com/playlist?list=PLPH2f477dnax1G5P6G6tP1dFYMl3dcOlM\nGenshin All World Quest\nhttps://www.youtube.com/playlist?list=PLPH2f477dnawIO-AJDMIJPlGuEi12-ulL\nGenshin Changes & New Fatures\nhttps://www.youtube.com/playlist?list=PLPH2f477dnaxVS81W3M47dIye2nubStpE\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#genshin  #genshinimpact   #원신 #原神 #ГеншинИмпакт #genshinlore #memes #bugs #glitches #HoYoCREATORS #GenshinViews\n#genshinimpact #GenshinNewbie #SEANightMarket #GenshinOffline #ongame #genshinimpact #hoyocreators #genshintrailer",
+      "duration": "PT186S",
+      "variants": [
+        {
+          "id": "tBS__wij5c8",
+          "title": "Aria Gameplay & Aria Skill Showcase | Zenless Zone Zeros 2.6 Aria Gameplay",
+          "language": "en"
+        }
+      ],
+      "characterId": "zenless-zone-zero:aria",
+      "characterName": "아리아",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-03-04",
+      "characterReleaseOrder": 49,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
       "id": "ZtsGHVxFK98",
       "title": "「명일방주: 엔드필드」 오퍼레이터 전투 시연 - 탕탕",
       "publishedAt": "2026-03-08T20:00:27-07:00",
@@ -10363,6 +10587,32 @@
       "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)"
     },
     {
+      "id": "Vy31BKpcWnQ",
+      "title": "Jiuyuan Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+      "publishedAt": "2026-07-05T09:58:21+00:00",
+      "channelTitle": "The Chaos Duck",
+      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "gameId": "neverness-to-everness",
+      "language": "",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "variants": [
+        {
+          "id": "Vy31BKpcWnQ",
+          "title": "Jiuyuan Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+          "language": ""
+        }
+      ],
+      "characterId": "neverness-to-everness:jiuyuan",
+      "characterName": "구원",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-04-29",
+      "characterReleaseOrder": 1,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
       "id": "uQ9OHmwG94Y",
       "title": "이환 | 나나리 캐릭터 쇼케이스",
       "publishedAt": "2026-04-18T20:00:53-07:00",
@@ -10378,6 +10628,34 @@
           "id": "uQ9OHmwG94Y",
           "title": "이환 | 나나리 캐릭터 쇼케이스",
           "language": "ko"
+        }
+      ],
+      "characterId": "neverness-to-everness:nanally",
+      "characterName": "나나리",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-04-29",
+      "characterReleaseOrder": 2,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "fPD5usu8sQE",
+      "title": "Nanally Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+      "publishedAt": "2026-05-13T04:58:25-07:00",
+      "channelTitle": "The Chaos Duck",
+      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "gameId": "neverness-to-everness",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "A showcase of Nanally's gameplay to fully appreciate every detail in each of her animations.\n\nI think overall, all of Nanally's animations are quite even in quality, with the best being her basic and charged attacks, of course. I like how she uses a mix of kicks and punches, both feeling just as strong as the other. I also really like how you can really feel the oomph coming out of Nanally's basic attacks (the amazing sound design is also a big factor of it), her charged attacks amplifying that oomph times TEN, with each hit feeling like you're hitting the enemies with trucks. Her weakest link only being her Redirect Skill, which still feels really impactful cuz the effects make up for the weird animation. The little animations she does after each attack are also really cute and add to her personality. 10/10 for me.\n\nTimestamps:\n\n[Combat]\n(Front)\n0:00 - Standing to Idle\n0:04 - Idle Animations\n0:22 - Basic Attacks \n0:47 - Plunge Attack\n0:50 - Redirect Skill\n0:56 - Charged Attacks\n1:10 - Ultimate\n1:23 - Disarm\n\n(Side)\n1:27 - Basic Attacks \n1:51 - Plunge Attack\n1:55 - Redirect Skill\n2:01 - Charged Attacks\n2:19 - Disarm\n\n(Back)\n2:24 - Basic Attacks \n2:49 - Plunge Attack\n2:53 - Redirect Skill\n2:59 - Charged Attacks\n3:17 - Disarm\n\n(Other)\n3:22 - Intro Skill\n3:26 - Dodge Attack\n3:32 - Knockback\n3:36 - Critical Dodges\n3:39 - Parry\n\n[Exploration]\n3:43 - Walk\n4:00 - Run\n4:16 - Dash\n4:29 - Dodge\n4:46 - Jumping & Gliding (All angles)\n\n[Menu]\n5:12 - Intro\n5:18 - Arc selection\n5:23 - Skins\n\nNeverness To Everness is a supernatural urban open-world RPG developed by Hotta Studio, a subsidiary of Perfect World Games. In this Anomaly-filled city, you'll make a dazzling entrance, using your extraordinary Esper abilities to navigate freely and handle unexpected events. Beyond that, you can choose your own lifestyle, manage businesses, and experience a vibrant urban life.\n\nNanally is an S rarity character from the Anima attribute who performs the Damage role in combat. Her Arc Compatibility is Plasma.\n\nPlay Neverness to Everness now!: nte.perfectworld.com\n\n#NTE #NTEcreator #gameplay #animations #showcase #nanally #nevernesstoeverness",
+      "duration": "PT353S",
+      "variants": [
+        {
+          "id": "fPD5usu8sQE",
+          "title": "Nanally Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+          "language": "en"
         }
       ],
       "characterId": "neverness-to-everness:nanally",
@@ -10411,6 +10689,34 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-04-29",
       "characterReleaseOrder": 3,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "fiuBE92Oj8k",
+      "title": "Mint Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+      "publishedAt": "2026-05-16T02:29:21-07:00",
+      "channelTitle": "The Chaos Duck",
+      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "gameId": "neverness-to-everness",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "A showcase of Mint's gameplay to fully appreciate every detail in each of her animations.\n\nFor the first character you unlock, Min't animations look really good, even when compared to some S Ranks. Her basic attacks are definitely the best animation-wise. They feel extremely light and quick, yet they look like they cut so smooth at the same time. I also really like the way she spins her blades as she puts them away (quite similarly to Daffodil actually, which could be why I like her animations so much). One nitpick I do have is that I feel like the tornado slashes during her charged attack could be a bit bigger and faster. But, even for an A rank character, you could tell that a lot of care went into each of her animations. 9/10 from me.\n\nTimestamps:\n\n[Combat]\n(Front)\n0:00 - Standing to Idle\n0:04 - Idle Animations\n0:28 - Basic Attacks \n0:49- Plunge Attack\n0:51 - Redirect Skill\n0:55 - Charged Attack\n1:05 - Ultimate\n1:20 - Disarm\n\n(Side)\n1:24 - Basic Attacks \n1:44 - Plunge Attack\n1:47 - Redirect Skill\n1:50 - Charged Attack\n2:02 - Disarm\n\n(Back)\n2:06 - Basic Attacks \n2:28 - Plunge Attack\n2:32 - Redirect Skill\n2:35 - Charged Attacks\n2:48 - Disarm\n\n(Other)\n2:52 - Intro Skill\n2:57 - Dodge Attack\n3:03 - Knockback\n3:08 - Critical Dodges\n3:11 - Parry\n\n[Exploration]\n3:15 - Walk\n3:31 - Run\n3:48 - Dash\n4:01 - Dodge\n4:15 - Jumping & Gliding (All angles)\n\n[Menu]\n4:39 - Intro\n4:44 - Arc selection\n4:50 - Skins\n\nNeverness To Everness is a supernatural urban open-world RPG developed by Hotta Studio, a subsidiary of Perfect World Games. In this Anomaly-filled city, you'll make a dazzling entrance, using your extraordinary Esper abilities to navigate freely and handle unexpected events. Beyond that, you can choose your own lifestyle, manage businesses, and experience a vibrant urban life.\n\nMint is an A rarity character from the Anima attribute who performs the Damage role in combat. Herr Arc Compatibility is Liquid.\n\nPlay Neverness to Everness now!: nte.perfectworld.com\n\n#NTE #NTEcreator #gameplay #animations #showcase #mint #nevernesstoeverness",
+      "duration": "PT310S",
+      "variants": [
+        {
+          "id": "fiuBE92Oj8k",
+          "title": "Mint Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+          "language": "en"
+        }
+      ],
+      "characterId": "neverness-to-everness:mint",
+      "characterName": "민트",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-04-29",
+      "characterReleaseOrder": 4,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
@@ -10544,6 +10850,112 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "BRyF9EIZy58",
+      "title": "Chiz Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+      "publishedAt": "2026-05-21T11:29:21+00:00",
+      "channelTitle": "The Chaos Duck",
+      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "gameId": "neverness-to-everness",
+      "language": "",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "variants": [
+        {
+          "id": "BRyF9EIZy58",
+          "title": "Chiz Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+          "language": ""
+        }
+      ],
+      "characterId": "neverness-to-everness:chiz",
+      "characterName": "치즈",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-04-29",
+      "characterReleaseOrder": 12,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "rlKhAVuCW6Q",
+      "title": "Fadia Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+      "publishedAt": "2026-08-31T11:08:12+00:00",
+      "channelTitle": "The Chaos Duck",
+      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "gameId": "neverness-to-everness",
+      "language": "",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "variants": [
+        {
+          "id": "rlKhAVuCW6Q",
+          "title": "Fadia Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+          "language": ""
+        }
+      ],
+      "characterId": "neverness-to-everness:fadia",
+      "characterName": "파디아",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-04-29",
+      "characterReleaseOrder": 13,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "zAz6f0arvZs",
+      "title": "Haniel Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+      "publishedAt": "2026-05-20T08:42:16+00:00",
+      "channelTitle": "The Chaos Duck",
+      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "gameId": "neverness-to-everness",
+      "language": "",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "variants": [
+        {
+          "id": "zAz6f0arvZs",
+          "title": "Haniel Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+          "language": ""
+        }
+      ],
+      "characterId": "neverness-to-everness:haniel",
+      "characterName": "하니엘",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-04-29",
+      "characterReleaseOrder": 14,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "KN251GvTlcI",
+      "title": "Hathor Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+      "publishedAt": "2026-05-15T05:40:51-07:00",
+      "channelTitle": "The Chaos Duck",
+      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "gameId": "neverness-to-everness",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "A showcase of Hathor's gameplay to fully appreciate every detail in each of her animations.\n\nAs someone who uses her as a burst DPS, I did NOT expect her to attack using her legs (that is not a complaint in any way). Her basic attacks are probably my favorite part of her kit animation-wise, as I like the way they feel so floaty and strong at the same time, and each one of them feel equally as good as the other. Her Redirect Skill, charged attack, and plunge attack feel a little weak in comparison, although I do like how she has a unique plunge attack (animation-wise tho, it also feels weak). Her ultimate is just fine, tho I feel they could've done a bit more with it. One thing I didn't know was that she could ride motorcycles herself, until I someone else do it, which I think is a really cool unique feature of hers (and I hope that gets extended to more characters in the future). 7/10 for me.\n\nTimestamps:\n\n[Combat]\n(Front)\n0:00 - Standing to Idle\n0:09 - Idle Animations\n0:44 - Basic Attacks \n1:10 - Plunge Attack\n1:14 - Redirect Skill\n1:20 - Charged Attack\n1:27 - Ultimate\n1:34 - Ultimate Attacks\n1:58 - Disarm\n\n(Side)\n2:07 - Basic Attacks \n2:32 - Plunge Attack\n2:36 - Redirect Skill\n2:41 - Charged Attack\n2:52 - Disarm\n\n(Back)\n3:01 - Basic Attacks \n3:27 - Plunge Attack\n3:31 - Redirect Skill\n3:36 - Charged Attack\n3:48 - Disarm\n\n(Other)\n3:55 - Redirect Skill (Hold)\n4:06 - Intro Skill\n4:11 - Dodge Attack\n4:17 - Critical Dodges\n4:19 - Parry\n4:23 - Knockback\n\n[Exploration]\n4:28 - Walk\n4:46 - Run\n5:04 - Dash\n5:18 - Dodge\n5:33 - Jumping & Gliding (All angles)\n6:04 - Motorcycle Riding\n\n[Menu]\n6:55 - Intro\n7:00 - Arc selection\n\n7:08 - Plunge Attack Blooper\n\nNeverness To Everness is a supernatural urban open-world RPG developed by Hotta Studio, a subsidiary of Perfect World Games. In this Anomaly-filled city, you'll make a dazzling entrance, using your extraordinary Esper abilities to navigate freely and handle unexpected events. Beyond that, you can choose your own lifestyle, manage businesses, and experience a vibrant urban life.\n\nHathor is an S rarity character from the Lakshana attribute who performs the Damage role in combat. Her Arc Compatibility is Plasma.\n\nPlay Neverness to Everness now!: nte.perfectworld.com\n\n#NTE #NTEcreator #gameplay #animations #showcase #hathor #nevernesstoeverness",
+      "duration": "PT463S",
+      "variants": [
+        {
+          "id": "KN251GvTlcI",
+          "title": "Hathor Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+          "language": "en"
+        }
+      ],
+      "characterId": "neverness-to-everness:hathor",
+      "characterName": "하토르",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-04-29",
+      "characterReleaseOrder": 15,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
       "id": "MKfOCCsSkRw",
       "title": "공명자 전투 모션 | 히유키",
       "publishedAt": "2026-04-25T20:00:22-07:00",
@@ -10637,6 +11049,34 @@
           "id": "Mgb3VAz9PS0",
           "title": "이환丨캐릭터 쇼케이스丨호토리",
           "language": "ko"
+        }
+      ],
+      "characterId": "neverness-to-everness:hotori",
+      "characterName": "호토리",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-05-13",
+      "characterReleaseOrder": 16,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "QjAWA_mb6Hk",
+      "title": "Hotori Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+      "publishedAt": "2026-05-13T04:09:42-07:00",
+      "channelTitle": "The Chaos Duck",
+      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "gameId": "neverness-to-everness",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "A showcase of Hotori's gameplay to fully appreciate every detail in each of her animations.\n\nSince Hotori is an ultimate-focused character, it's only natural for her to have the best ultimate animations (including the ultimate attacks) in the game. One thing I really appreciate is how even her ultimate attacks each have their own sheathing animation (and BOY am I glad her ultimate recharges over time so I didn't have to farm energy over and over again to showcase each one). It's something they didn't HAVE to do, but it really shows how much effort they put into each character's animations. They even added a PLUNGE attack for her ultimate, even though no one would even THINK of plunging during it (I fogor to showcase it cuz of that mb). The rest of her animations are just fine for me, but I also do like the way she floats with her umbrella after her basic attacks, which are just nice to look at. 7/10 for me.\n\nGuess I'm a showcase channel now.\n\nTimestamps:\n\n[Combat]\n(Front)\n0:00 - Standing to Idle\n0:07 - Idle Animations\n0:32 - Basic Attacks \n0:57 - Plunge Attack\n1:03 - Redirect Skill\n1:09 - Ultimate\n1:26 - Charged Attack\n1:35 - Disarm\n\n(Side)\n1:43 - Basic Attacks \n2:05 - Plunge Attack\n2:10 - Redirect Skill\n2:15 - Charged Attack\n2:25 - Disarm\n\n(Back)\n2:31 - Basic Attacks \n2:55 - Plunge Attack\n3:00 - Redirect Skill\n3:06 - Charged Attack\n3:16 - Disarm\n\n(Other)\n3:23 - Ultimate Basic Attacks\n3:46 - Ultimate Final Attack\n3:56 - Intro Skill\n4:02 - Dodge Attack\n4:08 - Knockback\n4:12 - Critical Dodges\n4:15 - Parry\n\n[Exploration]\n4:20 - Walk\n4:37 - Run\n4:49 - Dash\n5:03 - Dodge\n5:14 - Time Freeze\n5:33 - Jumping & Gliding (All angles)\n\n[Menu]\n6:00 - Intro\n6:04 - Arc selection\n6:11 - Skins\n\nHotori is an S rarity character from the Cosmos attribute who performs the Buff role in combat. Her Arc Compatibility is Solid.\n\nPlay Neverness to Everness now!: nte.perfectworld.com\n\n#NTE #NTEcreator #gameplay #animations #showcase #hotori #nevernesstoeverness",
+      "duration": "PT403S",
+      "variants": [
+        {
+          "id": "QjAWA_mb6Hk",
+          "title": "Hotori Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+          "language": "en"
         }
       ],
       "characterId": "neverness-to-everness:hotori",
@@ -11085,6 +11525,32 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "VF2-tI0li5M",
+      "title": "Chaos Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+      "publishedAt": "2026-06-30T11:51:47+00:00",
+      "channelTitle": "The Chaos Duck",
+      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "gameId": "neverness-to-everness",
+      "language": "",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "variants": [
+        {
+          "id": "VF2-tI0li5M",
+          "title": "Chaos Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+          "language": ""
+        }
+      ],
+      "characterId": "neverness-to-everness:chaos",
+      "characterName": "카오스",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-06-24",
+      "characterReleaseOrder": 18,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
       "id": "IlA-Fm2UShQ",
       "title": "「명일방주: 엔드필드」 오퍼레이터 전투 시연 - 카뮤",
       "publishedAt": "2026-06-23T20:00:36-07:00",
@@ -11216,6 +11682,32 @@
           "id": "gCEDmvPYIDQ",
           "title": "이환丨캐릭터 쇼케이스丨신쿠",
           "language": "ko"
+        }
+      ],
+      "characterId": "neverness-to-everness:shinku",
+      "characterName": "신쿠",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-07-08",
+      "characterReleaseOrder": 19,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "vNe_s7SytG4",
+      "title": "Shinku Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+      "publishedAt": "2026-08-28T09:19:16+00:00",
+      "channelTitle": "The Chaos Duck",
+      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "gameId": "neverness-to-everness",
+      "language": "",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "variants": [
+        {
+          "id": "vNe_s7SytG4",
+          "title": "Shinku Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+          "language": ""
         }
       ],
       "characterId": "neverness-to-everness:shinku",
@@ -11427,6 +11919,32 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "-A7jFXUI_OU",
+      "title": "Iroi Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+      "publishedAt": "2026-09-03T05:46:46+00:00",
+      "channelTitle": "The Chaos Duck",
+      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "gameId": "neverness-to-everness",
+      "language": "",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "variants": [
+        {
+          "id": "-A7jFXUI_OU",
+          "title": "Iroi Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+          "language": ""
+        }
+      ],
+      "characterId": "neverness-to-everness:iroi",
+      "characterName": "일로이",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-07-29",
+      "characterReleaseOrder": 20,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
       "id": "n-VR7m9-muI",
       "title": "Iroi Gameplay - Neverness to Everness",
       "publishedAt": "2026-07-24T11:08:19+00:00",
@@ -11613,6 +12131,32 @@
           "id": "b7XDjnBiLn0",
           "title": "이환 캐릭터 쇼케이스 丨잔홍",
           "language": "ko"
+        }
+      ],
+      "characterId": "neverness-to-everness:zankou",
+      "characterName": "잔홍",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-08-19",
+      "characterReleaseOrder": 21,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "Bs2K-1YbKKY",
+      "title": "Zankou Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+      "publishedAt": "2026-09-04T07:39:14+00:00",
+      "channelTitle": "The Chaos Duck",
+      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "gameId": "neverness-to-everness",
+      "language": "",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "variants": [
+        {
+          "id": "Bs2K-1YbKKY",
+          "title": "Zankou Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+          "language": ""
         }
       ],
       "characterId": "neverness-to-everness:zankou",

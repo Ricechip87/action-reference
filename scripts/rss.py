@@ -1,5 +1,6 @@
 """Public channel Atom feeds; no API key or third-party packages."""
 import concurrent.futures
+import functools
 import datetime as dt
 import json
 import re
@@ -38,12 +39,18 @@ def parse_feed(xml,channel):
         videos.append({'id':video_id,'title':entry.findtext('a:title','',NS),'description':entry.findtext('m:group/m:description','',NS),'publishedAt':entry.findtext('a:published','',NS),'channelTitle':title,'channelId':channel})
     return videos
 
+@functools.cache
+def character_aliases(game_id):
+    data=json.loads((Path(__file__).resolve().parent.parent/'data/characters.json').read_text(encoding='utf-8'))
+    return tuple({name for character in data['characters'] if character['gameId']==game_id and character.get('kind')!='family' for name in [character['name'],*character.get('aliases',[])]})
+
 def relevant(video,game):
     hay=(video['title']+' '+video.get('description','')).casefold()
     def named_in_title(keyword):
         value=keyword.casefold();title=video['title'].casefold()
         return value in title if re.search('[가-힣]',value) else bool(re.search(r'(?<![a-z0-9])'+re.escape(value)+r'(?![a-z0-9])',title))
     if game.get('titleGameRequired') and not any(named_in_title(k) for k in game.get('keywords',[])):return False
+    if game.get('requireCharacterMatch') and not any(named_in_title(k) for k in game.get('characterAliases') or character_aliases(game['id'])):return False
     if any(term.casefold() in video['title'].casefold() for term in game.get('excludeKeywords',[])):return False
     if game.get('sourceKind')=='creator' and re.search(r'closed beta|\bcbt\d?\b|beta test|leaked footage|유출|베타 테스트',hay,re.I):return False
     if game.get('sourceKind')=='creator' and game.get('releaseDate') and video.get('publishedAt'):

@@ -120,7 +120,9 @@
         "Zenless Zone Zero",
         "ゼンレスゾーンゼロ",
         "绝区零",
-        "絕區零"
+        "絕區零",
+        "ZZZ",
+        "Zenless Zone Zeros"
       ],
       "channels": [
         "@ZZZ_KO"
@@ -363,7 +365,8 @@
             "테스트 서버"
           ],
           "enabled": true,
-          "titleGameRequired": true
+          "titleGameRequired": false,
+          "requireCharacterMatch": true
         },
         {
           "channel": "UCs7asZ6zS-cf62hMU_wMAaQ",
@@ -393,7 +396,8 @@
             "테스트 서버"
           ],
           "enabled": true,
-          "titleGameRequired": true
+          "titleGameRequired": false,
+          "requireCharacterMatch": true
         }
       ],
       "releaseDate": "2026-04-29"
