@@ -81,6 +81,12 @@ class FeedTests(unittest.TestCase):
         self.assertFalse(relevant({'title':'Harly Painter Gameplay - Tower of Fantasy','description':'Also playing Neverness to Everness','gameVerified':True},rule))
         self.assertTrue(relevant({'title':'Akane Rin Gameplay | NTE'},rule))
 
+    def test_full_moveset_channel_promotional_clips_are_excluded(self):
+        rule={'keywords':['Endfield'],'includeKeywords':['all Moveset'],'excludeKeywords':['公開中','投稿しました','鑑賞','本編にて'],'titleGameRequired':True}
+        self.assertTrue(relevant({'title':'Laevatain all Moveset Gameplay | Endfield'},rule))
+        for marker in rule['excludeKeywords']:
+            self.assertFalse(relevant({'title':marker+' Laevatain all Moveset Gameplay | Endfield'},rule))
+
     def test_unmarked_prelaunch_creator_video_is_excluded(self):
         rule={'sourceKind':'creator','channelSpecific':True,'releaseDate':'2024-07-04','includeKeywords':['Skill Showcase']}
         self.assertFalse(relevant({'title':'Grace Skill Showcase','publishedAt':'2024-06-17T10:00:00Z'},rule))
