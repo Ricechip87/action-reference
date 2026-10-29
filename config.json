@@ -48,13 +48,13 @@
         "異環"
       ],
       "channels": [
-        "@NTE_KO",
-        "@NTE_Official"
+        "@NTE_KO"
       ],
-      "enabled": false,
+      "enabled": true,
       "includeKeywords": [
-        "전투 모션"
-      ]
+        "캐릭터 쇼케이스"
+      ],
+      "channelSpecific": true
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
-  "initializedAt": "2026-10-29T19:15:32.100366+00:00",
-  "channelId": "UCKuq0c-RXYaulECSuu5hFug",
-  "sourceChannel": "@WW_KR_Official",
-  "candidateCount": 26,
+  "initializedAt": "2026-10-29T19:18:14.290207+00:00",
   "videos": [
     {
       "id": "h9M1cEVHPlw",
@@ -315,6 +312,126 @@
       "type": "전투 모션",
       "sourceChannel": "@WW_KR_Official",
       "duration": "PT46S"
+    },
+    {
+      "id": "SXUIicY-g2c",
+      "title": "이환 캐릭터 쇼케이스丨아카네 린",
+      "publishedAt": "2026-10-17T20:00:08-07:00",
+      "channelTitle": "이환",
+      "channelId": "UC0042GfGERAl0AzXR0j8TPA",
+      "gameId": "neverness-to-everness",
+      "language": "ko",
+      "type": "캐릭터 쇼케이스",
+      "sourceChannel": "@NTE_KO",
+      "duration": "PT65S"
+    },
+    {
+      "id": "0XMRCUtrN5k",
+      "title": "이환 캐릭터 쇼케이스 丨레이븐",
+      "publishedAt": "2026-09-22T20:00:01-07:00",
+      "channelTitle": "이환",
+      "channelId": "UC0042GfGERAl0AzXR0j8TPA",
+      "gameId": "neverness-to-everness",
+      "language": "ko",
+      "type": "캐릭터 쇼케이스",
+      "sourceChannel": "@NTE_KO",
+      "duration": "PT80S"
+    },
+    {
+      "id": "0qNrlJxgoIg",
+      "title": "이환 캐릭터 쇼케이스 丨링코",
+      "publishedAt": "2026-09-03T20:00:11-07:00",
+      "channelTitle": "이환",
+      "channelId": "UC0042GfGERAl0AzXR0j8TPA",
+      "gameId": "neverness-to-everness",
+      "language": "ko",
+      "type": "캐릭터 쇼케이스",
+      "sourceChannel": "@NTE_KO",
+      "duration": "PT80S"
+    },
+    {
+      "id": "b7XDjnBiLn0",
+      "title": "이환 캐릭터 쇼케이스 丨잔홍",
+      "publishedAt": "2026-08-13T20:00:18-07:00",
+      "channelTitle": "이환",
+      "channelId": "UC0042GfGERAl0AzXR0j8TPA",
+      "gameId": "neverness-to-everness",
+      "language": "ko",
+      "type": "캐릭터 쇼케이스",
+      "sourceChannel": "@NTE_KO",
+      "duration": "PT82S"
+    },
+    {
+      "id": "TPaCG_IOqiA",
+      "title": "이환 캐릭터 쇼케이스 丨일로이",
+      "publishedAt": "2026-07-23T20:00:39-07:00",
+      "channelTitle": "이환",
+      "channelId": "UC0042GfGERAl0AzXR0j8TPA",
+      "gameId": "neverness-to-everness",
+      "language": "ko",
+      "type": "캐릭터 쇼케이스",
+      "sourceChannel": "@NTE_KO",
+      "duration": "PT80S"
+    },
+    {
+      "id": "gCEDmvPYIDQ",
+      "title": "이환丨캐릭터 쇼케이스丨신쿠",
+      "publishedAt": "2026-07-02T19:00:07-07:00",
+      "channelTitle": "이환",
+      "channelId": "UC0042GfGERAl0AzXR0j8TPA",
+      "gameId": "neverness-to-everness",
+      "language": "ko",
+      "type": "캐릭터 쇼케이스",
+      "sourceChannel": "@NTE_KO",
+      "duration": "PT85S"
+    },
+    {
+      "id": "ZSCYV5nwKEI",
+      "title": "이환 | 캐릭터 쇼케이스丨카오스",
+      "publishedAt": "2026-06-18T20:00:17-07:00",
+      "channelTitle": "이환",
+      "channelId": "UC0042GfGERAl0AzXR0j8TPA",
+      "gameId": "neverness-to-everness",
+      "language": "ko",
+      "type": "캐릭터 쇼케이스",
+      "sourceChannel": "@NTE_KO",
+      "duration": "PT82S"
+    },
+    {
+      "id": "KmVGrJIQ1VQ",
+      "title": "이환丨캐릭터 쇼케이스 丨라크리모사",
+      "publishedAt": "2026-05-29T20:00:10-07:00",
+      "channelTitle": "이환",
+      "channelId": "UC0042GfGERAl0AzXR0j8TPA",
+      "gameId": "neverness-to-everness",
+      "language": "ko",
+      "type": "캐릭터 쇼케이스",
+      "sourceChannel": "@NTE_KO",
+      "duration": "PT82S"
+    },
+    {
+      "id": "Mgb3VAz9PS0",
+      "title": "이환丨캐릭터 쇼케이스丨호토리",
+      "publishedAt": "2026-05-07T20:00:19-07:00",
+      "channelTitle": "이환",
+      "channelId": "UC0042GfGERAl0AzXR0j8TPA",
+      "gameId": "neverness-to-everness",
+      "language": "ko",
+      "type": "캐릭터 쇼케이스",
+      "sourceChannel": "@NTE_KO",
+      "duration": "PT100S"
+    },
+    {
+      "id": "uQ9OHmwG94Y",
+      "title": "이환 | 나나리 캐릭터 쇼케이스",
+      "publishedAt": "2026-04-18T20:00:53-07:00",
+      "channelTitle": "이환",
+      "channelId": "UC0042GfGERAl0AzXR0j8TPA",
+      "gameId": "neverness-to-everness",
+      "language": "ko",
+      "type": "캐릭터 쇼케이스",
+      "sourceChannel": "@NTE_KO",
+      "duration": "PT75S"
     }
   ]
 }

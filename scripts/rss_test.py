@@ -30,4 +30,10 @@ class FeedTests(unittest.TestCase):
         self.assertEqual([v['id'] for v in result],['new','old'])
         self.assertEqual(merge_previous(result,[old,new],[(game,'@official')]),result)
 
+    def test_nte_showcase_only(self):
+        game={'id':'nte','keywords':['이환'],'channelSpecific':True,'includeKeywords':['캐릭터 쇼케이스']}
+        self.assertTrue(relevant({'title':'이환 캐릭터 쇼케이스丨아카네 린'},game))
+        self.assertTrue(relevant({'title':'캐릭터 쇼케이스 | 링코'},game))
+        self.assertFalse(relevant({'title':'이환 캐릭터 PV | 아카네 린'},game))
+
 if __name__=='__main__':unittest.main()

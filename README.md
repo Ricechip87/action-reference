@@ -4,7 +4,10 @@ GitHub Pages: https://ricechip87.github.io/action-reference/
 
 ## 현재 수집 범위
 
-API 키 없이 명조 한국어 공식 채널 https://www.youtube.com/@WW_KR_Official/videos 의 공개 RSS를 약 6시간마다 확인합니다. 제목에 **전투 모션**이 포함되고 게임 검색어가 제목 또는 설명에 있는 영상만 수집합니다. 젠레스 존 제로·이환 설정은 보존하되 이번 실험에서는 수집을 꺼뒀습니다. 한국어 영상이 먼저 표시됩니다.
+API 키 없이 아래 한국어 공식 채널의 공개 RSS를 약 6시간마다 확인합니다. 명조는 제목에 **전투 모션**, 이환은 **캐릭터 쇼케이스**가 들어간 영상만 수집합니다. 각 게임 전용 공식 채널이므로 게임명이 제목에 없어도 제목 조건에 맞으면 포함합니다. 젠레스 존 제로는 현재 수집을 꺼뒀습니다. 한국어 영상이 먼저 표시됩니다.
+
+- 명조: https://www.youtube.com/@WW_KR_Official/videos — 기존 26개
+- 이환: https://www.youtube.com/@NTE_KO/videos — 기존 캐릭터 쇼케이스 10개 (캐릭터 PV 제외)
 
 ## 채널과 수집 조건 변경
 
@@ -37,4 +40,4 @@ Python 3.12 이상과 Node 24 기준입니다. 추가 패키지는 필요하지 
 
 명조 한국어 채널은 개발사의 Google Play 안내에 링크되어 있습니다: https://play.google.com/store/apps/details?hl=ko&id=com.kurogame.wutheringwaves.global
 
-최초 전체 목록 다시 만들기(필요할 때만): yt-dlp 설치 후 `python scripts/backfill.py`. 영상 파일은 받지 않고 공개 메타데이터만 읽습니다. 예약 수집에는 yt-dlp 설치가 필요하지 않습니다.
+최초 전체 목록 다시 만들기(필요할 때만): yt-dlp 설치 후 `python scripts/backfill.py --game wuthering-waves` 또는 `python scripts/backfill.py --game neverness-to-everness`. 영상 파일은 받지 않고 공개 메타데이터만 읽습니다. 예약 수집에는 yt-dlp 설치가 필요하지 않습니다.
