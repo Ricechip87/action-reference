@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T19:07:08.197641+00:00",
+  "updatedAt": "2026-10-29T19:15:58.535388+00:00",
   "source": "rss",
   "channels": [
     {
@@ -25,6 +25,481 @@
         {
           "id": "h9M1cEVHPlw",
           "title": "공명자 전투 모션 | 쇄명",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "jf3U_6DQ6MA",
+      "title": "공명자 전투 모션 | 여우의 별자리",
+      "publishedAt": "2026-09-25T21:30:25-07:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT98S",
+      "variants": [
+        {
+          "id": "jf3U_6DQ6MA",
+          "title": "공명자 전투 모션 | 여우의 별자리",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "HYRsBNBLjd8",
+      "title": "공명자 전투 모션 | 양양 · 현령",
+      "publishedAt": "2026-07-05T20:00:37-07:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT103S",
+      "variants": [
+        {
+          "id": "HYRsBNBLjd8",
+          "title": "공명자 전투 모션 | 양양 · 현령",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "FOum33_Rewo",
+      "title": "『명조:워더링 웨이브』×『사이버펑크: 엣지러너』 공명자 전투 모션 | 루시",
+      "publishedAt": "2026-06-04T20:00:06-07:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT66S",
+      "variants": [
+        {
+          "id": "FOum33_Rewo",
+          "title": "『명조:워더링 웨이브』×『사이버펑크: 엣지러너』 공명자 전투 모션 | 루시",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "kkgpnkfop4w",
+      "title": "『명조:워더링 웨이브』×『사이버펑크: 엣지러너』 공명자 전투 모션 | 레베카",
+      "publishedAt": "2026-06-01T20:00:07-07:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT72S",
+      "variants": [
+        {
+          "id": "kkgpnkfop4w",
+          "title": "『명조:워더링 웨이브』×『사이버펑크: 엣지러너』 공명자 전투 모션 | 레베카",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "8-3If6yFun4",
+      "title": "공명자 전투 모션 | 데니아",
+      "publishedAt": "2026-05-16T20:00:02-07:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT95S",
+      "variants": [
+        {
+          "id": "8-3If6yFun4",
+          "title": "공명자 전투 모션 | 데니아",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "MKfOCCsSkRw",
+      "title": "공명자 전투 모션 | 히유키",
+      "publishedAt": "2026-04-25T20:00:22-07:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT102S",
+      "variants": [
+        {
+          "id": "MKfOCCsSkRw",
+          "title": "공명자 전투 모션 | 히유키",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "ne8Blx9pkqo",
+      "title": "공명자 전투 모션 | 시그리카",
+      "publishedAt": "2026-03-14T20:00:54-07:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT99S",
+      "variants": [
+        {
+          "id": "ne8Blx9pkqo",
+          "title": "공명자 전투 모션 | 시그리카",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "Nq3DeY-iWr0",
+      "title": "공명자 전투 모션 | 루크 · 헤르센",
+      "publishedAt": "2026-02-21T19:00:23-08:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT97S",
+      "variants": [
+        {
+          "id": "Nq3DeY-iWr0",
+          "title": "공명자 전투 모션 | 루크 · 헤르센",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "n7YpEQsm_bo",
+      "title": "공명자 전투 모션 | 에이메스",
+      "publishedAt": "2026-01-31T19:01:06-08:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT106S",
+      "variants": [
+        {
+          "id": "n7YpEQsm_bo",
+          "title": "공명자 전투 모션 | 에이메스",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "Q_x4Qzm90Nc",
+      "title": "공명자 전투 모션 | 모니에",
+      "publishedAt": "2026-01-10T19:00:37-08:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT90S",
+      "variants": [
+        {
+          "id": "Q_x4Qzm90Nc",
+          "title": "공명자 전투 모션 | 모니에",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "w9X3v22W1KI",
+      "title": "공명자 전투 모션 | 린네",
+      "publishedAt": "2025-12-20T19:01:13-08:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT95S",
+      "variants": [
+        {
+          "id": "w9X3v22W1KI",
+          "title": "공명자 전투 모션 | 린네",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "lx0X-0bs6Oo",
+      "title": "공명자 전투 모션 | 치사",
+      "publishedAt": "2025-11-15T19:01:03-08:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT93S",
+      "variants": [
+        {
+          "id": "lx0X-0bs6Oo",
+          "title": "공명자 전투 모션 | 치사",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "63lsGLltTN0",
+      "title": "공명자 전투 모션 | 갈브레나",
+      "publishedAt": "2025-10-04T20:00:13-07:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT94S",
+      "variants": [
+        {
+          "id": "63lsGLltTN0",
+          "title": "공명자 전투 모션 | 갈브레나",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "uFSFWQAnFa8",
+      "title": "공명자 전투 모션 | 유노",
+      "publishedAt": "2025-09-12T20:01:06-07:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT111S",
+      "variants": [
+        {
+          "id": "uFSFWQAnFa8",
+          "title": "공명자 전투 모션 | 유노",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "FvCUNFRKB1o",
+      "title": "공명자 전투 모션 | 아우구스타",
+      "publishedAt": "2025-08-23T20:00:17-07:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT97S",
+      "variants": [
+        {
+          "id": "FvCUNFRKB1o",
+          "title": "공명자 전투 모션 | 아우구스타",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "PyG3_Aydfpg",
+      "title": "공명자 전투 모션 | 플로로",
+      "publishedAt": "2025-07-19T20:00:33-07:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT118S",
+      "variants": [
+        {
+          "id": "PyG3_Aydfpg",
+          "title": "공명자 전투 모션 | 플로로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "2hUaXubaVqc",
+      "title": "공명자 전투 모션 | 루파",
+      "publishedAt": "2025-06-27T20:00:03-07:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT74S",
+      "variants": [
+        {
+          "id": "2hUaXubaVqc",
+          "title": "공명자 전투 모션 | 루파",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "IfDzdPxBAf0",
+      "title": "공명자 전투 모션 | 카르티시아",
+      "publishedAt": "2025-06-07T20:00:18-07:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT101S",
+      "variants": [
+        {
+          "id": "IfDzdPxBAf0",
+          "title": "공명자 전투 모션 | 카르티시아",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "8vjYNA1RBhY",
+      "title": "공명자 전투 모션 | 샤콘",
+      "publishedAt": "2025-05-17T20:00:17-07:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT78S",
+      "variants": [
+        {
+          "id": "8vjYNA1RBhY",
+          "title": "공명자 전투 모션 | 샤콘",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "cCLyOnWKRoo",
+      "title": "공명자 전투 모션 | 젠니",
+      "publishedAt": "2025-04-25T03:01:05-07:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT97S",
+      "variants": [
+        {
+          "id": "cCLyOnWKRoo",
+          "title": "공명자 전투 모션 | 젠니",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "6_bbVW9u-xw",
+      "title": "공명자 전투 모션 | 칸타렐라",
+      "publishedAt": "2025-03-22T20:00:10-07:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT72S",
+      "variants": [
+        {
+          "id": "6_bbVW9u-xw",
+          "title": "공명자 전투 모션 | 칸타렐라",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "Sq2ZegRdRzc",
+      "title": "공명자 전투 모션 | 브렌트",
+      "publishedAt": "2025-03-01T19:00:31-08:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT62S",
+      "variants": [
+        {
+          "id": "Sq2ZegRdRzc",
+          "title": "공명자 전투 모션 | 브렌트",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "BGwSkJ77rgc",
+      "title": "공명자 전투 모션 | 로코코",
+      "publishedAt": "2025-01-16T20:00:11-08:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT71S",
+      "variants": [
+        {
+          "id": "BGwSkJ77rgc",
+          "title": "공명자 전투 모션 | 로코코",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "OkeGSIAVyuw",
+      "title": "공명자 전투 모션 | 카를로타",
+      "publishedAt": "2025-01-01T18:00:25-08:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT69S",
+      "variants": [
+        {
+          "id": "OkeGSIAVyuw",
+          "title": "공명자 전투 모션 | 카를로타",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "dRZc7SLytFk",
+      "title": "공명자 전투 모션 | 카멜리아",
+      "publishedAt": "2024-11-08T19:00:29-08:00",
+      "channelTitle": "명조:워더링 웨이브",
+      "channelId": "UCKuq0c-RXYaulECSuu5hFug",
+      "gameId": "wuthering-waves",
+      "language": "ko",
+      "type": "전투 모션",
+      "sourceChannel": "@WW_KR_Official",
+      "duration": "PT46S",
+      "variants": [
+        {
+          "id": "dRZc7SLytFk",
+          "title": "공명자 전투 모션 | 카멜리아",
           "language": "ko"
         }
       ]

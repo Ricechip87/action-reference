@@ -1,5 +1,5 @@
 import unittest
-from rss import parse_feed, resolve_channel_id, relevant
+from rss import parse_feed, resolve_channel_id, relevant, merge_previous
 
 class FeedTests(unittest.TestCase):
     def test_feed_and_entities(self):
@@ -21,5 +21,13 @@ class FeedTests(unittest.TestCase):
         self.assertTrue(relevant({'title':'명조 전투 모션','description':''},g))
         self.assertFalse(relevant({'title':'명조 캐릭터 트레일러','description':''},g))
         self.assertFalse(relevant({'title':'다른 게임 트레일러','description':''},g))
+
+    def test_archive_is_retained_without_age_limit_and_ids_are_unique(self):
+        game={'id':'ww','channels':['@official'],'keywords':['명조'],'channelSpecific':True,'includeKeywords':['전투 모션']}
+        old={'id':'old','gameId':'ww','sourceChannel':'@official','title':'공명자 전투 모션 | 과거','publishedAt':'2024-01-01T00:00:00Z'}
+        new={**old,'id':'new','title':'공명자 전투 모션 | 신규'}
+        result=merge_previous([new],[old,new],[(game,'@official')])
+        self.assertEqual([v['id'] for v in result],['new','old'])
+        self.assertEqual(merge_previous(result,[old,new],[(game,'@official')]),result)
 
 if __name__=='__main__':unittest.main()

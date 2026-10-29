@@ -15,7 +15,8 @@
       "enabled": true,
       "includeKeywords": [
         "전투 모션"
-      ]
+      ],
+      "channelSpecific": true
     },
     {
       "id": "zenless-zone-zero",

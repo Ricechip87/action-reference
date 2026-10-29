@@ -40,7 +40,7 @@ def parse_feed(xml,channel):
 
 def relevant(video,game):
     hay=(video['title']+' '+video.get('description','')).casefold()
-    if not any(k.strip() and k.casefold() in hay for k in game['keywords']):return False
+    if not game.get('channelSpecific',False) and not any(k.strip() and k.casefold() in hay for k in game['keywords']):return False
     terms=game.get('includeKeywords',[])
     return not terms or any(k.strip() and k.casefold() in video['title'].casefold() for k in terms)
 
@@ -51,14 +51,23 @@ def video_type(title):
     if re.search(r'트레일러|trailer|\bpv\b|프로모션',title,re.I):return 'PV / 트레일러'
     return '기타'
 
+def merge_previous(current,previous,jobs):
+    output=list(current)
+    active={(g['id'],c):g for g,c in jobs}
+    seen={v['id'] for v in output}
+    for old in previous:
+        game=active.get((old.get('gameId'),old.get('sourceChannel')))
+        if game and relevant(old,game) and old['id'] not in seen:
+            output.append(old);seen.add(old['id'])
+    return output
+
 def collect():
     config=json.loads(Path('config.json').read_text(encoding='utf-8'));prior={}
     try:prior=json.loads(fetch('https://ricechip87.github.io/action-reference/data/videos.json'))
-    except Exception:
-        try:prior=json.loads(Path('data/videos.json').read_text(encoding='utf-8'))
-        except (OSError,ValueError):pass
+    except Exception as error:
+        raise RuntimeError('Previous publication unavailable; preserve existing history by stopping') from error
     jobs=[(g,c) for g in config['games'] if g.get('enabled',True) for c in g['channels']]
-    cutoff=dt.datetime.now(dt.timezone.utc)-dt.timedelta(days=90);output=[];statuses=[]
+    output=[];statuses=[]
     def run(job):
         game,source=job
         try:
@@ -66,7 +75,6 @@ def collect():
             entries=parse_feed(fetch('https://www.youtube.com/feeds/videos.xml?channel_id='+channel),channel);selected=[]
             for v in entries:
                 if not relevant(v,game):continue
-                if dt.datetime.fromisoformat(v['publishedAt'].replace('Z','+00:00'))<cutoff:continue
                 v.update(gameId=game['id'],language='ko' if re.search(r'_KO$|_KR_',source,re.I) else '',type=video_type(v['title']),sourceChannel=source)
                 v.pop('description',None);selected.append(v)
             return selected,{'gameId':game['id'],'channel':source,'ok':True,'feedCount':len(entries),'matchedCount':len(selected)}
@@ -75,14 +83,8 @@ def collect():
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
         for entries,status in pool.map(run,jobs):output.extend(entries);statuses.append(status)
     if jobs and not any(s['ok'] for s in statuses):raise RuntimeError('All channel feeds failed: '+json.dumps(statuses,ensure_ascii=False))
-    active={(g['id'],c):g for g,c in jobs}
-    for old in prior.get('videos',[]):
-        game=active.get((old.get('gameId'),old.get('sourceChannel')))
-        if not game or not relevant(old,game):continue
-        try:
-            if dt.datetime.fromisoformat(old['publishedAt'].replace('Z','+00:00'))<cutoff:continue
-        except (KeyError,ValueError):continue
-        if not any(v['id']==old['id'] for v in output):output.append(old)
+    archive=json.loads(Path('data/archive.json').read_text(encoding='utf-8')) if Path('data/archive.json').exists() else {}
+    output=merge_previous(output,[*prior.get('videos',[]),*archive.get('videos',[])],jobs)
     result={'updatedAt':dt.datetime.now(dt.timezone.utc).isoformat(),'source':'rss','channels':statuses,'videos':output}
     Path('data/rss-candidates.json').write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf-8')
     print(json.dumps({'channels':statuses,'videos':len(output)},ensure_ascii=False))
