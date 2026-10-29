@@ -1,0 +1,48 @@
+{
+  "games": [
+    {
+      "id": "wuthering-waves",
+      "name": "명조",
+      "keywords": [
+        "명조",
+        "Wuthering Waves",
+        "鳴潮",
+        "鸣潮"
+      ],
+      "channels": [
+        "@WW_KR_Official",
+        "@WutheringWaves"
+      ]
+    },
+    {
+      "id": "zenless-zone-zero",
+      "name": "젠레스 존 제로",
+      "keywords": [
+        "젠레스 존 제로",
+        "Zenless Zone Zero",
+        "ゼンレスゾーンゼロ",
+        "绝区零",
+        "絕區零"
+      ],
+      "channels": [
+        "@ZZZ_KO",
+        "@ZZZ_Official"
+      ]
+    },
+    {
+      "id": "neverness-to-everness",
+      "name": "이환",
+      "keywords": [
+        "이환",
+        "Neverness to Everness",
+        "NTE",
+        "异环",
+        "異環"
+      ],
+      "channels": [
+        "@NTE_KO",
+        "@NTE_Official"
+      ]
+    }
+  ]
+}
