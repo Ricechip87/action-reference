@@ -16,7 +16,69 @@
       "includeKeywords": [
         "전투 모션"
       ],
-      "channelSpecific": true
+      "channelSpecific": true,
+      "creators": [
+        {
+          "channel": "UClDD_y014JIRfnjtn_Yeliw",
+          "name": "ON Game",
+          "includeKeywords": [
+            "Skill Showcase",
+            "All Skill & Attack"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "closed beta",
+            "beta test",
+            "beta gameplay",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "합본",
+            "early animations",
+            "unreleased",
+            "private server",
+            "skill builder",
+            "JJS",
+            "beta",
+            "test server",
+            "테스트 서버"
+          ],
+          "enabled": true
+        },
+        {
+          "channel": "UCQVGsT4eIagPl-nwjfFvBwQ",
+          "name": "NaruVT",
+          "includeKeywords": [
+            "All Skill SFX"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "closed beta",
+            "beta test",
+            "beta gameplay",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "합본",
+            "early animations",
+            "unreleased",
+            "private server",
+            "skill builder",
+            "JJS",
+            "beta",
+            "test server",
+            "테스트 서버"
+          ],
+          "enabled": true,
+          "titleGameRequired": true
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero",
@@ -35,7 +97,69 @@
       "includeKeywords": [
         "캐릭터 플레이"
       ],
-      "channelSpecific": true
+      "channelSpecific": true,
+      "creators": [
+        {
+          "channel": "UCt4k40M8zAy2w-XZXxSs9cQ",
+          "name": "Drave-kun",
+          "includeKeywords": [
+            "Moveset Exhibition"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "closed beta",
+            "beta test",
+            "beta gameplay",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "합본",
+            "early animations",
+            "unreleased",
+            "private server",
+            "skill builder",
+            "JJS",
+            "beta",
+            "test server",
+            "테스트 서버"
+          ],
+          "enabled": true
+        },
+        {
+          "channel": "UClDD_y014JIRfnjtn_Yeliw",
+          "name": "ON Game",
+          "includeKeywords": [
+            "Skill Showcase",
+            "All Skill & Attack"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "closed beta",
+            "beta test",
+            "beta gameplay",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "합본",
+            "early animations",
+            "unreleased",
+            "private server",
+            "skill builder",
+            "JJS",
+            "beta",
+            "test server",
+            "테스트 서버"
+          ],
+          "enabled": true,
+          "titleGameRequired": true
+        }
+      ]
     },
     {
       "id": "neverness-to-everness",
@@ -54,7 +178,68 @@
       "includeKeywords": [
         "캐릭터 쇼케이스"
       ],
-      "channelSpecific": true
+      "channelSpecific": true,
+      "creators": [
+        {
+          "channel": "UCca8OKY6cbiLbcJlRmWyDLQ",
+          "name": "The Chaos Duck",
+          "includeKeywords": [
+            "Animations Showcase"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "closed beta",
+            "beta test",
+            "beta gameplay",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "합본",
+            "early animations",
+            "unreleased",
+            "private server",
+            "skill builder",
+            "JJS",
+            "beta",
+            "test server",
+            "테스트 서버"
+          ],
+          "enabled": true
+        },
+        {
+          "channel": "UCs7asZ6zS-cf62hMU_wMAaQ",
+          "name": "GameGaki",
+          "includeKeywords": [
+            "Gameplay"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "closed beta",
+            "beta test",
+            "beta gameplay",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "합본",
+            "early animations",
+            "unreleased",
+            "private server",
+            "skill builder",
+            "JJS",
+            "beta",
+            "test server",
+            "테스트 서버"
+          ],
+          "enabled": true,
+          "titleGameRequired": true
+        }
+      ]
     }
   ]
 }

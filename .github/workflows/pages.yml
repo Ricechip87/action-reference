@@ -3,6 +3,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      initialize_creators:
+        description: 'Initialize supplementary creator archives'
+        type: boolean
+        default: false
   schedule:
     - cron: '17 */6 * * *'
 permissions:
@@ -26,6 +31,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Initialize supplementary archives when requested
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.initialize_creators }}
+        run: |
+          python -m pip install yt-dlp==2026.10.26
+          python scripts/backfill.py --game wuthering-waves --creator 1
+          python scripts/backfill.py --game zenless-zone-zero --creator 1
+          python scripts/backfill.py --game neverness-to-everness --creator 1
       - name: Verify and collect public RSS feeds
         run: |
           node --test scripts/dedupe.test.mjs scripts/github-sync.test.mjs

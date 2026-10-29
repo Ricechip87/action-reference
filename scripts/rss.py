@@ -40,7 +40,9 @@ def parse_feed(xml,channel):
 
 def relevant(video,game):
     hay=(video['title']+' '+video.get('description','')).casefold()
-    if not game.get('channelSpecific',False) and not any(k.strip() and k.casefold() in hay for k in game['keywords']):return False
+    if any(term.casefold() in video['title'].casefold() for term in game.get('excludeKeywords',[])):return False
+    if game.get('sourceKind')=='creator' and re.search(r'closed beta|\bcbt\d?\b|beta test|leaked footage|유출|베타 테스트',hay,re.I):return False
+    if not game.get('channelSpecific',False) and not (video.get('gameVerified') and video.get('gameId')==game.get('id')) and not any(k.strip() and k.casefold() in hay for k in game['keywords']):return False
     terms=game.get('includeKeywords',[])
     return not terms or any(k.strip() and k.casefold() in video['title'].casefold() for k in terms)
 
@@ -63,12 +65,21 @@ def merge_previous(current,previous,jobs):
             output.append(old);seen.add(old['id'])
     return output
 
+def collection_jobs(config):
+    jobs=[]
+    for game in config['games']:
+        if not game.get('enabled',True):continue
+        jobs.extend(({**game,'sourceKind':'official'},c) for c in game['channels'])
+        for creator in game.get('creators',[]):
+            if creator.get('enabled',True):jobs.append(({**game,**creator,'channelSpecific':False,'sourceKind':'creator'},creator['channel']))
+    return jobs
+
 def collect():
     config=json.loads(Path('config.json').read_text(encoding='utf-8'));prior={}
     try:prior=json.loads(fetch('https://ricechip87.github.io/action-reference/data/videos.json'))
     except Exception as error:
         raise RuntimeError('Previous publication unavailable; preserve existing history by stopping') from error
-    jobs=[(g,c) for g in config['games'] if g.get('enabled',True) for c in g['channels']]
+    jobs=collection_jobs(config)
     output=[];statuses=[]
     def run(job):
         game,source=job
@@ -77,7 +88,7 @@ def collect():
             entries=parse_feed(fetch('https://www.youtube.com/feeds/videos.xml?channel_id='+channel),channel);selected=[]
             for v in entries:
                 if not relevant(v,game):continue
-                v.update(gameId=game['id'],language='ko' if re.search(r'_KO$|_KR_',source,re.I) else '',type=video_type(v['title']),sourceChannel=source)
+                v.update(gameId=game['id'],language='ko' if re.search(r'_KO$|_KR_',source,re.I) else '',type='캐릭터 무브셋' if game.get('sourceKind')=='creator' else video_type(v['title']),sourceChannel=source,sourceKind=game.get('sourceKind','official'),gameVerified=True)
                 v.pop('description',None);selected.append(v)
             return selected,{'gameId':game['id'],'channel':source,'ok':True,'feedCount':len(entries),'matchedCount':len(selected)}
         except Exception as error:

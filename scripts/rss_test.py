@@ -41,4 +41,11 @@ class FeedTests(unittest.TestCase):
         self.assertTrue(relevant({'title':'피닉스 캐릭터 플레이 「죽지 마 도전」 | 젠레스 존 제로'},game))
         self.assertFalse(relevant({'title':'피닉스 캐릭터 PV | 젠레스 존 제로'},game))
 
+    def test_creator_exclusions_and_compilations(self):
+        game={'keywords':['Wuthering Waves'],'includeKeywords':['Skill Showcase'],'excludeKeywords':['leak','CBT','beta','all characters']}
+        self.assertTrue(relevant({'title':'Changli Skill Showcase | Wuthering Waves'},game))
+        for label in ['Leak','CBT','BETA','All Characters']:
+            self.assertFalse(relevant({'title':label+' Skill Showcase | Wuthering Waves'},game))
+        self.assertFalse(relevant({'title':'Jane Skill Showcase | Zenless Zone Zero'},game))
+
 if __name__=='__main__':unittest.main()

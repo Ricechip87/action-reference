@@ -6,7 +6,7 @@ import json
 import re
 from pathlib import Path
 import yt_dlp
-from rss import fetch, video_type, resolve_channel_id
+from rss import fetch, video_type, resolve_channel_id, relevant
 
 
 
@@ -18,25 +18,30 @@ def metadata(entry,game,channel,handle):
     details=player.get('videoDetails',{})
     if details.get('channelId')!=channel:raise ValueError('Channel identity mismatch: '+entry['id'])
     title=details.get('title','')
-    if not any(term.casefold() in title.casefold() for term in game['includeKeywords']):return None
+    if not relevant({'title':title,'description':details.get('shortDescription','')},game):return None
     info=player.get('microformat',{}).get('playerMicroformatRenderer',{})
     published=info.get('publishDate') or info.get('uploadDate')
     if not published:raise ValueError('Missing publication date: '+entry['id'])
-    return {'id':entry['id'],'title':title,'publishedAt':published,'channelTitle':details.get('author','명조:워더링 웨이브'),'channelId':channel,'gameId':game['id'],'language':'ko','type':video_type(title),'sourceChannel':handle,'duration':'PT'+str(details.get('lengthSeconds',0))+'S'}
+    return {'id':entry['id'],'title':title,'publishedAt':published,'channelTitle':details.get('author','명조:워더링 웨이브'),'channelId':channel,'gameId':game['id'],'language':'ko' if re.search(r'[가-힣]',title) else 'en','type':'캐릭터 무브셋' if game.get('sourceKind')=='creator' else video_type(title),'sourceChannel':handle,'sourceKind':game.get('sourceKind','official'),'gameVerified':True,'description':details.get('shortDescription','')[:4000] if game.get('sourceKind')=='creator' else '', 'duration':'PT'+str(details.get('lengthSeconds',0))+'S'}
 
 def main():
     parser=argparse.ArgumentParser()
+    parser.add_argument("--creator",type=int)
     parser.add_argument("--game",default="wuthering-waves")
     parser.add_argument("--candidates-file",action="append",default=[])
     args=parser.parse_args()
     config=json.loads(Path('config.json').read_text(encoding='utf-8'))
     game=next(g for g in config['games'] if g['id']==args.game)
     handle=game['channels'][0]
+    if args.creator is not None:
+        creator=game['creators'][args.creator]
+        game={**game,**creator,'channelSpecific':False,'sourceKind':'creator'}
+        handle=creator['channel']
     channel=resolve_channel_id(handle)
     aliases={'wuthering-waves':['combat motion'],'neverness-to-everness':['character showcase'],'zenless-zone-zero':['character demo','character gameplay']}
     terms=[*game['includeKeywords'],*aliases.get(args.game,[])]
     def candidate(entry):
-        return entry and entry.get('channel_id')==channel and any(t.casefold() in (entry.get('title') or '').casefold() for t in terms)
+        return entry and entry.get('channel_id')==channel and (not game.get('titleGameRequired') or any(k.casefold() in (entry.get('title') or '').casefold() for k in game['keywords'])) and not any(k.casefold() in (entry.get('title') or '').casefold() for k in game.get('excludeKeywords',[])) and any(t.casefold() in (entry.get('title') or '').casefold() for t in terms)
     candidates={}
     for filename in args.candidates_file:
         captured=json.loads(Path(filename).read_text(encoding="utf-8-sig"))
@@ -45,7 +50,8 @@ def main():
     with yt_dlp.YoutubeDL({'extract_flat':True,'skip_download':True,'quiet':True}) as ydl:
         from urllib.parse import quote
         query=game['includeKeywords'][0]
-        sources=['https://www.youtube.com/'+handle+'/videos','https://www.youtube.com/'+handle+'/search?query='+quote(query),'ytsearch100:'+game['name']+' '+query]
+        channel_url='https://www.youtube.com/'+('channel/' if handle.startswith('UC') else '')+handle
+        sources=[channel_url+'/videos',channel_url+'/search?query='+quote(query),'ytsearch100:'+game['name']+' '+query]
         for source in sources:
             result=ydl.extract_info(source,download=False)
             for entry in result.get('entries',[]):
