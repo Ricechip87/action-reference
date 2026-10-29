@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T19:18:15.701576+00:00",
+  "updatedAt": "2026-10-29T19:23:41.114458+00:00",
   "source": "rss",
   "channels": [
     {
@@ -8,6 +8,13 @@
       "ok": true,
       "feedCount": 15,
       "matchedCount": 1
+    },
+    {
+      "gameId": "zenless-zone-zero",
+      "channel": "@ZZZ_KO",
+      "ok": true,
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "neverness-to-everness",
@@ -55,6 +62,25 @@
       ]
     },
     {
+      "id": "QKNAlmj_X_0",
+      "title": "피닉스 캐릭터 플레이 「죽지 마 도전」 | 젠레스 존 제로",
+      "publishedAt": "2026-10-15T20:59:59-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT150S",
+      "variants": [
+        {
+          "id": "QKNAlmj_X_0",
+          "title": "피닉스 캐릭터 플레이 「죽지 마 도전」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
       "id": "jf3U_6DQ6MA",
       "title": "공명자 전투 모션 | 여우의 별자리",
       "publishedAt": "2026-09-25T21:30:25-07:00",
@@ -69,6 +95,25 @@
         {
           "id": "jf3U_6DQ6MA",
           "title": "공명자 전투 모션 | 여우의 별자리",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "SZhPyIC89TA",
+      "title": "록시 캐릭터 플레이 「관을 멘 수상한 그림자」 | 젠레스 존 제로",
+      "publishedAt": "2026-09-24T21:00:00-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT137S",
+      "variants": [
+        {
+          "id": "SZhPyIC89TA",
+          "title": "록시 캐릭터 플레이 「관을 멘 수상한 그림자」 | 젠레스 존 제로",
           "language": "ko"
         }
       ]
@@ -93,6 +138,25 @@
       ]
     },
     {
+      "id": "24Ed9TlA2bo",
+      "title": "클라렛 캐릭터 플레이 「훈련은 싫지만, 공략은 작성 완료」 | 젠레스 존 제로",
+      "publishedAt": "2026-09-03T21:00:02-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT177S",
+      "variants": [
+        {
+          "id": "24Ed9TlA2bo",
+          "title": "클라렛 캐릭터 플레이 「훈련은 싫지만, 공략은 작성 완료」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
       "id": "0qNrlJxgoIg",
       "title": "이환 캐릭터 쇼케이스 丨링코",
       "publishedAt": "2026-09-03T20:00:11-07:00",
@@ -112,6 +176,25 @@
       ]
     },
     {
+      "id": "BtY69rjSk3U",
+      "title": "시그리드 캐릭터 플레이 「다그닥다그닥」 | 젠레스 존 제로",
+      "publishedAt": "2026-08-13T21:00:07-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT154S",
+      "variants": [
+        {
+          "id": "BtY69rjSk3U",
+          "title": "시그리드 캐릭터 플레이 「다그닥다그닥」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
       "id": "b7XDjnBiLn0",
       "title": "이환 캐릭터 쇼케이스 丨잔홍",
       "publishedAt": "2026-08-13T20:00:18-07:00",
@@ -126,6 +209,25 @@
         {
           "id": "b7XDjnBiLn0",
           "title": "이환 캐릭터 쇼케이스 丨잔홍",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "062lmW9LBX4",
+      "title": "레미엘 캐릭터 플레이 「그때 그날처럼」 | 젠레스 존 제로",
+      "publishedAt": "2026-07-23T21:00:00-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT314S",
+      "variants": [
+        {
+          "id": "062lmW9LBX4",
+          "title": "레미엘 캐릭터 플레이 「그때 그날처럼」 | 젠레스 존 제로",
           "language": "ko"
         }
       ]
@@ -169,6 +271,25 @@
       ]
     },
     {
+      "id": "Fe6qUR_mwqY",
+      "title": "노르마 캐릭터 플레이 「대웅나 가설」 | 젠레스 존 제로",
+      "publishedAt": "2026-07-02T20:59:55-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT136S",
+      "variants": [
+        {
+          "id": "Fe6qUR_mwqY",
+          "title": "노르마 캐릭터 플레이 「대웅나 가설」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
       "id": "gCEDmvPYIDQ",
       "title": "이환丨캐릭터 쇼케이스丨신쿠",
       "publishedAt": "2026-07-02T19:00:07-07:00",
@@ -202,6 +323,25 @@
         {
           "id": "ZSCYV5nwKEI",
           "title": "이환 | 캐릭터 쇼케이스丨카오스",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "s3WF2dKLdKY",
+      "title": "벨리나 캐릭터 플레이 「여느 때와 다름없는 다과회」 | 젠레스 존 제로",
+      "publishedAt": "2026-06-11T21:00:20-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT138S",
+      "variants": [
+        {
+          "id": "s3WF2dKLdKY",
+          "title": "벨리나 캐릭터 플레이 「여느 때와 다름없는 다과회」 | 젠레스 존 제로",
           "language": "ko"
         }
       ]
@@ -264,6 +404,25 @@
       ]
     },
     {
+      "id": "Ud6TIb0Vc5k",
+      "title": "스타라이트·빌리 캐릭터 플레이 「기사 등장! (소장판)」 | 젠레스 존 제로",
+      "publishedAt": "2026-05-21T21:00:17-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT109S",
+      "variants": [
+        {
+          "id": "Ud6TIb0Vc5k",
+          "title": "스타라이트·빌리 캐릭터 플레이 「기사 등장! (소장판)」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
       "id": "8-3If6yFun4",
       "title": "공명자 전투 모션 | 데니아",
       "publishedAt": "2026-05-16T20:00:02-07:00",
@@ -297,6 +456,25 @@
         {
           "id": "Mgb3VAz9PS0",
           "title": "이환丨캐릭터 쇼케이스丨호토리",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "qmH_sWWQyYo",
+      "title": "프로미아 캐릭터 플레이 「치명적인 경매품」 | 젠레스 존 제로",
+      "publishedAt": "2026-05-01T21:00:01-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT175S",
+      "variants": [
+        {
+          "id": "qmH_sWWQyYo",
+          "title": "프로미아 캐릭터 플레이 「치명적인 경매품」 | 젠레스 존 제로",
           "language": "ko"
         }
       ]
@@ -340,6 +518,44 @@
       ]
     },
     {
+      "id": "Qc3ZX6adJa8",
+      "title": "시시아 캐릭터 플레이 「용의자 X의 실책」 | 젠레스 존 제로",
+      "publishedAt": "2026-04-09T21:00:01-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT163S",
+      "variants": [
+        {
+          "id": "Qc3ZX6adJa8",
+          "title": "시시아 캐릭터 플레이 「용의자 X의 실책」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "vCqtSELyB1I",
+      "title": "남궁우 캐릭터 플레이 「풀 콤보 엔젤」 | 젠레스 존 제로",
+      "publishedAt": "2026-03-19T21:00:01-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT125S",
+      "variants": [
+        {
+          "id": "vCqtSELyB1I",
+          "title": "남궁우 캐릭터 플레이 「풀 콤보 엔젤」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
       "id": "ne8Blx9pkqo",
       "title": "공명자 전투 모션 | 시그리카",
       "publishedAt": "2026-03-14T20:00:54-07:00",
@@ -359,6 +575,25 @@
       ]
     },
     {
+      "id": "XKceT_Iu7Ic",
+      "title": "아리아 캐릭터 플레이 「서곡: 기계의 소원」 | 젠레스 존 제로",
+      "publishedAt": "2026-02-28T20:00:00-08:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT117S",
+      "variants": [
+        {
+          "id": "XKceT_Iu7Ic",
+          "title": "아리아 캐릭터 플레이 「서곡: 기계의 소원」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
       "id": "Nq3DeY-iWr0",
       "title": "공명자 전투 모션 | 루크 · 헤르센",
       "publishedAt": "2026-02-21T19:00:23-08:00",
@@ -373,6 +608,25 @@
         {
           "id": "Nq3DeY-iWr0",
           "title": "공명자 전투 모션 | 루크 · 헤르센",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "Pd0CKxVz7f8",
+      "title": "수나 캐릭터 플레이 「꿈을 그리는 샘플」 | 〈젠레스 존 제로〉",
+      "publishedAt": "2026-02-01T20:00:02-08:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT128S",
+      "variants": [
+        {
+          "id": "Pd0CKxVz7f8",
+          "title": "수나 캐릭터 플레이 「꿈을 그리는 샘플」 | 〈젠레스 존 제로〉",
           "language": "ko"
         }
       ]
@@ -416,6 +670,44 @@
       ]
     },
     {
+      "id": "UwNCIb8rnM8",
+      "title": "자오 캐릭터 플레이 「토끼 아가씨의 고민 상담소」 | 젠레스 존 제로",
+      "publishedAt": "2025-12-29T20:00:26-08:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT163S",
+      "variants": [
+        {
+          "id": "UwNCIb8rnM8",
+          "title": "자오 캐릭터 플레이 「토끼 아가씨의 고민 상담소」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "G0wc63vYgnE",
+      "title": "엽빛나 캐릭터 플레이 「저편의 빛」 | 젠레스 존 제로",
+      "publishedAt": "2025-12-28T20:00:00-08:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT289S",
+      "variants": [
+        {
+          "id": "G0wc63vYgnE",
+          "title": "엽빛나 캐릭터 플레이 「저편의 빛」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
       "id": "w9X3v22W1KI",
       "title": "공명자 전투 모션 | 린네",
       "publishedAt": "2025-12-20T19:01:13-08:00",
@@ -430,6 +722,44 @@
         {
           "id": "w9X3v22W1KI",
           "title": "공명자 전투 모션 | 린네",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "0UVZRIHDCPw",
+      "title": "반악 캐릭터 플레이「무도 심사」 | 젠레스 존 제로",
+      "publishedAt": "2025-12-15T19:59:59-08:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT179S",
+      "variants": [
+        {
+          "id": "0UVZRIHDCPw",
+          "title": "반악 캐릭터 플레이「무도 심사」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "LHUtuae-9_o",
+      "title": "다이아린 캐릭터 플레이 「아무 말 답장 잔치」 | 젠레스 존 제로",
+      "publishedAt": "2025-11-24T19:59:56-08:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT157S",
+      "variants": [
+        {
+          "id": "LHUtuae-9_o",
+          "title": "다이아린 캐릭터 플레이 「아무 말 답장 잔치」 | 젠레스 존 제로",
           "language": "ko"
         }
       ]
@@ -454,6 +784,44 @@
       ]
     },
     {
+      "id": "mJoEh3ZkABo",
+      "title": "이드하리 캐릭터 플레이 「자작극」 | 젠레스 존 제로",
+      "publishedAt": "2025-11-03T19:59:55-08:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT152S",
+      "variants": [
+        {
+          "id": "mJoEh3ZkABo",
+          "title": "이드하리 캐릭터 플레이 「자작극」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "isYwc9YtwR4",
+      "title": "루시아 캐릭터 플레이 「로프넷 인기 에테리얼 감정」 | 젠레스 존 제로",
+      "publishedAt": "2025-10-09T21:00:00-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT141S",
+      "variants": [
+        {
+          "id": "isYwc9YtwR4",
+          "title": "루시아 캐릭터 플레이 「로프넷 인기 에테리얼 감정」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
       "id": "63lsGLltTN0",
       "title": "공명자 전투 모션 | 갈브레나",
       "publishedAt": "2025-10-04T20:00:13-07:00",
@@ -468,6 +836,25 @@
         {
           "id": "63lsGLltTN0",
           "title": "공명자 전투 모션 | 갈브레나",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "pDLCDVIVjG0",
+      "title": "오피 & 「도깨비불」 캐릭터 플레이 「과열된 총열」 | 젠레스 존 제로",
+      "publishedAt": "2025-09-22T20:59:57-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT192S",
+      "variants": [
+        {
+          "id": "pDLCDVIVjG0",
+          "title": "오피 & 「도깨비불」 캐릭터 플레이 「과열된 총열」 | 젠레스 존 제로",
           "language": "ko"
         }
       ]
@@ -492,6 +879,25 @@
       ]
     },
     {
+      "id": "GJjp9p8pr2g",
+      "title": "「시드 」 캐릭터 플레이 「하얀 악마」 | 젠레스 존 제로",
+      "publishedAt": "2025-08-31T20:59:57-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT198S",
+      "variants": [
+        {
+          "id": "GJjp9p8pr2g",
+          "title": "「시드 」 캐릭터 플레이 「하얀 악마」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
       "id": "FvCUNFRKB1o",
       "title": "공명자 전투 모션 | 아우구스타",
       "publishedAt": "2025-08-23T20:00:17-07:00",
@@ -506,6 +912,25 @@
         {
           "id": "FvCUNFRKB1o",
           "title": "공명자 전투 모션 | 아우구스타",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "XtbkNuGlRus",
+      "title": "앨리스 캐릭터 플레이 「검과 왈츠」 | 젠레스 존 제로",
+      "publishedAt": "2025-08-01T21:00:09-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT132S",
+      "variants": [
+        {
+          "id": "XtbkNuGlRus",
+          "title": "앨리스 캐릭터 플레이 「검과 왈츠」 | 젠레스 존 제로",
           "language": "ko"
         }
       ]
@@ -530,6 +955,25 @@
       ]
     },
     {
+      "id": "Fng4Si2cLJY",
+      "title": "우키나미 유즈하 캐릭터 플레이 「너구리가 곡할 노릇」 | 젠레스 존 제로",
+      "publishedAt": "2025-07-11T21:00:02-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT97S",
+      "variants": [
+        {
+          "id": "Fng4Si2cLJY",
+          "title": "우키나미 유즈하 캐릭터 플레이 「너구리가 곡할 노릇」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
       "id": "2hUaXubaVqc",
       "title": "공명자 전투 모션 | 루파",
       "publishedAt": "2025-06-27T20:00:03-07:00",
@@ -544,6 +988,25 @@
         {
           "id": "2hUaXubaVqc",
           "title": "공명자 전투 모션 | 루파",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "Ws1pKw0tvxY",
+      "title": "귤복복 캐릭터 플레이「절세맹호」 | 젠레스 존 제로",
+      "publishedAt": "2025-06-19T21:00:04-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT85S",
+      "variants": [
+        {
+          "id": "Ws1pKw0tvxY",
+          "title": "귤복복 캐릭터 플레이「절세맹호」 | 젠레스 존 제로",
           "language": "ko"
         }
       ]
@@ -568,6 +1031,25 @@
       ]
     },
     {
+      "id": "WYrm2RTe7Ww",
+      "title": "의현 캐릭터 플레이 「결전, 무도의 정상」 | 젠레스 존 제로",
+      "publishedAt": "2025-05-29T21:00:06-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT254S",
+      "variants": [
+        {
+          "id": "WYrm2RTe7Ww",
+          "title": "의현 캐릭터 플레이 「결전, 무도의 정상」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
       "id": "8vjYNA1RBhY",
       "title": "공명자 전투 모션 | 샤콘",
       "publishedAt": "2025-05-17T20:00:17-07:00",
@@ -582,6 +1064,25 @@
         {
           "id": "8vjYNA1RBhY",
           "title": "공명자 전투 모션 | 샤콘",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "n161UP01GPw",
+      "title": "휴고 캐릭터 플레이 「종말의 주모자」 | 젠레스 존 제로",
+      "publishedAt": "2025-05-08T21:00:01-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT178S",
+      "variants": [
+        {
+          "id": "n161UP01GPw",
+          "title": "휴고 캐릭터 플레이 「종말의 주모자」 | 젠레스 존 제로",
           "language": "ko"
         }
       ]
@@ -606,6 +1107,44 @@
       ]
     },
     {
+      "id": "rWh8nDIkt6o",
+      "title": "비비안 캐릭터 플레이 「꽃다발 같은 동경」 | 젠레스 존 제로",
+      "publishedAt": "2025-04-21T21:00:02-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT192S",
+      "variants": [
+        {
+          "id": "rWh8nDIkt6o",
+          "title": "비비안 캐릭터 플레이 「꽃다발 같은 동경」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "goZXHJvw4Po",
+      "title": "「트리거」 캐릭터 플레이 「특별 구출 작전」 | 젠레스 존 제로",
+      "publishedAt": "2025-03-27T20:59:58-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT177S",
+      "variants": [
+        {
+          "id": "goZXHJvw4Po",
+          "title": "「트리거」 캐릭터 플레이 「특별 구출 작전」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
       "id": "6_bbVW9u-xw",
       "title": "공명자 전투 모션 | 칸타렐라",
       "publishedAt": "2025-03-22T20:00:10-07:00",
@@ -625,6 +1164,25 @@
       ]
     },
     {
+      "id": "raPhUgXfsqo",
+      "title": "0호·엔비 캐릭터 플레이 「제0 적격자」 | 젠레스 존 제로",
+      "publishedAt": "2025-03-06T19:59:58-08:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT148S",
+      "variants": [
+        {
+          "id": "raPhUgXfsqo",
+          "title": "0호·엔비 캐릭터 플레이 「제0 적격자」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
       "id": "Sq2ZegRdRzc",
       "title": "공명자 전투 모션 | 브렌트",
       "publishedAt": "2025-03-01T19:00:31-08:00",
@@ -639,6 +1197,44 @@
         {
           "id": "Sq2ZegRdRzc",
           "title": "공명자 전투 모션 | 브렌트",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "-oAWQ9htOxA",
+      "title": "이블린 캐릭터 플레이 「나의 이름으로」 | 젠레스 존 제로",
+      "publishedAt": "2025-02-06T20:00:02-08:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT139S",
+      "variants": [
+        {
+          "id": "-oAWQ9htOxA",
+          "title": "이블린 캐릭터 플레이 「나의 이름으로」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "OgY8LJTlktU",
+      "title": "아스트라 야오 캐릭터 플레이 「리두의 휴일」 | 젠레스 존 제로",
+      "publishedAt": "2025-01-20T19:59:59-08:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT175S",
+      "variants": [
+        {
+          "id": "OgY8LJTlktU",
+          "title": "아스트라 야오 캐릭터 플레이 「리두의 휴일」 | 젠레스 존 제로",
           "language": "ko"
         }
       ]
@@ -682,6 +1278,63 @@
       ]
     },
     {
+      "id": "EKPCHvdcg5M",
+      "title": "호시미 미야비 캐릭터 플레이 「끝없는 수행」 | 젠레스 존 제로",
+      "publishedAt": "2024-12-18T02:00:00-08:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT155S",
+      "variants": [
+        {
+          "id": "EKPCHvdcg5M",
+          "title": "호시미 미야비 캐릭터 플레이 「끝없는 수행」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "_zFR8-MxWi4",
+      "title": "아사바 하루마사 캐릭터 플레이 | 「까마귀가 멈춘 날」 | 젠레스 존 제로",
+      "publishedAt": "2024-12-09T20:00:00-08:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT236S",
+      "variants": [
+        {
+          "id": "_zFR8-MxWi4",
+          "title": "아사바 하루마사 캐릭터 플레이 | 「까마귀가 멈춘 날」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "uHXbS0ZtDBM",
+      "title": "라이터 캐릭터 플레이 「TKO」 | 젠레스 존 제로",
+      "publishedAt": "2024-11-21T19:59:55-08:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT91S",
+      "variants": [
+        {
+          "id": "uHXbS0ZtDBM",
+          "title": "라이터 캐릭터 플레이 「TKO」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
       "id": "dRZc7SLytFk",
       "title": "공명자 전투 모션 | 카멜리아",
       "publishedAt": "2024-11-08T19:00:29-08:00",
@@ -696,6 +1349,291 @@
         {
           "id": "dRZc7SLytFk",
           "title": "공명자 전투 모션 | 카멜리아",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "-z5uy50_LGY",
+      "title": "츠키시로 야나기 캐릭터 플레이 「처리 대기 사항 99+」 | 젠레스 존 제로",
+      "publishedAt": "2024-10-31T21:00:02-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT170S",
+      "variants": [
+        {
+          "id": "-z5uy50_LGY",
+          "title": "츠키시로 야나기 캐릭터 플레이 「처리 대기 사항 99+」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "9MYREocNUBA",
+      "title": "버니스 캐릭터 플레이 「한 잔은 슬퍼하는 너를 위하여」 | 젠레스 존 제로",
+      "publishedAt": "2024-10-14T21:00:01-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT139S",
+      "variants": [
+        {
+          "id": "9MYREocNUBA",
+          "title": "버니스 캐릭터 플레이 「한 잔은 슬퍼하는 너를 위하여」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "naPWlGOTaPA",
+      "title": "카이사르 캐릭터 플레이 「칼리돈의 라이딩」 | 젠레스 존 제로",
+      "publishedAt": "2024-09-19T21:00:12-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT138S",
+      "variants": [
+        {
+          "id": "naPWlGOTaPA",
+          "title": "카이사르 캐릭터 플레이 「칼리돈의 라이딩」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "xkWuPAM5BJM",
+      "title": "제인 캐릭터 플레이 「치명적인 심문」 | 젠레스 존 제로",
+      "publishedAt": "2024-09-02T21:00:07-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT182S",
+      "variants": [
+        {
+          "id": "xkWuPAM5BJM",
+          "title": "제인 캐릭터 플레이 「치명적인 심문」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "e-J1-BnRVSs",
+      "title": "청의 캐릭터 플레이 「푸릇한 자태와 성숙한 영혼」 | 젠레스 존 제로",
+      "publishedAt": "2024-08-09T20:59:19-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT142S",
+      "variants": [
+        {
+          "id": "e-J1-BnRVSs",
+          "title": "청의 캐릭터 플레이 「푸릇한 자태와 성숙한 영혼」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "VjGAIlePij4",
+      "title": "주연 캐릭터 플레이 「전천후 치안관, 주연!」 | 젠레스 존 제로",
+      "publishedAt": "2024-07-22T20:59:41-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT145S",
+      "variants": [
+        {
+          "id": "VjGAIlePij4",
+          "title": "주연 캐릭터 플레이 「전천후 치안관, 주연!」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "0I4nDRxlmrs",
+      "title": "엘렌 캐릭터 플레이 -「유니폼·가위·상어 꼬리」 | 젠레스 존 제로",
+      "publishedAt": "2024-07-02T20:59:26-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT159S",
+      "variants": [
+        {
+          "id": "0I4nDRxlmrs",
+          "title": "엘렌 캐릭터 플레이 -「유니폼·가위·상어 꼬리」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "NkSU7O9s8eA",
+      "title": "11호 캐릭터 플레이 -「업적 달성률……100%」 | 젠레스 존 제로",
+      "publishedAt": "2024-06-25T20:59:15-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT99S",
+      "variants": [
+        {
+          "id": "NkSU7O9s8eA",
+          "title": "11호 캐릭터 플레이 -「업적 달성률……100%」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "lOziXeSnbWg",
+      "title": "리나 캐릭터 플레이 「방문객 안전 수칙」 | 젠레스 존 제로",
+      "publishedAt": "2024-06-20T21:00:19-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT149S",
+      "variants": [
+        {
+          "id": "lOziXeSnbWg",
+          "title": "리나 캐릭터 플레이 「방문객 안전 수칙」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "b7uacmcbrJg",
+      "title": "그레이스 캐릭터 플레이 「기계를 향해 뛰는 심장」 | 젠레스 존 제로",
+      "publishedAt": "2024-06-16T21:06:18-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT137S",
+      "variants": [
+        {
+          "id": "b7uacmcbrJg",
+          "title": "그레이스 캐릭터 플레이 「기계를 향해 뛰는 심장」 | 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "s-7Ip8bb2Vk",
+      "title": "리카온 캐릭터 플레이 -「늑대의 품격」| 젠레스 존 제로",
+      "publishedAt": "2024-05-27T21:00:00-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT161S",
+      "variants": [
+        {
+          "id": "s-7Ip8bb2Vk",
+          "title": "리카온 캐릭터 플레이 -「늑대의 품격」| 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "cKnv9b5emb4",
+      "title": "네코마타 캐릭터 플레이 -「거절할 수 없는 제안」| 젠레스 존 제로",
+      "publishedAt": "2024-03-21T20:59:51-07:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT152S",
+      "variants": [
+        {
+          "id": "cKnv9b5emb4",
+          "title": "네코마타 캐릭터 플레이 -「거절할 수 없는 제안」| 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "PXaowGDA_2Y",
+      "title": "엔비 캐릭터 플레이 -「천둥의 빛과 그림자」| 젠레스 존 제로",
+      "publishedAt": "2023-12-28T20:00:37-08:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT178S",
+      "variants": [
+        {
+          "id": "PXaowGDA_2Y",
+          "title": "엔비 캐릭터 플레이 -「천둥의 빛과 그림자」| 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "qR4UeairoR8",
+      "title": "니콜 캐릭터 플레이 -「넝쿨째 굴러온 일감」| 젠레스 존 제로",
+      "publishedAt": "2023-11-30T20:00:12-08:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT87S",
+      "variants": [
+        {
+          "id": "qR4UeairoR8",
+          "title": "니콜 캐릭터 플레이 -「넝쿨째 굴러온 일감」| 젠레스 존 제로",
+          "language": "ko"
+        }
+      ]
+    },
+    {
+      "id": "iAddYTJ956w",
+      "title": "빌리 캐릭터 플레이 -「기사 등장!」| 젠레스 존 제로",
+      "publishedAt": "2023-11-21T20:00:35-08:00",
+      "channelTitle": "젠레스 존 제로",
+      "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+      "gameId": "zenless-zone-zero",
+      "language": "ko",
+      "type": "캐릭터 플레이",
+      "sourceChannel": "@ZZZ_KO",
+      "duration": "PT173S",
+      "variants": [
+        {
+          "id": "iAddYTJ956w",
+          "title": "빌리 캐릭터 플레이 -「기사 등장!」| 젠레스 존 제로",
           "language": "ko"
         }
       ]

@@ -33,7 +33,8 @@ def main():
     game=next(g for g in config['games'] if g['id']==args.game)
     handle=game['channels'][0]
     channel=resolve_channel_id(handle)
-    terms=[*game['includeKeywords'],*(['combat motion'] if args.game=='wuthering-waves' else ['character showcase'])]
+    aliases={'wuthering-waves':['combat motion'],'neverness-to-everness':['character showcase'],'zenless-zone-zero':['character demo','character gameplay']}
+    terms=[*game['includeKeywords'],*aliases.get(args.game,[])]
     def candidate(entry):
         return entry and entry.get('channel_id')==channel and any(t.casefold() in (entry.get('title') or '').casefold() for t in terms)
     candidates={}

@@ -36,4 +36,9 @@ class FeedTests(unittest.TestCase):
         self.assertTrue(relevant({'title':'캐릭터 쇼케이스 | 링코'},game))
         self.assertFalse(relevant({'title':'이환 캐릭터 PV | 아카네 린'},game))
 
+    def test_zzz_character_play_only(self):
+        game={'channelSpecific':True,'includeKeywords':['캐릭터 플레이']}
+        self.assertTrue(relevant({'title':'피닉스 캐릭터 플레이 「죽지 마 도전」 | 젠레스 존 제로'},game))
+        self.assertFalse(relevant({'title':'피닉스 캐릭터 PV | 젠레스 존 제로'},game))
+
 if __name__=='__main__':unittest.main()

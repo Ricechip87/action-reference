@@ -29,13 +29,13 @@
         "絕區零"
       ],
       "channels": [
-        "@ZZZ_KO",
-        "@ZZZ_Official"
+        "@ZZZ_KO"
       ],
-      "enabled": false,
+      "enabled": true,
       "includeKeywords": [
-        "전투 모션"
-      ]
+        "캐릭터 플레이"
+      ],
+      "channelSpecific": true
     },
     {
       "id": "neverness-to-everness",
