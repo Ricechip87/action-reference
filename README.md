@@ -58,10 +58,12 @@ Python 3.12 이상과 Node 24 기준입니다. 예약 수집과 사이트 실행
 
 화면은 오피셜 / 캐릭터 무브셋 탭으로 분리하고, 양쪽 모두 게임별 카테고리에 적재합니다. 캐릭터 무브셋은 ON Game(명조·젠존제), Drave-kun(젠존제), The Chaos Duck(이환)에 더해 누락 보완용 NaruVT(명조), GameGaki(이환)를 수집합니다. config.json의 creators에 채널별 제목 포함·제외 조건을 보관합니다. 유출·CBT·베타 표기와 캐릭터 합본은 제외합니다. 제목·설명 기반 제외이므로 숨겨진 사전 빌드 여부까지 보증하지는 않습니다.
 
-각 게임 아래에 오피셜 시리즈 등장 캐릭터 대비 무브셋 영상 확보 수와 미확인 이름을 표시합니다. 한국어·영어 이름과 영상 제목을 대조하며, 해당 캐릭터의 동작 전부가 담겼다는 보증은 아닙니다. 누락 캐릭터는 별도 공개 검색으로 대조했습니다. 데이터의 coverage.json에 현재 대조 결과가 있습니다.
+누락 보고서는 공개 페이지에 표시하지 않습니다. 공개 배포물에는 영상 목록만 복사하며 내부 대조 파일을 포함하지 않습니다.
 
-추가 채널 최초 수집: `python scripts/backfill.py --game <게임ID> --creator <creators 배열 인덱스>`
+## 추가 게임
 
-공식 캐릭터 59명의 초기 누락 목록에 대해 추가 업로더를 검색했고, 검증 전 후보는 coverage-search.json에 따로 기록했습니다. 화면의 미확인 목록에서 후보 링크를 볼 수 있습니다. 추가 보완 채널의 과거 목록 초기화는 GitHub Actions의 Run workflow → Initialize supplementary creator archives 옵션으로 실행할 수 있습니다.
+- 원신: 한국어 공식 채널의 데인 여담. 개별 무브셋은 ON Game 및 Life is Wakaranai의 Skill Showcase / Gameplay & Skill 시리즈.
+- 엔드필드: 한국어 공식 채널의 오퍼레이터 전투 시연. 개별 무브셋은 ON Game 및 NaruVT의 캐릭터별 Skill Showcase.
+- 퍼니싱 그레이 레이븐: 한국어 공식 채널의 캐릭터 소개·스킬 전시·스킬 소개·플레이 영상 공개. 개별 무브셋은 PGR Reaction의 Moveset Showcase.
 
-추가 보완: The Sacred Spear, Jimmy Chen Gaming, Abyss Breakdown, SiraedaLabs(젠존제), WhoYouVerse(명조)의 개별 시연도 출처 확인 후 포함했습니다. 개인 업로더 영상은 게임 정식 출시일 이전 게시물도 제외합니다. 출시 이후 영상이라도 명시되지 않은 사전 빌드 여부까지 보증하는 것은 아닙니다.
+공식 업로더 ID와 각 영상의 채널·게시일을 대조합니다. 초기 과거 목록은 archive.json에 보관하고 이후 공개 RSS를 약 6시간마다 확인합니다. YouTube 요청 제한 시 초기 수집을 중단하고 이미 확인된 영상만 보관합니다.

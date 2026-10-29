@@ -1,2 +1,6 @@
 __pycache__/
 data/rss-candidates.json
+
+data/coverage.json
+data/coverage-search.json
+data/initialization-errors.json

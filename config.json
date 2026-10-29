@@ -389,6 +389,222 @@
         }
       ],
       "releaseDate": "2026-04-29"
+    },
+    {
+      "id": "genshin-impact",
+      "name": "원신",
+      "keywords": [
+        "원신",
+        "Genshin Impact"
+      ],
+      "channels": [
+        "UCcum1rCJ5GJeQ_xv0xrohqg"
+      ],
+      "enabled": true,
+      "includeKeywords": [
+        "데인 여담"
+      ],
+      "channelSpecific": true,
+      "releaseDate": "2020-09-28",
+      "creators": [
+        {
+          "channel": "UClDD_y014JIRfnjtn_Yeliw",
+          "name": "ON Game",
+          "includeKeywords": [
+            "Skill Showcase",
+            "All Skill & Attack"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "closed beta",
+            "beta test",
+            "beta gameplay",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "합본",
+            "early animations",
+            "unreleased",
+            "private server",
+            "skill builder",
+            "JJS",
+            "beta",
+            "test server",
+            "테스트 서버"
+          ],
+          "enabled": true,
+          "titleGameRequired": true
+        },
+        {
+          "channel": "UCSqk_LOzQs0pflWgzW5Qfew",
+          "name": "Life is Wakaranai",
+          "includeKeywords": [
+            "Gameplay & Skill",
+            "Skill Showcase"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "closed beta",
+            "beta test",
+            "beta gameplay",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "합본",
+            "early animations",
+            "unreleased",
+            "private server",
+            "skill builder",
+            "JJS",
+            "beta",
+            "test server",
+            "테스트 서버"
+          ],
+          "enabled": true,
+          "titleGameRequired": true
+        }
+      ]
+    },
+    {
+      "id": "arknights-endfield",
+      "name": "엔드필드",
+      "keywords": [
+        "엔드필드",
+        "Endfield"
+      ],
+      "channels": [
+        "UCIf9gYpmmIJV7flBhUhuqYQ"
+      ],
+      "enabled": true,
+      "includeKeywords": [
+        "오퍼레이터 전투 시연"
+      ],
+      "channelSpecific": true,
+      "releaseDate": "2026-01-22",
+      "creators": [
+        {
+          "channel": "UClDD_y014JIRfnjtn_Yeliw",
+          "name": "ON Game",
+          "includeKeywords": [
+            "Skill Showcase",
+            "All Skill & Attack"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "closed beta",
+            "beta test",
+            "beta gameplay",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "합본",
+            "early animations",
+            "unreleased",
+            "private server",
+            "skill builder",
+            "JJS",
+            "beta",
+            "test server",
+            "테스트 서버"
+          ],
+          "enabled": true,
+          "titleGameRequired": true
+        },
+        {
+          "channel": "UCQVGsT4eIagPl-nwjfFvBwQ",
+          "name": "NaruVT",
+          "includeKeywords": [
+            "Skill Showcase",
+            "Gameplay Showcase"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "closed beta",
+            "beta test",
+            "beta gameplay",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "합본",
+            "early animations",
+            "unreleased",
+            "private server",
+            "skill builder",
+            "JJS",
+            "beta",
+            "test server",
+            "테스트 서버"
+          ],
+          "enabled": true,
+          "titleGameRequired": true
+        }
+      ]
+    },
+    {
+      "id": "punishing-gray-raven",
+      "name": "퍼니싱 그레이 레이븐",
+      "keywords": [
+        "퍼니싱",
+        "Punishing",
+        "PGR"
+      ],
+      "channels": [
+        "UCD3ClCZBZ8VLg_PfYMGOJjA"
+      ],
+      "enabled": true,
+      "includeKeywords": [
+        "캐릭터 소개",
+        "스킬 전시",
+        "스킬 소개",
+        "플레이 영상 공개",
+        "Gameplay Reveal"
+      ],
+      "channelSpecific": true,
+      "releaseDate": "2021-07-08",
+      "creators": [
+        {
+          "channel": "UCDxOGM9TRLG9Qc0a_I6vP8A",
+          "name": "PGR Reaction",
+          "includeKeywords": [
+            "Moveset Showcase"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "closed beta",
+            "beta test",
+            "beta gameplay",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "합본",
+            "early animations",
+            "unreleased",
+            "private server",
+            "skill builder",
+            "JJS",
+            "beta",
+            "test server",
+            "테스트 서버"
+          ],
+          "enabled": true,
+          "titleGameRequired": true
+        }
+      ]
     }
   ]
 }

@@ -52,6 +52,9 @@ def relevant(video,game):
     return not terms or any(k.strip() and k.casefold() in video['title'].casefold() for k in terms)
 
 def video_type(title):
+    if '데인 여담' in title:return '데인 여담'
+    if '오퍼레이터 전투 시연' in title:return '오퍼레이터 전투 시연'
+    if any(t in title for t in ['스킬 전시','스킬 소개']):return '캐릭터 스킬 시연'
     if '전투 모션' in title:return '전투 모션'
     if '캐릭터 쇼케이스' in title:return '캐릭터 쇼케이스'
     if '캐릭터 플레이' in title:return '캐릭터 플레이'

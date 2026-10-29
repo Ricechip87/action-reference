@@ -55,6 +55,11 @@ class FeedTests(unittest.TestCase):
         self.assertFalse(matches('Starlight Billy Gameplay','빌리',['Billy']))
         self.assertEqual(person({'gameId':'neverness-to-everness','title':'이환 | 나나리 캐릭터 쇼케이스'}),'나나리')
 
+    def test_new_game_character_names(self):
+        self.assertEqual(person({'gameId':'genshin-impact','title':'원신 | 데인 여담-「스커크: 서늘한 세계의 고요함」'}),'스커크')
+        self.assertEqual(person({'gameId':'arknights-endfield','title':'「명일방주: 엔드필드」 오퍼레이터 전투 시연 - 리노'}),'리노')
+        self.assertEqual(person({'gameId':'punishing-gray-raven','title':'「아델라이드·파연」스킬 전시 #퍼니싱'}),'아델라이드·파연')
+
     def test_unmarked_prelaunch_creator_video_is_excluded(self):
         rule={'sourceKind':'creator','channelSpecific':True,'releaseDate':'2024-07-04','includeKeywords':['Skill Showcase']}
         self.assertFalse(relevant({'title':'Grace Skill Showcase','publishedAt':'2024-06-17T10:00:00Z'},rule))

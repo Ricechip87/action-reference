@@ -6,6 +6,13 @@ ALIASES={
 'zenless-zone-zero':{'피닉스':['Pyrois','Phoenix'],'록시':['Roxy'],'클라렛':['Claret'],'시그리드':['Sigrid'],'레미엘':['Remiel'],'노르마':['Norma'],'벨리나':['Velina'],'스타라이트·빌리':['Starlight Billy'],'프로미아':['Promeia'],'시시아':['Cissia'],'남궁우':['Nangong Yu'],'아리아':['Aria'],'수나':['Sunna'],'자오':['Zhao'],'엽빛나':['Ye Shunguang'],'반악':['Banyue'],'다이아린':['Dialyn'],'이드하리':['Yidhari'],'루시아':['Lucia'],'오피 & 「도깨비불」':['Orphie','Magus'],'「시드 」':['Seed'],'앨리스':['Alice'],'우키나미 유즈하':['Yuzuha'],'귤복복':['Ju Fufu'],'의현':['Yixuan'],'휴고':['Hugo'],'비비안':['Vivian'],'「트리거」':['Trigger'],'0호·엔비':['Silver Soldier Anby'],'이블린':['Evelyn'],'아스트라 야오':['Astra Yao'],'호시미 미야비':['Miyabi'],'아사바 하루마사':['Harumasa'],'라이터':['Lighter'],'츠키시로 야나기':['Yanagi'],'버니스':['Burnice'],'카이사르':['Caesar'],'제인':['Jane'],'청의':['Qingyi'],'주연':['Zhu Yuan'],'엘렌':['Ellen'],'11호':['Soldier 11'],'리나':['Rina'],'그레이스':['Grace'],'리카온':['Lycaon'],'네코마타':['Nekomata'],'엔비':['Anby'],'니콜':['Nicole'],'빌리':['Billy']}}
 def person(v):
  t=v['title']
+ if v['gameId']=='genshin-impact':
+  m=re.search(r'[「\"]([^:：\"」]+)[:：]',t)
+  return m.group(1).strip() if m else t
+ if v['gameId']=='arknights-endfield':return re.split(r'전투 시연\s*[-—]|Combat Demo(?:nstration)?\s*[-—]',t,flags=re.I)[-1].strip()
+ if v['gameId']=='punishing-gray-raven':
+  m=re.search(r'[「【]([^」】]+)[」】]',t)
+  return m.group(1) if m else re.sub(r'^.*?(?:캐릭터 소개|플레이 영상 공개|Gameplay Reveal|Character Introduction)\s*[-—:]\s*','',t,flags=re.I).strip()
  if v['gameId']=='wuthering-waves':return t.rsplit('|',1)[-1].strip()
  if v['gameId']=='zenless-zone-zero':return t.split('캐릭터 플레이')[0].strip()
  return re.sub(r'^이환\s*[|丨]?\s*','',t).replace('캐릭터 쇼케이스','').strip(' |丨')
@@ -24,6 +31,7 @@ def build(videos):
   official=[v for v in videos if v['gameId']==game['id'] and v.get('sourceKind','official')=='official']
   creators=[v for v in videos if v['gameId']==game['id'] and v.get('sourceKind')=='creator']
   entries=[]
+  official=list({person(v):v for v in official}.values())
   for v in official:
    name=person(v);aliases=ALIASES.get(game['id'],{}).get(name,[])
    found=[c['id'] for c in creators if matches(c['title'],name,aliases)]

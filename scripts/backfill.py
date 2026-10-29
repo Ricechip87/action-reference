@@ -6,6 +6,7 @@ import concurrent.futures
 import datetime as dt
 import json
 import re
+import time
 from pathlib import Path
 import yt_dlp
 from rss import fetch, video_type, resolve_channel_id, relevant
@@ -32,6 +33,7 @@ def main():
     parser.add_argument("--creator",type=int)
     parser.add_argument("--game",default="wuthering-waves")
     parser.add_argument("--candidates-file",action="append",default=[])
+    parser.add_argument("--refresh",action="store_true",help="Recheck already verified archive entries")
     args=parser.parse_args()
     config=json.loads(Path('config.json').read_text(encoding='utf-8'))
     game=next(g for g in config['games'] if g['id']==args.game)
@@ -41,7 +43,7 @@ def main():
         game={**game,**creator,'channelSpecific':False,'sourceKind':'creator'}
         handle=creator['channel']
     channel=resolve_channel_id(handle)
-    aliases={'wuthering-waves':['combat motion'],'neverness-to-everness':['character showcase'],'zenless-zone-zero':['character demo','character gameplay']}
+    aliases={'wuthering-waves':['combat motion'],'neverness-to-everness':['character showcase'],'zenless-zone-zero':['character demo','character gameplay'],'genshin-impact':['Collected Miscellany'],'arknights-endfield':['Operator Combat Demo','Operator Combat Demonstration'],'punishing-gray-raven':['Character Introduction','Skill Showcase','Gameplay Reveal']}
     terms=[*game['includeKeywords'],*aliases.get(args.game,[])]
     def candidate(entry):
         return entry and entry.get('channel_id')==channel and (not game.get('titleGameRequired') or any(k.casefold() in (entry.get('title') or '').casefold() for k in game['keywords'])) and not any(k.casefold() in (entry.get('title') or '').casefold() for k in game.get('excludeKeywords',[])) and any(t.casefold() in (entry.get('title') or '').casefold() for t in terms)
@@ -54,28 +56,32 @@ def main():
         from urllib.parse import quote
         query=game['includeKeywords'][0]
         channel_url='https://www.youtube.com/'+('channel/' if handle.startswith('UC') else '')+handle
-        sources=[channel_url+'/videos',channel_url+'/search?query='+quote(query),'ytsearch100:'+game['name']+' '+query]
+        sources=[channel_url+'/videos',*[channel_url+'/search?query='+quote(term) for term in game['includeKeywords']],'ytsearch100:'+game['name']+' '+query]
         for source in sources:
             result=ydl.extract_info(source,download=False)
             for entry in result.get('entries',[]):
                 if candidate(entry):candidates[entry['id']]=entry
     # A private/unavailable item must not discard the verified entries of a whole channel.
+    previous=json.loads(Path('data/archive.json').read_text(encoding='utf-8')) if Path('data/archive.json').exists() else {}
+    known={v['id'] for v in previous.get('videos',[]) if v.get('channelId')==channel and v.get('gameId')==args.game and v.get('sourceKind','official')==game.get('sourceKind','official')}
+    if not args.refresh:candidates={key:value for key,value in candidates.items() if key not in known}
     stopped=threading.Event();failures=[]
     def verify(entry):
         if stopped.is_set():return None
-        try:return metadata(entry,game,channel,handle)
+        try:
+            time.sleep(1)
+            return metadata(entry,game,channel,handle)
         except Exception as error:
             failures.append({'id':entry['id'],'sourceChannel':handle,'gameId':game['id'],'reason':str(error)[:180]})
             if isinstance(error,urllib.error.HTTPError) and error.code==429:stopped.set()
             return None
-    with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:videos=[v for v in pool.map(verify,candidates.values()) if v]
-    if not videos and not candidates:raise ValueError('No matching candidates found')
+    with concurrent.futures.ThreadPoolExecutor(max_workers=1) as pool:videos=[v for v in pool.map(verify,candidates.values()) if v]
+    if not videos and not candidates and not known:raise ValueError('No matching candidates found')
     errors_path=Path('data/initialization-errors.json')
     errors=json.loads(errors_path.read_text(encoding='utf-8')) if errors_path.exists() else {'entries':[]}
     errors['entries']=[e for e in errors['entries'] if e.get('sourceChannel')!=handle or e.get('gameId')!=game['id']]+failures
     errors_path.write_text(json.dumps(errors,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     videos.sort(key=lambda v:v['publishedAt'],reverse=True)
-    previous=json.loads(Path('data/archive.json').read_text(encoding='utf-8')) if Path('data/archive.json').exists() else {}
     combined={v['id']:v for v in previous.get('videos',[])}
     combined.update({v['id']:v for v in videos})
     result={'initializedAt':dt.datetime.now(dt.timezone.utc).isoformat(),'videos':list(combined.values())}
