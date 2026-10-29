@@ -36,7 +36,8 @@ def parse_feed(xml,channel):
     for entry in root.findall('a:entry',NS):
         video_id=entry.findtext('yt:videoId','',NS)
         if not re.fullmatch(r'[\w-]{11}',video_id) or entry.findtext('yt:channelId','',NS)!=channel:continue
-        videos.append({'id':video_id,'title':entry.findtext('a:title','',NS),'description':entry.findtext('m:group/m:description','',NS),'publishedAt':entry.findtext('a:published','',NS),'channelTitle':title,'channelId':channel})
+        author=entry.findtext('a:author/a:name','',NS) or root.findtext('a:author/a:name','',NS) or title
+        videos.append({'id':video_id,'title':entry.findtext('a:title','',NS),'description':entry.findtext('m:group/m:description','',NS),'publishedAt':entry.findtext('a:published','',NS),'channelTitle':author,'channelId':channel})
     return videos
 
 @functools.cache
@@ -117,6 +118,10 @@ def collect():
     if jobs and not any(s['ok'] for s in statuses):raise RuntimeError('All channel feeds failed: '+json.dumps(statuses,ensure_ascii=False))
     archive=json.loads(Path('data/archive.json').read_text(encoding='utf-8')) if Path('data/archive.json').exists() else {}
     output=merge_previous(output,[*prior.get('videos',[]),*archive.get('videos',[])],jobs)
+    creator_names={(game['id'],source):game['name'] for game,source in jobs if game.get('sourceKind')=='creator'}
+    for video in output:
+        name=creator_names.get((video.get('gameId'),video.get('sourceChannel')))
+        if name:video['channelTitle']=name
     result={'updatedAt':dt.datetime.now(dt.timezone.utc).isoformat(),'source':'rss','channels':statuses,'videos':output}
     Path('data/rss-candidates.json').write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf-8')
     print(json.dumps({'channels':statuses,'videos':len(output)},ensure_ascii=False))

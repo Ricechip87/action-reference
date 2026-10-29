@@ -25,6 +25,8 @@ class FeedTests(unittest.TestCase):
         self.assertEqual(v['title'],'Combat & Trailer')
         self.assertEqual(v['description'],'명조')
         self.assertEqual(parse_feed(xml,'UC'+'x'*22),[])
+        playlist=xml.replace('<title>Official</title>','<title>Playlist title</title><author><name>Actual uploader</name></author>')
+        self.assertEqual(parse_feed(playlist,'UCKuq0c-RXYaulECSuu5hFug')[0]['channelTitle'],'Actual uploader')
 
     def test_channel_identity(self):
         channel='UCKuq0c-RXYaulECSuu5hFug'
