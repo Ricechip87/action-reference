@@ -27,6 +27,7 @@ export function enrichVideos(videos,characters,{asOf=todayKorea()}={}){
   const found=identifiedCharacters(video,characters),c=found.length===1?found[0]:null,release=c?.releaseDate;
   if(video.sourceKind==='creator'&&found.length>1){excluded.push({...video,exclusionReason:'여러 캐릭터 합본'});continue;}
   if(video.sourceKind==='creator'&&validDate(release)&&release>asOf){excluded.push({...video,exclusionReason:'미출시 캐릭터'});continue;}
+  if(video.sourceKind==='creator'&&video.requiresReleaseWindow&&(!validDate(release)||!video.publicationWindow?.earliest||video.publicationWindow.earliest<release)){excluded.push({...video,exclusionReason:'출시 후 게시 여부 미확인'});continue;}
   const partialType={'basic-attacks':'기본 공격 모션','skill-excerpt':'개별 기술 모션','motion-excerpt':'개별 모션'}[video.referenceScope];
   output.push({...video,...(partialType?{type:partialType}:{}),characterId:c?.id||null,characterName:c?.name||null,characterKind:c?.kind||'character',characterReleaseDate:validDate(release)?release:null,characterReleaseOrder:c?.releaseOrder??null,characterReleaseBasis:c?.releaseBasis||null});
  }

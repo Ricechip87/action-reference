@@ -1,115 +1,166 @@
 {
-  "updatedAt": "2026-10-29T23:10:32.551846+00:00",
+  "updatedAt": "2026-10-29T23:19:16.791297+00:00",
   "source": "rss",
   "channels": [
     {
       "gameId": "wuthering-waves",
       "channel": "@WW_KR_Official",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 2
     },
     {
       "gameId": "wuthering-waves",
       "channel": "UClDD_y014JIRfnjtn_Yeliw",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "wuthering-waves",
       "channel": "UCQVGsT4eIagPl-nwjfFvBwQ",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
+      "feedCount": 15,
+      "matchedCount": 1
     },
     {
       "gameId": "wuthering-waves",
       "channel": "UCcCTeJUeGqyGU4RkR6uViwA",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "wuthering-waves",
       "channel": "UC2lNEgMSo1Cx3ta6pRxXujA",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "wuthering-waves",
       "channel": "UCaxEtruc3TU0YBHn5tRBciw",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "wuthering-waves",
       "channel": "UCxyN2G9cCKxtUWFoKfy247A",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 2
     },
     {
       "gameId": "wuthering-waves",
       "channel": "UCtWbpWFzcXOfME0-z3gQgzw",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "wuthering-waves",
       "channel": "UCCg8EDaw4ryPHzn3Gl-lnug",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "wuthering-waves",
       "channel": "UCmpGI8Ub5QwzPqPjcNSzl0g",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
+      "feedCount": 15,
+      "matchedCount": 1
     },
     {
       "gameId": "wuthering-waves",
       "channel": "UCxwrCovkfxtn-76Aad0DIdw",
       "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
-      "matchedCount": 5
+      "matchedCount": 2
     },
     {
       "gameId": "wuthering-waves",
       "channel": "UCYKH1IUaKpy3FTtxtRL8_Yw",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 6,
+      "matchedCount": 1
     },
     {
       "gameId": "wuthering-waves",
       "channel": "UCsfkAM8cRqUGYsV23cDs18A",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "wuthering-waves",
       "channel": "UCdjxkkxjG1sNP1PRHEJr4rw",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 6
     },
     {
       "gameId": "wuthering-waves",
       "channel": "UCmzdQfQLJ-oCw6cT6IKoiLw",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
+      "feedCount": 15,
+      "matchedCount": 3
     },
     {
       "gameId": "wuthering-waves",
       "channel": "UCGGRa_WDPjXWcfx-KQHhmrQ",
       "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
     {
       "gameId": "wuthering-waves",
       "channel": "UC5Sz23R8t4y7BgrgfpyupcQ",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "zenless-zone-zero",
       "channel": "@ZZZ_KO",
       "ok": true,
+      "via": "rss",
+      "rssError": null,
       "feedCount": 15,
       "matchedCount": 0
     },
@@ -117,162 +168,227 @@
       "gameId": "zenless-zone-zero",
       "channel": "UCt4k40M8zAy2w-XZXxSs9cQ",
       "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "error": "RSS: HTTP Error 404: Not Found; public videos: Public videos tab unavailable"
     },
     {
       "gameId": "zenless-zone-zero",
       "channel": "UClDD_y014JIRfnjtn_Yeliw",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "zenless-zone-zero",
       "channel": "UCvpx2wJnOhCExPLs4a1mfoQ",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "zenless-zone-zero",
       "channel": "UCaRXeatgLKRhkSNd50IPFMg",
       "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
     {
       "gameId": "zenless-zone-zero",
       "channel": "UCRxIDzY5KZNRGerR6KaHxCw",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "zenless-zone-zero",
       "channel": "UCaHVimpAxzUHXBzJaWqHtbg",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "zenless-zone-zero",
       "channel": "UCaLQK9jRHbJHUJeDKSWopAw",
       "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 1
     },
     {
       "gameId": "zenless-zone-zero",
       "channel": "UCzrtDFOMPymmOd--2pAJGHA",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "zenless-zone-zero",
       "channel": "UCcKrgrVaRAsjsrPXWAojC_w",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
+      "feedCount": 15,
+      "matchedCount": 7
     },
     {
       "gameId": "zenless-zone-zero",
       "channel": "UCBvmaoRSX7e-eXMip6xcS2g",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 5
     },
     {
       "gameId": "zenless-zone-zero",
       "channel": "UCdjxkkxjG1sNP1PRHEJr4rw",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 3
     },
     {
       "gameId": "neverness-to-everness",
       "channel": "@NTE_KO",
       "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
       "feedCount": 15,
-      "matchedCount": 1
+      "matchedCount": 3
     },
     {
       "gameId": "neverness-to-everness",
       "channel": "UCca8OKY6cbiLbcJlRmWyDLQ",
       "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "error": "RSS: HTTP Error 404: Not Found; public videos: Public videos tab unavailable"
     },
     {
       "gameId": "neverness-to-everness",
       "channel": "UCs7asZ6zS-cf62hMU_wMAaQ",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
+      "feedCount": 15,
+      "matchedCount": 8
     },
     {
       "gameId": "neverness-to-everness",
       "channel": "UChctrvAOi3P_ZCJaQqOCubw",
       "ok": true,
+      "via": "rss",
+      "rssError": null,
       "feedCount": 15,
       "matchedCount": 0
     },
     {
       "gameId": "genshin-impact",
       "channel": "UCcum1rCJ5GJeQ_xv0xrohqg",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "genshin-impact",
       "channel": "UClDD_y014JIRfnjtn_Yeliw",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "genshin-impact",
       "channel": "UCSqk_LOzQs0pflWgzW5Qfew",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "genshin-impact",
       "channel": "UCEEEWJDgHrAQn_7NyWSe9mQ",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 15
     },
     {
       "gameId": "genshin-impact",
       "channel": "UC2qKK9LtVl-5eXCsI7gUWZw",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "genshin-impact",
       "channel": "UC8PMRRzrNzKwoC2f0-SRL1Q",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "genshin-impact",
       "channel": "UC_9jEIdbo7WCy2mD164pH0g",
       "ok": true,
-      "feedCount": 14,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
+      "feedCount": 9,
       "matchedCount": 0
     },
     {
       "gameId": "genshin-impact",
       "channel": "UCg-UY2guPOo7OtAuWb4wK6g",
       "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
     {
       "gameId": "genshin-impact",
       "channel": "UCfVjAWIYLDQVGVbMN1a6J-g",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "genshin-impact",
       "channel": "UCtm9c8ScR7tIP8SpR5svmZw",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "genshin-impact",
       "channel": "UCakEtLX5zS1F86xbRd2gdcg",
       "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
       "feedCount": 4,
       "matchedCount": 0
     },
@@ -280,147 +396,217 @@
       "gameId": "genshin-impact",
       "channel": "UC5tc15-Oeh-l4rjDFEGsbQg",
       "ok": true,
+      "via": "rss",
+      "rssError": null,
       "feedCount": 15,
       "matchedCount": 0
     },
     {
       "gameId": "genshin-impact",
       "channel": "UCalJGRYIRFXZs_zDjFrxWyQ",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 3,
+      "matchedCount": 0
     },
     {
       "gameId": "genshin-impact",
       "channel": "UCalMqqNasuyzapNAnG8uX1A",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "genshin-impact",
       "channel": "UCkBWskMb7DSKR0OfNwfXktg",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "genshin-impact",
       "channel": "UCuuKVxdPYo89HyV5IkoOOtQ",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "genshin-impact",
       "channel": "UCmHfaKu9cRRHf6RLv9oVj_A",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
+      "feedCount": 15,
+      "matchedCount": 1
     },
     {
       "gameId": "genshin-impact",
       "channel": "UCcJkXIwYCos0e1p1RCyVciA",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 5,
+      "matchedCount": 0
     },
     {
       "gameId": "genshin-impact",
       "channel": "UCsfkAM8cRqUGYsV23cDs18A",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "genshin-impact",
       "channel": "UCwjDfkhr9diYtsnxl1onsjA",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "genshin-impact",
       "channel": "UCQEUwWIeOTqNYnFZfdKa1xg",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 1
     },
     {
       "gameId": "genshin-impact",
       "channel": "UCdjxkkxjG1sNP1PRHEJr4rw",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 2
     },
     {
       "gameId": "genshin-impact",
       "channel": "UC1GtkseNinovXsE1DCxX0jg",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 6,
+      "matchedCount": 1
     },
     {
       "gameId": "genshin-impact",
       "channel": "UCXZnZntLTfXnyNxrmJ-piVg",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "genshin-impact",
       "channel": "UC2Js8xQUwvu9fbxR1JVy8PQ",
       "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
       "feedCount": 15,
       "matchedCount": 1
     },
     {
       "gameId": "arknights-endfield",
       "channel": "UCIf9gYpmmIJV7flBhUhuqYQ",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "arknights-endfield",
       "channel": "UClDD_y014JIRfnjtn_Yeliw",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "arknights-endfield",
       "channel": "UCQVGsT4eIagPl-nwjfFvBwQ",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "arknights-endfield",
       "channel": "UCdjxkkxjG1sNP1PRHEJr4rw",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 1
     },
     {
       "gameId": "arknights-endfield",
       "channel": "UCkaCacJincq0ET6bS_rLwzQ",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "arknights-endfield",
       "channel": "UCsfkAM8cRqUGYsV23cDs18A",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "arknights-endfield",
       "channel": "UCSqk_LOzQs0pflWgzW5Qfew",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "punishing-gray-raven",
       "channel": "UCD3ClCZBZ8VLg_PfYMGOJjA",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "punishing-gray-raven",
       "channel": "UCDxOGM9TRLG9Qc0a_I6vP8A",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 500: Internal Server Error",
+      "feedCount": 15,
+      "matchedCount": 11
     },
     {
       "gameId": "punishing-gray-raven",
       "channel": "UC59zsKctF5yl4g85XZZkcoQ",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
     }
   ],
   "videos": [
@@ -1602,8 +1788,8 @@
       "type": "캐릭터 무브셋",
       "referenceScope": "moveset",
       "duration": 618,
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1GtkseNinovXsE1DCxX0jg",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UC1GtkseNinovXsE1DCxX0jg/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2020-11-11",
       "gameVerified": true,
@@ -1623,7 +1809,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2020-11-11",
       "characterReleaseOrder": 24,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2021-10-30",
+        "latest": "2022-10-30",
+        "label": "4년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "tTrigNobgbg",
@@ -1919,8 +2112,8 @@
       "gameVerified": true,
       "language": "en",
       "verifiedAt": "2026-10-29T22:04:04.262Z",
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmHfaKu9cRRHf6RLv9oVj_A",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCmHfaKu9cRRHf6RLv9oVj_A/videos",
       "variants": [
         {
           "id": "qm6MjbAdCCk",
@@ -1933,7 +2126,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2021-02-03",
       "characterReleaseOrder": 29,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2020-10-30",
+        "latest": "2021-10-30",
+        "label": "5년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "MUsqrsCi-ME",
@@ -3339,8 +3539,8 @@
       "gameVerified": true,
       "type": "캐릭터 무브셋",
       "duration": "PT492S",
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEEEWJDgHrAQn_7NyWSe9mQ",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCEEEWJDgHrAQn_7NyWSe9mQ/videos",
       "localizedTitles": [],
       "referenceScope": "moveset",
       "reviewedAfterCharacterRelease": true,
@@ -3358,7 +3558,8 @@
       "characterKind": "character",
       "characterReleaseDate": "2021-08-10",
       "characterReleaseOrder": 36,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false
     },
     {
       "id": "6XLBVgGeM8g",
@@ -3797,8 +3998,8 @@
       "referenceScope": "skill-excerpt",
       "scopeNote": "스킬 시연 확인. 일반 공격을 포함한 전체 무브셋 여부는 미확인.",
       "duration": 123,
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2Js8xQUwvu9fbxR1JVy8PQ",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UC2Js8xQUwvu9fbxR1JVy8PQ/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2021-09-21",
       "gameVerified": true,
@@ -3817,7 +4018,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2021-09-21",
       "characterReleaseOrder": 41,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2020-10-30",
+        "latest": "2021-10-30",
+        "label": "5년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "UG_6d3tv-bc",
@@ -3923,8 +4131,8 @@
       "gameVerified": true,
       "type": "캐릭터 무브셋",
       "duration": "PT231S",
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEEEWJDgHrAQn_7NyWSe9mQ",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCEEEWJDgHrAQn_7NyWSe9mQ/videos",
       "localizedTitles": [],
       "referenceScope": "moveset",
       "reviewedAfterCharacterRelease": true,
@@ -3942,7 +4150,8 @@
       "characterKind": "character",
       "characterReleaseDate": "2021-11-02",
       "characterReleaseOrder": 42,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false
     },
     {
       "id": "t6myO5ICySM",
@@ -5309,8 +5518,8 @@
       "gameId": "genshin-impact",
       "sourceKind": "creator",
       "sourceChannel": "UCEEEWJDgHrAQn_7NyWSe9mQ",
-      "verification": "public-watch-page",
-      "verificationSource": "https://www.youtube.com/watch?v=1LzzdlA0sLI",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCEEEWJDgHrAQn_7NyWSe9mQ/videos",
       "gameVerified": true,
       "duration": "PT314S",
       "type": "캐릭터 무브셋",
@@ -5331,7 +5540,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2022-09-09",
       "characterReleaseOrder": 54,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2021-10-30",
+        "latest": "2022-10-30",
+        "label": "4년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "Ep2euoSCYZ8",
@@ -5407,8 +5623,8 @@
       "gameVerified": true,
       "language": "en",
       "verifiedAt": "2026-10-29T22:04:04.335Z",
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEEEWJDgHrAQn_7NyWSe9mQ",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCEEEWJDgHrAQn_7NyWSe9mQ/videos",
       "variants": [
         {
           "id": "M8Si6bduC2c",
@@ -5421,7 +5637,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2022-09-28",
       "characterReleaseOrder": 55,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2021-10-30",
+        "latest": "2022-10-30",
+        "label": "4년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "QoNHg0dmmI8",
@@ -5469,8 +5692,8 @@
       "gameVerified": true,
       "language": "en",
       "verifiedAt": "2026-10-29T22:04:04.334Z",
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEEEWJDgHrAQn_7NyWSe9mQ",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCEEEWJDgHrAQn_7NyWSe9mQ/videos",
       "variants": [
         {
           "id": "rmAXfzRtm6w",
@@ -5483,7 +5706,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2022-09-28",
       "characterReleaseOrder": 56,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2021-10-30",
+        "latest": "2022-10-30",
+        "label": "4년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "GBjA8fZ3DdM",
@@ -5531,8 +5761,8 @@
       "gameVerified": true,
       "language": "en",
       "verifiedAt": "2026-10-29T22:04:04.333Z",
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEEEWJDgHrAQn_7NyWSe9mQ",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCEEEWJDgHrAQn_7NyWSe9mQ/videos",
       "variants": [
         {
           "id": "0Gy6itaGLic",
@@ -5545,7 +5775,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2022-10-14",
       "characterReleaseOrder": 57,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2021-10-30",
+        "latest": "2022-10-30",
+        "label": "4년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "ZY3Ls6mrneY",
@@ -5621,8 +5858,8 @@
       "gameVerified": true,
       "language": "en",
       "verifiedAt": "2026-10-29T22:04:04.333Z",
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEEEWJDgHrAQn_7NyWSe9mQ",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCEEEWJDgHrAQn_7NyWSe9mQ/videos",
       "variants": [
         {
           "id": "BhSbUvNrOZQ",
@@ -5635,7 +5872,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2022-11-02",
       "characterReleaseOrder": 58,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2022-10-30",
+        "latest": "2023-10-30",
+        "label": "3년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "sS349-dqR5E",
@@ -5711,8 +5955,8 @@
       "gameVerified": true,
       "language": "en",
       "verifiedAt": "2026-10-29T22:04:04.332Z",
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEEEWJDgHrAQn_7NyWSe9mQ",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCEEEWJDgHrAQn_7NyWSe9mQ/videos",
       "variants": [
         {
           "id": "6jYpQsZ7cDM",
@@ -5725,7 +5969,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2022-11-18",
       "characterReleaseOrder": 59,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2022-10-30",
+        "latest": "2023-10-30",
+        "label": "3년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "gD3ZjVRuM_Q",
@@ -5773,8 +6024,8 @@
       "gameVerified": true,
       "language": "en",
       "verifiedAt": "2026-10-29T22:04:04.330Z",
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEEEWJDgHrAQn_7NyWSe9mQ",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCEEEWJDgHrAQn_7NyWSe9mQ/videos",
       "variants": [
         {
           "id": "n9zZGC4305Q",
@@ -5787,7 +6038,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2022-12-07",
       "characterReleaseOrder": 60,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2022-10-30",
+        "latest": "2023-10-30",
+        "label": "3년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "d06-ZG_4P00",
@@ -5835,8 +6093,8 @@
       "gameVerified": true,
       "language": "en",
       "verifiedAt": "2026-10-29T22:04:04.330Z",
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEEEWJDgHrAQn_7NyWSe9mQ",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCEEEWJDgHrAQn_7NyWSe9mQ/videos",
       "variants": [
         {
           "id": "83Yqx9y0RFQ",
@@ -5849,7 +6107,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2022-12-07",
       "characterReleaseOrder": 61,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2022-10-30",
+        "latest": "2023-10-30",
+        "label": "3년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "0ca5BxHahS8",
@@ -5931,7 +6196,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2023-01-18",
       "characterReleaseOrder": 62,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2022-10-30",
+        "latest": "2023-10-30",
+        "label": "3년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCEEEWJDgHrAQn_7NyWSe9mQ/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "djxCGYWsvHM",
@@ -6014,8 +6288,8 @@
       "gameVerified": true,
       "language": "en",
       "verifiedAt": "2026-10-29T22:04:04.328Z",
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEEEWJDgHrAQn_7NyWSe9mQ",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCEEEWJDgHrAQn_7NyWSe9mQ/videos",
       "variants": [
         {
           "id": "j5A63ho8xa4",
@@ -6028,7 +6302,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2023-01-18",
       "characterReleaseOrder": 63,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2022-10-30",
+        "latest": "2023-10-30",
+        "label": "3년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "8zwKR52x3OQ",
@@ -6208,8 +6489,8 @@
       "gameVerified": true,
       "language": "en",
       "verifiedAt": "2026-10-29T22:04:04.326Z",
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEEEWJDgHrAQn_7NyWSe9mQ",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCEEEWJDgHrAQn_7NyWSe9mQ/videos",
       "variants": [
         {
           "id": "dSyMy_y8Cck",
@@ -6222,7 +6503,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2023-03-21",
       "characterReleaseOrder": 65,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2022-10-30",
+        "latest": "2023-10-30",
+        "label": "3년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "jfHdTrVxEaw",
@@ -6298,8 +6586,8 @@
       "gameVerified": true,
       "language": "en",
       "verifiedAt": "2026-10-29T22:04:04.325Z",
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEEEWJDgHrAQn_7NyWSe9mQ",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCEEEWJDgHrAQn_7NyWSe9mQ/videos",
       "variants": [
         {
           "id": "gMjEy4-UdLw",
@@ -6312,7 +6600,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2023-05-02",
       "characterReleaseOrder": 66,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2022-10-30",
+        "latest": "2023-10-30",
+        "label": "3년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "GhBw9lf_6Ig",
@@ -6402,7 +6697,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2023-05-02",
       "characterReleaseOrder": 67,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2022-10-30",
+        "latest": "2023-10-30",
+        "label": "3년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCEEEWJDgHrAQn_7NyWSe9mQ/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "zGCvrGj6U2o",
@@ -7950,6 +8254,41 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "LdBgtXd1jws",
+      "title": "【鳴潮】 秧秧 (ヤンヤン)  全モーション集 【Wuthering Waves】 Yangyang all Moveset animation Gameplay",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-05-30",
+        "latest": "2026-06-30",
+        "label": "4개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCdjxkkxjG1sNP1PRHEJr4rw",
+      "channelTitle": "ゲームシップ / Mercy",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCdjxkkxjG1sNP1PRHEJr4rw/videos",
+      "gameId": "wuthering-waves",
+      "language": "",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCdjxkkxjG1sNP1PRHEJr4rw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "requiresReleaseWindow": true,
+      "variants": [
+        {
+          "id": "LdBgtXd1jws",
+          "title": "【鳴潮】 秧秧 (ヤンヤン)  全モーション集 【Wuthering Waves】 Yangyang all Moveset animation Gameplay",
+          "language": ""
+        }
+      ],
+      "characterId": "wuthering-waves:yangyang",
+      "characterName": "양양",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-05-23",
+      "characterReleaseOrder": 14,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
       "id": "mkZKGDS3nPY",
       "title": "【Wuthering Waves】 Yangyang Moveset | ヤンヤン・モーション集",
       "description": "A series where it shows each character's moveset. \nBGM used is from Punishing: Gray Raven\nArtist: @StBeSe\n\n#鳴潮 #wutheringwaves #wuwa #jpvoice #rover #moveset #pgr #명조 #명조워더링웨이브 #yangyang",
@@ -7967,8 +8306,8 @@
       "gameVerified": true,
       "language": "ja",
       "verifiedAt": "2026-10-29T22:04:04.352Z",
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxyN2G9cCKxtUWFoKfy247A",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCxyN2G9cCKxtUWFoKfy247A/videos",
       "variants": [
         {
           "id": "mkZKGDS3nPY",
@@ -7981,7 +8320,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2024-05-23",
       "characterReleaseOrder": 14,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2024-10-30",
+        "latest": "2025-10-30",
+        "label": "1년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "M1lz2Ad2ZNs",
@@ -8346,7 +8692,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2024-06-28",
       "characterReleaseOrder": 19,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-10-09",
+        "latest": "2026-10-16",
+        "label": "2주 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCxwrCovkfxtn-76Aad0DIdw/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "NkSU7O9s8eA",
@@ -8388,8 +8743,8 @@
       "type": "캐릭터 무브셋",
       "referenceScope": "moveset",
       "duration": 702,
-      "verification": "public-watch-page",
-      "verificationSource": "https://www.youtube.com/watch?v=IqYa7jZb93Q",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCcKrgrVaRAsjsrPXWAojC_w/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2024-07-04",
       "gameVerified": true,
@@ -8443,7 +8798,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2024-07-04",
       "characterReleaseOrder": 1,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-10-16",
+        "latest": "2026-10-17",
+        "label": "13일 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "b7uacmcbrJg",
@@ -8859,8 +9221,8 @@
       "type": "캐릭터 무브셋",
       "referenceScope": "moveset",
       "duration": "PT675S",
-      "verification": "public-watch-page",
-      "verificationSource": "https://www.youtube.com/watch?v=mxV0ToDaiJY",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCcKrgrVaRAsjsrPXWAojC_w/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2024-07-04",
       "gameVerified": true,
@@ -8909,7 +9271,8 @@
       "characterKind": "character",
       "characterReleaseDate": "2024-07-04",
       "characterReleaseOrder": 7,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false
     },
     {
       "id": "zQNqxje2aPc",
@@ -8932,8 +9295,8 @@
       "type": "캐릭터 무브셋",
       "referenceScope": "moveset",
       "duration": "PT503S",
-      "verification": "public-watch-page",
-      "verificationSource": "https://www.youtube.com/watch?v=zQNqxje2aPc",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCcKrgrVaRAsjsrPXWAojC_w/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2024-07-04",
       "gameVerified": true,
@@ -8976,7 +9339,8 @@
       "characterKind": "character",
       "characterReleaseDate": "2024-07-04",
       "characterReleaseOrder": 8,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false
     },
     {
       "id": "iAddYTJ956w",
@@ -9086,7 +9450,8 @@
       "characterKind": "character",
       "characterReleaseDate": "2024-07-04",
       "characterReleaseOrder": 10,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false
     },
     {
       "id": "xnTsbnrPpTE",
@@ -9362,8 +9727,8 @@
       "type": "캐릭터 무브셋",
       "referenceScope": "moveset",
       "duration": "PT672S",
-      "verification": "public-channel-list",
-      "verificationSource": "https://www.youtube.com/channel/UCcKrgrVaRAsjsrPXWAojC_w/search?query=%E3%80%90%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9%E3%80%9111%E5%8F%B7%E3%80%90%E3%82%BC%E3%83%B3%E3%82%BC%E3%83%AD%E3%80%91",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCcKrgrVaRAsjsrPXWAojC_w/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2024-07-04",
       "gameVerified": true,
@@ -9383,7 +9748,8 @@
       "characterKind": "character",
       "characterReleaseDate": "2024-07-04",
       "characterReleaseOrder": 16,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false
     },
     {
       "id": "jaFaj0BwV54",
@@ -9535,8 +9901,8 @@
       "type": "캐릭터 무브셋",
       "referenceScope": "moveset",
       "duration": 153,
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQEUwWIeOTqNYnFZfdKa1xg",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCQEUwWIeOTqNYnFZfdKa1xg/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2024-08-06",
       "gameVerified": true,
@@ -9562,7 +9928,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2024-08-06",
       "characterReleaseOrder": 85,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2023-10-30",
+        "latest": "2024-10-30",
+        "label": "2년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "e-J1-BnRVSs",
@@ -9894,8 +10267,8 @@
       "type": "캐릭터 무브셋",
       "referenceScope": "moveset",
       "duration": "PT765S",
-      "verification": "public-watch-page",
-      "verificationSource": "https://www.youtube.com/watch?v=pWSOGxkFYnQ",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCcKrgrVaRAsjsrPXWAojC_w/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2024-09-04",
       "gameVerified": true,
@@ -9941,7 +10314,8 @@
       "characterKind": "character",
       "characterReleaseDate": "2024-09-04",
       "characterReleaseOrder": 19,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false
     },
     {
       "id": "xkWuPAM5BJM",
@@ -13683,7 +14057,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2025-09-19",
       "characterReleaseOrder": 84,
-      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)"
+      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "publicationWindow": {
+        "earliest": "2026-07-30",
+        "latest": "2026-08-30",
+        "label": "2개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCDxOGM9TRLG9Qc0a_I6vP8A/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "pDLCDVIVjG0",
@@ -13815,7 +14198,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2025-10-09",
       "characterReleaseOrder": 40,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2025-10-30",
+        "latest": "2025-11-30",
+        "label": "11개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCxyN2G9cCKxtUWFoKfy247A/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "DsSPBFfhST8",
@@ -14171,7 +14563,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2025-11-13",
       "characterReleaseOrder": 85,
-      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)"
+      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "publicationWindow": {
+        "earliest": "2026-07-30",
+        "latest": "2026-08-30",
+        "label": "2개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCDxOGM9TRLG9Qc0a_I6vP8A/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "lx0X-0bs6Oo",
@@ -14507,7 +14908,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2025-12-23",
       "characterReleaseOrder": 86,
-      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)"
+      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "publicationWindow": {
+        "earliest": "2026-07-30",
+        "latest": "2026-08-30",
+        "label": "2개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCDxOGM9TRLG9Qc0a_I6vP8A/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "w9X3v22W1KI",
@@ -15348,7 +15758,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-02-03",
       "characterReleaseOrder": 87,
-      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)"
+      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "publicationWindow": {
+        "earliest": "2026-07-30",
+        "latest": "2026-08-30",
+        "label": "2개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCDxOGM9TRLG9Qc0a_I6vP8A/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "n7YpEQsm_bo",
@@ -15488,7 +15907,8 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-02-06",
       "characterReleaseOrder": 48,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false
     },
     {
       "id": "uIqtnU0phM4",
@@ -15766,7 +16186,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-03-17",
       "characterReleaseOrder": 88,
-      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)"
+      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "publicationWindow": {
+        "earliest": "2026-07-30",
+        "latest": "2026-08-30",
+        "label": "2개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCDxOGM9TRLG9Qc0a_I6vP8A/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "ne8Blx9pkqo",
@@ -15906,7 +16335,8 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-03-24",
       "characterReleaseOrder": 50,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false
     },
     {
       "id": "Uxu0wlEnRQg",
@@ -16114,7 +16544,8 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-04-15",
       "characterReleaseOrder": 51,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false
     },
     {
       "id": "B3TFx1rrQwc",
@@ -16233,7 +16664,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-04-21",
       "characterReleaseOrder": 89,
-      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)"
+      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "publicationWindow": {
+        "earliest": "2026-07-30",
+        "latest": "2026-08-30",
+        "label": "2개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCDxOGM9TRLG9Qc0a_I6vP8A/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "Vy31BKpcWnQ",
@@ -17109,7 +17549,8 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-05-27",
       "characterReleaseOrder": 53,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false
     },
     {
       "id": "HcdclDU0UYM",
@@ -17173,7 +17614,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-06-02",
       "characterReleaseOrder": 90,
-      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)"
+      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "publicationWindow": {
+        "earliest": "2026-07-30",
+        "latest": "2026-08-30",
+        "label": "2개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCDxOGM9TRLG9Qc0a_I6vP8A/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "KmVGrJIQ1VQ",
@@ -17446,8 +17896,8 @@
       "type": "캐릭터 무브셋",
       "referenceScope": "moveset",
       "duration": "PT486S",
-      "verification": "public-watch-page",
-      "verificationSource": "https://www.youtube.com/watch?v=iVgCUWmu_UQ",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCdjxkkxjG1sNP1PRHEJr4rw/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2026-06-09",
       "gameVerified": true,
@@ -17500,7 +17950,8 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-06-09",
       "characterReleaseOrder": 118,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false
     },
     {
       "id": "8HtssrEwWbg",
@@ -17523,8 +17974,8 @@
       "type": "캐릭터 무브셋",
       "referenceScope": "moveset",
       "duration": "PT768S",
-      "verification": "public-watch-page",
-      "verificationSource": "https://www.youtube.com/watch?v=8HtssrEwWbg",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCdjxkkxjG1sNP1PRHEJr4rw/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2026-06-13",
       "gameVerified": true,
@@ -17576,7 +18027,8 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-06-13",
       "characterReleaseOrder": 53,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false
     },
     {
       "id": "s3WF2dKLdKY",
@@ -17624,8 +18076,8 @@
       "type": "캐릭터 무브셋",
       "referenceScope": "moveset",
       "duration": "PT366S",
-      "verification": "public-watch-page",
-      "verificationSource": "https://www.youtube.com/watch?v=cRPnpA8LTGA",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCdjxkkxjG1sNP1PRHEJr4rw/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2026-06-17",
       "gameVerified": true,
@@ -17666,7 +18118,8 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-06-17",
       "characterReleaseOrder": 54,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false
     },
     {
       "id": "AfFuA4OV5XU",
@@ -17689,8 +18142,8 @@
       "type": "캐릭터 무브셋",
       "referenceScope": "moveset",
       "duration": "PT485S",
-      "verification": "public-watch-page",
-      "verificationSource": "https://www.youtube.com/watch?v=AfFuA4OV5XU",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCdjxkkxjG1sNP1PRHEJr4rw/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2026-06-17",
       "gameVerified": true,
@@ -17732,7 +18185,8 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-06-17",
       "characterReleaseOrder": 55,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false
     },
     {
       "id": "ZSCYV5nwKEI",
@@ -17840,7 +18294,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-06-26",
       "characterReleaseOrder": 28,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-05-30",
+        "latest": "2026-06-30",
+        "label": "4개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCdjxkkxjG1sNP1PRHEJr4rw/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "3XVKPMzvN2E",
@@ -17899,8 +18362,8 @@
       "type": "캐릭터 무브셋",
       "referenceScope": "moveset",
       "duration": "PT423S",
-      "verification": "public-watch-page",
-      "verificationSource": "https://www.youtube.com/watch?v=0O_5nwUqw10",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCdjxkkxjG1sNP1PRHEJr4rw/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2026-07-01",
       "gameVerified": true,
@@ -17941,7 +18404,8 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-07-01",
       "characterReleaseOrder": 119,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false
     },
     {
       "id": "Fe6qUR_mwqY",
@@ -18095,8 +18559,8 @@
       "gameVerified": true,
       "description": "Moveset showcase of Yangyang: Xuanling.\n\n00:00 Azure Sword Stance: Basic Attack\n00:15 Azure Sword Stance: Heavy Attack\n00:29 Azure Sword Stance: Mid-air Attack\n00:42 Azure Sword Stance: Dodge Counter\n00:48 Feather Sword Stance: Basic Attack\n01:03 Feather Sword Stance: Heavy Attack (Combo Sequence)\n01:27 Feather Sword Stance: Mid-air Attack\n01:41 Feather Sword Stance: Dodge Counter\n01:46 Sword Stance Switch (Switch to Feather Sword Stance)\n01:54 Sword Stance Switch (Switch to Azure Sword Stance)\n02:01 Sword Stance Switch: Azure\n02:11 Sword Stance Switch: Feather\n02:21 Sword Stance Flow: Azure\n02:26 Sword Stance Flow: Feather\n02:33 Intro Skill\n02:37 Resonance Liberation",
       "duration": "PT165S",
-      "verification": "watch-metadata",
-      "verificationSource": "https://www.youtube.com/watch?v=8ABhh9nMvnU",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCmpGI8Ub5QwzPqPjcNSzl0g/videos",
       "verifiedAt": "2026-10-29T22:04:03.580Z",
       "localizedTitles": [],
       "referenceScope": "moveset",
@@ -18114,7 +18578,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-07-10",
       "characterReleaseOrder": 55,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-06-30",
+        "latest": "2026-07-30",
+        "label": "3개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "kZ5xFwCi_JM",
@@ -18242,7 +18713,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-07-16",
       "characterReleaseOrder": 91,
-      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)"
+      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "publicationWindow": {
+        "earliest": "2026-07-30",
+        "latest": "2026-08-30",
+        "label": "2개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCDxOGM9TRLG9Qc0a_I6vP8A/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "062lmW9LBX4",
@@ -18282,8 +18762,8 @@
       "type": "캐릭터 무브셋",
       "referenceScope": "moveset",
       "duration": 557,
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdjxkkxjG1sNP1PRHEJr4rw",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCdjxkkxjG1sNP1PRHEJr4rw/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2026-07-29",
       "gameVerified": true,
@@ -18352,7 +18832,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-07-29",
       "characterReleaseOrder": 57,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-07-30",
+        "latest": "2026-08-30",
+        "label": "2개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "TPaCG_IOqiA",
@@ -18431,6 +18918,50 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-07-29",
       "characterReleaseOrder": 20,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-06-30",
+        "latest": "2026-07-30",
+        "label": "3개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCs7asZ6zS-cf62hMU_wMAaQ/videos",
+      "requiresReleaseWindow": false
+    },
+    {
+      "id": "uQio1kB9Bsk",
+      "title": "【鳴潮】｢穂穂｣  全モーション集 【Wuthering Waves】 Suisui all Moveset animation Gameplay",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-08-30",
+        "latest": "2026-09-30",
+        "label": "1개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCdjxkkxjG1sNP1PRHEJr4rw",
+      "channelTitle": "ゲームシップ / Mercy",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCdjxkkxjG1sNP1PRHEJr4rw/videos",
+      "gameId": "wuthering-waves",
+      "language": "",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCdjxkkxjG1sNP1PRHEJr4rw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "requiresReleaseWindow": true,
+      "variants": [
+        {
+          "id": "uQio1kB9Bsk",
+          "title": "【鳴潮】｢穂穂｣  全モーション集 【Wuthering Waves】 Suisui all Moveset animation Gameplay",
+          "language": ""
+        }
+      ],
+      "characterId": "wuthering-waves:suisui",
+      "characterName": "Suisui",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-07-30",
+      "characterReleaseOrder": 56,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
@@ -18451,8 +18982,8 @@
       "gameVerified": true,
       "language": "en",
       "verifiedAt": "2026-10-29T22:04:04.354Z",
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYKH1IUaKpy3FTtxtRL8_Yw",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCYKH1IUaKpy3FTtxtRL8_Yw/videos",
       "variants": [
         {
           "id": "QkT9MLUxRbw",
@@ -18465,7 +18996,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-07-30",
       "characterReleaseOrder": 56,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-07-30",
+        "latest": "2026-08-30",
+        "label": "2개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "RHCkcsfozvs",
@@ -18625,8 +19163,8 @@
       "type": "캐릭터 무브셋",
       "referenceScope": "moveset",
       "duration": 782,
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcKrgrVaRAsjsrPXWAojC_w",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCcKrgrVaRAsjsrPXWAojC_w/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2026-08-19",
       "gameVerified": true,
@@ -18680,7 +19218,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-08-19",
       "characterReleaseOrder": 58,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-10-02",
+        "latest": "2026-10-09",
+        "label": "3주 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "b7XDjnBiLn0",
@@ -18759,7 +19304,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-08-19",
       "characterReleaseOrder": 21,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-07-30",
+        "latest": "2026-08-30",
+        "label": "2개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCs7asZ6zS-cf62hMU_wMAaQ/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "ovY3_wU2wC8",
@@ -18823,7 +19377,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-08-19",
       "characterReleaseOrder": 92,
-      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)"
+      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "publicationWindow": {
+        "earliest": "2026-07-30",
+        "latest": "2026-08-30",
+        "label": "2개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCDxOGM9TRLG9Qc0a_I6vP8A/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "9Z_GqiGLP4I",
@@ -18845,8 +19408,8 @@
       "referenceScope": "skill-excerpt",
       "scopeNote": "스킬 시연 확인. 일반 공격을 포함한 전체 무브셋 여부는 미확인.",
       "duration": "PT65S",
-      "verification": "public-channel-list",
-      "verificationSource": "https://www.youtube.com/channel/UCmzdQfQLJ-oCw6cT6IKoiLw/search?query=Wuthering%20Waves%20%E2%80%94%20Qingxiao%20All%20Skill%20Showcase",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCmzdQfQLJ-oCw6cT6IKoiLw/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2026-08-20",
       "gameVerified": true,
@@ -18865,7 +19428,8 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-08-20",
       "characterReleaseOrder": 57,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false
     },
     {
       "id": "Q0df04ut_R0",
@@ -18990,7 +19554,18 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-09-09",
       "characterReleaseOrder": 22,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-08-30",
+        "latest": "2026-09-30",
+        "label": "1개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UC0042GfGERAl0AzXR0j8TPA/videos",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "requiresReleaseWindow": false
     },
     {
       "id": "bhwNSVEmAjk",
@@ -19016,7 +19591,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-09-09",
       "characterReleaseOrder": 22,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-08-30",
+        "latest": "2026-09-30",
+        "label": "1개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCs7asZ6zS-cf62hMU_wMAaQ/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "24Ed9TlA2bo",
@@ -19105,7 +19689,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-09-23",
       "characterReleaseOrder": 93,
-      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)"
+      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "publicationWindow": {
+        "earliest": "2026-10-02",
+        "latest": "2026-10-09",
+        "label": "3주 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCDxOGM9TRLG9Qc0a_I6vP8A/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "9KTcLxH4XJE",
@@ -19169,7 +19762,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-09-29",
       "characterReleaseOrder": 94,
-      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)"
+      "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "publicationWindow": {
+        "earliest": "2026-10-02",
+        "latest": "2026-10-09",
+        "label": "3주 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCDxOGM9TRLG9Qc0a_I6vP8A/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "0XMRCUtrN5k",
@@ -19194,7 +19796,18 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-09-30",
       "characterReleaseOrder": 23,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-08-30",
+        "latest": "2026-09-30",
+        "label": "1개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UC0042GfGERAl0AzXR0j8TPA/videos",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "requiresReleaseWindow": false
     },
     {
       "id": "Tn7mb-jMY1M",
@@ -19222,7 +19835,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-09-30",
       "characterReleaseOrder": 23,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-08-30",
+        "latest": "2026-09-30",
+        "label": "1개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCs7asZ6zS-cf62hMU_wMAaQ/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "SZhPyIC89TA",
@@ -19307,11 +19929,22 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-09-30",
       "characterReleaseOrder": 58,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-08-30",
+        "latest": "2026-09-30",
+        "label": "1개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCKuq0c-RXYaulECSuu5hFug/videos",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "requiresReleaseWindow": false
     },
     {
       "id": "v3ThmosYM70",
-      "title": "Wuthering Waves | Hsin Skill Showcase 🦊 Slow Motion 4K",
+      "title": "Wuthering Waves | Hsin 스킬 쇼케이스 🦊 슬로우 모션 4K",
       "description": "🦊 Découvrez Hsin dans Wuthering Waves à travers un Skill Showcase en 4K avec plusieurs séquences en Slow Motion.\nCette vidéo met en avant ses compétences, attaques, effets visuels et animations de combat, avec plusieurs passages au ralenti pour mieux apprécier ses mouvements, ses effets lumineux et les détails de ses animations.\nLe showcase se concentre uniquement sur le rendu visuel du personnage et de son gameplay, sans guide ni build.\n🎮 Jeu : Wuthering Waves\n🦊 Personnage : Hsin\n⚔️ Contenu : Skills / Attaques / Animations\n🎬 Format : Skill Showcase\n⏱️ Slow Motion\n📺 Qualité : 4K\n🔇 Sans commentaire  \n#WutheringWaves #Hsin #HsinShowcase #WuWa #SkillShowcase #SlowMotion #4K #NoCommentary\n\nWuthering Waves | Hsin Skill Showcase 🦊 Slow Motion 4K\n\n🦊 Discover Hsin in Wuthering Waves through a 4K Skill Showcase featuring multiple Slow Motion sequences.\nThis video highlights her skills, attacks, visual effects and combat animations, with several slow-motion sequences to better appreciate",
       "publishedAt": "2026-10-13T22:31:53+00:00",
       "channelTitle": "YukyTsuki - Gaming Cutscene",
@@ -19327,8 +19960,8 @@
       "gameVerified": true,
       "language": "en",
       "verifiedAt": "2026-10-29T22:04:04.289Z",
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxwrCovkfxtn-76Aad0DIdw",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCxwrCovkfxtn-76Aad0DIdw/videos",
       "variants": [
         {
           "id": "v3ThmosYM70",
@@ -19341,7 +19974,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-09-30",
       "characterReleaseOrder": 58,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-10-09",
+        "latest": "2026-10-16",
+        "label": "2주 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "yFh0Pk6GsNI",
@@ -19432,7 +20072,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-10-21",
       "characterReleaseOrder": 24,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-10-18",
+        "latest": "2026-10-19",
+        "label": "11일 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UC0042GfGERAl0AzXR0j8TPA/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "CU1cLgm0O-k",
@@ -19458,7 +20107,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-10-21",
       "characterReleaseOrder": 24,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-10-09",
+        "latest": "2026-10-16",
+        "label": "2주 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCs7asZ6zS-cf62hMU_wMAaQ/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "QKNAlmj_X_0",
@@ -19503,8 +20161,8 @@
       "gameVerified": true,
       "language": "en",
       "verifiedAt": "2026-10-29T22:04:04.182Z",
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaLQK9jRHbJHUJeDKSWopAw",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCaLQK9jRHbJHUJeDKSWopAw/videos",
       "variants": [
         {
           "id": "deklulwUNvU",
@@ -19517,7 +20175,14 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-10-21",
       "characterReleaseOrder": 61,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-10-29",
+        "latest": "2026-10-30",
+        "label": "17시간 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false
     },
     {
       "id": "h9M1cEVHPlw",
@@ -19544,7 +20209,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-10-22",
       "characterReleaseOrder": 59,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-10-18",
+        "latest": "2026-10-19",
+        "label": "11일 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCKuq0c-RXYaulECSuu5hFug/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "ZrJ_NC35c8Y",
@@ -19570,7 +20244,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-10-22",
       "characterReleaseOrder": 59,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-10-18",
+        "latest": "2026-10-19",
+        "label": "11일 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCQVGsT4eIagPl-nwjfFvBwQ/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "fksGHPcmtp0",

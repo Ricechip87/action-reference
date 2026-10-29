@@ -56,3 +56,10 @@ test('Japanese motion titles accept grammatical suffixes without matching anothe
  const forms=[{id:'havoc',gameId:'ww',name:'방랑자·인멸',aliases:['漂泊者(男)・消滅']},{id:'spectro',gameId:'ww',name:'방랑자·회절',aliases:['漂泊者(男)・回折']}];
  assert.equal(identifyCharacter({gameId:'ww',title:'≪鳴潮≫漂泊者(男)・消滅の戦闘モーションを見るだけ',sourceKind:'creator'},forms)?.id,'havoc');
 });
+
+test('new public-list entries require a release-safe publication window; known records remain',()=>{
+ const rows=[{id:'uncertain',gameId:'zzz',title:'Anby skills',sourceKind:'creator',requiresReleaseWindow:true,publicationWindow:{earliest:'2024-06-01',latest:'2024-08-01'}},{id:'safe',gameId:'zzz',title:'Anby skills',sourceKind:'creator',requiresReleaseWindow:true,publicationWindow:{earliest:'2025-01-01',latest:'2025-02-01'}},{id:'known',gameId:'zzz',title:'Anby skills',sourceKind:'creator',requiresReleaseWindow:false,publicationWindow:{earliest:'2024-06-01',latest:'2024-08-01'}}];
+ const result=enrichVideos(rows,characters,{asOf:'2026-10-30'});
+ assert.deepEqual(result.videos.map(v=>v.id),['safe','known']);
+ assert.equal(result.excluded[0].id,'uncertain');
+});

@@ -1,10 +1,36 @@
 import unittest
 import datetime as dt
-from rss import parse_feed, resolve_channel_id, relevant, merge_previous
+from rss import parse_feed, resolve_channel_id, relevant, merge_previous, load_channel_entries
+from channel_recent import parse_recent
 from coverage import matches, person
 from channel_archive import publication_window,collect_listing
 
 class FeedTests(unittest.TestCase):
+    def test_failed_rss_uses_only_verified_recent_grid_and_preserves_date_uncertainty(self):
+        import json
+        channel='UC'+'a'*22
+        video={'lockupViewModel':{'contentId':'abcdefghijk','contentType':'LOCKUP_CONTENT_TYPE_VIDEO','metadata':{'lockupMetadataViewModel':{'title':{'content':'キャラ 全モーション集'},'metadata':{'contentMetadataViewModel':{'metadataRows':[{'metadataParts':[{'text':{'content':'1.8천'}},{'text':{'content':'11일 전'}}]}]}}}}}}
+        data={'metadata':{'channelMetadataRenderer':{'externalId':channel,'title':'Uploader'}},'contents':{'twoColumnBrowseResultsRenderer':{'tabs':[{'tabRenderer':{'selected':True,'content':{'richGridRenderer':{'contents':[{'richItemRenderer':{'content':video}}]}}}}]}},'recommendation':{'videoRenderer':{'videoId':'badowner123'}}}
+        page='var ytInitialData = '+json.dumps(data)+';';calls=[]
+        def fetcher(url):
+            calls.append(url)
+            if '/feeds/' in url:raise OSError('RSS unavailable')
+            return page
+        entries,via,error=load_channel_entries(channel,fetcher)
+        self.assertEqual([v['id'] for v in entries],['abcdefghijk'])
+        self.assertEqual(entries[0]['publishedAt'],'')
+        self.assertIn('publicationWindow',entries[0])
+        self.assertEqual(via,'channel-videos');self.assertIn('RSS unavailable',error)
+        self.assertEqual(load_channel_entries(channel,fetcher)[0],entries)
+        self.assertEqual(len(calls),2)
+        with self.assertRaises(ValueError):parse_recent(page,'UC'+'b'*22,dt.date(2026,10,30))
+
+    def test_recent_fallback_keeps_known_exact_date_and_rejects_prelaunch_window(self):
+        rule={'id':'ww','sourceKind':'creator','releaseDate':'2024-05-23','channelSpecific':True,'includeKeywords':['Showcase']}
+        old={'id':'known','title':'Character Showcase','gameId':'ww','sourceChannel':'source','publishedAt':'2025-01-01T00:00:00Z'}
+        fresh={**old,'publishedAt':'','publicationWindow':{'earliest':'2024-10-30','latest':'2025-10-30'}}
+        self.assertEqual(merge_previous([fresh],[old],[(rule,'source')])[0]['publishedAt'],old['publishedAt'])
+        self.assertFalse(relevant({**fresh,'publicationWindow':{'earliest':'2023-10-30','latest':'2024-10-30'}},rule))
     def test_reviewed_video_ids_do_not_relax_future_uploads_or_beta_filters(self):
         rule={'id':'gi','sourceKind':'creator','keywords':['Genshin Impact'],'includeKeywords':['All Skills'],'titleGameRequired':True,'requireCharacterMatch':True,'characterAliases':['Noelle'],'approvedVideoIds':['abcdefghijk'],'excludeKeywords':['CBT','all characters'],'releaseDate':'2020-09-28'}
         video={'id':'abcdefghijk','title':'Noelle blade animations','publishedAt':'2021-03-01T00:00:00Z'}

@@ -7,6 +7,7 @@ import re
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
+from channel_recent import parse_recent
 
 CHANNEL=re.compile(r'UC[\w-]{22}')
 NS={'a':'http://www.w3.org/2005/Atom','yt':'http://www.youtube.com/xml/schemas/2015','m':'http://search.yahoo.com/mrss/'}
@@ -41,6 +42,14 @@ def parse_feed(xml,channel):
     return videos
 
 @functools.cache
+def load_channel_entries(channel,fetcher=fetch):
+    try:return parse_feed(fetcher('https://www.youtube.com/feeds/videos.xml?channel_id='+channel),channel),'rss',None
+    except Exception as error:rss_error=str(error)[:200]
+    today=dt.datetime.now(dt.timezone(dt.timedelta(hours=9))).date()
+    try:return parse_recent(fetcher('https://www.youtube.com/channel/'+channel+'/videos'),channel,today),'channel-videos',rss_error
+    except Exception as error:raise RuntimeError('RSS: '+rss_error+'; public videos: '+str(error)[:160]) from error
+
+@functools.cache
 def character_aliases(game_id):
     data=json.loads((Path(__file__).resolve().parent.parent/'data/characters.json').read_text(encoding='utf-8'))
     return tuple({name for character in data['characters'] if character['gameId']==game_id and character.get('kind')!='family' for name in [character['name'],*character.get('aliases',[])]})
@@ -63,6 +72,8 @@ def relevant(video,game):
             published=dt.datetime.fromisoformat(video['publishedAt'].replace('Z','+00:00')).astimezone(dt.timezone(dt.timedelta(hours=9))).date().isoformat()
             if published<game['releaseDate']:return False
         except ValueError:return False
+    elif game.get('sourceKind')=='creator' and game.get('releaseDate') and video.get('publicationWindow'):
+        if video['publicationWindow']['earliest']<game['releaseDate']:return False
     if not approved and not game.get('channelSpecific',False) and not (video.get('gameVerified') and video.get('gameId')==game.get('id')) and not any(k.strip() and k.casefold() in hay for k in game['keywords']):return False
     terms=game.get('includeKeywords',[])
     return approved or not terms or any(k.strip() and k.casefold() in video['title'].casefold() for k in terms)
@@ -93,6 +104,7 @@ def merge_previous(current,previous,jobs):
                 index=positions[old['id']];fresh=output[index]
                 if fresh.get('gameId')==old.get('gameId') and fresh.get('sourceKind','official')==old.get('sourceKind','official'):
                     output[index]={**old,**fresh}
+                    if not fresh.get('publishedAt') and old.get('publishedAt'):output[index]['publishedAt']=old['publishedAt']
                     if not fresh.get('language') and old.get('language'):output[index]['language']=old['language']
     return output
 
@@ -111,23 +123,25 @@ def collect():
     except Exception as error:
         raise RuntimeError('Previous publication unavailable; preserve existing history by stopping') from error
     jobs=collection_jobs(config)
+    archive=json.loads(Path('data/archive.json').read_text(encoding='utf-8')) if Path('data/archive.json').exists() else {}
+    known_ids={v['id'] for v in prior.get('videos',[])}|{v['id'] for v in archive.get('videos',[]) if v.get('reviewedAfterCharacterRelease')}
     output=[];statuses=[]
     def run(job):
         game,source=job
         try:
             channel=resolve_channel_id(source)
-            entries=parse_feed(fetch('https://www.youtube.com/feeds/videos.xml?channel_id='+channel),channel);selected=[]
+            entries,via,rss_error=load_channel_entries(channel);selected=[]
             for v in entries:
                 if not relevant(v,game):continue
                 v.update(gameId=game['id'],language='ko' if re.search(r'_KO$|_KR_',source,re.I) else '',type='캐릭터 무브셋' if game.get('sourceKind')=='creator' else video_type(v['title']),sourceChannel=source,sourceKind=game.get('sourceKind','official'),gameVerified=True)
+                v['requiresReleaseWindow']=via=='channel-videos' and v['id'] not in known_ids
                 v.pop('description',None);selected.append(v)
-            return selected,{'gameId':game['id'],'channel':source,'ok':True,'feedCount':len(entries),'matchedCount':len(selected)}
+            return selected,{'gameId':game['id'],'channel':source,'ok':True,'via':via,'rssError':rss_error,'feedCount':len(entries),'matchedCount':len(selected)}
         except Exception as error:
             return [],{'gameId':game['id'],'channel':source,'ok':False,'error':str(error)[:200]}
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
         for entries,status in pool.map(run,jobs):output.extend(entries);statuses.append(status)
     if jobs and not any(s['ok'] for s in statuses):raise RuntimeError('All channel feeds failed: '+json.dumps(statuses,ensure_ascii=False))
-    archive=json.loads(Path('data/archive.json').read_text(encoding='utf-8')) if Path('data/archive.json').exists() else {}
     output=merge_previous(output,[*prior.get('videos',[]),*archive.get('videos',[])],jobs)
     creator_names={(game['id'],source):game['name'] for game,source in jobs if game.get('sourceKind')=='creator'}
     for video in output:
