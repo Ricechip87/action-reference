@@ -504,6 +504,219 @@
             "QkT9MLUxRbw"
           ],
           "strictContentExclusions": true
+        },
+        {
+          "channel": "UCsfkAM8cRqUGYsV23cDs18A",
+          "name": "名雫代戯涙💧💦",
+          "includeKeywords": [
+            "戦闘モーション"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "unreleased",
+            "private server",
+            "test server",
+            "modded",
+            "fan animation",
+            "compilation",
+            "all characters",
+            "all agents",
+            "all operators",
+            "合本",
+            "全キャラ",
+            "全女性",
+            "敵NPC",
+            "ボス",
+            "リーク",
+            "ベータ",
+            "テクニカルテスト",
+            "유출",
+            "베타",
+            "합본"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "approvedVideoIds": [
+            "Z0u8eT3ulRA",
+            "BkIFlmvKQx4",
+            "02BYhgDRbjo",
+            "dbXrKVqtQfE"
+          ]
+        },
+        {
+          "channel": "UCdjxkkxjG1sNP1PRHEJr4rw",
+          "name": "ゲームシップ / Mercy",
+          "includeKeywords": [
+            "all Moveset"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "unreleased",
+            "private server",
+            "test server",
+            "modded",
+            "fan animation",
+            "compilation",
+            "all characters",
+            "all agents",
+            "all operators",
+            "合本",
+            "全キャラ",
+            "全女性",
+            "敵NPC",
+            "ボス",
+            "リーク",
+            "ベータ",
+            "テクニカルテスト",
+            "유출",
+            "베타",
+            "합본"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "approvedVideoIds": [
+            "8HtssrEwWbg"
+          ]
+        },
+        {
+          "channel": "UCmzdQfQLJ-oCw6cT6IKoiLw",
+          "name": "HAMMER GAMY",
+          "includeKeywords": [
+            "Moveset",
+            "Move List",
+            "Skill Showcase",
+            "Skills Showcase",
+            "Gameplay & Skill",
+            "All Skill"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "unreleased",
+            "private server",
+            "test server",
+            "modded",
+            "fan animation",
+            "compilation",
+            "all characters",
+            "all agents",
+            "all operators",
+            "合本",
+            "全キャラ",
+            "全女性",
+            "敵NPC",
+            "ボス",
+            "リーク",
+            "ベータ",
+            "テクニカルテスト",
+            "유출",
+            "베타",
+            "합본"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "approvedVideoIds": [
+            "9Z_GqiGLP4I"
+          ]
+        },
+        {
+          "channel": "UCGGRa_WDPjXWcfx-KQHhmrQ",
+          "name": "YAMATO GAMING",
+          "includeKeywords": [
+            "Moveset",
+            "Move List",
+            "Skill Showcase",
+            "Skills Showcase",
+            "Gameplay & Skill",
+            "All Skill"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "unreleased",
+            "private server",
+            "test server",
+            "modded",
+            "fan animation",
+            "compilation",
+            "all characters",
+            "all agents",
+            "all operators",
+            "合本",
+            "全キャラ",
+            "全女性",
+            "敵NPC",
+            "ボス",
+            "リーク",
+            "ベータ",
+            "テクニカルテスト",
+            "유출",
+            "베타",
+            "합본"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "approvedVideoIds": [
+            "N9a7K6b7Pwk"
+          ]
+        },
+        {
+          "channel": "UC5Sz23R8t4y7BgrgfpyupcQ",
+          "name": "SILENZIO",
+          "includeKeywords": [
+            "Moveset",
+            "Move List",
+            "Skill Showcase",
+            "Skills Showcase",
+            "Gameplay & Skill",
+            "All Skill"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "unreleased",
+            "private server",
+            "test server",
+            "modded",
+            "fan animation",
+            "compilation",
+            "all characters",
+            "all agents",
+            "all operators",
+            "合本",
+            "全キャラ",
+            "全女性",
+            "敵NPC",
+            "ボス",
+            "リーク",
+            "ベータ",
+            "テクニカルテスト",
+            "유출",
+            "베타",
+            "합본"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "approvedVideoIds": [
+            "1wc_GPDk4SA"
+          ]
         }
       ],
       "releaseDate": "2024-05-23"
@@ -519,7 +732,8 @@
         "絕區零",
         "ZZZ",
         "Zenless Zone Zeros",
-        "ZenlessZoneZero"
+        "ZenlessZoneZero",
+        "ゼンゼロ"
       ],
       "channels": [
         "@ZZZ_KO"
@@ -757,12 +971,14 @@
           "titleGameRequired": true,
           "requireCharacterMatch": true,
           "approvedVideoIds": [
-            "FsKPGYqTqVI",
-            "nu3RUo9Dpwg",
             "3sh-ycq-tZ4",
             "deklulwUNvU"
           ],
-          "strictContentExclusions": true
+          "strictContentExclusions": true,
+          "excludedVideoIds": [
+            "FsKPGYqTqVI",
+            "nu3RUo9Dpwg"
+          ]
         },
         {
           "channel": "UCzrtDFOMPymmOd--2pAJGHA",
@@ -808,10 +1024,151 @@
           "enabled": true,
           "titleGameRequired": true,
           "requireCharacterMatch": true,
-          "approvedVideoIds": [
+          "approvedVideoIds": [],
+          "strictContentExclusions": true,
+          "excludedVideoIds": [
             "q7VvmCcfvaQ"
+          ]
+        },
+        {
+          "channel": "UCcKrgrVaRAsjsrPXWAojC_w",
+          "name": "Hugo HK",
+          "includeKeywords": [
+            "モーションリファレンス"
           ],
-          "strictContentExclusions": true
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "unreleased",
+            "private server",
+            "test server",
+            "modded",
+            "fan animation",
+            "compilation",
+            "all characters",
+            "all agents",
+            "all operators",
+            "合本",
+            "全キャラ",
+            "全女性",
+            "敵NPC",
+            "ボス",
+            "リーク",
+            "ベータ",
+            "テクニカルテスト",
+            "유출",
+            "베타",
+            "합본"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "approvedVideoIds": [
+            "IqYa7jZb93Q",
+            "ZMp2spSUMno",
+            "zQNqxje2aPc",
+            "ADCB_8xMvBM",
+            "pWSOGxkFYnQ",
+            "mxV0ToDaiJY",
+            "0lHTcTNu6mw",
+            "XL7WD0Q9fMA"
+          ]
+        },
+        {
+          "channel": "UCBvmaoRSX7e-eXMip6xcS2g",
+          "name": "さまようエーテリアス",
+          "includeKeywords": [
+            "戦闘スローモーション"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "unreleased",
+            "private server",
+            "test server",
+            "modded",
+            "fan animation",
+            "compilation",
+            "all characters",
+            "all agents",
+            "all operators",
+            "合本",
+            "全キャラ",
+            "全女性",
+            "敵NPC",
+            "ボス",
+            "リーク",
+            "ベータ",
+            "テクニカルテスト",
+            "유출",
+            "베타",
+            "합본"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "approvedVideoIds": [
+            "Pwyb5uqRxHk",
+            "E9UKgtaQsfc",
+            "48IX9kpBIrA",
+            "rvep-pbSbA8",
+            "6jU4B0_9UHo",
+            "XHcSZHkiefM",
+            "MF_1-X1_5cA",
+            "IPwpSuPDX5c",
+            "mh1adroiy0I",
+            "HXiL2J15Yos",
+            "2SK55D1x7Yo",
+            "xnTsbnrPpTE",
+            "q7dgk2k5ReI"
+          ]
+        },
+        {
+          "channel": "UCdjxkkxjG1sNP1PRHEJr4rw",
+          "name": "ゲームシップ / Mercy",
+          "includeKeywords": [
+            "all Moveset"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "unreleased",
+            "private server",
+            "test server",
+            "modded",
+            "fan animation",
+            "compilation",
+            "all characters",
+            "all agents",
+            "all operators",
+            "合本",
+            "全キャラ",
+            "全女性",
+            "敵NPC",
+            "ボス",
+            "リーク",
+            "ベータ",
+            "テクニカルテスト",
+            "유출",
+            "베타",
+            "합본"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "approvedVideoIds": [
+            "kvsAtLWsKIg",
+            "fPubI9O_qN0",
+            "cRPnpA8LTGA",
+            "AfFuA4OV5XU",
+            "FQjn5vYrp04"
+          ]
         }
       ],
       "releaseDate": "2024-07-04"
@@ -1209,16 +1566,17 @@
           "enabled": true,
           "titleGameRequired": true,
           "requireCharacterMatch": true,
-          "approvedVideoIds": [
+          "approvedVideoIds": [],
+          "strictContentExclusions": true,
+          "excludedVideoIds": [
+            "IVf_X6Mv8Jo",
             "JVZBHeFEPgA",
             "dDOu2B6Ni1g",
-            "7j9DeGxN8As",
-            "IVf_X6Mv8Jo",
             "fEegEQpNfaU",
             "E7YuaFOOE0E",
+            "7j9DeGxN8As",
             "GOPL4mzYa20"
-          ],
-          "strictContentExclusions": true
+          ]
         },
         {
           "channel": "UC_9jEIdbo7WCy2mD164pH0g",
@@ -1264,10 +1622,11 @@
           "enabled": true,
           "titleGameRequired": true,
           "requireCharacterMatch": true,
-          "approvedVideoIds": [
+          "approvedVideoIds": [],
+          "strictContentExclusions": true,
+          "excludedVideoIds": [
             "kHowX7NxTKQ"
-          ],
-          "strictContentExclusions": true
+          ]
         },
         {
           "channel": "UCg-UY2guPOo7OtAuWb4wK6g",
@@ -1362,12 +1721,13 @@
           "enabled": true,
           "titleGameRequired": true,
           "requireCharacterMatch": true,
-          "approvedVideoIds": [
-            "7fbBQRV7ark",
+          "approvedVideoIds": [],
+          "strictContentExclusions": true,
+          "excludedVideoIds": [
+            "er3z76H4axY",
             "J63XhPAUeQo",
-            "er3z76H4axY"
-          ],
-          "strictContentExclusions": true
+            "7fbBQRV7ark"
+          ]
         },
         {
           "channel": "UCtm9c8ScR7tIP8SpR5svmZw",
@@ -1413,10 +1773,11 @@
           "enabled": true,
           "titleGameRequired": true,
           "requireCharacterMatch": true,
-          "approvedVideoIds": [
+          "approvedVideoIds": [],
+          "strictContentExclusions": true,
+          "excludedVideoIds": [
             "1JbWX02UrcQ"
-          ],
-          "strictContentExclusions": true
+          ]
         },
         {
           "channel": "UCakEtLX5zS1F86xbRd2gdcg",
@@ -1462,11 +1823,12 @@
           "enabled": true,
           "titleGameRequired": true,
           "requireCharacterMatch": true,
-          "approvedVideoIds": [
+          "approvedVideoIds": [],
+          "strictContentExclusions": true,
+          "excludedVideoIds": [
             "iIjqpOcFaWs",
             "BFoVeUYEaKg"
-          ],
-          "strictContentExclusions": true
+          ]
         },
         {
           "channel": "UC5tc15-Oeh-l4rjDFEGsbQg",
@@ -1512,10 +1874,11 @@
           "enabled": true,
           "titleGameRequired": true,
           "requireCharacterMatch": true,
-          "approvedVideoIds": [
+          "approvedVideoIds": [],
+          "strictContentExclusions": true,
+          "excludedVideoIds": [
             "GfT0SFxLQXw"
-          ],
-          "strictContentExclusions": true
+          ]
         },
         {
           "channel": "UCalJGRYIRFXZs_zDjFrxWyQ",
@@ -1561,10 +1924,11 @@
           "enabled": true,
           "titleGameRequired": true,
           "requireCharacterMatch": true,
-          "approvedVideoIds": [
+          "approvedVideoIds": [],
+          "strictContentExclusions": true,
+          "excludedVideoIds": [
             "G-_b7Ex-T3c"
-          ],
-          "strictContentExclusions": true
+          ]
         },
         {
           "channel": "UCalMqqNasuyzapNAnG8uX1A",
@@ -1610,10 +1974,11 @@
           "enabled": true,
           "titleGameRequired": true,
           "requireCharacterMatch": true,
-          "approvedVideoIds": [
+          "approvedVideoIds": [],
+          "strictContentExclusions": true,
+          "excludedVideoIds": [
             "arBp30m9cbc"
-          ],
-          "strictContentExclusions": true
+          ]
         },
         {
           "channel": "UCkBWskMb7DSKR0OfNwfXktg",
@@ -1708,10 +2073,11 @@
           "enabled": true,
           "titleGameRequired": true,
           "requireCharacterMatch": true,
-          "approvedVideoIds": [
+          "approvedVideoIds": [],
+          "strictContentExclusions": true,
+          "excludedVideoIds": [
             "oA4-QEIAFaI"
-          ],
-          "strictContentExclusions": true
+          ]
         },
         {
           "channel": "UCmHfaKu9cRRHf6RLv9oVj_A",
@@ -1806,10 +2172,332 @@
           "enabled": true,
           "titleGameRequired": true,
           "requireCharacterMatch": true,
-          "approvedVideoIds": [
+          "approvedVideoIds": [],
+          "strictContentExclusions": true,
+          "excludedVideoIds": [
             "wlzPaKlLWrg"
+          ]
+        },
+        {
+          "channel": "UCsfkAM8cRqUGYsV23cDs18A",
+          "name": "名雫代戯涙💧💦",
+          "includeKeywords": [
+            "戦闘モーション"
           ],
-          "strictContentExclusions": true
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "unreleased",
+            "private server",
+            "test server",
+            "modded",
+            "fan animation",
+            "compilation",
+            "all characters",
+            "all agents",
+            "all operators",
+            "合本",
+            "全キャラ",
+            "全女性",
+            "敵NPC",
+            "ボス",
+            "リーク",
+            "ベータ",
+            "テクニカルテスト",
+            "유출",
+            "베타",
+            "합본"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "approvedVideoIds": [
+            "U1FRRz04JD4",
+            "k_nLjbOJnEc",
+            "S2eI93-wPyg",
+            "TKkS5xfN5mI",
+            "4bTumLji-Dw",
+            "kaPiiSthwkw",
+            "-AGxMfZm_yI",
+            "3DxX7orlY9o",
+            "zfVD5G5UwpM",
+            "EmqNjBRWUN0",
+            "2F_LfKXAcro",
+            "gkHMC6ARxQo",
+            "y_hdXOf5O4k",
+            "j_ktlSI7wqQ"
+          ]
+        },
+        {
+          "channel": "UCwjDfkhr9diYtsnxl1onsjA",
+          "name": "アオナリ",
+          "includeKeywords": [
+            "モーション集"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "unreleased",
+            "private server",
+            "test server",
+            "modded",
+            "fan animation",
+            "compilation",
+            "all characters",
+            "all agents",
+            "all operators",
+            "合本",
+            "全キャラ",
+            "全女性",
+            "敵NPC",
+            "ボス",
+            "リーク",
+            "ベータ",
+            "テクニカルテスト",
+            "유출",
+            "베타",
+            "합본"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "approvedVideoIds": [
+            "s8wr4740DFk",
+            "CpRwj-fB3Ac",
+            "bjQt1Sj0Ozg",
+            "tyWOzMgRRXI",
+            "2bixiNaR7ZE",
+            "rIUJtQiFYQw",
+            "9UWubESFsFw",
+            "P1TYsFJhRTg",
+            "ISdV8atMWrU",
+            "kkFOTdecLOw",
+            "WKjtQUbX-8o",
+            "t8kz47OOpbc"
+          ]
+        },
+        {
+          "channel": "UCQEUwWIeOTqNYnFZfdKa1xg",
+          "name": "SANBAN",
+          "includeKeywords": [
+            "モーション 通常攻撃"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "unreleased",
+            "private server",
+            "test server",
+            "modded",
+            "fan animation",
+            "compilation",
+            "all characters",
+            "all agents",
+            "all operators",
+            "合本",
+            "全キャラ",
+            "全女性",
+            "敵NPC",
+            "ボス",
+            "リーク",
+            "ベータ",
+            "テクニカルテスト",
+            "유출",
+            "베타",
+            "합본"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "approvedVideoIds": [
+            "HiN8RSpHjzg",
+            "dxV1DJMfwkA",
+            "rYex0TwJL3E",
+            "eNevYJw_D70",
+            "aNvHNzOCWEQ"
+          ]
+        },
+        {
+          "channel": "UCdjxkkxjG1sNP1PRHEJr4rw",
+          "name": "ゲームシップ / Mercy",
+          "includeKeywords": [
+            "all Moveset"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "unreleased",
+            "private server",
+            "test server",
+            "modded",
+            "fan animation",
+            "compilation",
+            "all characters",
+            "all agents",
+            "all operators",
+            "合本",
+            "全キャラ",
+            "全女性",
+            "敵NPC",
+            "ボス",
+            "リーク",
+            "ベータ",
+            "テクニカルテスト",
+            "유출",
+            "베타",
+            "합본"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "approvedVideoIds": [
+            "0O_5nwUqw10",
+            "iVgCUWmu_UQ",
+            "GikyIrXZt5Y",
+            "sm8_gGEp-0M",
+            "47on-SaKjc4",
+            "SHpyghanx6w"
+          ]
+        },
+        {
+          "channel": "UC1GtkseNinovXsE1DCxX0jg",
+          "name": "Gamez Combaz",
+          "includeKeywords": [
+            "Moveset",
+            "Move List",
+            "Skill Showcase",
+            "Skills Showcase",
+            "Gameplay & Skill",
+            "All Skill"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "unreleased",
+            "private server",
+            "test server",
+            "modded",
+            "fan animation",
+            "compilation",
+            "all characters",
+            "all agents",
+            "all operators",
+            "合本",
+            "全キャラ",
+            "全女性",
+            "敵NPC",
+            "ボス",
+            "リーク",
+            "ベータ",
+            "テクニカルテスト",
+            "유출",
+            "베타",
+            "합본"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "approvedVideoIds": [
+            "kQMaTp9KgBE"
+          ]
+        },
+        {
+          "channel": "UCXZnZntLTfXnyNxrmJ-piVg",
+          "name": "コウシュケッピー!!",
+          "includeKeywords": [
+            "Moveset",
+            "Move List",
+            "Skill Showcase",
+            "Skills Showcase",
+            "Gameplay & Skill",
+            "All Skill"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "unreleased",
+            "private server",
+            "test server",
+            "modded",
+            "fan animation",
+            "compilation",
+            "all characters",
+            "all agents",
+            "all operators",
+            "合本",
+            "全キャラ",
+            "全女性",
+            "敵NPC",
+            "ボス",
+            "リーク",
+            "ベータ",
+            "テクニカルテスト",
+            "유출",
+            "베타",
+            "합본"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "approvedVideoIds": [
+            "r2jiU0oERyY"
+          ]
+        },
+        {
+          "channel": "UC2Js8xQUwvu9fbxR1JVy8PQ",
+          "name": "Eliver Gomez",
+          "includeKeywords": [
+            "Moveset",
+            "Move List",
+            "Skill Showcase",
+            "Skills Showcase",
+            "Gameplay & Skill",
+            "All Skill"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "unreleased",
+            "private server",
+            "test server",
+            "modded",
+            "fan animation",
+            "compilation",
+            "all characters",
+            "all agents",
+            "all operators",
+            "合本",
+            "全キャラ",
+            "全女性",
+            "敵NPC",
+            "ボス",
+            "リーク",
+            "ベータ",
+            "テクニカルテスト",
+            "유출",
+            "베타",
+            "합본"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "approvedVideoIds": [
+            "VvfWtb709_A"
+          ]
         }
       ]
     },
@@ -1981,6 +2669,89 @@
             "xF5KCHoY0sc"
           ],
           "strictContentExclusions": true
+        },
+        {
+          "channel": "UCsfkAM8cRqUGYsV23cDs18A",
+          "name": "名雫代戯涙💧💦",
+          "includeKeywords": [
+            "戦闘モーション"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "unreleased",
+            "private server",
+            "test server",
+            "modded",
+            "fan animation",
+            "compilation",
+            "all characters",
+            "all agents",
+            "all operators",
+            "合本",
+            "全キャラ",
+            "全女性",
+            "敵NPC",
+            "ボス",
+            "リーク",
+            "ベータ",
+            "テクニカルテスト",
+            "유출",
+            "베타",
+            "합본"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "approvedVideoIds": [
+            "a7lPI6VyCv4"
+          ]
+        },
+        {
+          "channel": "UCSqk_LOzQs0pflWgzW5Qfew",
+          "name": "Life is Wakaranai",
+          "includeKeywords": [
+            "Moveset",
+            "Move List",
+            "Skill Showcase",
+            "Skills Showcase",
+            "Gameplay & Skill",
+            "All Skill"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "unreleased",
+            "private server",
+            "test server",
+            "modded",
+            "fan animation",
+            "compilation",
+            "all characters",
+            "all agents",
+            "all operators",
+            "合本",
+            "全キャラ",
+            "全女性",
+            "敵NPC",
+            "ボス",
+            "リーク",
+            "ベータ",
+            "テクニカルテスト",
+            "유출",
+            "베타",
+            "합본"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "approvedVideoIds": [
+            "P7yKwISHuX8"
+          ]
         }
       ]
     },

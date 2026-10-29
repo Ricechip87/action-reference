@@ -55,7 +55,8 @@ def relevant(video,game):
     if not approved and game.get('titleGameRequired') and not any(named_in_title(k) for k in game.get('keywords',[])):return False
     if not approved and game.get('requireCharacterMatch') and not any(named_in_title(k) for k in game.get('characterAliases') or character_aliases(game['id'])):return False
     if any(term.casefold() in video['title'].casefold() for term in game.get('excludeKeywords',[])):return False
-    if game.get('strictContentExclusions') and re.search(r'\bleaks?\b|\bcbt\d?\b|\bbeta\b|private server|test server|modded|custom moveset|fan.?animation|유출|베타',hay,re.I):return False
+    content=hay.replace('公式より未発表のリーク情報や、テストサーバー等の機密情報は一切使用しておりません。','')
+    if game.get('strictContentExclusions') and re.search(r'\bleaks?\b|\bcbt\d?\b|\bbeta\b|private server|test server|modded|custom moveset|fan.?animation|リーク|ベータ|テクニカルテスト|유출|베타',content,re.I):return False
     if game.get('sourceKind')=='creator' and re.search(r'closed beta|\bcbt\d?\b|beta test|leaked footage|유출|베타 테스트',hay,re.I):return False
     if game.get('sourceKind')=='creator' and game.get('releaseDate') and video.get('publishedAt'):
         try:

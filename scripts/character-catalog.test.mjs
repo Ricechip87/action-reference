@@ -47,3 +47,12 @@ test('reviewed partial motion scope stays explicit after a feed refresh',()=>{
  assert.equal(result.type,'기본 공격 모션');
  assert.equal(result.referenceScope,'basic-attacks');
 });
+
+test('Japanese motion titles accept grammatical suffixes without matching another name',()=>{
+ const catalog=[{id:'jp-danjin',gameId:'ww',name:'단근',aliases:['Danjin','丹瑾']},{id:'jp-jean',gameId:'gi',name:'진',aliases:['Jean','ジン']}];
+ assert.equal(identifyCharacter({gameId:'ww',title:'≪鳴潮≫丹瑾の戦闘モーションを見るだけ',sourceKind:'creator'},catalog)?.id,'jp-danjin');
+ assert.equal(identifyCharacter({gameId:'gi',title:'【原神】ジン戦闘モーション',sourceKind:'creator'},catalog)?.id,'jp-jean');
+ assert.equal(identifyCharacter({gameId:'gi',title:'オリジンの戦闘モーション',sourceKind:'creator'},catalog),null);
+ const forms=[{id:'havoc',gameId:'ww',name:'방랑자·인멸',aliases:['漂泊者(男)・消滅']},{id:'spectro',gameId:'ww',name:'방랑자·회절',aliases:['漂泊者(男)・回折']}];
+ assert.equal(identifyCharacter({gameId:'ww',title:'≪鳴潮≫漂泊者(男)・消滅の戦闘モーションを見るだけ',sourceKind:'creator'},forms)?.id,'havoc');
+});

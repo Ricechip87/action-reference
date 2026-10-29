@@ -70,6 +70,14 @@ class FeedTests(unittest.TestCase):
             self.assertFalse(relevant({'id':'reviewed','title':'Character Skill Showcase Genshin','description':marker},rule))
         self.assertTrue(relevant({'id':'reviewed','title':'Character Skill Showcase Genshin','description':'Normal attacks, skill and burst'},rule))
 
+    def test_japanese_no_leaks_statement_is_not_mistaken_for_leaked_footage(self):
+        rule={'keywords':['Genshin'],'approvedVideoIds':['reviewed'],'strictContentExclusions':True}
+        safe='公式より未発表のリーク情報や、テストサーバー等の機密情報は一切使用しておりません。'
+        video={'id':'reviewed','title':'キャラ 全モーション集 Genshin','description':safe}
+        self.assertTrue(relevant(video,rule))
+        self.assertFalse(relevant({**video,'description':'ベータテスト映像'},rule))
+        self.assertFalse(relevant({**video,'description':safe+'\nリーク映像を追加'},rule))
+
     def test_archive_is_retained_without_age_limit_and_ids_are_unique(self):
         game={'id':'ww','channels':['@official'],'keywords':['명조'],'channelSpecific':True,'includeKeywords':['전투 모션']}
         old={'id':'old','gameId':'ww','sourceChannel':'@official','title':'공명자 전투 모션 | 과거','publishedAt':'2024-01-01T00:00:00Z'}

@@ -5,7 +5,9 @@ function hits(title,alias){
  const words=String(alias).normalize('NFKC').match(/[\p{L}\p{N}]+/gu);
  if(!words?.length)return [];
  const pattern=words.map(escape).join('[^\\p{L}\\p{N}]*');
- return [...title.matchAll(new RegExp('(?<![\\p{L}\\p{N}])'+pattern+'(?![\\p{L}\\p{N}])','giu'))].map(m=>({start:m.index,end:m.index+m[0].length}));
+ const japanese=/^[\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Han}ー]+$/u.test(words.join(''));
+ const ending=japanese?'(?=$|[^\\p{L}\\p{N}]|(?:の)?(?:戦闘|モーション|基本コンボ|通常攻撃))':'(?![\\p{L}\\p{N}])';
+ return [...title.matchAll(new RegExp('(?<![\\p{L}\\p{N}])'+pattern+ending,'giu'))].map(m=>({start:m.index,end:m.index+m[0].length}));
 }
 function identifiedCharacters(video,characters){
  const title=[video.title,...(Array.isArray(video.localizedTitles)?video.localizedTitles:[])].map(t=>String(t||'')).join(' | ').normalize('NFKC').replace(/[丨｜]/g,' ');

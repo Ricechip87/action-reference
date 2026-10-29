@@ -517,12 +517,19 @@
       "name": "에밀리",
       "aliases": [
         "Emilie",
-        "에밀리"
+        "에밀리",
+        "エミリエ"
       ],
       "releaseDate": "2024-08-06",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 85
+      "releaseOrder": 85,
+      "aliasSources": [
+        {
+          "alias": "エミリエ",
+          "source": "https://www.youtube.com/watch?v=HiN8RSpHjzg"
+        }
+      ]
     },
     {
       "id": "genshin-impact:sigewinne",
@@ -543,12 +550,19 @@
       "name": "세토스",
       "aliases": [
         "Sethos",
-        "세토스"
+        "세토스",
+        "セトス"
       ],
       "releaseDate": "2024-06-05",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 82
+      "releaseOrder": 82,
+      "aliasSources": [
+        {
+          "alias": "セトス",
+          "source": "https://www.youtube.com/watch?v=-AGxMfZm_yI"
+        }
+      ]
     },
     {
       "id": "genshin-impact:clorinde",
@@ -556,12 +570,19 @@
       "name": "클로린드",
       "aliases": [
         "Clorinde",
-        "클로린드"
+        "클로린드",
+        "クロリンデ"
       ],
       "releaseDate": "2024-06-05",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 83
+      "releaseOrder": 83,
+      "aliasSources": [
+        {
+          "alias": "クロリンデ",
+          "source": "https://www.youtube.com/watch?v=3DxX7orlY9o"
+        }
+      ]
     },
     {
       "id": "genshin-impact:arlecchino",
@@ -595,12 +616,19 @@
       "name": "한운",
       "aliases": [
         "Xianyun",
-        "한운"
+        "한운",
+        "閑雲"
       ],
       "releaseDate": "2024-01-31",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 79
+      "releaseOrder": 79,
+      "aliasSources": [
+        {
+          "alias": "閑雲",
+          "source": "https://www.youtube.com/watch?v=kaPiiSthwkw"
+        }
+      ]
     },
     {
       "id": "genshin-impact:gaming",
@@ -621,12 +649,19 @@
       "name": "슈브르즈",
       "aliases": [
         "Chevreuse",
-        "슈브르즈"
+        "슈브르즈",
+        "シュヴルーズ"
       ],
       "releaseDate": "2024-01-09",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 77
+      "releaseOrder": 77,
+      "aliasSources": [
+        {
+          "alias": "シュヴルーズ",
+          "source": "https://www.youtube.com/watch?v=j_ktlSI7wqQ"
+        }
+      ]
     },
     {
       "id": "genshin-impact:navia",
@@ -647,12 +682,19 @@
       "name": "푸리나",
       "aliases": [
         "Furina",
-        "푸리나"
+        "푸리나",
+        "フリーナ"
       ],
       "releaseDate": "2023-11-08",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 75
+      "releaseOrder": 75,
+      "aliasSources": [
+        {
+          "alias": "フリーナ",
+          "source": "https://www.youtube.com/watch?v=y_hdXOf5O4k"
+        }
+      ]
     },
     {
       "id": "genshin-impact:charlotte",
@@ -660,12 +702,19 @@
       "name": "샤를로트",
       "aliases": [
         "Charlotte",
-        "샤를로트"
+        "샤를로트",
+        "シャルロット"
       ],
       "releaseDate": "2023-11-08",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 74
+      "releaseOrder": 74,
+      "aliasSources": [
+        {
+          "alias": "シャルロット",
+          "source": "https://www.youtube.com/watch?v=r2jiU0oERyY"
+        }
+      ]
     },
     {
       "id": "genshin-impact:wriothesley",
@@ -673,12 +722,19 @@
       "name": "라이오슬리",
       "aliases": [
         "Wriothesley",
-        "라이오슬리"
+        "라이오슬리",
+        "リオセスリ"
       ],
       "releaseDate": "2023-10-17",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 73
+      "releaseOrder": 73,
+      "aliasSources": [
+        {
+          "alias": "リオセスリ",
+          "source": "https://www.youtube.com/watch?v=4bTumLji-Dw"
+        }
+      ]
     },
     {
       "id": "genshin-impact:neuvillette",
@@ -686,12 +742,19 @@
       "name": "느비예트",
       "aliases": [
         "Neuvillette",
-        "느비예트"
+        "느비예트",
+        "ヌヴィレット"
       ],
       "releaseDate": "2023-09-27",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 72
+      "releaseOrder": 72,
+      "aliasSources": [
+        {
+          "alias": "ヌヴィレット",
+          "source": "https://www.youtube.com/watch?v=TKkS5xfN5mI"
+        }
+      ]
     },
     {
       "id": "genshin-impact:freminet",
@@ -790,12 +853,19 @@
       "name": "데히야",
       "aliases": [
         "Dehya",
-        "데히야"
+        "데히야",
+        "ディシア"
       ],
       "releaseDate": "2023-03-01",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 64
+      "releaseOrder": 64,
+      "aliasSources": [
+        {
+          "alias": "ディシア",
+          "source": "https://www.youtube.com/watch?v=gkHMC6ARxQo"
+        }
+      ]
     },
     {
       "id": "genshin-impact:yaoyao",
@@ -946,12 +1016,19 @@
       "name": "콜레이",
       "aliases": [
         "Collei",
-        "콜레이"
+        "콜레이",
+        "コレイ"
       ],
       "releaseDate": "2022-08-24",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 52
+      "releaseOrder": 52,
+      "aliasSources": [
+        {
+          "alias": "コレイ",
+          "source": "https://www.youtube.com/watch?v=tyWOzMgRRXI"
+        }
+      ]
     },
     {
       "id": "genshin-impact:shikanoin-heizou",
@@ -960,12 +1037,19 @@
       "aliases": [
         "Shikanoin Heizou",
         "Heizou",
-        "시카노인 헤이조"
+        "시카노인 헤이조",
+        "鹿野院平蔵"
       ],
       "releaseDate": "2022-07-13",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 51
+      "releaseOrder": 51,
+      "aliasSources": [
+        {
+          "alias": "鹿野院平蔵",
+          "source": "https://www.youtube.com/watch?v=s8wr4740DFk"
+        }
+      ]
     },
     {
       "id": "genshin-impact:kuki-shinobu",
@@ -1001,12 +1085,19 @@
       "aliases": [
         "Kamisato Ayato",
         "Ayato",
-        "카미사토 아야토"
+        "카미사토 아야토",
+        "神里綾人"
       ],
       "releaseDate": "2022-03-30",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 48
+      "releaseOrder": 48,
+      "aliasSources": [
+        {
+          "alias": "神里綾人",
+          "source": "https://www.youtube.com/watch?v=eNevYJw_D70"
+        }
+      ]
     },
     {
       "id": "genshin-impact:yae-miko",
@@ -1014,12 +1105,19 @@
       "name": "야에 미코",
       "aliases": [
         "Yae Miko",
-        "야에 미코"
+        "야에 미코",
+        "八重神子"
       ],
       "releaseDate": "2022-02-16",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 47
+      "releaseOrder": 47,
+      "aliasSources": [
+        {
+          "alias": "八重神子",
+          "source": "https://www.youtube.com/watch?v=rYex0TwJL3E"
+        }
+      ]
     },
     {
       "id": "genshin-impact:yun-jin",
@@ -1027,12 +1125,19 @@
       "name": "운근",
       "aliases": [
         "Yun Jin",
-        "운근"
+        "운근",
+        "雲菫"
       ],
       "releaseDate": "2022-01-05",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 46
+      "releaseOrder": 46,
+      "aliasSources": [
+        {
+          "alias": "雲菫",
+          "source": "https://www.youtube.com/watch?v=bjQt1Sj0Ozg"
+        }
+      ]
     },
     {
       "id": "genshin-impact:shenhe",
@@ -1053,12 +1158,19 @@
       "name": "고로",
       "aliases": [
         "Gorou",
-        "고로"
+        "고로",
+        "ゴロー"
       ],
       "releaseDate": "2021-12-14",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 43
+      "releaseOrder": 43,
+      "aliasSources": [
+        {
+          "alias": "ゴロー",
+          "source": "https://www.youtube.com/watch?v=CpRwj-fB3Ac"
+        }
+      ]
     },
     {
       "id": "genshin-impact:arataki-itto",
@@ -1108,12 +1220,19 @@
       "aliases": [
         "Raiden Shogun",
         "Raiden",
-        "라이덴 쇼군"
+        "라이덴 쇼군",
+        "雷電将軍"
       ],
       "releaseDate": "2021-09-01",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 38
+      "releaseOrder": 38,
+      "aliasSources": [
+        {
+          "alias": "雷電将軍",
+          "source": "https://www.youtube.com/watch?v=aNvHNzOCWEQ"
+        }
+      ]
     },
     {
       "id": "genshin-impact:kujou-sara",
@@ -1175,12 +1294,19 @@
       "aliases": [
         "Kamisato Ayaka",
         "Ayaka",
-        "카미사토 아야카"
+        "카미사토 아야카",
+        "神里綾華"
       ],
       "releaseDate": "2021-07-21",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 35
+      "releaseOrder": 35,
+      "aliasSources": [
+        {
+          "alias": "神里綾華",
+          "source": "https://www.youtube.com/watch?v=dxV1DJMfwkA"
+        }
+      ]
     },
     {
       "id": "genshin-impact:kaedehara-kazuha",
@@ -1215,12 +1341,19 @@
       "name": "연비",
       "aliases": [
         "Yanfei",
-        "연비"
+        "연비",
+        "煙緋"
       ],
       "releaseDate": "2021-04-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 32
+      "releaseOrder": 32,
+      "aliasSources": [
+        {
+          "alias": "煙緋",
+          "source": "https://www.youtube.com/watch?v=WKjtQUbX-8o"
+        }
+      ]
     },
     {
       "id": "genshin-impact:rosaria",
@@ -1228,12 +1361,19 @@
       "name": "로자리아",
       "aliases": [
         "Rosaria",
-        "로자리아"
+        "로자리아",
+        "ロサリア"
       ],
       "releaseDate": "2021-04-06",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 31
+      "releaseOrder": 31,
+      "aliasSources": [
+        {
+          "alias": "ロサリア",
+          "source": "https://www.youtube.com/watch?v=S2eI93-wPyg"
+        }
+      ]
     },
     {
       "id": "genshin-impact:hu-tao",
@@ -1372,12 +1512,19 @@
       "name": "향릉",
       "aliases": [
         "Xiangling",
-        "향릉"
+        "향릉",
+        "香菱"
       ],
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 21
+      "releaseOrder": 21,
+      "aliasSources": [
+        {
+          "alias": "香菱",
+          "source": "https://www.youtube.com/watch?v=t8kz47OOpbc"
+        }
+      ]
     },
     {
       "id": "genshin-impact:venti",
@@ -1411,12 +1558,19 @@
       "name": "설탕",
       "aliases": [
         "Sucrose",
-        "설탕"
+        "설탕",
+        "スクロース"
       ],
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 11
+      "releaseOrder": 11,
+      "aliasSources": [
+        {
+          "alias": "スクロース",
+          "source": "https://www.youtube.com/watch?v=ISdV8atMWrU"
+        }
+      ]
     },
     {
       "id": "genshin-impact:razor",
@@ -1424,12 +1578,19 @@
       "name": "레이저",
       "aliases": [
         "Razor",
-        "레이저"
+        "레이저",
+        "レザー"
       ],
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 4
+      "releaseOrder": 4,
+      "aliasSources": [
+        {
+          "alias": "レザー",
+          "source": "https://www.youtube.com/watch?v=2bixiNaR7ZE"
+        }
+      ]
     },
     {
       "id": "genshin-impact:qiqi",
@@ -1437,12 +1598,19 @@
       "name": "치치",
       "aliases": [
         "Qiqi",
-        "치치"
+        "치치",
+        "七七"
       ],
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 17
+      "releaseOrder": 17,
+      "aliasSources": [
+        {
+          "alias": "七七",
+          "source": "https://www.youtube.com/watch?v=2F_LfKXAcro"
+        }
+      ]
     },
     {
       "id": "genshin-impact:noelle",
@@ -1450,12 +1618,19 @@
       "name": "노엘",
       "aliases": [
         "Noelle",
-        "노엘"
+        "노엘",
+        "ノエル"
       ],
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 2
+      "releaseOrder": 2,
+      "aliasSources": [
+        {
+          "alias": "ノエル",
+          "source": "https://www.youtube.com/watch?v=rIUJtQiFYQw"
+        }
+      ]
     },
     {
       "id": "genshin-impact:ningguang",
@@ -1515,12 +1690,19 @@
       "name": "케이아",
       "aliases": [
         "Kaeya",
-        "케이아"
+        "케이아",
+        "ガイア"
       ],
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 18
+      "releaseOrder": 18,
+      "aliasSources": [
+        {
+          "alias": "ガイア",
+          "source": "https://www.youtube.com/watch?v=P1TYsFJhRTg"
+        }
+      ]
     },
     {
       "id": "genshin-impact:jean",
@@ -1528,12 +1710,19 @@
       "name": "진",
       "aliases": [
         "Jean",
-        "진"
+        "진",
+        "ジン"
       ],
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 16
+      "releaseOrder": 16,
+      "aliasSources": [
+        {
+          "alias": "ジン",
+          "source": "https://www.youtube.com/watch?v=EmqNjBRWUN0"
+        }
+      ]
     },
     {
       "id": "genshin-impact:fischl",
@@ -1541,12 +1730,19 @@
       "name": "피슬",
       "aliases": [
         "Fischl",
-        "피슬"
+        "피슬",
+        "フィッシュル"
       ],
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 19
+      "releaseOrder": 19,
+      "aliasSources": [
+        {
+          "alias": "フィッシュル",
+          "source": "https://www.youtube.com/watch?v=kkFOTdecLOw"
+        }
+      ]
     },
     {
       "id": "genshin-impact:diluc",
@@ -1554,12 +1750,19 @@
       "name": "다이루크",
       "aliases": [
         "Diluc",
-        "다이루크"
+        "다이루크",
+        "ディルック"
       ],
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 3
+      "releaseOrder": 3,
+      "aliasSources": [
+        {
+          "alias": "ディルック",
+          "source": "https://www.youtube.com/watch?v=U1FRRz04JD4"
+        }
+      ]
     },
     {
       "id": "genshin-impact:chongyun",
@@ -1593,12 +1796,19 @@
       "name": "북두",
       "aliases": [
         "Beidou",
-        "북두"
+        "북두",
+        "北斗"
       ],
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 10
+      "releaseOrder": 10,
+      "aliasSources": [
+        {
+          "alias": "北斗",
+          "source": "https://www.youtube.com/watch?v=k_nLjbOJnEc"
+        }
+      ]
     },
     {
       "id": "genshin-impact:barbara",
@@ -1606,12 +1816,19 @@
       "name": "바바라",
       "aliases": [
         "Barbara",
-        "바바라"
+        "바바라",
+        "バーバラ"
       ],
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 7
+      "releaseOrder": 7,
+      "aliasSources": [
+        {
+          "alias": "バーバラ",
+          "source": "https://www.youtube.com/watch?v=zfVD5G5UwpM"
+        }
+      ]
     },
     {
       "id": "genshin-impact:amber",
@@ -1619,12 +1836,19 @@
       "name": "앰버",
       "aliases": [
         "Amber",
-        "앰버"
+        "앰버",
+        "アンバー"
       ],
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 12
+      "releaseOrder": 12,
+      "aliasSources": [
+        {
+          "alias": "アンバー",
+          "source": "https://www.youtube.com/watch?v=9UWubESFsFw"
+        }
+      ]
     },
     {
       "id": "wuthering-waves:cartethyia",
@@ -2045,12 +2269,19 @@
       "name": "칸타렐라",
       "aliases": [
         "Cantarella",
-        "칸타렐라"
+        "칸타렐라",
+        "カンタレラ"
       ],
       "releaseDate": "2025-03-27",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 32
+      "releaseOrder": 32,
+      "aliasSources": [
+        {
+          "alias": "カンタレラ",
+          "source": "https://www.youtube.com/watch?v=dbXrKVqtQfE"
+        }
+      ]
     },
     {
       "id": "wuthering-waves:chisa",
@@ -2098,12 +2329,19 @@
       "aliases": [
         "Rover-Havoc",
         "Havoc Rover",
-        "방랑자·인멸"
+        "방랑자·인멸",
+        "漂泊者(男)・消滅"
       ],
       "releaseDate": "2024-05-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 7
+      "releaseOrder": 7,
+      "aliasSources": [
+        {
+          "alias": "漂泊者(男)・消滅",
+          "source": "https://www.youtube.com/watch?v=02BYhgDRbjo"
+        }
+      ]
     },
     {
       "id": "wuthering-waves:yangyang-xuanling",
@@ -2372,12 +2610,19 @@
       "name": "단근",
       "aliases": [
         "Danjin",
-        "단근"
+        "단근",
+        "丹瑾"
       ],
       "releaseDate": "2024-05-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 4
+      "releaseOrder": 4,
+      "aliasSources": [
+        {
+          "alias": "丹瑾",
+          "source": "https://www.youtube.com/watch?v=Z0u8eT3ulRA"
+        }
+      ]
     },
     {
       "id": "wuthering-waves:taoqi",
@@ -2385,12 +2630,19 @@
       "name": "도기",
       "aliases": [
         "Taoqi",
-        "도기"
+        "도기",
+        "桃祈"
       ],
       "releaseDate": "2024-05-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 5
+      "releaseOrder": 5,
+      "aliasSources": [
+        {
+          "alias": "桃祈",
+          "source": "https://www.youtube.com/watch?v=BkIFlmvKQx4"
+        }
+      ]
     },
     {
       "id": "wuthering-waves:suoming",
@@ -2412,12 +2664,19 @@
       "aliases": [
         "Alexandrina Sebastiane",
         "Rina",
-        "리나"
+        "리나",
+        "リナ"
       ],
       "releaseDate": "2024-07-04",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 6
+      "releaseOrder": 6,
+      "aliasSources": [
+        {
+          "alias": "リナ",
+          "source": "https://www.youtube.com/watch?v=E9UKgtaQsfc"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:anby-demara",
@@ -2439,12 +2698,19 @@
       "name": "앤톤",
       "aliases": [
         "Anton Ivanov",
-        "앤톤"
+        "앤톤",
+        "アンドー"
       ],
       "releaseDate": "2024-07-04",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 11
+      "releaseOrder": 11,
+      "aliasSources": [
+        {
+          "alias": "アンドー",
+          "source": "https://www.youtube.com/watch?v=xnTsbnrPpTE"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:ben-bigger",
@@ -2452,12 +2718,19 @@
       "name": "벤",
       "aliases": [
         "Ben Bigger",
-        "벤"
+        "벤",
+        "ベン"
       ],
       "releaseDate": "2024-07-04",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 8
+      "releaseOrder": 8,
+      "aliasSources": [
+        {
+          "alias": "ベン",
+          "source": "https://www.youtube.com/watch?v=zQNqxje2aPc"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:billy-kid",
@@ -2521,12 +2794,19 @@
       "name": "콜레다",
       "aliases": [
         "Koleda Belobog",
-        "콜레다"
+        "콜레다",
+        "クレタ"
       ],
       "releaseDate": "2024-07-04",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 15
+      "releaseOrder": 15,
+      "aliasSources": [
+        {
+          "alias": "クレタ",
+          "source": "https://www.youtube.com/watch?v=ADCB_8xMvBM"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:luciana-de-montefio",
@@ -2534,12 +2814,19 @@
       "name": "루시",
       "aliases": [
         "Luciana de Montefio",
-        "루시"
+        "루시",
+        "ルーシー"
       ],
       "releaseDate": "2024-07-04",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 5
+      "releaseOrder": 5,
+      "aliasSources": [
+        {
+          "alias": "ルーシー",
+          "source": "https://www.youtube.com/watch?v=ZMp2spSUMno"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:nekomiya-mana",
@@ -2548,12 +2835,19 @@
       "aliases": [
         "Nekomiya Mana",
         "Nekomata",
-        "네코마타"
+        "네코마타",
+        "猫又"
       ],
       "releaseDate": "2024-07-04",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 3
+      "releaseOrder": 3,
+      "aliasSources": [
+        {
+          "alias": "猫又",
+          "source": "https://www.youtube.com/watch?v=Pwyb5uqRxHk"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:nicole-demara",
@@ -2575,12 +2869,19 @@
       "name": "파이퍼",
       "aliases": [
         "Piper Wheel",
-        "파이퍼"
+        "파이퍼",
+        "パイパー"
       ],
       "releaseDate": "2024-07-04",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 16
+      "releaseOrder": 16,
+      "aliasSources": [
+        {
+          "alias": "パイパー",
+          "source": "https://www.youtube.com/watch?v=XL7WD0Q9fMA"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:soldier-11",
@@ -2588,12 +2889,19 @@
       "name": "11호",
       "aliases": [
         "Soldier 11",
-        "11호"
+        "11호",
+        "11号"
       ],
       "releaseDate": "2024-07-04",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 1
+      "releaseOrder": 1,
+      "aliasSources": [
+        {
+          "alias": "11号",
+          "source": "https://www.youtube.com/watch?v=IqYa7jZb93Q"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:soukaku",
@@ -2601,12 +2909,19 @@
       "name": "소우카쿠",
       "aliases": [
         "Soukaku",
-        "소우카쿠"
+        "소우카쿠",
+        "蒼角"
       ],
       "releaseDate": "2024-07-04",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 10
+      "releaseOrder": 10,
+      "aliasSources": [
+        {
+          "alias": "蒼角",
+          "source": "https://www.youtube.com/watch?v=6jU4B0_9UHo"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:von-lycaon",
@@ -2615,12 +2930,19 @@
       "aliases": [
         "Von Lycaon",
         "Lycaon",
-        "리카온"
+        "리카온",
+        "ライカン"
       ],
       "releaseDate": "2024-07-04",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 7
+      "releaseOrder": 7,
+      "aliasSources": [
+        {
+          "alias": "ライカン",
+          "source": "https://www.youtube.com/watch?v=mxV0ToDaiJY"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:zhu-yuan",
@@ -2668,12 +2990,19 @@
       "name": "세스",
       "aliases": [
         "Seth Lowell",
-        "세스"
+        "세스",
+        "セス"
       ],
       "releaseDate": "2024-09-04",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 19
+      "releaseOrder": 19,
+      "aliasSources": [
+        {
+          "alias": "セス",
+          "source": "https://www.youtube.com/watch?v=pWSOGxkFYnQ"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:caesar-king",
@@ -2791,12 +3120,19 @@
       "name": "펄크라",
       "aliases": [
         "Pulchra Fellini",
-        "펄크라"
+        "펄크라",
+        "プルクラ"
       ],
       "releaseDate": "2025-03-12",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 30
+      "releaseOrder": 30,
+      "aliasSources": [
+        {
+          "alias": "プルクラ",
+          "source": "https://www.youtube.com/watch?v=q7dgk2k5ReI"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:soldier-0-anby",
@@ -2859,12 +3195,19 @@
       "name": "판인후",
       "aliases": [
         "Pan Yinhu",
-        "판인후"
+        "판인후",
+        "潘引壺"
       ],
       "releaseDate": "2025-06-06",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 35
+      "releaseOrder": 35,
+      "aliasSources": [
+        {
+          "alias": "潘引壺",
+          "source": "https://www.youtube.com/watch?v=mh1adroiy0I"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:yixuan",
@@ -2872,12 +3215,19 @@
       "name": "의현",
       "aliases": [
         "Yixuan",
-        "의현"
+        "의현",
+        "儀玄"
       ],
       "releaseDate": "2025-06-06",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 34
+      "releaseOrder": 34,
+      "aliasSources": [
+        {
+          "alias": "儀玄",
+          "source": "https://www.youtube.com/watch?v=kvsAtLWsKIg"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:ju-fufu",
@@ -2954,12 +3304,19 @@
       "name": "코마노 마나토",
       "aliases": [
         "Komano Manato",
-        "코마노 마나토"
+        "코마노 마나토",
+        "真斗"
       ],
       "releaseDate": "2025-10-15",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 42
+      "releaseOrder": 42,
+      "aliasSources": [
+        {
+          "alias": "真斗",
+          "source": "https://www.youtube.com/watch?v=2SK55D1x7Yo"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:lucia-elowen",
@@ -2982,12 +3339,19 @@
       "aliases": [
         "Yidhari Murphy",
         "Yidhari",
-        "이드하리"
+        "이드하리",
+        "イドリー"
       ],
       "releaseDate": "2025-11-05",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 43
+      "releaseOrder": 43,
+      "aliasSources": [
+        {
+          "alias": "イドリー",
+          "source": "https://www.youtube.com/watch?v=HXiL2J15Yos"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:dialyn",
@@ -2995,12 +3359,19 @@
       "name": "다이아린",
       "aliases": [
         "Dialyn",
-        "다이아린"
+        "다이아린",
+        "ダイアリン"
       ],
       "releaseDate": "2025-11-26",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 44
+      "releaseOrder": 44,
+      "aliasSources": [
+        {
+          "alias": "ダイアリン",
+          "source": "https://www.youtube.com/watch?v=IPwpSuPDX5c"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:banyue",
@@ -3047,12 +3418,19 @@
       "name": "수나",
       "aliases": [
         "Sunna",
-        "수나"
+        "수나",
+        "千夏"
       ],
       "releaseDate": "2026-02-06",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 48
+      "releaseOrder": 48,
+      "aliasSources": [
+        {
+          "alias": "千夏",
+          "source": "https://www.youtube.com/watch?v=MF_1-X1_5cA"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:aria",
@@ -3073,12 +3451,19 @@
       "name": "남궁우",
       "aliases": [
         "Nangong Yu",
-        "남궁우"
+        "남궁우",
+        "南宮羽"
       ],
       "releaseDate": "2026-03-24",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 50
+      "releaseOrder": 50,
+      "aliasSources": [
+        {
+          "alias": "南宮羽",
+          "source": "https://www.youtube.com/watch?v=XHcSZHkiefM"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:cissia",
@@ -3086,12 +3471,19 @@
       "name": "시시아",
       "aliases": [
         "Cissia",
-        "시시아"
+        "시시아",
+        "シーシィア"
       ],
       "releaseDate": "2026-04-15",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 51
+      "releaseOrder": 51,
+      "aliasSources": [
+        {
+          "alias": "シーシィア",
+          "source": "https://www.youtube.com/watch?v=rvep-pbSbA8"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:promeia",
@@ -3113,12 +3505,19 @@
       "aliases": [
         "Starlight - Billy Kid",
         "Starlight Billy",
-        "스타라이트·빌리"
+        "스타라이트·빌리",
+        "スターライトビリー"
       ],
       "releaseDate": "2026-05-27",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 53
+      "releaseOrder": 53,
+      "aliasSources": [
+        {
+          "alias": "スターライトビリー",
+          "source": "https://www.youtube.com/watch?v=48IX9kpBIrA"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:pyrois",
@@ -3182,12 +3581,19 @@
       "aliases": [
         "Sigrid de L'Azur",
         "Sigrid",
-        "시그리드"
+        "시그리드",
+        "シグリッド・ドゥ・ラズール"
       ],
       "releaseDate": "2026-08-19",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
-      "releaseOrder": 58
+      "releaseOrder": 58,
+      "aliasSources": [
+        {
+          "alias": "シグリッド・ドゥ・ラズール",
+          "source": "https://www.youtube.com/watch?v=0lHTcTNu6mw"
+        }
+      ]
     },
     {
       "id": "zenless-zone-zero:claret-flint",
@@ -3576,12 +3982,19 @@
       "name": "탕탕",
       "aliases": [
         "Tangtang",
-        "탕탕"
+        "탕탕",
+        "タンタン"
       ],
       "releaseDate": "2026-03-12",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 24
+      "releaseOrder": 24,
+      "aliasSources": [
+        {
+          "alias": "タンタン",
+          "source": "https://www.youtube.com/watch?v=a7lPI6VyCv4"
+        }
+      ]
     },
     {
       "id": "arknights-endfield:yvonne",
