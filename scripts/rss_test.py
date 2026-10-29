@@ -55,4 +55,9 @@ class FeedTests(unittest.TestCase):
         self.assertFalse(matches('Starlight Billy Gameplay','빌리',['Billy']))
         self.assertEqual(person({'gameId':'neverness-to-everness','title':'이환 | 나나리 캐릭터 쇼케이스'}),'나나리')
 
+    def test_unmarked_prelaunch_creator_video_is_excluded(self):
+        rule={'sourceKind':'creator','channelSpecific':True,'releaseDate':'2024-07-04','includeKeywords':['Skill Showcase']}
+        self.assertFalse(relevant({'title':'Grace Skill Showcase','publishedAt':'2024-06-17T10:00:00Z'},rule))
+        self.assertTrue(relevant({'title':'Grace Skill Showcase','publishedAt':'2024-07-05T10:00:00Z'},rule))
+
 if __name__=='__main__':unittest.main()

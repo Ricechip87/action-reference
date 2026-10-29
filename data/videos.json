@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T20:00:16.217114+00:00",
+  "updatedAt": "2026-10-29T20:11:49.712230+00:00",
   "source": "rss",
   "channels": [
     {
@@ -24,6 +24,13 @@
       "matchedCount": 1
     },
     {
+      "gameId": "wuthering-waves",
+      "channel": "UCcCTeJUeGqyGU4RkR6uViwA",
+      "ok": true,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
       "gameId": "zenless-zone-zero",
       "channel": "@ZZZ_KO",
       "ok": true,
@@ -43,6 +50,34 @@
       "ok": true,
       "feedCount": 15,
       "matchedCount": 0
+    },
+    {
+      "gameId": "zenless-zone-zero",
+      "channel": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "ok": true,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "zenless-zone-zero",
+      "channel": "UCaRXeatgLKRhkSNd50IPFMg",
+      "ok": true,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "zenless-zone-zero",
+      "channel": "UCRxIDzY5KZNRGerR6KaHxCw",
+      "ok": true,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "zenless-zone-zero",
+      "channel": "UCaHVimpAxzUHXBzJaWqHtbg",
+      "ok": true,
+      "feedCount": 15,
+      "matchedCount": 2
     },
     {
       "gameId": "neverness-to-everness",
@@ -488,94 +523,6 @@
       ]
     },
     {
-      "id": "fiuBE92Oj8k",
-      "title": "Mint Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
-      "publishedAt": "2026-05-16T02:29:21-07:00",
-      "channelTitle": "The Chaos Duck",
-      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
-      "gameId": "neverness-to-everness",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "A showcase of Mint's gameplay to fully appreciate every detail in each of her animations.\n\nFor the first character you unlock, Min't animations look really good, even when compared to some S Ranks. Her basic attacks are definitely the best animation-wise. They feel extremely light and quick, yet they look like they cut so smooth at the same time. I also really like the way she spins her blades as she puts them away (quite similarly to Daffodil actually, which could be why I like her animations so much). One nitpick I do have is that I feel like the tornado slashes during her charged attack could be a bit bigger and faster. But, even for an A rank character, you could tell that a lot of care went into each of her animations. 9/10 from me.\n\nTimestamps:\n\n[Combat]\n(Front)\n0:00 - Standing to Idle\n0:04 - Idle Animations\n0:28 - Basic Attacks \n0:49- Plunge Attack\n0:51 - Redirect Skill\n0:55 - Charged Attack\n1:05 - Ultimate\n1:20 - Disarm\n\n(Side)\n1:24 - Basic Attacks \n1:44 - Plunge Attack\n1:47 - Redirect Skill\n1:50 - Charged Attack\n2:02 - Disarm\n\n(Back)\n2:06 - Basic Attacks \n2:28 - Plunge Attack\n2:32 - Redirect Skill\n2:35 - Charged Attacks\n2:48 - Disarm\n\n(Other)\n2:52 - Intro Skill\n2:57 - Dodge Attack\n3:03 - Knockback\n3:08 - Critical Dodges\n3:11 - Parry\n\n[Exploration]\n3:15 - Walk\n3:31 - Run\n3:48 - Dash\n4:01 - Dodge\n4:15 - Jumping & Gliding (All angles)\n\n[Menu]\n4:39 - Intro\n4:44 - Arc selection\n4:50 - Skins\n\nNeverness To Everness is a supernatural urban open-world RPG developed by Hotta Studio, a subsidiary of Perfect World Games. In this Anomaly-filled city, you'll make a dazzling entrance, using your extraordinary Esper abilities to navigate freely and handle unexpected events. Beyond that, you can choose your own lifestyle, manage businesses, and experience a vibrant urban life.\n\nMint is an A rarity character from the Anima attribute who performs the Damage role in combat. Herr Arc Compatibility is Liquid.\n\nPlay Neverness to Everness now!: nte.perfectworld.com\n\n#NTE #NTEcreator #gameplay #animations #showcase #mint #nevernesstoeverness",
-      "duration": "PT310S",
-      "variants": [
-        {
-          "id": "fiuBE92Oj8k",
-          "title": "Mint Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "KN251GvTlcI",
-      "title": "Hathor Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
-      "publishedAt": "2026-05-15T05:40:51-07:00",
-      "channelTitle": "The Chaos Duck",
-      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
-      "gameId": "neverness-to-everness",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "A showcase of Hathor's gameplay to fully appreciate every detail in each of her animations.\n\nAs someone who uses her as a burst DPS, I did NOT expect her to attack using her legs (that is not a complaint in any way). Her basic attacks are probably my favorite part of her kit animation-wise, as I like the way they feel so floaty and strong at the same time, and each one of them feel equally as good as the other. Her Redirect Skill, charged attack, and plunge attack feel a little weak in comparison, although I do like how she has a unique plunge attack (animation-wise tho, it also feels weak). Her ultimate is just fine, tho I feel they could've done a bit more with it. One thing I didn't know was that she could ride motorcycles herself, until I someone else do it, which I think is a really cool unique feature of hers (and I hope that gets extended to more characters in the future). 7/10 for me.\n\nTimestamps:\n\n[Combat]\n(Front)\n0:00 - Standing to Idle\n0:09 - Idle Animations\n0:44 - Basic Attacks \n1:10 - Plunge Attack\n1:14 - Redirect Skill\n1:20 - Charged Attack\n1:27 - Ultimate\n1:34 - Ultimate Attacks\n1:58 - Disarm\n\n(Side)\n2:07 - Basic Attacks \n2:32 - Plunge Attack\n2:36 - Redirect Skill\n2:41 - Charged Attack\n2:52 - Disarm\n\n(Back)\n3:01 - Basic Attacks \n3:27 - Plunge Attack\n3:31 - Redirect Skill\n3:36 - Charged Attack\n3:48 - Disarm\n\n(Other)\n3:55 - Redirect Skill (Hold)\n4:06 - Intro Skill\n4:11 - Dodge Attack\n4:17 - Critical Dodges\n4:19 - Parry\n4:23 - Knockback\n\n[Exploration]\n4:28 - Walk\n4:46 - Run\n5:04 - Dash\n5:18 - Dodge\n5:33 - Jumping & Gliding (All angles)\n6:04 - Motorcycle Riding\n\n[Menu]\n6:55 - Intro\n7:00 - Arc selection\n\n7:08 - Plunge Attack Blooper\n\nNeverness To Everness is a supernatural urban open-world RPG developed by Hotta Studio, a subsidiary of Perfect World Games. In this Anomaly-filled city, you'll make a dazzling entrance, using your extraordinary Esper abilities to navigate freely and handle unexpected events. Beyond that, you can choose your own lifestyle, manage businesses, and experience a vibrant urban life.\n\nHathor is an S rarity character from the Lakshana attribute who performs the Damage role in combat. Her Arc Compatibility is Plasma.\n\nPlay Neverness to Everness now!: nte.perfectworld.com\n\n#NTE #NTEcreator #gameplay #animations #showcase #hathor #nevernesstoeverness",
-      "duration": "PT463S",
-      "variants": [
-        {
-          "id": "KN251GvTlcI",
-          "title": "Hathor Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "fPD5usu8sQE",
-      "title": "Nanally Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
-      "publishedAt": "2026-05-13T04:58:25-07:00",
-      "channelTitle": "The Chaos Duck",
-      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
-      "gameId": "neverness-to-everness",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "A showcase of Nanally's gameplay to fully appreciate every detail in each of her animations.\n\nI think overall, all of Nanally's animations are quite even in quality, with the best being her basic and charged attacks, of course. I like how she uses a mix of kicks and punches, both feeling just as strong as the other. I also really like how you can really feel the oomph coming out of Nanally's basic attacks (the amazing sound design is also a big factor of it), her charged attacks amplifying that oomph times TEN, with each hit feeling like you're hitting the enemies with trucks. Her weakest link only being her Redirect Skill, which still feels really impactful cuz the effects make up for the weird animation. The little animations she does after each attack are also really cute and add to her personality. 10/10 for me.\n\nTimestamps:\n\n[Combat]\n(Front)\n0:00 - Standing to Idle\n0:04 - Idle Animations\n0:22 - Basic Attacks \n0:47 - Plunge Attack\n0:50 - Redirect Skill\n0:56 - Charged Attacks\n1:10 - Ultimate\n1:23 - Disarm\n\n(Side)\n1:27 - Basic Attacks \n1:51 - Plunge Attack\n1:55 - Redirect Skill\n2:01 - Charged Attacks\n2:19 - Disarm\n\n(Back)\n2:24 - Basic Attacks \n2:49 - Plunge Attack\n2:53 - Redirect Skill\n2:59 - Charged Attacks\n3:17 - Disarm\n\n(Other)\n3:22 - Intro Skill\n3:26 - Dodge Attack\n3:32 - Knockback\n3:36 - Critical Dodges\n3:39 - Parry\n\n[Exploration]\n3:43 - Walk\n4:00 - Run\n4:16 - Dash\n4:29 - Dodge\n4:46 - Jumping & Gliding (All angles)\n\n[Menu]\n5:12 - Intro\n5:18 - Arc selection\n5:23 - Skins\n\nNeverness To Everness is a supernatural urban open-world RPG developed by Hotta Studio, a subsidiary of Perfect World Games. In this Anomaly-filled city, you'll make a dazzling entrance, using your extraordinary Esper abilities to navigate freely and handle unexpected events. Beyond that, you can choose your own lifestyle, manage businesses, and experience a vibrant urban life.\n\nNanally is an S rarity character from the Anima attribute who performs the Damage role in combat. Her Arc Compatibility is Plasma.\n\nPlay Neverness to Everness now!: nte.perfectworld.com\n\n#NTE #NTEcreator #gameplay #animations #showcase #nanally #nevernesstoeverness",
-      "duration": "PT353S",
-      "variants": [
-        {
-          "id": "fPD5usu8sQE",
-          "title": "Nanally Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "QjAWA_mb6Hk",
-      "title": "Hotori Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
-      "publishedAt": "2026-05-13T04:09:42-07:00",
-      "channelTitle": "The Chaos Duck",
-      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
-      "gameId": "neverness-to-everness",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "A showcase of Hotori's gameplay to fully appreciate every detail in each of her animations.\n\nSince Hotori is an ultimate-focused character, it's only natural for her to have the best ultimate animations (including the ultimate attacks) in the game. One thing I really appreciate is how even her ultimate attacks each have their own sheathing animation (and BOY am I glad her ultimate recharges over time so I didn't have to farm energy over and over again to showcase each one). It's something they didn't HAVE to do, but it really shows how much effort they put into each character's animations. They even added a PLUNGE attack for her ultimate, even though no one would even THINK of plunging during it (I fogor to showcase it cuz of that mb). The rest of her animations are just fine for me, but I also do like the way she floats with her umbrella after her basic attacks, which are just nice to look at. 7/10 for me.\n\nGuess I'm a showcase channel now.\n\nTimestamps:\n\n[Combat]\n(Front)\n0:00 - Standing to Idle\n0:07 - Idle Animations\n0:32 - Basic Attacks \n0:57 - Plunge Attack\n1:03 - Redirect Skill\n1:09 - Ultimate\n1:26 - Charged Attack\n1:35 - Disarm\n\n(Side)\n1:43 - Basic Attacks \n2:05 - Plunge Attack\n2:10 - Redirect Skill\n2:15 - Charged Attack\n2:25 - Disarm\n\n(Back)\n2:31 - Basic Attacks \n2:55 - Plunge Attack\n3:00 - Redirect Skill\n3:06 - Charged Attack\n3:16 - Disarm\n\n(Other)\n3:23 - Ultimate Basic Attacks\n3:46 - Ultimate Final Attack\n3:56 - Intro Skill\n4:02 - Dodge Attack\n4:08 - Knockback\n4:12 - Critical Dodges\n4:15 - Parry\n\n[Exploration]\n4:20 - Walk\n4:37 - Run\n4:49 - Dash\n5:03 - Dodge\n5:14 - Time Freeze\n5:33 - Jumping & Gliding (All angles)\n\n[Menu]\n6:00 - Intro\n6:04 - Arc selection\n6:11 - Skins\n\nHotori is an S rarity character from the Cosmos attribute who performs the Buff role in combat. Her Arc Compatibility is Solid.\n\nPlay Neverness to Everness now!: nte.perfectworld.com\n\n#NTE #NTEcreator #gameplay #animations #showcase #hotori #nevernesstoeverness",
-      "duration": "PT403S",
-      "variants": [
-        {
-          "id": "QjAWA_mb6Hk",
-          "title": "Hotori Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
-          "language": "ko"
-        }
-      ]
-    },
-    {
       "id": "Mgb3VAz9PS0",
       "title": "이환丨캐릭터 쇼케이스丨호토리",
       "publishedAt": "2026-05-07T20:00:19-07:00",
@@ -709,28 +656,6 @@
       ]
     },
     {
-      "id": "xe92WI7-P_I",
-      "title": "Sigrika Gameplay & Sigrika Skill Showcase | Wuthering Waves 3.2",
-      "publishedAt": "2026-03-13T04:40:01-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "Sigrika Gameplay & Skill Showcase | Wuthering Waves Sigrika Leak\n\nSigrika Basic Attack, Sigrika Resonance Skill, Sigrika Resonance Liberation, Sigrika Passive Talent, Wuthering Waves\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n\n\n#wutheringwaves  #wuthering  #kurogames #WutheringWaves #wuwacreator",
-      "duration": "PT176S",
-      "variants": [
-        {
-          "id": "xe92WI7-P_I",
-          "title": "Sigrika Gameplay & Sigrika Skill Showcase | Wuthering Waves 3.2",
-          "language": "ko"
-        }
-      ]
-    },
-    {
       "id": "XKceT_Iu7Ic",
       "title": "아리아 캐릭터 플레이 「서곡: 기계의 소원」 | 젠레스 존 제로",
       "publishedAt": "2026-02-28T20:00:00-08:00",
@@ -802,50 +727,6 @@
         {
           "id": "n7YpEQsm_bo",
           "title": "공명자 전투 모션 | 에이메스",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "rwudYEhcGxA",
-      "title": "Luuk Herssen Gameplay & Luuk Herssen Skill Showcase | Wuthering Waves 3.1",
-      "publishedAt": "2026-01-23T04:01:55-08:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "Luuk Herssen Gameplay & Skill Showcase | Wuthering Waves Luuk Herssen Leak\n\nLuuk Herssen Basic Attack, Luuk Herssen Resonance Skill, Luuk Herssen Resonance Liberation, Luuk Herssen Passive Talent, Wuthering Waves\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n\n\n#wutheringwaves  #wuthering  #kurogames #WutheringWaves #wuwacreator",
-      "duration": "PT180S",
-      "variants": [
-        {
-          "id": "rwudYEhcGxA",
-          "title": "Luuk Herssen Gameplay & Luuk Herssen Skill Showcase | Wuthering Waves 3.1",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "o4q8ZFJG3yc",
-      "title": "Aemeath Gameplay & Aemeath Skill Showcase | Wuthering Waves 3.1",
-      "publishedAt": "2026-01-23T03:43:26-08:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "Aemeath Gameplay & Skill Showcase | Wuthering Waves Aemeath Leak\n\nAemeath Basic Attack, Aemeath Resonance Skill, Aemeath Resonance Liberation, Aemeath Passive Talent, Wuthering Waves\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n\n\n#wutheringwaves  #wuthering  #kurogames #WutheringWaves #wuwacreator",
-      "duration": "PT170S",
-      "variants": [
-        {
-          "id": "o4q8ZFJG3yc",
-          "title": "Aemeath Gameplay & Aemeath Skill Showcase | Wuthering Waves 3.1",
           "language": "ko"
         }
       ]
@@ -946,72 +827,6 @@
       ]
     },
     {
-      "id": "C1BktETXhaY",
-      "title": "ZZZ - Banyue FULL Skill & Combo Moveset Exhibition [ All Animations & Combos ] - Zenless Zone Zero",
-      "publishedAt": "2025-12-12T23:24:49-08:00",
-      "channelTitle": "Drave-kun [ドレイブンくん]",
-      "channelId": "UCt4k40M8zAy2w-XZXxSs9cQ",
-      "gameId": "zenless-zone-zero",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UCt4k40M8zAy2w-XZXxSs9cQ",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "Zenless Zone Zero Banyue Full Showcase & All Skill Moveset Exhibition\nMy Other ZZZ Gameplay - 私の他のゲームプレイ - ゼンレスゾーンゼロ : https://youtu.be/UiPwuQEN_Ac\nMore in the Playlist - プレイリストの詳細 : https://www.youtube.com/playlist?list=PL83uN2JU1cdS0OnxlB-EeNB8gpZYDE6t4\n\nLet's Be Friend! - 友達になろう! Glad to Meet You Kkomrade! - 購読を検討してください ! : https://www.youtube.com/channel/UCt4k40M8zAy2w-XZXxSs9cQ?sub_confirmation=1\n\n=== [ Banyue Skills & Moveset Exhibition Chapter Select ] ===\n\n00:00 Master Banyue Entrance Opening\n00:04 Idle Animation [ NORMAL STATE ]\n01:01 Idle Animation [ ASURA VAJRA STATE ]\n01:33 Asura Vajra Transformation OFF COMBAT [ VISAGE OF WRATH ]\n01:48 Asura Vajra Transformation ON COMBAT [ VISAGE OF WRATH ]\n02:57 Warcry Taunt OFF COMBAT [ NORMAL STATE ]\n03:37 Warcry Taunt OFF COMBAT [ ASURA VAJRA STATE ]\n04:38 Warcry Taunt ON COMBAT [ NORMAL STATE ]\n04:57 Warcry Taunt ON COMBAT [ ASURA VAJRA STATE ]\n05:34 Running Animation [ NORMAL STATE ]\n06:09 Running Animation [ ASURA VAJRA STATE ]\n06:38 Running Brake Animation [ NORMAL STATE ]\n06:57 Running Brake Animation [ ASURA VAJRA STATE ]\n07:15 Sprint Animation [ NORMAL STATE ]\n08:22 Sprint Animation [ ASURA VAJRA STATE ]\n08:47 Sprint Brake Animation [ NORMAL STATE ]\n09:02 Sprint Brake Animation [ ASURA VAJRA STATE ]\n09:21 Forward Dodge [ NORMAL STATE ]\n09:54 Forward Dodge [ ASURA VAJRA STATE ]\n10:51 Backward Dodge [ NORMAL STATE ]\n11:33 Backward Dodge [ ASURA VAJRA STATE ]\n12:16 Basic Moveset [ NORMAL STATE ]\n14:54 Basic Moveset [ ASURA VAJRA STATE ]\n16:23 Dash Attack [ NORMAL STATE ]\n16:44 Dash Attack [ ASURA VAJRA STATE ]\n17:03 Special Skill COMBO [ NORMAL STATE ]\n19:26 Special Skill COMBO [ ASURA VAJRA STATE ]\n21:05 Ex Special Skill COMBO [ NORMAL STATE ]\n24:26 Ex Special Skill COMBO [ ASURA VAJRA STATE ]\n28:31 Immovable Mountain POWER MOVE [ NORMAL STATE ]\n29:00 Immovable Mountain POWER MOVE [ ASURA VAJRA STATE ]\n29:44 Immovable Mountain + Lofty Ascent [ NORMAL STATE ]\n29:58 Immovable Mountain + Lofty Ascent [ ASURA VAJRA STATE ]\n30:20 Toppling Mountain POWER MOVE [ ASURA VAJRA STATE ]\n30:44 Crushing Peaks + Toppling Mountain [ ASURA VAJRA STATE ]\n31:12 Toppling Mountain POWER MOVE [ ASURA VAJRA STATE ]\n31:20 Crushing Peaks + Toppling Mountain [ ASURA VAJRA STATE ]\n31:59 Full Combo POWER MOVE [ ASURA VAJRA STATE ]\n32:52 Dodge Animation [ NORMAL STATE ]\n33:17 Dodge Animation [ ASURA VAJRA STATE ]\n33:38 Dodge Counter COMBO [ NORMAL STATE ]\n34:49 Dodge Counter COMBO [ ASURA VAJRA STATE ]\n35:46 Quick Assist COMBO [ NORMAL STATE ]\n36:24 Quick Assist COMBO [ ASURA VAJRA STATE ]\n37:24 Defensive Assist COMBO [ NORMAL STATE ]\n38:02 Defensive Assist COMBO [ ASURA VAJRA STATE ]\n38:47 Chain Attack [ NORMAL STATE ]\n39:11 Chain Attack [ ASURA VAJRA STATE ]\n39:42 Ultimate [ NORMAL STATE ]\n39:52 Ultimate [ ASURA VAJRA STATE ]\n40:29 Closing !!!\n\nMore of My Gameplay Videos - その他のゲームプレイ :\n\nZenless Zone Zero [ ZZZ ] : https://www.youtube.com/playlist?list=PL83uN2JU1cdS0OnxlB-EeNB8gpZYDE6t4\nGames GUIDE & FORESHADOW : https://www.youtube.com/playlist?list=PL83uN2JU1cdS58-HferxiI64_4W0-aLGd\nGames BOSS FIGHT : https://www.youtube.com/playlist?list=PL83uN2JU1cdTTWcxxcEhBjl-HZufE0uZ2\nGames MOVIE & CUTSCENE : https://www.youtube.com/playlist?list=PL83uN2JU1cdQEJ_12Zt2Mxxkro2HgySbb\nGames LONGPLAY : https://www.youtube.com/playlist?list=PL83uN2JU1cdTWr3DnRTdyv0CXG8PdCe8q\n\nMetal Slug ADVENTURES TRILOGY : https://www.youtube.com/watch?v=SOrNV3WHibQ&list=PL83uN2JU1cdSjTKMXTCT0wqJxH2PVfLtA&index=1\nMana Khemia : https://www.youtube.com/watch?v=6NorWckNtzs&list=PL83uN2JU1cdTAwaFhyCXs9iXjmwGkTgJR\nThe Last Of Us 2 :  https://www.youtube.com/watch?v=veOzJV76Odk&list=PL83uN2JU1cdQ8WiwGLr3duaD-2OHMDQ8_\nThe Last of Us REMASTERED : https://www.youtube.com/watch?v=RZMrZRaCpzg&list=PL83uN2JU1cdQbXY1zRfueQDlC8hMlcaaa\nFinal Fantasy 7 REMAKE : https://www.youtube.com/watch?v=EwMZypVM-TA&list=PL83uN2JU1cdTNn2RHKHKUe1q8VnsZAia0\nResident Evil 3 REMAKE : https://www.youtube.com/watch?v=XX2E0gtHMf4&list=PL83uN2JU1cdRIOjfwGVlBVWrtBDg",
-      "duration": "PT2482S",
-      "variants": [
-        {
-          "id": "C1BktETXhaY",
-          "title": "ZZZ - Banyue FULL Skill & Combo Moveset Exhibition [ All Animations & Combos ] - Zenless Zone Zero",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "Yo-Cn9eXYnw",
-      "title": "Mornye Gameplay & Mornye Skill Showcase | Wuthering Waves",
-      "publishedAt": "2025-12-12T04:37:51-08:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "Mornye Gameplay & Skill Showcase | Wuthering Waves Mornye Leak\n\nMornye Basic Attack, Mornye Resonance Skill, Mornye Resonance Liberation, Mornye Passive Talent, Wuthering Waves\n\n\n❗  Wuwa Changes & New Features https://youtube.com/playlist?list=PLPH2f477dnay0A-4UX51QdnA72uVDvGmO&si=H1UlQKUZEwDFRgk0\n❗  Wuwa 100% Exploration https://www.youtube.com/watch?v=g-cTTnT6RNE&list=PLPH2f477dnaxNmfXEqJrfwoLfimucH_yk&index=1&ab_channel=ONGame\n❗  Wuwa ALL Side Quest https://www.youtube.com/watch?v=9l9xYuTv9jo&list=PLPH2f477dnazmhv-6qngUeKH8jFv4z8VV&ab_channel=ONGamehttps://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u2757.png\n❗Wuwa All Hiden Achievement https://www.youtube.com/playlist?list=PLPH2f477dnazWDyYN_dCb8_B6RKNI91AK&playnext=1&index=1arigaming\n\n\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves  #wuthering  #kurogames #WutheringWaves #wuwacreator",
-      "duration": "PT169S",
-      "variants": [
-        {
-          "id": "Yo-Cn9eXYnw",
-          "title": "Mornye Gameplay & Mornye Skill Showcase | Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "9SMhYfHa8X8",
-      "title": "Lynae Gameplay & Lynae Skill Showcase | Wuthering Waves",
-      "publishedAt": "2025-12-12T04:08:18-08:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "Lynae Gameplay & Skill Showcase | Wuthering Waves Lynae Leak\n\nLynae Basic Attack, Lynae Resonance Skill, Lynae Resonance Liberation, Lynae Passive Talent, Wuthering Waves\n\n❗  Wuwa Changes & New Features https://youtube.com/playlist?list=PLPH2f477dnay0A-4UX51QdnA72uVDvGmO&si=H1UlQKUZEwDFRgk0\n❗  Wuwa 100% Exploration https://www.youtube.com/watch?v=g-cTTnT6RNE&list=PLPH2f477dnaxNmfXEqJrfwoLfimucH_yk&index=1&ab_channel=ONGame\n❗  Wuwa ALL Side Quest https://www.youtube.com/watch?v=9l9xYuTv9jo&list=PLPH2f477dnazmhv-6qngUeKH8jFv4z8VV&ab_channel=ONGamehttps://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u2757.png\n❗Wuwa All Hiden Achievement https://www.youtube.com/playlist?list=PLPH2f477dnazWDyYN_dCb8_B6RKNI91AK&playnext=1&index=1arigaming\n\n\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n\n\n#wutheringwaves  #wuthering  #kurogames #WutheringWaves #wuwacreator",
-      "duration": "PT210S",
-      "variants": [
-        {
-          "id": "9SMhYfHa8X8",
-          "title": "Lynae Gameplay & Lynae Skill Showcase | Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
       "id": "LHUtuae-9_o",
       "title": "다이아린 캐릭터 플레이 「아무 말 답장 잔치」 | 젠레스 존 제로",
       "publishedAt": "2025-11-24T19:59:56-08:00",
@@ -1045,50 +860,6 @@
         {
           "id": "lx0X-0bs6Oo",
           "title": "공명자 전투 모션 | 치사",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "Gvvb72jF8Fo",
-      "title": "Buling Gameplay & Buling Skill Showcase | Wuthering Waves 2.8 Buling Gameplay",
-      "publishedAt": "2025-11-14T03:55:20-08:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#genshin  #genshinimpact   #원신 #原神 #ГеншинИмпакт #genshinlore #memes #bugs #glitches #HoYoCREATORS #GenshinViews\n#genshinimpact #GenshinNewbie #SEANightMarket #GenshinOffline #ongame #genshinimpact #hoyocreators #genshintrailer",
-      "duration": "PT144S",
-      "variants": [
-        {
-          "id": "Gvvb72jF8Fo",
-          "title": "Buling Gameplay & Buling Skill Showcase | Wuthering Waves 2.8 Buling Gameplay",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "EqqITg7kaEE",
-      "title": "Chisa Gameplay & Chisa Skill Showcase | Wuthering Waves 2.8 Chisa Gameplay",
-      "publishedAt": "2025-11-14T03:44:36-08:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#genshin  #genshinimpact   #원신 #原神 #ГеншинИмпакт #genshinlore #memes #bugs #glitches #HoYoCREATORS #GenshinViews\n#genshinimpact #GenshinNewbie #SEANightMarket #GenshinOffline #ongame #genshinimpact #hoyocreators #genshintrailer",
-      "duration": "PT173S",
-      "variants": [
-        {
-          "id": "EqqITg7kaEE",
-          "title": "Chisa Gameplay & Chisa Skill Showcase | Wuthering Waves 2.8 Chisa Gameplay",
           "language": "ko"
         }
       ]
@@ -1146,50 +917,6 @@
         {
           "id": "63lsGLltTN0",
           "title": "공명자 전투 모션 | 갈브레나",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "hSWtYEzKWsQ",
-      "title": "Qiuyuan Gameplay & Qiuyuan Skill Showcase | Wuthering Waves 2.7 Qiuyuan Gameplay",
-      "publishedAt": "2025-09-26T04:47:17-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "❗ WuWa 2.7 Changes  https://youtu.be/mtaZk1U83uw\n❗ WuWa 2.7 redeem code  https://youtu.be/Zn51tqJgdls\n❗ Qiuyuan Gameplay https://youtu.be/hSWtYEzKWsQ\n❗ Galbrena Gameplay https://youtu.be/DsSPBFfhST8\n\n❗  Wuwa Changes & New Features https://youtube.com/playlist?list=PLPH2f477dnay0A-4UX51QdnA72uVDvGmO&si=H1UlQKUZEwDFRgk0\n❗  Wuwa 100% Exploration https://www.youtube.com/watch?v=g-cTTnT6RNE&list=PLPH2f477dnaxNmfXEqJrfwoLfimucH_yk&index=1&ab_channel=ONGame\n❗  Wuwa ALL Side Quest https://www.youtube.com/watch?v=9l9xYuTv9jo&list=PLPH2f477dnazmhv-6qngUeKH8jFv4z8VV&ab_channel=ONGamehttps://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u2757.png\n❗Wuwa All Hiden Achievement https://www.youtube.com/playlist?list=PLPH2f477dnazWDyYN_dCb8_B6RKNI91AK&playnext=1&index=1arigaming\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves  #wuthering  #kurogames #WutheringWaves #wuwacreator",
-      "duration": "PT120S",
-      "variants": [
-        {
-          "id": "hSWtYEzKWsQ",
-          "title": "Qiuyuan Gameplay & Qiuyuan Skill Showcase | Wuthering Waves 2.7 Qiuyuan Gameplay",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "DsSPBFfhST8",
-      "title": "Galbrena Gameplay & Galbrena Skill Showcase | Wuthering Waves 2.7 Galbrena Gameplay",
-      "publishedAt": "2025-09-26T04:33:32-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "❗ WuWa 2.7 Changes  https://youtu.be/mtaZk1U83uw\n❗ WuWa 2.7 redeem code  https://youtu.be/Zn51tqJgdls\n❗ Qiuyuan Gameplay https://youtu.be/hSWtYEzKWsQ\n❗ Galbrena Gameplay https://youtu.be/DsSPBFfhST8\n\n❗  Wuwa Changes & New Features https://youtube.com/playlist?list=PLPH2f477dnay0A-4UX51QdnA72uVDvGmO&si=H1UlQKUZEwDFRgk0\n❗  Wuwa 100% Exploration https://www.youtube.com/watch?v=g-cTTnT6RNE&list=PLPH2f477dnaxNmfXEqJrfwoLfimucH_yk&index=1&ab_channel=ONGame\n❗  Wuwa ALL Side Quest https://www.youtube.com/watch?v=9l9xYuTv9jo&list=PLPH2f477dnazmhv-6qngUeKH8jFv4z8VV&ab_channel=ONGamehttps://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u2757.png\n❗Wuwa All Hiden Achievement https://www.youtube.com/playlist?list=PLPH2f477dnazWDyYN_dCb8_B6RKNI91AK&playnext=1&index=1arigaming\n\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves  #wuthering  #kurogames #WutheringWaves #wuwacreator",
-      "duration": "PT120S",
-      "variants": [
-        {
-          "id": "DsSPBFfhST8",
-          "title": "Galbrena Gameplay & Galbrena Skill Showcase | Wuthering Waves 2.7 Galbrena Gameplay",
           "language": "ko"
         }
       ]
@@ -1271,50 +998,6 @@
       ]
     },
     {
-      "id": "81jicyuTaoo",
-      "title": "Iuno Gameplay & Iuno Skill Showcase | Wuthering Waves 2.6 Iuno Gameplay",
-      "publishedAt": "2025-08-16T04:54:57-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "📍Wuwa 2.6 Recap https://youtu.be/pRQcHocAsMc\n📍Wuwa 2.6 Redeem Code  https://youtu.be/yoGLMhI-d88\n📍Iuno Gameplay  https://youtu.be/81jicyuTaoo\n📍Augusta Gameplay https://youtu.be/A0QJuiihRzA\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#genshin  #genshinimpact   #원신 #原神 #ГеншинИмпакт #genshinlore #memes #bugs #glitches #HoYoCREATORS #GenshinViews\n#genshinimpact #GenshinNewbie #SEANightMarket #GenshinOffline #ongame #genshinimpact #hoyocreators #genshintrailer",
-      "duration": "PT154S",
-      "variants": [
-        {
-          "id": "81jicyuTaoo",
-          "title": "Iuno Gameplay & Iuno Skill Showcase | Wuthering Waves 2.6 Iuno Gameplay",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "A0QJuiihRzA",
-      "title": "Augusta Gameplay & Augusta Skill Showcase | Wuthering Waves 2.6 Augusta Gameplay",
-      "publishedAt": "2025-08-16T04:37:28-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "📍Wuwa 2.6 Recap https://youtu.be/pRQcHocAsMc\n📍Wuwa 2.6 Redeem Code  https://youtu.be/yoGLMhI-d88\n📍Iuno Gameplay  https://youtu.be/81jicyuTaoo\n📍Augusta Gameplay https://youtu.be/A0QJuiihRzA\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#genshin  #genshinimpact   #원신 #原神 #ГеншинИмпакт #genshinlore #memes #bugs #glitches #HoYoCREATORS #GenshinViews\n#genshinimpact #GenshinNewbie #SEANightMarket #GenshinOffline #ongame #genshinimpact #hoyocreators #genshintrailer",
-      "duration": "PT142S",
-      "variants": [
-        {
-          "id": "A0QJuiihRzA",
-          "title": "Augusta Gameplay & Augusta Skill Showcase | Wuthering Waves 2.6 Augusta Gameplay",
-          "language": "ko"
-        }
-      ]
-    },
-    {
       "id": "XtbkNuGlRus",
       "title": "앨리스 캐릭터 플레이 「검과 왈츠」 | 젠레스 존 제로",
       "publishedAt": "2025-08-01T21:00:09-07:00",
@@ -1348,28 +1031,6 @@
         {
           "id": "PyG3_Aydfpg",
           "title": "공명자 전투 모션 | 플로로",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "otCTyICwyv4",
-      "title": "Phrolova Gameplay & Phrolova Skill Showcase | Wuthering Waves 2.5 Phrolova Gameplay",
-      "publishedAt": "2025-07-18T04:33:09-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "📍Wuwa 2.5 Recap https://youtu.be/R1T0aOzAgbY\n📍Wuwa 2.5  Redeem Code https://youtu.be/7zLU4-vIWn4\n\n\nPhrolova Basic Attack, Phrolova Resonance Skill, Phrolova Resonance Liberation , Phrolova passive talent, Wuthering Waves\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames #WutheringWaves #wuwacreator",
-      "duration": "PT108S",
-      "variants": [
-        {
-          "id": "otCTyICwyv4",
-          "title": "Phrolova Gameplay & Phrolova Skill Showcase | Wuthering Waves 2.5 Phrolova Gameplay",
           "language": "ko"
         }
       ]
@@ -1446,50 +1107,6 @@
         {
           "id": "IfDzdPxBAf0",
           "title": "공명자 전투 모션 | 카르티시아",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "naeaOwflpTc",
-      "title": "Lupa Gameplay & Lupa Skill Showcase | Wuthering Waves 2.4 Lupa Gameplay",
-      "publishedAt": "2025-05-30T05:07:23-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "📍 Wuwa 2.4  Changes https://youtu.be/HR92xAStpqg\n📍Wuwa 2.4 new redeem code https://youtu.be/0txVY0f5g64\n📍Cartethyia Gameplay https://youtu.be/X6sa_UJ_eKA\n\nLupa Basic Attack, Lupa Resonance Skill, Lupa Resonance Liberation , Lupa passive talent, Wuthering Waves\n\n➤Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#genshin  #genshinimpact   #원신 #原神 #ГеншинИмпакт #genshinlore #memes #bugs #glitches #honkaistarrai  #HoYoCREATORS #GenshinViews\n#genshinimpact #GenshinNewbie #SEANightMarket #GenshinOffline #ongame #genshinimpact #hoyocreators #genshintrailer",
-      "duration": "PT164S",
-      "variants": [
-        {
-          "id": "naeaOwflpTc",
-          "title": "Lupa Gameplay & Lupa Skill Showcase | Wuthering Waves 2.4 Lupa Gameplay",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "X6sa_UJ_eKA",
-      "title": "Cartethyia Gameplay & Cartethyia Skill Showcase | Wuthering Waves 2.4 Cartethyia Gameplay",
-      "publishedAt": "2025-05-30T05:04:13-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "📍 Wuwa 2.4  Changes https://youtu.be/HR92xAStpqg\n📍Wuwa 2.4 new redeem code https://youtu.be/0txVY0f5g64\n📍 Lupa Gameplay https://youtu.be/naeaOwflpTc\n\n\nCartethyia Basic Attack, Cartethyia Resonance Skill, Cartethyia Resonance Liberation , Cartethyia passive talent, Wuthering Waves\n\n\n00:00 Intro\n00:27 Basic Attack\n00:48 Resonance Skill\n01:09 Resonance Liberation (Forgot to Edit The Title)\n02:25 Conclusion (Forgot to Edit the Title)\n\n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames #WutheringWaves #wuwacreator",
-      "duration": "PT186S",
-      "variants": [
-        {
-          "id": "X6sa_UJ_eKA",
-          "title": "Cartethyia Gameplay & Cartethyia Skill Showcase | Wuthering Waves 2.4 Cartethyia Gameplay",
           "language": "ko"
         }
       ]
@@ -1590,50 +1207,6 @@
       ]
     },
     {
-      "id": "XOvOjhU0YGE",
-      "title": "Ciaccona Gameplay & Ciaccona Skill Showcase | Wuthering Waves 2.3 Ciaccona Gameplay",
-      "publishedAt": "2025-04-19T05:37:30-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "📍Zani Gameplay https://youtu.be/6L4b-DIgtaM\n📍Ciaccona Gameplay https://youtu.be/XOvOjhU0YGE\n📍Wuthering Waves 2.3 Redeem Code https://youtu.be/i01S_JGmNjw\n📍Wuthering Waves 2.3 New Features https://youtu.be/IhQsLntgdR8 \n\nCiaccona Basic Attack, Ciaccona Resonance Skill, Ciaccona Resonance Liberation , Ciaccona passive talent, Wuthering Waves\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#genshin  #genshinimpact   #원신 #原神 #ГеншинИмпакт #genshinlore #memes #bugs #glitches #honkaistarrai  #HoYoCREATORS #GenshinViews\n#genshinimpact #GenshinNewbie #SEANightMarket #GenshinOffline #ongame",
-      "duration": "PT145S",
-      "variants": [
-        {
-          "id": "XOvOjhU0YGE",
-          "title": "Ciaccona Gameplay & Ciaccona Skill Showcase | Wuthering Waves 2.3 Ciaccona Gameplay",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "6L4b-DIgtaM",
-      "title": "Zani Gameplay & Zani Skill Showcase | Wuthering Waves 2.3 Zani Gameplay",
-      "publishedAt": "2025-04-19T04:47:29-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "📍Zani Gameplay https://youtu.be/6L4b-DIgtaM\n📍Ciaccona Gameplay https://youtu.be/XOvOjhU0YGE\n📍Wuthering Waves 2.3 Redeem Code https://youtu.be/i01S_JGmNjw\n📍Wuthering Waves 2.3 New Features https://youtu.be/IhQsLntgdR8 \n\nZani Basic Attack, Zani Resonance Skill, Zani Resonance Liberation , Zani passive talent, Wuthering Waves\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames #WutheringWaves #wuwacreator",
-      "duration": "PT153S",
-      "variants": [
-        {
-          "id": "6L4b-DIgtaM",
-          "title": "Zani Gameplay & Zani Skill Showcase | Wuthering Waves 2.3 Zani Gameplay",
-          "language": "ko"
-        }
-      ]
-    },
-    {
       "id": "goZXHJvw4Po",
       "title": "「트리거」 캐릭터 플레이 「특별 구출 작전」 | 젠레스 존 제로",
       "publishedAt": "2025-03-27T20:59:58-07:00",
@@ -1672,28 +1245,6 @@
       ]
     },
     {
-      "id": "U3UyVHnaa8o",
-      "title": "Aero Rover Gameplay & Aero RoverSkill Showcase | Wuthering Waves 2.2 Aero Rover Gameplay",
-      "publishedAt": "2025-03-21T05:28:29-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "❗Wuthering Waves 2.2 Changes https://youtu.be/cohhSrpr5WI\n❗Cantarella Gameplay https://youtu.be/LZdgX57TMtA\n❗Aero Rover Gameplay https://youtu.be/U3UyVHnaa8o\n❗Wuwa  2.2 Redeem Code https://youtu.be/8teuzE7QMSI\n\n\nAero Rover  Basic Attack, Aero Rover  Resonance Skill, Aero Rover  Resonance Liberation , Aero Rover  passive talent, Wuthering Waves\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n00:00 Intro\n00:15 Basic Attack\n00:41 Resonance Skill\n01:01 Resonance Liberation\n01:15 Conclu\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames #WutheringWaves #wuwacreator",
-      "duration": "PT105S",
-      "variants": [
-        {
-          "id": "U3UyVHnaa8o",
-          "title": "Aero Rover Gameplay & Aero RoverSkill Showcase | Wuthering Waves 2.2 Aero Rover Gameplay",
-          "language": "ko"
-        }
-      ]
-    },
-    {
       "id": "raPhUgXfsqo",
       "title": "0호·엔비 캐릭터 플레이 「제0 적격자」 | 젠레스 존 제로",
       "publishedAt": "2025-03-06T19:59:58-08:00",
@@ -1727,50 +1278,6 @@
         {
           "id": "Sq2ZegRdRzc",
           "title": "공명자 전투 모션 | 브렌트",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "Wt8_AQHWbkA",
-      "title": "Brant Gameplay & Brant Skill Showcase | Wuthering Waves 2.1 Brant Gameplay",
-      "publishedAt": "2025-02-07T04:06:32-08:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "📍Wuthering Waves 2.1 Recap https://youtu.be/chpP58VTXuc\n📍Phoebe Skill & Gameplay https://youtu.be/AXnIqYp7ock\n📍Wuwa 2.1Redeem Code https://youtu.be/gsCB5A48U74\n\nBrant Basic Attack, Brant Resonance Skill, Brant Resonance Liberation , Brant passive talent, Wuthering Waves\n\n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames #WutheringWaves #wuwacreator",
-      "duration": "PT155S",
-      "variants": [
-        {
-          "id": "Wt8_AQHWbkA",
-          "title": "Brant Gameplay & Brant Skill Showcase | Wuthering Waves 2.1 Brant Gameplay",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "AXnIqYp7ock",
-      "title": "Phoebe  Gameplay & Phoebe Skill Showcase | Wuthering Waves 2.1 Phoebe Gameplay",
-      "publishedAt": "2025-02-07T03:33:07-08:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "Phoebe Basic Attack, Phoebe Resonance Skill, Phoebe Resonance Liberation , Phoebe passive talent, Wuthering Waves\n\n📍Wuthering Waves 2.1 Recap https://youtu.be/chpP58VTXuc\n📍Brant Skill & Gameplay https://youtu.be/Wt8_AQHWbkA\n📍Wuwa 2.1Redeem Code https://youtu.be/gsCB5A48U74\n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames #WutheringWaves #wuwacreator",
-      "duration": "PT141S",
-      "variants": [
-        {
-          "id": "AXnIqYp7ock",
-          "title": "Phoebe  Gameplay & Phoebe Skill Showcase | Wuthering Waves 2.1 Phoebe Gameplay",
           "language": "ko"
         }
       ]
@@ -1852,50 +1359,6 @@
       ]
     },
     {
-      "id": "Bmf7Sf9_diI",
-      "title": "Roccia Gameplay & Roccia Skill Showcase | Wuthering Waves 2.0 Roccia Gameplay",
-      "publishedAt": "2024-12-21T04:04:27-08:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "📍Carlotta Gameplay https://youtu.be/wCRx8inrRWo\n📍Roccia Gameplay https://youtu.be/Bmf7Sf9_diI\n📍2.0 Redeem Code https://youtu.be/0umdfPIqHCM\n\nRoccia  Basic Attack, Roccia  Resonance Skill, Roccia  Resonance Liberation , Roccia  passive talent, Wuthering Waves\n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames #WutheringWaves #wuwacreator",
-      "duration": "PT130S",
-      "variants": [
-        {
-          "id": "Bmf7Sf9_diI",
-          "title": "Roccia Gameplay & Roccia Skill Showcase | Wuthering Waves 2.0 Roccia Gameplay",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "wCRx8inrRWo",
-      "title": "Carlotta  Gameplay & Carlotta Skill Showcase | Wuthering Waves 2.0 Carlotta Gameplay",
-      "publishedAt": "2024-12-21T03:57:09-08:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "Carlotta Basic Attack, Carlotta Resonance Skill, Carlotta Resonance Liberation , Carlotta passive talent, Wuthering Waves\n\n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames #WutheringWaves #wuwacreator",
-      "duration": "PT134S",
-      "variants": [
-        {
-          "id": "wCRx8inrRWo",
-          "title": "Carlotta  Gameplay & Carlotta Skill Showcase | Wuthering Waves 2.0 Carlotta Gameplay",
-          "language": "ko"
-        }
-      ]
-    },
-    {
       "id": "EKPCHvdcg5M",
       "title": "호시미 미야비 캐릭터 플레이 「끝없는 수행」 | 젠레스 존 제로",
       "publishedAt": "2024-12-18T02:00:00-08:00",
@@ -1929,50 +1392,6 @@
         {
           "id": "_zFR8-MxWi4",
           "title": "아사바 하루마사 캐릭터 플레이 | 「까마귀가 멈춘 날」 | 젠레스 존 제로",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "ndXRlU7C-Iw",
-      "title": "ZZZ - Caesar King Skill & Moveset Exhibition - Zenless Zone Zero",
-      "publishedAt": "2024-12-08T02:07:06-08:00",
-      "channelTitle": "Drave-kun [ドレイブンくん]",
-      "channelId": "UCt4k40M8zAy2w-XZXxSs9cQ",
-      "gameId": "zenless-zone-zero",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UCt4k40M8zAy2w-XZXxSs9cQ",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "ALL Caesar King Skills & Moveset Showcase!!! XD\nMy Other ZZZ Gameplay - 私の他のゲームプレイ - ゼンレスゾーンゼロ : https://youtu.be/0a_XuXn5XlI\nMore in the Playlist - プレイリストの詳細 : https://www.youtube.com/playlist?list=PL83uN2JU1cdS0OnxlB-EeNB8gpZYDE6t4\n\nLet's Be Friend! - 友達になろう! Glad to Meet You Kkomrade! - 購読を検討してください ! : https://www.youtube.com/channel/UCt4k40M8zAy2w-XZXxSs9cQ?sub_confirmation=1\n\n=== [ Caesar King Skills & Moveset Select ] ===\n00:00 - Caesar King Opening !\n00:25 - Idle Animation\n00:38 - Walk Animation\n02:57 - Jog Animation\n03:39 - Run Animation [ City ]\n04:13 - Run Animation [ Combat ]\n04:46 - Brake Animation\n05:23 - Forward Dodge\n05:48 - Backward Dodge\n06:11 - Basic Moveset\n10:21 - Dash Attack\n11:16 - Dead End [ Signature Active Skill ]\n12:09 - Special Attack\n14:04 - EX-Special Attack\n16:41 - Radiant Aegis Shield [ Signature Buff Skill ]\n16:47 - Dodge Animation\n17:10 - Dodge Counter\n17:35 - Quick Assist\n17:47 - Defensive Assist\n18:01 - Defensive Assist + Retaliation\n18:26 - Chain Attack\n19:15 - Ultimate\n19:52 - Closing !!!\n\nMore of My Gameplay Videos - その他のゲームプレイ :\n\nZenless Zone Zero [ ZZZ ] : https://www.youtube.com/playlist?list=PL83uN2JU1cdS0OnxlB-EeNB8gpZYDE6t4\nGames GUIDE & FORESHADOW : https://www.youtube.com/playlist?list=PL83uN2JU1cdS58-HferxiI64_4W0-aLGd\nGames BOSS FIGHT : https://www.youtube.com/playlist?list=PL83uN2JU1cdTTWcxxcEhBjl-HZufE0uZ2\nGames MOVIE & CUTSCENE : https://www.youtube.com/playlist?list=PL83uN2JU1cdQEJ_12Zt2Mxxkro2HgySbb\nGames LONGPLAY : https://www.youtube.com/playlist?list=PL83uN2JU1cdTWr3DnRTdyv0CXG8PdCe8q\n\nMetal Slug ADVENTURES TRILOGY : https://www.youtube.com/watch?v=SOrNV3WHibQ&list=PL83uN2JU1cdSjTKMXTCT0wqJxH2PVfLtA&index=1\nMana Khemia : https://www.youtube.com/watch?v=6NorWckNtzs&list=PL83uN2JU1cdTAwaFhyCXs9iXjmwGkTgJR\nThe Last Of Us 2 :  https://www.youtube.com/watch?v=veOzJV76Odk&list=PL83uN2JU1cdQ8WiwGLr3duaD-2OHMDQ8_\nThe Last of Us REMASTERED : https://www.youtube.com/watch?v=RZMrZRaCpzg&list=PL83uN2JU1cdQbXY1zRfueQDlC8hMlcaaa\nFinal Fantasy 7 REMAKE : https://www.youtube.com/watch?v=EwMZypVM-TA&list=PL83uN2JU1cdTNn2RHKHKUe1q8VnsZAia0\nResident Evil 3 REMAKE : https://www.youtube.com/watch?v=XX2E0gtHMf4&list=PL83uN2JU1cdRIOjfwGVlBVWrtBDg714UU\nZenonia 1 MINIS : https://www.youtube.com/watch?v=fFq1GG0ADm4&list=PL83uN2JU1cdSiUUe2HXOJJ9G6v_hjcCvR\nKingdom of Amalur RECKONING : https://www.youtube.com/watch?v=7bzjb59ni2s&list=PL83uN2JU1cdQxslH8e7okFIHreqqJ0AqC\nDevil May Cry 5 : https://www.youtube.com/watch?v=l7yAymjL6Yo&list=PL83uN2JU1cdRSENyvfFrNB37xhK5txijt\nSword Art Online FATAL BULLET : https://www.youtube.com/watch?v=kL5Asa8l3mg&list=PL83uN2JU1cdTALZWtWjup00jxzbXYZjr5\n\n#ZZZ #Skills #CaesarKing",
-      "duration": "PT1217S",
-      "variants": [
-        {
-          "id": "ndXRlU7C-Iw",
-          "title": "ZZZ - Caesar King Skill & Moveset Exhibition - Zenless Zone Zero",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "qWr7Joaot-Y",
-      "title": "ZZZ - Jane Doe Skill & Moveset Exhibition - Zenless Zone Zero",
-      "publishedAt": "2024-11-26T01:01:55-08:00",
-      "channelTitle": "Drave-kun [ドレイブンくん]",
-      "channelId": "UCt4k40M8zAy2w-XZXxSs9cQ",
-      "gameId": "zenless-zone-zero",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UCt4k40M8zAy2w-XZXxSs9cQ",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "ALL Jane Doe Skills & Moveset Showcase!!! XD\nMy Other ZZZ Gameplay - 私の他のゲームプレイ - ゼンレスゾーンゼロ : https://youtu.be/xlhGWnTMMj4\nMore in the Playlist - プレイリストの詳細 : https://www.youtube.com/playlist?list=PL83uN2JU1cdS0OnxlB-EeNB8gpZYDE6t4\n\nLet's Be Friend! - 友達になろう! Glad to Meet You Kkomrade! - 購読を検討してください ! : https://www.youtube.com/channel/UCt4k40M8zAy2w-XZXxSs9cQ?sub_confirmation=1\n\n=== [ Jane Doe Skills & Moveset Select ] ===\n00:00 - Jane Doe Opening !\n00:27 - Idle Animation\n00:49 - Walk Animation\n00:57 - Run Animation\n02:02 - Jane's Signature Slide\n02:20 - Forward Dodge [ Normal State ]\n02:52 - Backward Dodge [ Normal State ]\n03:29 - Forward Dodge [ Passion State ]\n04:06 - Backward Dodge [ Passion State ]\n04:46 - Basic Moveset [ Normal State ]\n08:52 - Basic Moveset [ Passion State ]\n11:19 - Salchow Jump [ Normal State ]\n11:29 - Salchow Jump [ Passion State ]\n11:43 - Special Attack [ Normal State ]\n11:51 - Special Attack [ Passion State ]\n11:59 - EX Special Attack [ Normal State ]\n12:07 - EX Special Attack [ Passion State ]\n12:17 - Defensive Assist\n12:47 - Quick Assist [ Normal State ]\n12:54 - Quick Assist [ Passion State ]\n13:01 - Dodge Counter [ Normal State ]\n13:06 - Dodge Counter [ Passion State ]\n13:12 - Chain Attack\n13:51 - Ultimate\n14:13 - Closing !!!\n\nMore of My Gameplay Videos - その他のゲームプレイ :\n\nZenless Zone Zero [ ZZZ ] : https://www.youtube.com/playlist?list=PL83uN2JU1cdS0OnxlB-EeNB8gpZYDE6t4\nGames GUIDE & FORESHADOW : https://www.youtube.com/playlist?list=PL83uN2JU1cdS58-HferxiI64_4W0-aLGd\nGames BOSS FIGHT : https://www.youtube.com/playlist?list=PL83uN2JU1cdTTWcxxcEhBjl-HZufE0uZ2\nGames MOVIE & CUTSCENE : https://www.youtube.com/playlist?list=PL83uN2JU1cdQEJ_12Zt2Mxxkro2HgySbb\nGames LONGPLAY : https://www.youtube.com/playlist?list=PL83uN2JU1cdTWr3DnRTdyv0CXG8PdCe8q\n\nMetal Slug ADVENTURES TRILOGY : https://www.youtube.com/watch?v=SOrNV3WHibQ&list=PL83uN2JU1cdSjTKMXTCT0wqJxH2PVfLtA&index=1\nMana Khemia : https://www.youtube.com/watch?v=6NorWckNtzs&list=PL83uN2JU1cdTAwaFhyCXs9iXjmwGkTgJR\nThe Last Of Us 2 :  https://www.youtube.com/watch?v=veOzJV76Odk&list=PL83uN2JU1cdQ8WiwGLr3duaD-2OHMDQ8_\nThe Last of Us REMASTERED : https://www.youtube.com/watch?v=RZMrZRaCpzg&list=PL83uN2JU1cdQbXY1zRfueQDlC8hMlcaaa\nFinal Fantasy 7 REMAKE : https://www.youtube.com/watch?v=EwMZypVM-TA&list=PL83uN2JU1cdTNn2RHKHKUe1q8VnsZAia0\nResident Evil 3 REMAKE : https://www.youtube.com/watch?v=XX2E0gtHMf4&list=PL83uN2JU1cdRIOjfwGVlBVWrtBDg714UU\nZenonia 1 MINIS : https://www.youtube.com/watch?v=fFq1GG0ADm4&list=PL83uN2JU1cdSiUUe2HXOJJ9G6v_hjcCvR\nKingdom of Amalur RECKONING : https://www.youtube.com/watch?v=7bzjb59ni2s&list=PL83uN2JU1cdQxslH8e7okFIHreqqJ0AqC\nDevil May Cry 5 : https://www.youtube.com/watch?v=l7yAymjL6Yo&list=PL83uN2JU1cdRSENyvfFrNB37xhK5txijt\nSword Art Online FATAL BULLET : https://www.youtube.com/watch?v=kL5Asa8l3mg&list=PL83uN2JU1cdTALZWtWjup00jxzbXYZjr5\n\n#ZZZ #Skills #JaneDoe",
-      "duration": "PT880S",
-      "variants": [
-        {
-          "id": "qWr7Joaot-Y",
-          "title": "ZZZ - Jane Doe Skill & Moveset Exhibition - Zenless Zone Zero",
           "language": "ko"
         }
       ]
@@ -2054,50 +1473,6 @@
       ]
     },
     {
-      "id": "lfC8TRG-Fzo",
-      "title": "Shorekeeper Gameplay & Skill Showcase  | Wuthering Waves",
-      "publishedAt": "2024-09-20T06:40:22-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "➤ Wuwa 1,3 New Redeem Code https://youtu.be/Fqk28Mukpn0\n➤ Youhu Gameplay https://youtu.be/FdCVMDJ7-Qw\n➤ Wuthering Waves 1.3 New Features https://youtu.be/4lq82GZ3PJI\n\nShorekeeper Basic Attack, Shorekeeper Resonance Skill, Shorekeeper Resonance Liberation , Shorekeeper passive talent, Wuthering Waves\n\n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
-      "duration": "PT114S",
-      "variants": [
-        {
-          "id": "lfC8TRG-Fzo",
-          "title": "Shorekeeper Gameplay & Skill Showcase  | Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "FdCVMDJ7-Qw",
-      "title": "YOUHU  Gameplay & Skill Showcase  | Wuthering Waves",
-      "publishedAt": "2024-09-20T05:40:10-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "➤ Shorekeeper https://youtu.be/lfC8TRG-Fzo\n➤ Wuwa 1,3 New Redeem Code https://youtu.be/Fqk28Mukpn0\n➤ Wuthering Waves 1.3 New Features https://youtu.be/4lq82GZ3PJI\n\nYOUHU Basic Attack, YOUHU Resonance Skill, YOUHU Resonance Liberation , YOUHU passive talent, Wuthering Waves\n\n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
-      "duration": "PT92S",
-      "variants": [
-        {
-          "id": "FdCVMDJ7-Qw",
-          "title": "YOUHU  Gameplay & Skill Showcase  | Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
       "id": "naPWlGOTaPA",
       "title": "카이사르 캐릭터 플레이 「칼리돈의 라이딩」 | 젠레스 존 제로",
       "publishedAt": "2024-09-19T21:00:12-07:00",
@@ -2174,28 +1549,6 @@
       ]
     },
     {
-      "id": "NEavxDGTFRE",
-      "title": "Changli  Gameplay & Skill Showcase  | Wuthering Waves",
-      "publishedAt": "2024-07-22T04:02:11-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "Changli Basic Attack, Changli Resonance Skill, Changli Resonance Liberation , Changli passive talent, Wuthering Waves\n\n📍 Wuthering Waves 1.1 Playlist📍\nhttps://www.youtube.com/playlist?list=PLPH2f477dnaxZSffcQ7zClKBSlvZVmgt7&playnext=1&index=1\n\n❗  100% Exploration /All Colectible PLaylist \nhttps://www.youtube.com/watch?v=g-cTTnT6RNE&list=PLPH2f477dnaxNmfXEqJrfwoLfimucH_yk&index=1&ab_channel=ONGame\n❗ Material Farming Route Playlist     \nhttps://www.youtube.com/playlist?list=PLPH2f477dnayaON4EgQrvMONBRuYnoOR9\n❗  ALL Side Quest\nhttps://www.youtube.com/watch?v=9l9xYuTv9jo&list=PLPH2f477dnazmhv-6qngUeKH8jFv4z8VV&ab_channel=ONGamehttps://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u2757.png\n❗Echo Farming Route Playlist\nhttps://www.youtube.com/playlist?list=PLPH2f477dnaxwrNKZIwvGojxlf05lUvSq\n❗All Hiden Achievement\nhttps://www.youtube.com/playlist?list=PLPH2f477dnazWDyYN_dCb8_B6RKNI91AK&playnext=1&index=1\n\n\n00:00 Opening   \n00:18 Basic Attack    \n01:17 Mid-air Attack    \n01:58 Heavy Attack    \n02:34 Forte Circuit    \n03:11 Resonance Skill    \n03:48 Resonance Liberation    \n04:26 Battle Preview    \n05:43 Character Animation Detail    \n06:18 Character Idle    \n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
-      "duration": "PT454S",
-      "variants": [
-        {
-          "id": "NEavxDGTFRE",
-          "title": "Changli  Gameplay & Skill Showcase  | Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
       "id": "0I4nDRxlmrs",
       "title": "엘렌 캐릭터 플레이 -「유니폼·가위·상어 꼬리」 | 젠레스 존 제로",
       "publishedAt": "2024-07-02T20:59:26-07:00",
@@ -2210,28 +1563,6 @@
         {
           "id": "0I4nDRxlmrs",
           "title": "엘렌 캐릭터 플레이 -「유니폼·가위·상어 꼬리」 | 젠레스 존 제로",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "EJ4MxpwcxEA",
-      "title": "Jinhsi Gameplay - Jinhsi Skill Showcase |  Wuthering Waves",
-      "publishedAt": "2024-06-29T01:03:38-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "📍 Jinhsi Combat Gameplay📍\nhttps://youtu.be/6v-0D_Uknds?si=-XkhzEHLhDqtL1Sm\n📍All Wuwa Character Gameplay📍\nhttps://www.youtube.com/watch?v=79wwE6aNVrQ&list=PLPH2f477dnawi1H2Nn0cJBW4Kl2LGf0jl&index=2&ab_channel=ONGame\n\nJinhsi Basic Attack, Jinhsi Resonance Skill, Jinhsi Resonance Liberation , Jinhsi passive talent, Wuthering Waves \n\n\n00:00   Jinhsi    \n00:19   Basic Attack    \n00:36   Mid-Air Attack    \n01:02   Heavy Attack    \n01:22   Resonance Skill    \n02:41   Resonance Liberation    \n03:05   Battle Preview    \n\n\n❗  100% Exploration /All Colectible PLaylist \nhttps://www.youtube.com/watch?v=g-cTTnT6RNE&list=PLPH2f477dnaxNmfXEqJrfwoLfimucH_yk&index=1&ab_channel=ONGame\n❗ Material Farming Route Playlist     \nhttps://www.youtube.com/playlist?list=PLPH2f477dnayaON4EgQrvMONBRuYnoOR9\n❗  ALL Side Quest\nhttps://www.youtube.com/watch?v=9l9xYuTv9jo&list=PLPH2f477dnazmhv-6qngUeKH8jFv4z8VV&ab_channel=ONGamehttps://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u2757.png\n❗Echo Farming Route Playlist\nhttps://www.youtube.com/playlist?list=PLPH2f477dnaxwrNKZIwvGojxlf05lUvSq\n❗All Hiden Achievement\nhttps://www.youtube.com/playlist?list=PLPH2f477dnazWDyYN_dCb8_B6RKNI91AK&playnext=1&index=1\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
-      "duration": "PT247S",
-      "variants": [
-        {
-          "id": "EJ4MxpwcxEA",
-          "title": "Jinhsi Gameplay - Jinhsi Skill Showcase |  Wuthering Waves",
           "language": "ko"
         }
       ]
@@ -2294,28 +1625,6 @@
       ]
     },
     {
-      "id": "eVQmYMtYVd4",
-      "title": "Yinlin All Skill & Attack - Yinlin Gameplay | Wuthering Waves",
-      "publishedAt": "2024-06-07T04:32:00-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n00:00 Opening    \n00:09 Basic Attack    \n00:29 Mid air Attack    \n00:55 Heavy Attack    \n01:08 Heavy Attack    \n01:19 Resonance Skill    \n01:46 Resonance Liberation    \n01:57 Battle Preview \n03:08 Character Animation Detail \n03:33 Character Idle Detail  \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
-      "duration": "PT271S",
-      "variants": [
-        {
-          "id": "eVQmYMtYVd4",
-          "title": "Yinlin All Skill & Attack - Yinlin Gameplay | Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
       "id": "s-7Ip8bb2Vk",
       "title": "리카온 캐릭터 플레이 -「늑대의 품격」| 젠레스 존 제로",
       "publishedAt": "2024-05-27T21:00:00-07:00",
@@ -2330,336 +1639,6 @@
         {
           "id": "s-7Ip8bb2Vk",
           "title": "리카온 캐릭터 플레이 -「늑대의 품격」| 젠레스 존 제로",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "eBWJcTOVas8",
-      "title": "Lingyang  All Skill & Attack - Lingyang  Gameplay |  Wuthering Waves",
-      "publishedAt": "2024-05-18T18:00:48-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "Lingyang  Basic Attack, Lingyang  Resonance Skill, Lingyang  Resonance Liberation , Lingyang  passive talent, Wuthering Waves \n\n\n❗Best pilot service ⬇️\nhttps://www.instagram.com/rearigaming\n\n\n00:00   Opening    \n00:10   Basic Attack    \n00:26   Mid-air Attack    \n00:41   Heavy Attack    \n00:59   Resonance Skill    \n01:12   Resonance Liberation    \n01:24   Battle preview    \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
-      "duration": "PT145S",
-      "variants": [
-        {
-          "id": "eBWJcTOVas8",
-          "title": "Lingyang  All Skill & Attack - Lingyang  Gameplay |  Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "kIjAn__i2tk",
-      "title": "Verina  All Skill & Attack - Verina  Gameplay |  Wuthering Waves",
-      "publishedAt": "2024-05-18T17:59:52-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "Verina  Basic Attack, Verina  Resonance Skill, Verina  Resonance Liberation , Verina  passive talent, Wuthering Waves \n\n\n❗Best pilot service ⬇️\nhttps://www.instagram.com/rearigaming\n\n00:00  Opening \n00:10  Basic Attack \n00:22  Mid-Air Attack \n00:33  Mid-Air Heavy attack \n00:51  Heavy Attack \n00:59  Resonance skill \n01:10  Resonance Liberation \n01:14  Battle Preview \n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
-      "duration": "PT117S",
-      "variants": [
-        {
-          "id": "kIjAn__i2tk",
-          "title": "Verina  All Skill & Attack - Verina  Gameplay |  Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "vK98hETxMcE",
-      "title": "Calcharo All Skill & Attack - Calcharo Gameplay |  Wuthering Waves",
-      "publishedAt": "2024-05-18T09:12:49-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "Calcharo Basic Attack, Calcharo Resonance Skill, Calcharo Resonance Liberation , Calcharo passive talent, Wuthering Waves \n\n\n❗Best pilot service ⬇️\nhttps://www.instagram.com/rearigaming\n\n\n 00:00 Opening\n 00:06 Basic Attack\n 00:23 Mid-air Attack\n 00:37 Heavy Attack\n 00:47 Resonance Skill\n 01:01 Resonance Liberation\n 01:15 Battle Preview\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
-      "duration": "PT127S",
-      "variants": [
-        {
-          "id": "vK98hETxMcE",
-          "title": "Calcharo All Skill & Attack - Calcharo Gameplay |  Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "FSge_CYz0fo",
-      "title": "YangYang All Skill & Attack - YangYang Gameplay |  Wuthering Waves",
-      "publishedAt": "2024-05-18T03:31:43-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "YangYang Basic Attack, YangYang Resonance Skill, YangYang Resonance Liberation , YangYang passive talent, Wuthering Waves \n\n\n❗Best pilot service ⬇️\nhttps://www.instagram.com/rearigaming\n\n00:00 Opening\n00:06 Basic attack\n00:19 Mid air Attack\n00:24 Heavy Attack\n00:31 Heavy Attack + Mid air\n00:38 Intro Skill\n00:43 Resonator Skill\n00:46 Resonance Liberation\n00:52 Battle Preview\n01:33 Idle \n\n\n\n\n\n\n\n\n\n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
-      "duration": "PT124S",
-      "variants": [
-        {
-          "id": "FSge_CYz0fo",
-          "title": "YangYang All Skill & Attack - YangYang Gameplay |  Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "JX6XNTT6BfU",
-      "title": "Yuanwu All Skill & Attack - Yuanwu Gameplay |  Wuthering Waves",
-      "publishedAt": "2024-05-18T00:28:37-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "Yuanwu Basic Attack, Yuanwu Resonance Skill, Yuanwu Resonance Liberation , Yuanwu passive talent, Wuthering Waves \n\n00:00 Opening\n00:07 Basic attack\n00:17 Mid air Attack\n00:27 Heavy Attack\n00:31 Intro Skill\n00:39 Resonator Skill\n01:04 Resonance Liberation\n01:22 Battle Preview\n02:09 Idle \n\n\n\n❗Best pilot service ⬇️\nhttps://www.instagram.com/rearigaming\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
-      "duration": "PT162S",
-      "variants": [
-        {
-          "id": "JX6XNTT6BfU",
-          "title": "Yuanwu All Skill & Attack - Yuanwu Gameplay |  Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "nEgr51pOAUg",
-      "title": "Jiyan All Skill & Attack - Jiyan Gameplay |  Wuthering Waves",
-      "publishedAt": "2024-05-17T21:00:22-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "Jiyan All Skill & Attack - Jiyan Gameplay |  Wuthering Waves\n\n❗Best pilot service ⬇️\nhttps://www.instagram.com/rearigaming\n\n00:00 Opening\n00:06 Basic attack\n00:12 Mid air Attack\n00:25 Heavy Attack\n00:27 Intro Skill\n00:38 Resonator Skill\n00:44 Resonance Liberation\n01:07 Battle Preview\n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
-      "duration": "PT114S",
-      "variants": [
-        {
-          "id": "nEgr51pOAUg",
-          "title": "Jiyan All Skill & Attack - Jiyan Gameplay |  Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "2v8ge4J-XuM",
-      "title": "Taoqi All Skill & Attack - Taoqi Gameplay |  Wuthering Waves",
-      "publishedAt": "2024-05-17T18:00:01-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "Taoqi Basic Attack, Taoqi Resonance Skill, Taoqi Resonance Liberation , Taoqi passive talent, Wuthering Waves \n\n\n❗Best pilot service ⬇️\nhttps://www.instagram.com/rearigaming\n\n00:00 Opening\n00:05 Basic attack\n00:12 Mid air Attack\n00:18 Heavy Attack\n00:25 Intro Skill\n00:30 Resonator Skill\n00:33 Resonance Liberation\n00:39 Battle Preview\n01:17 Idle \n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
-      "duration": "PT114S",
-      "variants": [
-        {
-          "id": "2v8ge4J-XuM",
-          "title": "Taoqi All Skill & Attack - Taoqi Gameplay |  Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "Wb0yO6J7V1M",
-      "title": "Danjin All Skill & Attack - Danjin Gameplay |  Wuthering Waves",
-      "publishedAt": "2024-05-17T03:00:33-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "Danjin Basic Attack, Danjin Resonance Skill, Danjin Resonance Liberation , Danjin passive talent, Wuthering Waves \n\n\n❗Best pilot service ⬇️\nhttps://www.instagram.com/rearigaming\n\n00:00 Intro\n00:04 Basic attack\n00:12 Mid air Attack\n00:17 Heavy Attack\n00:23 Intro Skill\n00:30 Resonator Skill\n00:41 Resonance Liberation\n00:49 Battle Preview\n01:22 Idle\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
-      "duration": "PT113S",
-      "variants": [
-        {
-          "id": "Wb0yO6J7V1M",
-          "title": "Danjin All Skill & Attack - Danjin Gameplay |  Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "ot6e5OkKcyc",
-      "title": "Aalto All Skill & Attack - Aalto Gameplay |  Wuthering Waves",
-      "publishedAt": "2024-05-17T00:00:22-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "Aalto Basic Attack, Aalto Resonance Skill, Aalto Resonance Liberation , Aalto passive talent, Wuthering Waves \n\n\n❗Best pilot service ⬇️\nhttps://www.instagram.com/rearigaming\n\n00:00 Intro\n00:06 Basic attack\n00:15 Mid air Attack\n00:22 Heavy Attack\n00:27 Intro Skill\n00:33 Resonator Skill\n00:43 Resonance Liberation\n00:49 Battle Preview\n01:31 Idle\n\n\n\n\n\n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
-      "duration": "PT114S",
-      "variants": [
-        {
-          "id": "ot6e5OkKcyc",
-          "title": "Aalto All Skill & Attack - Aalto Gameplay |  Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "o2gG668iw54",
-      "title": "Jianxin   All Skill & Attack - Jianxin   Gameplay |  Wuthering Waves",
-      "publishedAt": "2024-05-16T21:00:34-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "Jianxin  Basic Attack, Jianxin  Resonance Skill, Jianxin  Resonance Liberation , Jianxin  passive talent, Wuthering Waves \n\n\n❗Best pilot service ⬇️\nhttps://www.instagram.com/rearigaming\n\n00:00 Intro\n00:09 Basic attack\n00:16 Mid air Attack\n00:24 Heavy Attack\n00:39 Intro Skill\n00:45 Resonator Skill\n00:55 Resonance Liberation\n01:03 Battle Preview\n01:47 Idle \n\n\n\n\n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
-      "duration": "PT141S",
-      "variants": [
-        {
-          "id": "o2gG668iw54",
-          "title": "Jianxin   All Skill & Attack - Jianxin   Gameplay |  Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "IsCTpwDH358",
-      "title": "Baizhi  All Skill & Attack - Baizhi Gameplay |  Wuthering Waves",
-      "publishedAt": "2024-05-16T18:00:11-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "baizhi Basic Attack, baizhi Resonance Skill, baizhi Resonance Liberation , baizhi passive talent, Wuthering Waves \n\n\n❗Best pilot service ⬇️\nhttps://www.instagram.com/rearigaming\n\n00:00 Intro\n00:04 Basic attack\n00:16 Mid air Attack\n00:25 Heavy Attack\n00:36 Intro Skill\n00:42 Resonator Skill\n00:52 Resonance Liberation\n01:00 Battle Preview\n02:00 Idle\n\n\n\n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
-      "duration": "PT149S",
-      "variants": [
-        {
-          "id": "IsCTpwDH358",
-          "title": "Baizhi  All Skill & Attack - Baizhi Gameplay |  Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "To900kZyoBw",
-      "title": "Chixiaa All Skill & Attack - Chixiaa Gameplay |  Wuthering Waves",
-      "publishedAt": "2024-05-16T16:00:12-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "",
-      "duration": "PT121S",
-      "variants": [
-        {
-          "id": "To900kZyoBw",
-          "title": "Chixiaa All Skill & Attack - Chixiaa Gameplay |  Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "XJPdfFxwKoM",
-      "title": "Mortefi All Skill & Attack - Mortefi Gameplay |  Wuthering Waves",
-      "publishedAt": "2024-05-16T05:47:59-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "mortefi Basic Attack, mortefi Resonance Skill, mortefi Resonance Liberation , mortefi passive talent, Wuthering Waves \n\n\n❗Best pilot service ⬇️\nhttps://www.instagram.com/rearigaming\n\n00:00 Intro\n00:06 Basic attack\n00:12 Mid air Attack\n00:20 Heavy Attack\n00:25 Intro Skill\n00:28 Resonator Skill\n00:37 Resonance Liberation\n00:50 Battle Preview\n01:44 Idle \n\n\n\n\n\n\n\n\n\n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
-      "duration": "PT136S",
-      "variants": [
-        {
-          "id": "XJPdfFxwKoM",
-          "title": "Mortefi All Skill & Attack - Mortefi Gameplay |  Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "KEtp66jx5WU",
-      "title": "Rover All Skill & Attack - Rover Gameplay |  Wuthering Waves",
-      "publishedAt": "2024-05-16T04:48:00-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "rover Basic Attack, rover Resonance Skill, rover Resonance Liberation , rover passive talent, Wuthering Waves \n\n❗Best pilot service ⬇️\nhttps://www.instagram.com/rearigaming\n\n00:00 Intro\n00:04 Basic attack\n00:13 Mid air Attack\n00:22 Heavy Attack\n00:32 Intro Skill\n00:39 Resonator Skill\n00:46 Resonance Liberation\n00:50 Battle Preview\n01:19 Idle \n\n\n\n\n\n\n\n\n\n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
-      "duration": "PT101S",
-      "variants": [
-        {
-          "id": "KEtp66jx5WU",
-          "title": "Rover All Skill & Attack - Rover Gameplay |  Wuthering Waves",
-          "language": "ko"
-        }
-      ]
-    },
-    {
-      "id": "4e4-EkjBRiA",
-      "title": "Encore  All Skill & Attack - Encore  Gameplay |  Wuthering Waves",
-      "publishedAt": "2024-05-15T21:00:03-07:00",
-      "channelTitle": "ON Game",
-      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
-      "gameId": "wuthering-waves",
-      "language": "ko",
-      "type": "캐릭터 무브셋",
-      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
-      "sourceKind": "creator",
-      "gameVerified": true,
-      "description": "Encore Basic Attack, Encore Resonance Skill, Encore Resonance Liberation , Encore passive talent, Wuthering Waves \n\n\n\n\n❗Best pilot service ⬇️\nhttps://www.instagram.com/rearigaming\n\n00:00 Intro\n00:09 Basic attack\n00:18 Mid air Attack\n00:29 Heavy Attack\n00:42 Intro Skill\n00:49 Resonator Skill\n00:58 Resonance Liberation\n01:11 Battle Preview\n01:52 Idle \n\n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
-      "duration": "PT141S",
-      "variants": [
-        {
-          "id": "4e4-EkjBRiA",
-          "title": "Encore  All Skill & Attack - Encore  Gameplay |  Wuthering Waves",
           "language": "ko"
         }
       ]
@@ -3101,6 +2080,50 @@
       ]
     },
     {
+      "id": "wlRulTFiYfk",
+      "title": "Rebecca All Skill SFX Wuthering — Wuthering Waves x Cyberpunk: Edgerunners",
+      "publishedAt": "2026-06-06T04:54:50-07:00",
+      "channelTitle": "NaruVT",
+      "channelId": "UCQVGsT4eIagPl-nwjfFvBwQ",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCQVGsT4eIagPl-nwjfFvBwQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "The Video Source: \nhttps://www.wegame.com.cn/helper/mingchao/?wg_ad_from=shopbannerNew\n\nIf you're enjoying the content, don't forget to leave a like.\n🔗 Share this video with your friends if you think it's worth spreading.\n✅ Hit the subscribe button to stay updated with more awesome content like this.\n💙 Your support means the world to us, and we can't wait to bring you more exciting videos in the future. Thanks for tuning in, and let's grow together!\n\nChapters:\n0:00 Basic Attack\n0:16 Resonance Skill\n0:23 Resonance Liberation\n0:35 Forte Circuit\n0:44 Intro Skill\n0:53 Outro Skill\n\n#wutheringwaves #wuwa #cyberpunkedgerunners #rebecca\n\nwuthering waves\nwuwa\nwuthering waves lore\ncantarella lore\nnaruvt\nnaruvt lore\nnaruvt ww\nwuwa guide\nwuthering waves guide",
+      "duration": "PT57S",
+      "variants": [
+        {
+          "id": "wlRulTFiYfk",
+          "title": "Rebecca All Skill SFX Wuthering — Wuthering Waves x Cyberpunk: Edgerunners",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "yExqHez3tFo",
+      "title": "Lucy All Skill SFX Wuthering — Wuthering Waves x Cyberpunk: Edgerunners",
+      "publishedAt": "2026-06-06T04:39:34-07:00",
+      "channelTitle": "NaruVT",
+      "channelId": "UCQVGsT4eIagPl-nwjfFvBwQ",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCQVGsT4eIagPl-nwjfFvBwQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "The Video Source: \nhttps://www.wegame.com.cn/helper/mingchao/?wg_ad_from=shopbannerNew\n\nIf you're enjoying the content, don't forget to leave a like.\n🔗 Share this video with your friends if you think it's worth spreading.\n✅ Hit the subscribe button to stay updated with more awesome content like this.\n💙 Your support means the world to us, and we can't wait to bring you more exciting videos in the future. Thanks for tuning in, and let's grow together!\n\nChapters:\n0:00 Basic Attack\n0:17 Resonance Skill\n0:29 Resonance Liberation\n0:39 Forte Circuit\n0:46 Intro Skill\n0:51 Outro Skill\n\n#wutheringwaves #wuwa #cyberpunkedgerunners #lucy \n\nwuthering waves\nwuwa\nwuthering waves lore\ncantarella lore\nnaruvt\nnaruvt lore\nnaruvt ww\nwuwa guide\nwuthering waves guide",
+      "duration": "PT56S",
+      "variants": [
+        {
+          "id": "yExqHez3tFo",
+          "title": "Lucy All Skill SFX Wuthering — Wuthering Waves x Cyberpunk: Edgerunners",
+          "language": "en"
+        }
+      ]
+    },
+    {
       "id": "RoWtezTlMIE",
       "title": "Edgar Animations Showcase (Combat, Exploration, Menu, Unique Skills) | Neverness to Everness",
       "publishedAt": "2026-05-26T10:41:28+00:00",
@@ -3217,6 +2240,1498 @@
           "id": "dfbTRBhJKP8",
           "title": "Daffodil Animations Showcase (Combat, Exploration, Menu, Unique Skills) | Neverness to Everness",
           "language": ""
+        }
+      ]
+    },
+    {
+      "id": "pHEAtOtogso",
+      "title": "Denia All Skill SFX — Wuthering Waves",
+      "publishedAt": "2026-05-17T05:13:39-07:00",
+      "channelTitle": "NaruVT",
+      "channelId": "UCQVGsT4eIagPl-nwjfFvBwQ",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCQVGsT4eIagPl-nwjfFvBwQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "The Video Source: \nhttps://www.wegame.com.cn/helper/mingchao/?wg_ad_from=shopbannerNew\n\nIf you're enjoying the content, don't forget to leave a like.\n🔗 Share this video with your friends if you think it's worth spreading.\n✅ Hit the subscribe button to stay updated with more awesome content like this.\n💙 Your support means the world to us, and we can't wait to bring you more exciting videos in the future. Thanks for tuning in, and let's grow together!\n\nChapters:\n0:00 Basic Attack\n0:38 Resonance Skill\n0:54 Resonance Liberation\n1:12 Forte Circuit\n1:25 Intro Skill\n1:41 Outro Skill\n\n#wutheringwaves #wuwa  #denia \n\nwuthering waves\nwuwa\nwuthering waves lore\ncantarella lore\nnaruvt\nnaruvt lore\nnaruvt ww\nwuwa guide\nwuthering waves guide",
+      "duration": "PT111S",
+      "variants": [
+        {
+          "id": "pHEAtOtogso",
+          "title": "Denia All Skill SFX — Wuthering Waves",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "fiuBE92Oj8k",
+      "title": "Mint Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+      "publishedAt": "2026-05-16T02:29:21-07:00",
+      "channelTitle": "The Chaos Duck",
+      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "gameId": "neverness-to-everness",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "A showcase of Mint's gameplay to fully appreciate every detail in each of her animations.\n\nFor the first character you unlock, Min't animations look really good, even when compared to some S Ranks. Her basic attacks are definitely the best animation-wise. They feel extremely light and quick, yet they look like they cut so smooth at the same time. I also really like the way she spins her blades as she puts them away (quite similarly to Daffodil actually, which could be why I like her animations so much). One nitpick I do have is that I feel like the tornado slashes during her charged attack could be a bit bigger and faster. But, even for an A rank character, you could tell that a lot of care went into each of her animations. 9/10 from me.\n\nTimestamps:\n\n[Combat]\n(Front)\n0:00 - Standing to Idle\n0:04 - Idle Animations\n0:28 - Basic Attacks \n0:49- Plunge Attack\n0:51 - Redirect Skill\n0:55 - Charged Attack\n1:05 - Ultimate\n1:20 - Disarm\n\n(Side)\n1:24 - Basic Attacks \n1:44 - Plunge Attack\n1:47 - Redirect Skill\n1:50 - Charged Attack\n2:02 - Disarm\n\n(Back)\n2:06 - Basic Attacks \n2:28 - Plunge Attack\n2:32 - Redirect Skill\n2:35 - Charged Attacks\n2:48 - Disarm\n\n(Other)\n2:52 - Intro Skill\n2:57 - Dodge Attack\n3:03 - Knockback\n3:08 - Critical Dodges\n3:11 - Parry\n\n[Exploration]\n3:15 - Walk\n3:31 - Run\n3:48 - Dash\n4:01 - Dodge\n4:15 - Jumping & Gliding (All angles)\n\n[Menu]\n4:39 - Intro\n4:44 - Arc selection\n4:50 - Skins\n\nNeverness To Everness is a supernatural urban open-world RPG developed by Hotta Studio, a subsidiary of Perfect World Games. In this Anomaly-filled city, you'll make a dazzling entrance, using your extraordinary Esper abilities to navigate freely and handle unexpected events. Beyond that, you can choose your own lifestyle, manage businesses, and experience a vibrant urban life.\n\nMint is an A rarity character from the Anima attribute who performs the Damage role in combat. Herr Arc Compatibility is Liquid.\n\nPlay Neverness to Everness now!: nte.perfectworld.com\n\n#NTE #NTEcreator #gameplay #animations #showcase #mint #nevernesstoeverness",
+      "duration": "PT310S",
+      "variants": [
+        {
+          "id": "fiuBE92Oj8k",
+          "title": "Mint Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "KN251GvTlcI",
+      "title": "Hathor Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+      "publishedAt": "2026-05-15T05:40:51-07:00",
+      "channelTitle": "The Chaos Duck",
+      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "gameId": "neverness-to-everness",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "A showcase of Hathor's gameplay to fully appreciate every detail in each of her animations.\n\nAs someone who uses her as a burst DPS, I did NOT expect her to attack using her legs (that is not a complaint in any way). Her basic attacks are probably my favorite part of her kit animation-wise, as I like the way they feel so floaty and strong at the same time, and each one of them feel equally as good as the other. Her Redirect Skill, charged attack, and plunge attack feel a little weak in comparison, although I do like how she has a unique plunge attack (animation-wise tho, it also feels weak). Her ultimate is just fine, tho I feel they could've done a bit more with it. One thing I didn't know was that she could ride motorcycles herself, until I someone else do it, which I think is a really cool unique feature of hers (and I hope that gets extended to more characters in the future). 7/10 for me.\n\nTimestamps:\n\n[Combat]\n(Front)\n0:00 - Standing to Idle\n0:09 - Idle Animations\n0:44 - Basic Attacks \n1:10 - Plunge Attack\n1:14 - Redirect Skill\n1:20 - Charged Attack\n1:27 - Ultimate\n1:34 - Ultimate Attacks\n1:58 - Disarm\n\n(Side)\n2:07 - Basic Attacks \n2:32 - Plunge Attack\n2:36 - Redirect Skill\n2:41 - Charged Attack\n2:52 - Disarm\n\n(Back)\n3:01 - Basic Attacks \n3:27 - Plunge Attack\n3:31 - Redirect Skill\n3:36 - Charged Attack\n3:48 - Disarm\n\n(Other)\n3:55 - Redirect Skill (Hold)\n4:06 - Intro Skill\n4:11 - Dodge Attack\n4:17 - Critical Dodges\n4:19 - Parry\n4:23 - Knockback\n\n[Exploration]\n4:28 - Walk\n4:46 - Run\n5:04 - Dash\n5:18 - Dodge\n5:33 - Jumping & Gliding (All angles)\n6:04 - Motorcycle Riding\n\n[Menu]\n6:55 - Intro\n7:00 - Arc selection\n\n7:08 - Plunge Attack Blooper\n\nNeverness To Everness is a supernatural urban open-world RPG developed by Hotta Studio, a subsidiary of Perfect World Games. In this Anomaly-filled city, you'll make a dazzling entrance, using your extraordinary Esper abilities to navigate freely and handle unexpected events. Beyond that, you can choose your own lifestyle, manage businesses, and experience a vibrant urban life.\n\nHathor is an S rarity character from the Lakshana attribute who performs the Damage role in combat. Her Arc Compatibility is Plasma.\n\nPlay Neverness to Everness now!: nte.perfectworld.com\n\n#NTE #NTEcreator #gameplay #animations #showcase #hathor #nevernesstoeverness",
+      "duration": "PT463S",
+      "variants": [
+        {
+          "id": "KN251GvTlcI",
+          "title": "Hathor Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "fPD5usu8sQE",
+      "title": "Nanally Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+      "publishedAt": "2026-05-13T04:58:25-07:00",
+      "channelTitle": "The Chaos Duck",
+      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "gameId": "neverness-to-everness",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "A showcase of Nanally's gameplay to fully appreciate every detail in each of her animations.\n\nI think overall, all of Nanally's animations are quite even in quality, with the best being her basic and charged attacks, of course. I like how she uses a mix of kicks and punches, both feeling just as strong as the other. I also really like how you can really feel the oomph coming out of Nanally's basic attacks (the amazing sound design is also a big factor of it), her charged attacks amplifying that oomph times TEN, with each hit feeling like you're hitting the enemies with trucks. Her weakest link only being her Redirect Skill, which still feels really impactful cuz the effects make up for the weird animation. The little animations she does after each attack are also really cute and add to her personality. 10/10 for me.\n\nTimestamps:\n\n[Combat]\n(Front)\n0:00 - Standing to Idle\n0:04 - Idle Animations\n0:22 - Basic Attacks \n0:47 - Plunge Attack\n0:50 - Redirect Skill\n0:56 - Charged Attacks\n1:10 - Ultimate\n1:23 - Disarm\n\n(Side)\n1:27 - Basic Attacks \n1:51 - Plunge Attack\n1:55 - Redirect Skill\n2:01 - Charged Attacks\n2:19 - Disarm\n\n(Back)\n2:24 - Basic Attacks \n2:49 - Plunge Attack\n2:53 - Redirect Skill\n2:59 - Charged Attacks\n3:17 - Disarm\n\n(Other)\n3:22 - Intro Skill\n3:26 - Dodge Attack\n3:32 - Knockback\n3:36 - Critical Dodges\n3:39 - Parry\n\n[Exploration]\n3:43 - Walk\n4:00 - Run\n4:16 - Dash\n4:29 - Dodge\n4:46 - Jumping & Gliding (All angles)\n\n[Menu]\n5:12 - Intro\n5:18 - Arc selection\n5:23 - Skins\n\nNeverness To Everness is a supernatural urban open-world RPG developed by Hotta Studio, a subsidiary of Perfect World Games. In this Anomaly-filled city, you'll make a dazzling entrance, using your extraordinary Esper abilities to navigate freely and handle unexpected events. Beyond that, you can choose your own lifestyle, manage businesses, and experience a vibrant urban life.\n\nNanally is an S rarity character from the Anima attribute who performs the Damage role in combat. Her Arc Compatibility is Plasma.\n\nPlay Neverness to Everness now!: nte.perfectworld.com\n\n#NTE #NTEcreator #gameplay #animations #showcase #nanally #nevernesstoeverness",
+      "duration": "PT353S",
+      "variants": [
+        {
+          "id": "fPD5usu8sQE",
+          "title": "Nanally Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "QjAWA_mb6Hk",
+      "title": "Hotori Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+      "publishedAt": "2026-05-13T04:09:42-07:00",
+      "channelTitle": "The Chaos Duck",
+      "channelId": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "gameId": "neverness-to-everness",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCca8OKY6cbiLbcJlRmWyDLQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "A showcase of Hotori's gameplay to fully appreciate every detail in each of her animations.\n\nSince Hotori is an ultimate-focused character, it's only natural for her to have the best ultimate animations (including the ultimate attacks) in the game. One thing I really appreciate is how even her ultimate attacks each have their own sheathing animation (and BOY am I glad her ultimate recharges over time so I didn't have to farm energy over and over again to showcase each one). It's something they didn't HAVE to do, but it really shows how much effort they put into each character's animations. They even added a PLUNGE attack for her ultimate, even though no one would even THINK of plunging during it (I fogor to showcase it cuz of that mb). The rest of her animations are just fine for me, but I also do like the way she floats with her umbrella after her basic attacks, which are just nice to look at. 7/10 for me.\n\nGuess I'm a showcase channel now.\n\nTimestamps:\n\n[Combat]\n(Front)\n0:00 - Standing to Idle\n0:07 - Idle Animations\n0:32 - Basic Attacks \n0:57 - Plunge Attack\n1:03 - Redirect Skill\n1:09 - Ultimate\n1:26 - Charged Attack\n1:35 - Disarm\n\n(Side)\n1:43 - Basic Attacks \n2:05 - Plunge Attack\n2:10 - Redirect Skill\n2:15 - Charged Attack\n2:25 - Disarm\n\n(Back)\n2:31 - Basic Attacks \n2:55 - Plunge Attack\n3:00 - Redirect Skill\n3:06 - Charged Attack\n3:16 - Disarm\n\n(Other)\n3:23 - Ultimate Basic Attacks\n3:46 - Ultimate Final Attack\n3:56 - Intro Skill\n4:02 - Dodge Attack\n4:08 - Knockback\n4:12 - Critical Dodges\n4:15 - Parry\n\n[Exploration]\n4:20 - Walk\n4:37 - Run\n4:49 - Dash\n5:03 - Dodge\n5:14 - Time Freeze\n5:33 - Jumping & Gliding (All angles)\n\n[Menu]\n6:00 - Intro\n6:04 - Arc selection\n6:11 - Skins\n\nHotori is an S rarity character from the Cosmos attribute who performs the Buff role in combat. Her Arc Compatibility is Solid.\n\nPlay Neverness to Everness now!: nte.perfectworld.com\n\n#NTE #NTEcreator #gameplay #animations #showcase #hotori #nevernesstoeverness",
+      "duration": "PT403S",
+      "variants": [
+        {
+          "id": "QjAWA_mb6Hk",
+          "title": "Hotori Animations Showcase (Combat, Exploration, Menu, Unique Skills)",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "PhH02ZYROcQ",
+      "title": "Hiyuki All Skill SFX — Wuthering Waves",
+      "publishedAt": "2026-04-26T03:51:20-07:00",
+      "channelTitle": "NaruVT",
+      "channelId": "UCQVGsT4eIagPl-nwjfFvBwQ",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCQVGsT4eIagPl-nwjfFvBwQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "The Video Source: \nhttps://www.wegame.com.cn/helper/mingchao/?wg_ad_from=shopbannerNew\n\nIf you're enjoying the content, don't forget to leave a like.\n🔗 Share this video with your friends if you think it's worth spreading.\n✅ Hit the subscribe button to stay updated with more awesome content like this.\n💙 Your support means the world to us, and we can't wait to bring you more exciting videos in the future. Thanks for tuning in, and let's grow together!\n\nChapters:\n0:00 Basic Attack\n0:12 Resonance Skill\n0:25 Resonance Liberation\n0:31 Forte Circuit\n0:44 Intro Skill\n0:48 Outro Skill\n\n#wutheringwaves #rover #hiyuki \n\nGame Website: https://wutheringwaves.kurogame.com/en/\n\nwuthering waves\nwuwa\nwuthering waves lore\nnaruvt\nnaruvt lore\nnaruvt ww\nwuwa guide\nwuthering waves guide",
+      "duration": "PT77S",
+      "variants": [
+        {
+          "id": "PhH02ZYROcQ",
+          "title": "Hiyuki All Skill SFX — Wuthering Waves",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "xe92WI7-P_I",
+      "title": "Sigrika Gameplay & Sigrika Skill Showcase | Wuthering Waves 3.2",
+      "publishedAt": "2026-03-13T04:40:01-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "Sigrika Gameplay & Skill Showcase | Wuthering Waves Sigrika Leak\n\nSigrika Basic Attack, Sigrika Resonance Skill, Sigrika Resonance Liberation, Sigrika Passive Talent, Wuthering Waves\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n\n\n#wutheringwaves  #wuthering  #kurogames #WutheringWaves #wuwacreator",
+      "duration": "PT176S",
+      "variants": [
+        {
+          "id": "xe92WI7-P_I",
+          "title": "Sigrika Gameplay & Sigrika Skill Showcase | Wuthering Waves 3.2",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "tBS__wij5c8",
+      "title": "Aria Gameplay & Aria Skill Showcase | Zenless Zone Zeros 2.6 Aria Gameplay",
+      "publishedAt": "2026-01-30T04:34:05-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "❗Genshin 6.0 Guide Playlist \nhttps://www.youtube.com/playlist?list=PLPH2f477dnay8GkjRH7AALWePY1nXjF5O\n\nGenshin All Chest & Culus Location \nhttps://www.youtube.com/playlist?list=PLPH2f477dnaz60vfwS_w_eX9ihhbdP_M2\nGenshin All Hidden Achievement\nhttps://www.youtube.com/playlist?list=PLPH2f477dnax1G5P6G6tP1dFYMl3dcOlM\nGenshin All World Quest\nhttps://www.youtube.com/playlist?list=PLPH2f477dnawIO-AJDMIJPlGuEi12-ulL\nGenshin Changes & New Fatures\nhttps://www.youtube.com/playlist?list=PLPH2f477dnaxVS81W3M47dIye2nubStpE\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#genshin  #genshinimpact   #원신 #原神 #ГеншинИмпакт #genshinlore #memes #bugs #glitches #HoYoCREATORS #GenshinViews\n#genshinimpact #GenshinNewbie #SEANightMarket #GenshinOffline #ongame #genshinimpact #hoyocreators #genshintrailer",
+      "duration": "PT186S",
+      "variants": [
+        {
+          "id": "tBS__wij5c8",
+          "title": "Aria Gameplay & Aria Skill Showcase | Zenless Zone Zeros 2.6 Aria Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "rwudYEhcGxA",
+      "title": "Luuk Herssen Gameplay & Luuk Herssen Skill Showcase | Wuthering Waves 3.1",
+      "publishedAt": "2026-01-23T04:01:55-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "Luuk Herssen Gameplay & Skill Showcase | Wuthering Waves Luuk Herssen Leak\n\nLuuk Herssen Basic Attack, Luuk Herssen Resonance Skill, Luuk Herssen Resonance Liberation, Luuk Herssen Passive Talent, Wuthering Waves\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n\n\n#wutheringwaves  #wuthering  #kurogames #WutheringWaves #wuwacreator",
+      "duration": "PT180S",
+      "variants": [
+        {
+          "id": "rwudYEhcGxA",
+          "title": "Luuk Herssen Gameplay & Luuk Herssen Skill Showcase | Wuthering Waves 3.1",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "o4q8ZFJG3yc",
+      "title": "Aemeath Gameplay & Aemeath Skill Showcase | Wuthering Waves 3.1",
+      "publishedAt": "2026-01-23T03:43:26-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "Aemeath Gameplay & Skill Showcase | Wuthering Waves Aemeath Leak\n\nAemeath Basic Attack, Aemeath Resonance Skill, Aemeath Resonance Liberation, Aemeath Passive Talent, Wuthering Waves\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n\n\n#wutheringwaves  #wuthering  #kurogames #WutheringWaves #wuwacreator",
+      "duration": "PT170S",
+      "variants": [
+        {
+          "id": "o4q8ZFJG3yc",
+          "title": "Aemeath Gameplay & Aemeath Skill Showcase | Wuthering Waves 3.1",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "ZYlgQ9O75Ko",
+      "title": "Zhao Gameplay & Zhao Skill Showcase | Zenless Zone Zeros 2.5 Zhao Gameplay",
+      "publishedAt": "2025-12-19T04:32:19-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "❗Genshin 6.0 Guide Playlist \nhttps://www.youtube.com/playlist?list=PLPH2f477dnay8GkjRH7AALWePY1nXjF5O\n\nGenshin All Chest & Culus Location \nhttps://www.youtube.com/playlist?list=PLPH2f477dnaz60vfwS_w_eX9ihhbdP_M2\nGenshin All Hidden Achievement\nhttps://www.youtube.com/playlist?list=PLPH2f477dnax1G5P6G6tP1dFYMl3dcOlM\nGenshin All World Quest\nhttps://www.youtube.com/playlist?list=PLPH2f477dnawIO-AJDMIJPlGuEi12-ulL\nGenshin Changes & New Fatures\nhttps://www.youtube.com/playlist?list=PLPH2f477dnaxVS81W3M47dIye2nubStpE\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#genshin  #genshinimpact   #원신 #原神 #ГеншинИмпакт #genshinlore #memes #bugs #glitches #HoYoCREATORS #GenshinViews\n#genshinimpact #GenshinNewbie #SEANightMarket #GenshinOffline #ongame #genshinimpact #hoyocreators #genshintrailer",
+      "duration": "PT157S",
+      "variants": [
+        {
+          "id": "ZYlgQ9O75Ko",
+          "title": "Zhao Gameplay & Zhao Skill Showcase | Zenless Zone Zeros 2.5 Zhao Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "iw0_CjRFOuk",
+      "title": "Ye Shunguang Gameplay & Ye Shunguang Skill Showcase | Zenless Zone Zeros 2.5 Ye Shunguang Gameplay",
+      "publishedAt": "2025-12-19T04:12:58-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#ZenlessZoneZero #ZZZ #zzzero #zzzcreators #hoyocreators #zzztrailer #UkinamiYuzuha #Alice #zzzfaction #hoyoverse #zzzguide #zzzvideo #ZZZUpdate",
+      "duration": "PT138S",
+      "variants": [
+        {
+          "id": "iw0_CjRFOuk",
+          "title": "Ye Shunguang Gameplay & Ye Shunguang Skill Showcase | Zenless Zone Zeros 2.5 Ye Shunguang Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "C1BktETXhaY",
+      "title": "ZZZ - Banyue FULL Skill & Combo Moveset Exhibition [ All Animations & Combos ] - Zenless Zone Zero",
+      "publishedAt": "2025-12-12T23:24:49-08:00",
+      "channelTitle": "Drave-kun [ドレイブンくん]",
+      "channelId": "UCt4k40M8zAy2w-XZXxSs9cQ",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCt4k40M8zAy2w-XZXxSs9cQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "Zenless Zone Zero Banyue Full Showcase & All Skill Moveset Exhibition\nMy Other ZZZ Gameplay - 私の他のゲームプレイ - ゼンレスゾーンゼロ : https://youtu.be/UiPwuQEN_Ac\nMore in the Playlist - プレイリストの詳細 : https://www.youtube.com/playlist?list=PL83uN2JU1cdS0OnxlB-EeNB8gpZYDE6t4\n\nLet's Be Friend! - 友達になろう! Glad to Meet You Kkomrade! - 購読を検討してください ! : https://www.youtube.com/channel/UCt4k40M8zAy2w-XZXxSs9cQ?sub_confirmation=1\n\n=== [ Banyue Skills & Moveset Exhibition Chapter Select ] ===\n\n00:00 Master Banyue Entrance Opening\n00:04 Idle Animation [ NORMAL STATE ]\n01:01 Idle Animation [ ASURA VAJRA STATE ]\n01:33 Asura Vajra Transformation OFF COMBAT [ VISAGE OF WRATH ]\n01:48 Asura Vajra Transformation ON COMBAT [ VISAGE OF WRATH ]\n02:57 Warcry Taunt OFF COMBAT [ NORMAL STATE ]\n03:37 Warcry Taunt OFF COMBAT [ ASURA VAJRA STATE ]\n04:38 Warcry Taunt ON COMBAT [ NORMAL STATE ]\n04:57 Warcry Taunt ON COMBAT [ ASURA VAJRA STATE ]\n05:34 Running Animation [ NORMAL STATE ]\n06:09 Running Animation [ ASURA VAJRA STATE ]\n06:38 Running Brake Animation [ NORMAL STATE ]\n06:57 Running Brake Animation [ ASURA VAJRA STATE ]\n07:15 Sprint Animation [ NORMAL STATE ]\n08:22 Sprint Animation [ ASURA VAJRA STATE ]\n08:47 Sprint Brake Animation [ NORMAL STATE ]\n09:02 Sprint Brake Animation [ ASURA VAJRA STATE ]\n09:21 Forward Dodge [ NORMAL STATE ]\n09:54 Forward Dodge [ ASURA VAJRA STATE ]\n10:51 Backward Dodge [ NORMAL STATE ]\n11:33 Backward Dodge [ ASURA VAJRA STATE ]\n12:16 Basic Moveset [ NORMAL STATE ]\n14:54 Basic Moveset [ ASURA VAJRA STATE ]\n16:23 Dash Attack [ NORMAL STATE ]\n16:44 Dash Attack [ ASURA VAJRA STATE ]\n17:03 Special Skill COMBO [ NORMAL STATE ]\n19:26 Special Skill COMBO [ ASURA VAJRA STATE ]\n21:05 Ex Special Skill COMBO [ NORMAL STATE ]\n24:26 Ex Special Skill COMBO [ ASURA VAJRA STATE ]\n28:31 Immovable Mountain POWER MOVE [ NORMAL STATE ]\n29:00 Immovable Mountain POWER MOVE [ ASURA VAJRA STATE ]\n29:44 Immovable Mountain + Lofty Ascent [ NORMAL STATE ]\n29:58 Immovable Mountain + Lofty Ascent [ ASURA VAJRA STATE ]\n30:20 Toppling Mountain POWER MOVE [ ASURA VAJRA STATE ]\n30:44 Crushing Peaks + Toppling Mountain [ ASURA VAJRA STATE ]\n31:12 Toppling Mountain POWER MOVE [ ASURA VAJRA STATE ]\n31:20 Crushing Peaks + Toppling Mountain [ ASURA VAJRA STATE ]\n31:59 Full Combo POWER MOVE [ ASURA VAJRA STATE ]\n32:52 Dodge Animation [ NORMAL STATE ]\n33:17 Dodge Animation [ ASURA VAJRA STATE ]\n33:38 Dodge Counter COMBO [ NORMAL STATE ]\n34:49 Dodge Counter COMBO [ ASURA VAJRA STATE ]\n35:46 Quick Assist COMBO [ NORMAL STATE ]\n36:24 Quick Assist COMBO [ ASURA VAJRA STATE ]\n37:24 Defensive Assist COMBO [ NORMAL STATE ]\n38:02 Defensive Assist COMBO [ ASURA VAJRA STATE ]\n38:47 Chain Attack [ NORMAL STATE ]\n39:11 Chain Attack [ ASURA VAJRA STATE ]\n39:42 Ultimate [ NORMAL STATE ]\n39:52 Ultimate [ ASURA VAJRA STATE ]\n40:29 Closing !!!\n\nMore of My Gameplay Videos - その他のゲームプレイ :\n\nZenless Zone Zero [ ZZZ ] : https://www.youtube.com/playlist?list=PL83uN2JU1cdS0OnxlB-EeNB8gpZYDE6t4\nGames GUIDE & FORESHADOW : https://www.youtube.com/playlist?list=PL83uN2JU1cdS58-HferxiI64_4W0-aLGd\nGames BOSS FIGHT : https://www.youtube.com/playlist?list=PL83uN2JU1cdTTWcxxcEhBjl-HZufE0uZ2\nGames MOVIE & CUTSCENE : https://www.youtube.com/playlist?list=PL83uN2JU1cdQEJ_12Zt2Mxxkro2HgySbb\nGames LONGPLAY : https://www.youtube.com/playlist?list=PL83uN2JU1cdTWr3DnRTdyv0CXG8PdCe8q\n\nMetal Slug ADVENTURES TRILOGY : https://www.youtube.com/watch?v=SOrNV3WHibQ&list=PL83uN2JU1cdSjTKMXTCT0wqJxH2PVfLtA&index=1\nMana Khemia : https://www.youtube.com/watch?v=6NorWckNtzs&list=PL83uN2JU1cdTAwaFhyCXs9iXjmwGkTgJR\nThe Last Of Us 2 :  https://www.youtube.com/watch?v=veOzJV76Odk&list=PL83uN2JU1cdQ8WiwGLr3duaD-2OHMDQ8_\nThe Last of Us REMASTERED : https://www.youtube.com/watch?v=RZMrZRaCpzg&list=PL83uN2JU1cdQbXY1zRfueQDlC8hMlcaaa\nFinal Fantasy 7 REMAKE : https://www.youtube.com/watch?v=EwMZypVM-TA&list=PL83uN2JU1cdTNn2RHKHKUe1q8VnsZAia0\nResident Evil 3 REMAKE : https://www.youtube.com/watch?v=XX2E0gtHMf4&list=PL83uN2JU1cdRIOjfwGVlBVWrtBDg",
+      "duration": "PT2482S",
+      "variants": [
+        {
+          "id": "C1BktETXhaY",
+          "title": "ZZZ - Banyue FULL Skill & Combo Moveset Exhibition [ All Animations & Combos ] - Zenless Zone Zero",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "Yo-Cn9eXYnw",
+      "title": "Mornye Gameplay & Mornye Skill Showcase | Wuthering Waves",
+      "publishedAt": "2025-12-12T04:37:51-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "Mornye Gameplay & Skill Showcase | Wuthering Waves Mornye Leak\n\nMornye Basic Attack, Mornye Resonance Skill, Mornye Resonance Liberation, Mornye Passive Talent, Wuthering Waves\n\n\n❗  Wuwa Changes & New Features https://youtube.com/playlist?list=PLPH2f477dnay0A-4UX51QdnA72uVDvGmO&si=H1UlQKUZEwDFRgk0\n❗  Wuwa 100% Exploration https://www.youtube.com/watch?v=g-cTTnT6RNE&list=PLPH2f477dnaxNmfXEqJrfwoLfimucH_yk&index=1&ab_channel=ONGame\n❗  Wuwa ALL Side Quest https://www.youtube.com/watch?v=9l9xYuTv9jo&list=PLPH2f477dnazmhv-6qngUeKH8jFv4z8VV&ab_channel=ONGamehttps://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u2757.png\n❗Wuwa All Hiden Achievement https://www.youtube.com/playlist?list=PLPH2f477dnazWDyYN_dCb8_B6RKNI91AK&playnext=1&index=1arigaming\n\n\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves  #wuthering  #kurogames #WutheringWaves #wuwacreator",
+      "duration": "PT169S",
+      "variants": [
+        {
+          "id": "Yo-Cn9eXYnw",
+          "title": "Mornye Gameplay & Mornye Skill Showcase | Wuthering Waves",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "9SMhYfHa8X8",
+      "title": "Lynae Gameplay & Lynae Skill Showcase | Wuthering Waves",
+      "publishedAt": "2025-12-12T04:08:18-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "Lynae Gameplay & Skill Showcase | Wuthering Waves Lynae Leak\n\nLynae Basic Attack, Lynae Resonance Skill, Lynae Resonance Liberation, Lynae Passive Talent, Wuthering Waves\n\n❗  Wuwa Changes & New Features https://youtube.com/playlist?list=PLPH2f477dnay0A-4UX51QdnA72uVDvGmO&si=H1UlQKUZEwDFRgk0\n❗  Wuwa 100% Exploration https://www.youtube.com/watch?v=g-cTTnT6RNE&list=PLPH2f477dnaxNmfXEqJrfwoLfimucH_yk&index=1&ab_channel=ONGame\n❗  Wuwa ALL Side Quest https://www.youtube.com/watch?v=9l9xYuTv9jo&list=PLPH2f477dnazmhv-6qngUeKH8jFv4z8VV&ab_channel=ONGamehttps://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u2757.png\n❗Wuwa All Hiden Achievement https://www.youtube.com/playlist?list=PLPH2f477dnazWDyYN_dCb8_B6RKNI91AK&playnext=1&index=1arigaming\n\n\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n\n\n#wutheringwaves  #wuthering  #kurogames #WutheringWaves #wuwacreator",
+      "duration": "PT210S",
+      "variants": [
+        {
+          "id": "9SMhYfHa8X8",
+          "title": "Lynae Gameplay & Lynae Skill Showcase | Wuthering Waves",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "Gvvb72jF8Fo",
+      "title": "Buling Gameplay & Buling Skill Showcase | Wuthering Waves 2.8 Buling Gameplay",
+      "publishedAt": "2025-11-14T03:55:20-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#genshin  #genshinimpact   #원신 #原神 #ГеншинИмпакт #genshinlore #memes #bugs #glitches #HoYoCREATORS #GenshinViews\n#genshinimpact #GenshinNewbie #SEANightMarket #GenshinOffline #ongame #genshinimpact #hoyocreators #genshintrailer",
+      "duration": "PT144S",
+      "variants": [
+        {
+          "id": "Gvvb72jF8Fo",
+          "title": "Buling Gameplay & Buling Skill Showcase | Wuthering Waves 2.8 Buling Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "EqqITg7kaEE",
+      "title": "Chisa Gameplay & Chisa Skill Showcase | Wuthering Waves 2.8 Chisa Gameplay",
+      "publishedAt": "2025-11-14T03:44:36-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#genshin  #genshinimpact   #원신 #原神 #ГеншинИмпакт #genshinlore #memes #bugs #glitches #HoYoCREATORS #GenshinViews\n#genshinimpact #GenshinNewbie #SEANightMarket #GenshinOffline #ongame #genshinimpact #hoyocreators #genshintrailer",
+      "duration": "PT173S",
+      "variants": [
+        {
+          "id": "EqqITg7kaEE",
+          "title": "Chisa Gameplay & Chisa Skill Showcase | Wuthering Waves 2.8 Chisa Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "9NoQqCnrT4U",
+      "title": "Lucia Gameplay & Lucia Skill Showcase | Zenless Zone Zero 2.3 Lucia Gameplay",
+      "publishedAt": "2025-09-29T05:16:04-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "📍Lucia Gameplay  https://youtu.be/9NoQqCnrT4U\n📍Yidhari Gameplay  https://youtu.be/nZD7nwJcioo\n📍Manato Gamepla https://youtu.be/KBMEbF6StHA\n📍ZZZ 2.3 Redeem Code https://youtu.be/48iRQ9m8F2E\n📍ZZZ 2.3  changes https://youtu.be/dymi04bTM1I\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#ZenlessZoneZero #ZZZ #zzzero #zzzcreators #hoyocreators #zzztrailer #UkinamiYuzuha #Alice #zzzfaction #hoyoverse #zzzguide #zzzvideo #ZZZUpdate",
+      "duration": "PT266S",
+      "variants": [
+        {
+          "id": "9NoQqCnrT4U",
+          "title": "Lucia Gameplay & Lucia Skill Showcase | Zenless Zone Zero 2.3 Lucia Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "hSWtYEzKWsQ",
+      "title": "Qiuyuan Gameplay & Qiuyuan Skill Showcase | Wuthering Waves 2.7 Qiuyuan Gameplay",
+      "publishedAt": "2025-09-26T04:47:17-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "❗ WuWa 2.7 Changes  https://youtu.be/mtaZk1U83uw\n❗ WuWa 2.7 redeem code  https://youtu.be/Zn51tqJgdls\n❗ Qiuyuan Gameplay https://youtu.be/hSWtYEzKWsQ\n❗ Galbrena Gameplay https://youtu.be/DsSPBFfhST8\n\n❗  Wuwa Changes & New Features https://youtube.com/playlist?list=PLPH2f477dnay0A-4UX51QdnA72uVDvGmO&si=H1UlQKUZEwDFRgk0\n❗  Wuwa 100% Exploration https://www.youtube.com/watch?v=g-cTTnT6RNE&list=PLPH2f477dnaxNmfXEqJrfwoLfimucH_yk&index=1&ab_channel=ONGame\n❗  Wuwa ALL Side Quest https://www.youtube.com/watch?v=9l9xYuTv9jo&list=PLPH2f477dnazmhv-6qngUeKH8jFv4z8VV&ab_channel=ONGamehttps://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u2757.png\n❗Wuwa All Hiden Achievement https://www.youtube.com/playlist?list=PLPH2f477dnazWDyYN_dCb8_B6RKNI91AK&playnext=1&index=1arigaming\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves  #wuthering  #kurogames #WutheringWaves #wuwacreator",
+      "duration": "PT120S",
+      "variants": [
+        {
+          "id": "hSWtYEzKWsQ",
+          "title": "Qiuyuan Gameplay & Qiuyuan Skill Showcase | Wuthering Waves 2.7 Qiuyuan Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "DsSPBFfhST8",
+      "title": "Galbrena Gameplay & Galbrena Skill Showcase | Wuthering Waves 2.7 Galbrena Gameplay",
+      "publishedAt": "2025-09-26T04:33:32-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "❗ WuWa 2.7 Changes  https://youtu.be/mtaZk1U83uw\n❗ WuWa 2.7 redeem code  https://youtu.be/Zn51tqJgdls\n❗ Qiuyuan Gameplay https://youtu.be/hSWtYEzKWsQ\n❗ Galbrena Gameplay https://youtu.be/DsSPBFfhST8\n\n❗  Wuwa Changes & New Features https://youtube.com/playlist?list=PLPH2f477dnay0A-4UX51QdnA72uVDvGmO&si=H1UlQKUZEwDFRgk0\n❗  Wuwa 100% Exploration https://www.youtube.com/watch?v=g-cTTnT6RNE&list=PLPH2f477dnaxNmfXEqJrfwoLfimucH_yk&index=1&ab_channel=ONGame\n❗  Wuwa ALL Side Quest https://www.youtube.com/watch?v=9l9xYuTv9jo&list=PLPH2f477dnazmhv-6qngUeKH8jFv4z8VV&ab_channel=ONGamehttps://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u2757.png\n❗Wuwa All Hiden Achievement https://www.youtube.com/playlist?list=PLPH2f477dnazWDyYN_dCb8_B6RKNI91AK&playnext=1&index=1arigaming\n\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves  #wuthering  #kurogames #WutheringWaves #wuwacreator",
+      "duration": "PT120S",
+      "variants": [
+        {
+          "id": "DsSPBFfhST8",
+          "title": "Galbrena Gameplay & Galbrena Skill Showcase | Wuthering Waves 2.7 Galbrena Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "YgeNU10GFoo",
+      "title": "Orphie and Magus Skill & Gameplay Showcase - Zenless Zone Zero 2.2",
+      "publishedAt": "2025-08-22T05:06:31-07:00",
+      "channelTitle": "Jimmy Chen Gaming",
+      "channelId": "UCaRXeatgLKRhkSNd50IPFMg",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCaRXeatgLKRhkSNd50IPFMg",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "More about my Social Media : http://linktr.ee/Jimmychen96\n\nShop Genshin Impact merch here : http://amzn.to/3ZeK3HP\n\nSupport me : http://paypal.me/ThousandOffer\n\n#zenless #zzz #hoyoverse #zenlesszonezero #jimmychengaming #jimmychen #hoyocreators #hoyocreator \n#genshinimpact #zzzgameplay #zzzero #zenlesszonezeroedit #zzzfaction #HiNewEridu #ZZZOffline #SEANightMarket #zzzstory #ZZZHighLights\n#trigger #zzzguide #zzzvideo #zzzcreators #yuzuha #ukinamiyuzuha #alice #seed #magus #orphieandmagus #orphie&magus",
+      "duration": "PT120S",
+      "variants": [
+        {
+          "id": "YgeNU10GFoo",
+          "title": "Orphie and Magus Skill & Gameplay Showcase - Zenless Zone Zero 2.2",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "AAIPZQ8USOo",
+      "title": "Seed Skill & Gameplay Showcase - Zenless Zone Zero 2.2",
+      "publishedAt": "2025-08-22T05:02:39-07:00",
+      "channelTitle": "Jimmy Chen Gaming",
+      "channelId": "UCaRXeatgLKRhkSNd50IPFMg",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCaRXeatgLKRhkSNd50IPFMg",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "More about my Social Media : http://linktr.ee/Jimmychen96\n\nShop Genshin Impact merch here : http://amzn.to/3ZeK3HP\n\nSupport me : http://paypal.me/ThousandOffer\n\n#zenless #zzz #hoyoverse #zenlesszonezero #jimmychengaming #jimmychen #hoyocreators #hoyocreator \n#genshinimpact #zzzgameplay #zzzero #zenlesszonezeroedit #zzzfaction #HiNewEridu #ZZZOffline #SEANightMarket #zzzstory #ZZZHighLights\n#trigger #zzzguide #zzzvideo #zzzcreators #yuzuha #ukinamiyuzuha #alice #seed #magus #orphieandmagus #orphie&magus",
+      "duration": "PT148S",
+      "variants": [
+        {
+          "id": "AAIPZQ8USOo",
+          "title": "Seed Skill & Gameplay Showcase - Zenless Zone Zero 2.2",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "81jicyuTaoo",
+      "title": "Iuno Gameplay & Iuno Skill Showcase | Wuthering Waves 2.6 Iuno Gameplay",
+      "publishedAt": "2025-08-16T04:54:57-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "📍Wuwa 2.6 Recap https://youtu.be/pRQcHocAsMc\n📍Wuwa 2.6 Redeem Code  https://youtu.be/yoGLMhI-d88\n📍Iuno Gameplay  https://youtu.be/81jicyuTaoo\n📍Augusta Gameplay https://youtu.be/A0QJuiihRzA\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#genshin  #genshinimpact   #원신 #原神 #ГеншинИмпакт #genshinlore #memes #bugs #glitches #HoYoCREATORS #GenshinViews\n#genshinimpact #GenshinNewbie #SEANightMarket #GenshinOffline #ongame #genshinimpact #hoyocreators #genshintrailer",
+      "duration": "PT154S",
+      "variants": [
+        {
+          "id": "81jicyuTaoo",
+          "title": "Iuno Gameplay & Iuno Skill Showcase | Wuthering Waves 2.6 Iuno Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "A0QJuiihRzA",
+      "title": "Augusta Gameplay & Augusta Skill Showcase | Wuthering Waves 2.6 Augusta Gameplay",
+      "publishedAt": "2025-08-16T04:37:28-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "📍Wuwa 2.6 Recap https://youtu.be/pRQcHocAsMc\n📍Wuwa 2.6 Redeem Code  https://youtu.be/yoGLMhI-d88\n📍Iuno Gameplay  https://youtu.be/81jicyuTaoo\n📍Augusta Gameplay https://youtu.be/A0QJuiihRzA\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#genshin  #genshinimpact   #원신 #原神 #ГеншинИмпакт #genshinlore #memes #bugs #glitches #HoYoCREATORS #GenshinViews\n#genshinimpact #GenshinNewbie #SEANightMarket #GenshinOffline #ongame #genshinimpact #hoyocreators #genshintrailer",
+      "duration": "PT142S",
+      "variants": [
+        {
+          "id": "A0QJuiihRzA",
+          "title": "Augusta Gameplay & Augusta Skill Showcase | Wuthering Waves 2.6 Augusta Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "otCTyICwyv4",
+      "title": "Phrolova Gameplay & Phrolova Skill Showcase | Wuthering Waves 2.5 Phrolova Gameplay",
+      "publishedAt": "2025-07-18T04:33:09-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "📍Wuwa 2.5 Recap https://youtu.be/R1T0aOzAgbY\n📍Wuwa 2.5  Redeem Code https://youtu.be/7zLU4-vIWn4\n\n\nPhrolova Basic Attack, Phrolova Resonance Skill, Phrolova Resonance Liberation , Phrolova passive talent, Wuthering Waves\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames #WutheringWaves #wuwacreator",
+      "duration": "PT108S",
+      "variants": [
+        {
+          "id": "otCTyICwyv4",
+          "title": "Phrolova Gameplay & Phrolova Skill Showcase | Wuthering Waves 2.5 Phrolova Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "pbfdg1yObBQ",
+      "title": "Alice Thymefield Gameplay & Skill Showcase  | Zenless Zone Zero 2.1 Gameplay",
+      "publishedAt": "2025-07-04T06:05:13-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "❗ZZZ 2.1 Livestream Recap https://youtu.be/W0Vskkhm0eU\n❗ZZZ  Hidden Redeem Code https://youtu.be/z0brlCoN2WA\n❗Alice, Yuzuha, Wise and Belle Outfit  https://youtu.be/bEKa_dC0ieg\n❗Ukinami Yuzuha Gameplay https://youtu.be/3STeOWc52PU\n\n➤Doesnt Have Time to Play Game ? \nOpen Game Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#zenlesszonezero  #zzzero  #hoyocreators  #hoyocreators",
+      "duration": "PT221S",
+      "variants": [
+        {
+          "id": "pbfdg1yObBQ",
+          "title": "Alice Thymefield Gameplay & Skill Showcase  | Zenless Zone Zero 2.1 Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "3STeOWc52PU",
+      "title": "Ukinami Yuzuha Gameplay & Skill Showcase | Zenless Zone Zero 2.1 Gameplay",
+      "publishedAt": "2025-07-04T05:19:44-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "❗ZZZ 2.1 Livestream Recap https://youtu.be/W0Vskkhm0eU\n❗ZZZ  Hidden Redeem Code https://youtu.be/z0brlCoN2WA\n❗Alice, Yuzuha, Wise and Belle Outfit  https://youtu.be/bEKa_dC0ieg\n❗Alice Thymefield Gameplay https://youtu.be/pbfdg1yObBQ\n\n\n\n➤Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#zenlesszonezero  #zzzero  #hoyocreators  #hoyocreators",
+      "duration": "PT222S",
+      "variants": [
+        {
+          "id": "3STeOWc52PU",
+          "title": "Ukinami Yuzuha Gameplay & Skill Showcase | Zenless Zone Zero 2.1 Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "naeaOwflpTc",
+      "title": "Lupa Gameplay & Lupa Skill Showcase | Wuthering Waves 2.4 Lupa Gameplay",
+      "publishedAt": "2025-05-30T05:07:23-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "📍 Wuwa 2.4  Changes https://youtu.be/HR92xAStpqg\n📍Wuwa 2.4 new redeem code https://youtu.be/0txVY0f5g64\n📍Cartethyia Gameplay https://youtu.be/X6sa_UJ_eKA\n\nLupa Basic Attack, Lupa Resonance Skill, Lupa Resonance Liberation , Lupa passive talent, Wuthering Waves\n\n➤Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#genshin  #genshinimpact   #원신 #原神 #ГеншинИмпакт #genshinlore #memes #bugs #glitches #honkaistarrai  #HoYoCREATORS #GenshinViews\n#genshinimpact #GenshinNewbie #SEANightMarket #GenshinOffline #ongame #genshinimpact #hoyocreators #genshintrailer",
+      "duration": "PT164S",
+      "variants": [
+        {
+          "id": "naeaOwflpTc",
+          "title": "Lupa Gameplay & Lupa Skill Showcase | Wuthering Waves 2.4 Lupa Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "X6sa_UJ_eKA",
+      "title": "Cartethyia Gameplay & Cartethyia Skill Showcase | Wuthering Waves 2.4 Cartethyia Gameplay",
+      "publishedAt": "2025-05-30T05:04:13-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "📍 Wuwa 2.4  Changes https://youtu.be/HR92xAStpqg\n📍Wuwa 2.4 new redeem code https://youtu.be/0txVY0f5g64\n📍 Lupa Gameplay https://youtu.be/naeaOwflpTc\n\n\nCartethyia Basic Attack, Cartethyia Resonance Skill, Cartethyia Resonance Liberation , Cartethyia passive talent, Wuthering Waves\n\n\n00:00 Intro\n00:27 Basic Attack\n00:48 Resonance Skill\n01:09 Resonance Liberation (Forgot to Edit The Title)\n02:25 Conclusion (Forgot to Edit the Title)\n\n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames #WutheringWaves #wuwacreator",
+      "duration": "PT186S",
+      "variants": [
+        {
+          "id": "X6sa_UJ_eKA",
+          "title": "Cartethyia Gameplay & Cartethyia Skill Showcase | Wuthering Waves 2.4 Cartethyia Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "QF_Wzq1dWN4",
+      "title": "Ju Fufu Gameplay & Skill Showcase  | Zenless Zone Zero 2.0 Gameplay",
+      "publishedAt": "2025-05-23T05:43:23-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "❗ZZZ 2.0 Recap https://youtu.be/KO--ULuGuOQ\n❗ZZZ 2.0 New Outfit https://youtu.be/MmJDMgsRY6g\n❗Yixuan Gameplay https://youtu.be/0MD_LRLm6kQ\n❗Ju Fufu Gameplay https://youtu.be/QF_Wzq1dWN4\n❗Pan Yinhu Gameplay https://youtu.be/JkYbB3G1CnE\n❗Redeem Code ZZZ 2.0 https://youtu.be/M8smyrKqkNQ\n\n\n➤Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#genshin  #genshinimpact   #원신 #原神 #ГеншинИмпакт #genshinlore #memes #bugs #glitches #honkaistarrai  #HoYoCREATORS #GenshinViews\n#genshinimpact #GenshinNewbie #SEANightMarket #GenshinOffline #ongame #genshinimpact #hoyocreators #genshintrailer",
+      "duration": "PT182S",
+      "variants": [
+        {
+          "id": "QF_Wzq1dWN4",
+          "title": "Ju Fufu Gameplay & Skill Showcase  | Zenless Zone Zero 2.0 Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "XOvOjhU0YGE",
+      "title": "Ciaccona Gameplay & Ciaccona Skill Showcase | Wuthering Waves 2.3 Ciaccona Gameplay",
+      "publishedAt": "2025-04-19T05:37:30-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "📍Zani Gameplay https://youtu.be/6L4b-DIgtaM\n📍Ciaccona Gameplay https://youtu.be/XOvOjhU0YGE\n📍Wuthering Waves 2.3 Redeem Code https://youtu.be/i01S_JGmNjw\n📍Wuthering Waves 2.3 New Features https://youtu.be/IhQsLntgdR8 \n\nCiaccona Basic Attack, Ciaccona Resonance Skill, Ciaccona Resonance Liberation , Ciaccona passive talent, Wuthering Waves\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#genshin  #genshinimpact   #원신 #原神 #ГеншинИмпакт #genshinlore #memes #bugs #glitches #honkaistarrai  #HoYoCREATORS #GenshinViews\n#genshinimpact #GenshinNewbie #SEANightMarket #GenshinOffline #ongame",
+      "duration": "PT145S",
+      "variants": [
+        {
+          "id": "XOvOjhU0YGE",
+          "title": "Ciaccona Gameplay & Ciaccona Skill Showcase | Wuthering Waves 2.3 Ciaccona Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "6L4b-DIgtaM",
+      "title": "Zani Gameplay & Zani Skill Showcase | Wuthering Waves 2.3 Zani Gameplay",
+      "publishedAt": "2025-04-19T04:47:29-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "📍Zani Gameplay https://youtu.be/6L4b-DIgtaM\n📍Ciaccona Gameplay https://youtu.be/XOvOjhU0YGE\n📍Wuthering Waves 2.3 Redeem Code https://youtu.be/i01S_JGmNjw\n📍Wuthering Waves 2.3 New Features https://youtu.be/IhQsLntgdR8 \n\nZani Basic Attack, Zani Resonance Skill, Zani Resonance Liberation , Zani passive talent, Wuthering Waves\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames #WutheringWaves #wuwacreator",
+      "duration": "PT153S",
+      "variants": [
+        {
+          "id": "6L4b-DIgtaM",
+          "title": "Zani Gameplay & Zani Skill Showcase | Wuthering Waves 2.3 Zani Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "oO4UCtbbPUw",
+      "title": "Hugo Vlad Gameplay & Skill Showcase  | Zenless Zone Zero 1.7 Gameplay",
+      "publishedAt": "2025-04-11T05:43:52-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "📍Vivian Gameplay https://youtu.be/Fzy6ZssFqfU\n📍Hugo Vlad Gameplay https://youtu.be/oO4UCtbbPUw\n📍ZZZ 1.7 Redeem Code https://youtu.be/iiRydnCQM_k\n📍ZZZ 1.7 New Features https://youtu.be/_qjZdfhGYKs\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#zenlesszonezero  #zzzero  #hoyocreators  #hoyocreators",
+      "duration": "PT150S",
+      "variants": [
+        {
+          "id": "oO4UCtbbPUw",
+          "title": "Hugo Vlad Gameplay & Skill Showcase  | Zenless Zone Zero 1.7 Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "s05i7z63DXg",
+      "title": "Hugo Vlad Skill Animations & Gameplay Showcase (Zenless Zone Zero 1.7)",
+      "publishedAt": "2025-04-11T05:07:43-07:00",
+      "channelTitle": "Abyss Breakdown",
+      "channelId": "UCRxIDzY5KZNRGerR6KaHxCw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCRxIDzY5KZNRGerR6KaHxCw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "#zzzero #zenless #hugovlad",
+      "duration": "PT113S",
+      "variants": [
+        {
+          "id": "s05i7z63DXg",
+          "title": "Hugo Vlad Skill Animations & Gameplay Showcase (Zenless Zone Zero 1.7)",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "OhTYJmKSLtY",
+      "title": "Vivian Skill Animations & Gameplay Showcase (Zenless Zone Zero 1.7)",
+      "publishedAt": "2025-04-11T04:49:17-07:00",
+      "channelTitle": "Abyss Breakdown",
+      "channelId": "UCRxIDzY5KZNRGerR6KaHxCw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCRxIDzY5KZNRGerR6KaHxCw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "#zzzero #vivian #zenless",
+      "duration": "PT138S",
+      "variants": [
+        {
+          "id": "OhTYJmKSLtY",
+          "title": "Vivian Skill Animations & Gameplay Showcase (Zenless Zone Zero 1.7)",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "U3UyVHnaa8o",
+      "title": "Aero Rover Gameplay & Aero RoverSkill Showcase | Wuthering Waves 2.2 Aero Rover Gameplay",
+      "publishedAt": "2025-03-21T05:28:29-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "❗Wuthering Waves 2.2 Changes https://youtu.be/cohhSrpr5WI\n❗Cantarella Gameplay https://youtu.be/LZdgX57TMtA\n❗Aero Rover Gameplay https://youtu.be/U3UyVHnaa8o\n❗Wuwa  2.2 Redeem Code https://youtu.be/8teuzE7QMSI\n\n\nAero Rover  Basic Attack, Aero Rover  Resonance Skill, Aero Rover  Resonance Liberation , Aero Rover  passive talent, Wuthering Waves\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n00:00 Intro\n00:15 Basic Attack\n00:41 Resonance Skill\n01:01 Resonance Liberation\n01:15 Conclu\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames #WutheringWaves #wuwacreator",
+      "duration": "PT105S",
+      "variants": [
+        {
+          "id": "U3UyVHnaa8o",
+          "title": "Aero Rover Gameplay & Aero RoverSkill Showcase | Wuthering Waves 2.2 Aero Rover Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "Ckf1W9hqzKw",
+      "title": "Silver Soldier Anby Gameplay & Skill Showcase  | Zenless Zone Zero 1.6 Gameplay",
+      "publishedAt": "2025-02-28T04:43:02-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "📍ZZZ 1.6 Livestream Recap \n📍Silver Soldier Anby Gameplay https://youtu.be/Ckf1W9hqzKw\n📍Trigger Gameplay https://youtu.be/45vsMygCfsY\n📍Pulchra Gameplay https://youtu.be/8nUf7ls08GQ\n📍ZZZ 1.6 new Redeem Code https://youtu.be/tQ9lP-ZWCfk\n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#zenlesszonezero  #zzzero  #hoyocreators  #hoyocreators",
+      "duration": "PT139S",
+      "variants": [
+        {
+          "id": "Ckf1W9hqzKw",
+          "title": "Silver Soldier Anby Gameplay & Skill Showcase  | Zenless Zone Zero 1.6 Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "45vsMygCfsY",
+      "title": "Trigger Gameplay & Skill Showcase  | Zenless Zone Zero 1.6 Gameplay",
+      "publishedAt": "2025-02-28T04:17:50-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#zenlesszonezero  #zzzero  #hoyocreators  #hoyocreators",
+      "duration": "PT163S",
+      "variants": [
+        {
+          "id": "45vsMygCfsY",
+          "title": "Trigger Gameplay & Skill Showcase  | Zenless Zone Zero 1.6 Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "y0rD_xcXNUs",
+      "title": "Silver Soldier Anby Skill & Gameplay Showcase - Zenless Zone Zero 1.6",
+      "publishedAt": "2025-02-28T03:51:34-08:00",
+      "channelTitle": "Jimmy Chen Gaming",
+      "channelId": "UCaRXeatgLKRhkSNd50IPFMg",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCaRXeatgLKRhkSNd50IPFMg",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "Instagram : https://www.instagram.com/jimmy_chen96?igsh=MWs5eHRwYjV0NWFhdw%3D%3D&utm_source=qr\n\nTiktok : http://tiktok.com/@sunnygo895\n\nMore about my Social Media : http://linktr.ee/Jimmychen96\n\nShop Genshin Impact merch here : http://amzn.to/3ZeK3HP\n\nSupport me : http://paypal.me/ThousandOffer\n\n#zenless #zzz #hoyoverse #zenlesszonezero #jimmychengaming #jimmychen #hoyocreators #hoyocreator \n#genshinimpact #zzzgameplay #zzzero #zenlesszonezeroedit #zzzfaction #HiNewEridu #ZZZOffline #SEANightMarket #zzzstory #ZZZHighLights #pulchra #silversoldieranby #anby\n#trigger #zzzguide #zzzvideo#zzzcreators",
+      "duration": "PT110S",
+      "variants": [
+        {
+          "id": "y0rD_xcXNUs",
+          "title": "Silver Soldier Anby Skill & Gameplay Showcase - Zenless Zone Zero 1.6",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "Wt8_AQHWbkA",
+      "title": "Brant Gameplay & Brant Skill Showcase | Wuthering Waves 2.1 Brant Gameplay",
+      "publishedAt": "2025-02-07T04:06:32-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "📍Wuthering Waves 2.1 Recap https://youtu.be/chpP58VTXuc\n📍Phoebe Skill & Gameplay https://youtu.be/AXnIqYp7ock\n📍Wuwa 2.1Redeem Code https://youtu.be/gsCB5A48U74\n\nBrant Basic Attack, Brant Resonance Skill, Brant Resonance Liberation , Brant passive talent, Wuthering Waves\n\n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames #WutheringWaves #wuwacreator",
+      "duration": "PT155S",
+      "variants": [
+        {
+          "id": "Wt8_AQHWbkA",
+          "title": "Brant Gameplay & Brant Skill Showcase | Wuthering Waves 2.1 Brant Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "AXnIqYp7ock",
+      "title": "Phoebe  Gameplay & Phoebe Skill Showcase | Wuthering Waves 2.1 Phoebe Gameplay",
+      "publishedAt": "2025-02-07T03:33:07-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "Phoebe Basic Attack, Phoebe Resonance Skill, Phoebe Resonance Liberation , Phoebe passive talent, Wuthering Waves\n\n📍Wuthering Waves 2.1 Recap https://youtu.be/chpP58VTXuc\n📍Brant Skill & Gameplay https://youtu.be/Wt8_AQHWbkA\n📍Wuwa 2.1Redeem Code https://youtu.be/gsCB5A48U74\n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames #WutheringWaves #wuwacreator",
+      "duration": "PT141S",
+      "variants": [
+        {
+          "id": "AXnIqYp7ock",
+          "title": "Phoebe  Gameplay & Phoebe Skill Showcase | Wuthering Waves 2.1 Phoebe Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "mOwjicwLH8U",
+      "title": "Evelyn Chevalier Skill & Gameplay Showcase - Zenless Zone Zero 1.5",
+      "publishedAt": "2025-01-10T05:11:20-08:00",
+      "channelTitle": "Jimmy Chen Gaming",
+      "channelId": "UCaRXeatgLKRhkSNd50IPFMg",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCaRXeatgLKRhkSNd50IPFMg",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "Instagram : https://www.instagram.com/jimmy_chen96?igsh=MWs5eHRwYjV0NWFhdw%3D%3D&utm_source=qr\n\nTiktok : http://tiktok.com/@sunnygo895\n\nMore about my Social Media : http://linktr.ee/Jimmychen96\n\nShop Genshin Impact merch here : http://amzn.to/3ZeK3HP\n\nSupport me : http://paypal.me/ThousandOffer\n\n#zenless #zzz #hoyoverse #zenlesszonezero #jimmychengaming #jimmychen #hoyocreators #hoyocreator \n#genshinimpact #zzzgameplay #zzzero #zenlesszonezeroedit #zzzfaction #HiNewEridu #ZZZOffline #SEANightMarket #zzzstory #ZZZHighLights #harumasa #evelyn #astrayao\n#evelyn #astrayao #zzzguide #zzzvideo",
+      "duration": "PT157S",
+      "variants": [
+        {
+          "id": "mOwjicwLH8U",
+          "title": "Evelyn Chevalier Skill & Gameplay Showcase - Zenless Zone Zero 1.5",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "m8BEbJr0MBA",
+      "title": "Astra Yao Skill & Gameplay Showcase - Zenless Zone Zero 1.5",
+      "publishedAt": "2025-01-10T04:28:16-08:00",
+      "channelTitle": "Jimmy Chen Gaming",
+      "channelId": "UCaRXeatgLKRhkSNd50IPFMg",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCaRXeatgLKRhkSNd50IPFMg",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "Instagram : https://www.instagram.com/jimmy_chen96?igsh=MWs5eHRwYjV0NWFhdw%3D%3D&utm_source=qr\n\nTiktok : http://tiktok.com/@sunnygo895\n\nMore about my Social Media : http://linktr.ee/Jimmychen96\n\nShop Genshin Impact merch here : http://amzn.to/3ZeK3HP\n\nSupport me : http://paypal.me/ThousandOffer\n\n#zenless #zzz #hoyoverse #zenlesszonezero #jimmychengaming #jimmychen #hoyocreators #hoyocreator \n#genshinimpact #zzzgameplay #zzzero #zenlesszonezeroedit #zzzfaction #HiNewEridu #ZZZOffline #SEANightMarket #zzzstory #ZZZHighLights #harumasa #evelyn #astrayao\n#evelyn #astrayao #zzzguide #zzzvideo",
+      "duration": "PT116S",
+      "variants": [
+        {
+          "id": "m8BEbJr0MBA",
+          "title": "Astra Yao Skill & Gameplay Showcase - Zenless Zone Zero 1.5",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "VKt0HDZz2zc",
+      "title": "Astra Yao Gameplay & Skill Showcase  | Zenless Zone Zero 1.5 Gameplay",
+      "publishedAt": "2025-01-10T04:24:13-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "📍Astra Yao Gameplay  https://youtu.be/VKt0HDZz2zc \n📍Evelyn Chevalier Gameplay https://youtu.be/LtbuhwZT5HA\n📍 ZZZ 1.5 Recap https://youtu.be/G9lw5RnunNc\n📍Astra Yao New Skin , Ellen Joe & Nicole's  https://youtu.be/4XKOxuu3cmY\n📍Redeem Code ZZZ 11 January https://youtu.be/CQqk_JZ7h2w\n\n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#zenlesszonezero  #zzzero  #hoyocreators  #hoyocreators",
+      "duration": "PT219S",
+      "variants": [
+        {
+          "id": "VKt0HDZz2zc",
+          "title": "Astra Yao Gameplay & Skill Showcase  | Zenless Zone Zero 1.5 Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "Bmf7Sf9_diI",
+      "title": "Roccia Gameplay & Roccia Skill Showcase | Wuthering Waves 2.0 Roccia Gameplay",
+      "publishedAt": "2024-12-21T04:04:27-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "📍Carlotta Gameplay https://youtu.be/wCRx8inrRWo\n📍Roccia Gameplay https://youtu.be/Bmf7Sf9_diI\n📍2.0 Redeem Code https://youtu.be/0umdfPIqHCM\n\nRoccia  Basic Attack, Roccia  Resonance Skill, Roccia  Resonance Liberation , Roccia  passive talent, Wuthering Waves\n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames #WutheringWaves #wuwacreator",
+      "duration": "PT130S",
+      "variants": [
+        {
+          "id": "Bmf7Sf9_diI",
+          "title": "Roccia Gameplay & Roccia Skill Showcase | Wuthering Waves 2.0 Roccia Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "wCRx8inrRWo",
+      "title": "Carlotta  Gameplay & Carlotta Skill Showcase | Wuthering Waves 2.0 Carlotta Gameplay",
+      "publishedAt": "2024-12-21T03:57:09-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "Carlotta Basic Attack, Carlotta Resonance Skill, Carlotta Resonance Liberation , Carlotta passive talent, Wuthering Waves\n\n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames #WutheringWaves #wuwacreator",
+      "duration": "PT134S",
+      "variants": [
+        {
+          "id": "wCRx8inrRWo",
+          "title": "Carlotta  Gameplay & Carlotta Skill Showcase | Wuthering Waves 2.0 Carlotta Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "ndXRlU7C-Iw",
+      "title": "ZZZ - Caesar King Skill & Moveset Exhibition - Zenless Zone Zero",
+      "publishedAt": "2024-12-08T02:07:06-08:00",
+      "channelTitle": "Drave-kun [ドレイブンくん]",
+      "channelId": "UCt4k40M8zAy2w-XZXxSs9cQ",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCt4k40M8zAy2w-XZXxSs9cQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "ALL Caesar King Skills & Moveset Showcase!!! XD\nMy Other ZZZ Gameplay - 私の他のゲームプレイ - ゼンレスゾーンゼロ : https://youtu.be/0a_XuXn5XlI\nMore in the Playlist - プレイリストの詳細 : https://www.youtube.com/playlist?list=PL83uN2JU1cdS0OnxlB-EeNB8gpZYDE6t4\n\nLet's Be Friend! - 友達になろう! Glad to Meet You Kkomrade! - 購読を検討してください ! : https://www.youtube.com/channel/UCt4k40M8zAy2w-XZXxSs9cQ?sub_confirmation=1\n\n=== [ Caesar King Skills & Moveset Select ] ===\n00:00 - Caesar King Opening !\n00:25 - Idle Animation\n00:38 - Walk Animation\n02:57 - Jog Animation\n03:39 - Run Animation [ City ]\n04:13 - Run Animation [ Combat ]\n04:46 - Brake Animation\n05:23 - Forward Dodge\n05:48 - Backward Dodge\n06:11 - Basic Moveset\n10:21 - Dash Attack\n11:16 - Dead End [ Signature Active Skill ]\n12:09 - Special Attack\n14:04 - EX-Special Attack\n16:41 - Radiant Aegis Shield [ Signature Buff Skill ]\n16:47 - Dodge Animation\n17:10 - Dodge Counter\n17:35 - Quick Assist\n17:47 - Defensive Assist\n18:01 - Defensive Assist + Retaliation\n18:26 - Chain Attack\n19:15 - Ultimate\n19:52 - Closing !!!\n\nMore of My Gameplay Videos - その他のゲームプレイ :\n\nZenless Zone Zero [ ZZZ ] : https://www.youtube.com/playlist?list=PL83uN2JU1cdS0OnxlB-EeNB8gpZYDE6t4\nGames GUIDE & FORESHADOW : https://www.youtube.com/playlist?list=PL83uN2JU1cdS58-HferxiI64_4W0-aLGd\nGames BOSS FIGHT : https://www.youtube.com/playlist?list=PL83uN2JU1cdTTWcxxcEhBjl-HZufE0uZ2\nGames MOVIE & CUTSCENE : https://www.youtube.com/playlist?list=PL83uN2JU1cdQEJ_12Zt2Mxxkro2HgySbb\nGames LONGPLAY : https://www.youtube.com/playlist?list=PL83uN2JU1cdTWr3DnRTdyv0CXG8PdCe8q\n\nMetal Slug ADVENTURES TRILOGY : https://www.youtube.com/watch?v=SOrNV3WHibQ&list=PL83uN2JU1cdSjTKMXTCT0wqJxH2PVfLtA&index=1\nMana Khemia : https://www.youtube.com/watch?v=6NorWckNtzs&list=PL83uN2JU1cdTAwaFhyCXs9iXjmwGkTgJR\nThe Last Of Us 2 :  https://www.youtube.com/watch?v=veOzJV76Odk&list=PL83uN2JU1cdQ8WiwGLr3duaD-2OHMDQ8_\nThe Last of Us REMASTERED : https://www.youtube.com/watch?v=RZMrZRaCpzg&list=PL83uN2JU1cdQbXY1zRfueQDlC8hMlcaaa\nFinal Fantasy 7 REMAKE : https://www.youtube.com/watch?v=EwMZypVM-TA&list=PL83uN2JU1cdTNn2RHKHKUe1q8VnsZAia0\nResident Evil 3 REMAKE : https://www.youtube.com/watch?v=XX2E0gtHMf4&list=PL83uN2JU1cdRIOjfwGVlBVWrtBDg714UU\nZenonia 1 MINIS : https://www.youtube.com/watch?v=fFq1GG0ADm4&list=PL83uN2JU1cdSiUUe2HXOJJ9G6v_hjcCvR\nKingdom of Amalur RECKONING : https://www.youtube.com/watch?v=7bzjb59ni2s&list=PL83uN2JU1cdQxslH8e7okFIHreqqJ0AqC\nDevil May Cry 5 : https://www.youtube.com/watch?v=l7yAymjL6Yo&list=PL83uN2JU1cdRSENyvfFrNB37xhK5txijt\nSword Art Online FATAL BULLET : https://www.youtube.com/watch?v=kL5Asa8l3mg&list=PL83uN2JU1cdTALZWtWjup00jxzbXYZjr5\n\n#ZZZ #Skills #CaesarKing",
+      "duration": "PT1217S",
+      "variants": [
+        {
+          "id": "ndXRlU7C-Iw",
+          "title": "ZZZ - Caesar King Skill & Moveset Exhibition - Zenless Zone Zero",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "D45FNwsDqDA",
+      "title": "Asaba Harumasa Skill & Gameplay Showcase - Zenless Zone Zero 1.4",
+      "publishedAt": "2024-12-06T05:17:22-08:00",
+      "channelTitle": "Jimmy Chen Gaming",
+      "channelId": "UCaRXeatgLKRhkSNd50IPFMg",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCaRXeatgLKRhkSNd50IPFMg",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "Instagram : https://www.instagram.com/jimmy_chen96?igsh=MWs5eHRwYjV0NWFhdw%3D%3D&utm_source=qr\n\nTiktok : http://tiktok.com/@sunnygo895\n\nMore about my Social Media : http://linktr.ee/Jimmychen96\n\nShop Genshin Impact merch here : http://amzn.to/3ZeK3HP\n\nSupport me : http://paypal.me/ThousandOffer\n\n#zenless #zzz #hoyoverse #zenlesszonezero #jimmychengaming #jimmychen #hoyocreators #hoyocreator \n#genshinimpact #zzzgameplay #zzzero #zenlesszonezeroedit #zzzfaction #HiNewEridu #ZZZOffline #SEANightMarket #zzzstory #ZZZHighLights #harumasa #lighter #tsukishiroyanagi",
+      "duration": "PT87S",
+      "variants": [
+        {
+          "id": "D45FNwsDqDA",
+          "title": "Asaba Harumasa Skill & Gameplay Showcase - Zenless Zone Zero 1.4",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "RRoPka0a1wg",
+      "title": "Hoshimi Miyabi Skill & Gameplay Showcase - Zenless Zone Zero 1.4",
+      "publishedAt": "2024-12-06T04:42:05-08:00",
+      "channelTitle": "Jimmy Chen Gaming",
+      "channelId": "UCaRXeatgLKRhkSNd50IPFMg",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCaRXeatgLKRhkSNd50IPFMg",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "Instagram : https://www.instagram.com/jimmy_chen96?igsh=MWs5eHRwYjV0NWFhdw%3D%3D&utm_source=qr\n\nTiktok : http://tiktok.com/@sunnygo895\n\nMore about my Social Media : http://linktr.ee/Jimmychen96\n\nShop Genshin Impact merch here : http://amzn.to/3ZeK3HP\n\nSupport me : http://paypal.me/ThousandOffer\n\n#zenless #zzz #hoyoverse #zenlesszonezero #jimmychengaming #jimmychen #hoyocreators #hoyocreator \n#genshinimpact #zzzgameplay #zzzero #zenlesszonezeroedit #zzzfaction #HiNewEridu #ZZZOffline #SEANightMarket #zzzstory #ZZZHighLights #harumasa #lighter #tsukishiroyanagi",
+      "duration": "PT140S",
+      "variants": [
+        {
+          "id": "RRoPka0a1wg",
+          "title": "Hoshimi Miyabi Skill & Gameplay Showcase - Zenless Zone Zero 1.4",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "mMlTqb70quc",
+      "title": "Hoshimi Miyabi Gameplay & Skill Showcase  | Zenless Zone Zero 1.4 Gameplay",
+      "publishedAt": "2024-12-06T04:22:25-08:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "📍Hoshimi Miyabi Gameplay  https://youtu.be/mMlTqb70quc\n📍Asaba Harumasa Gameplay https://youtu.be/7Rdg1BRHcCc\n📍Redeem Code ZZZ 6 December  https://youtu.be/pdw6OfcycVM\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\nHoshimi Miyabi Skill , Hoshimi Miyabi Special Attack,  Hoshimi Miyabi Ultimate, Hoshimi Miyabi Basic Attack, Hoshimi Miyabi core ,  Hoshimi Miyabi passive zenless zone zero \n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#zenlesszonezero  #zzzero  #hoyocreators  #zenlesszonezeroedit #zzzguide #zzzgameplay",
+      "duration": "PT175S",
+      "variants": [
+        {
+          "id": "mMlTqb70quc",
+          "title": "Hoshimi Miyabi Gameplay & Skill Showcase  | Zenless Zone Zero 1.4 Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "qWr7Joaot-Y",
+      "title": "ZZZ - Jane Doe Skill & Moveset Exhibition - Zenless Zone Zero",
+      "publishedAt": "2024-11-26T01:01:55-08:00",
+      "channelTitle": "Drave-kun [ドレイブンくん]",
+      "channelId": "UCt4k40M8zAy2w-XZXxSs9cQ",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCt4k40M8zAy2w-XZXxSs9cQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "ALL Jane Doe Skills & Moveset Showcase!!! XD\nMy Other ZZZ Gameplay - 私の他のゲームプレイ - ゼンレスゾーンゼロ : https://youtu.be/xlhGWnTMMj4\nMore in the Playlist - プレイリストの詳細 : https://www.youtube.com/playlist?list=PL83uN2JU1cdS0OnxlB-EeNB8gpZYDE6t4\n\nLet's Be Friend! - 友達になろう! Glad to Meet You Kkomrade! - 購読を検討してください ! : https://www.youtube.com/channel/UCt4k40M8zAy2w-XZXxSs9cQ?sub_confirmation=1\n\n=== [ Jane Doe Skills & Moveset Select ] ===\n00:00 - Jane Doe Opening !\n00:27 - Idle Animation\n00:49 - Walk Animation\n00:57 - Run Animation\n02:02 - Jane's Signature Slide\n02:20 - Forward Dodge [ Normal State ]\n02:52 - Backward Dodge [ Normal State ]\n03:29 - Forward Dodge [ Passion State ]\n04:06 - Backward Dodge [ Passion State ]\n04:46 - Basic Moveset [ Normal State ]\n08:52 - Basic Moveset [ Passion State ]\n11:19 - Salchow Jump [ Normal State ]\n11:29 - Salchow Jump [ Passion State ]\n11:43 - Special Attack [ Normal State ]\n11:51 - Special Attack [ Passion State ]\n11:59 - EX Special Attack [ Normal State ]\n12:07 - EX Special Attack [ Passion State ]\n12:17 - Defensive Assist\n12:47 - Quick Assist [ Normal State ]\n12:54 - Quick Assist [ Passion State ]\n13:01 - Dodge Counter [ Normal State ]\n13:06 - Dodge Counter [ Passion State ]\n13:12 - Chain Attack\n13:51 - Ultimate\n14:13 - Closing !!!\n\nMore of My Gameplay Videos - その他のゲームプレイ :\n\nZenless Zone Zero [ ZZZ ] : https://www.youtube.com/playlist?list=PL83uN2JU1cdS0OnxlB-EeNB8gpZYDE6t4\nGames GUIDE & FORESHADOW : https://www.youtube.com/playlist?list=PL83uN2JU1cdS58-HferxiI64_4W0-aLGd\nGames BOSS FIGHT : https://www.youtube.com/playlist?list=PL83uN2JU1cdTTWcxxcEhBjl-HZufE0uZ2\nGames MOVIE & CUTSCENE : https://www.youtube.com/playlist?list=PL83uN2JU1cdQEJ_12Zt2Mxxkro2HgySbb\nGames LONGPLAY : https://www.youtube.com/playlist?list=PL83uN2JU1cdTWr3DnRTdyv0CXG8PdCe8q\n\nMetal Slug ADVENTURES TRILOGY : https://www.youtube.com/watch?v=SOrNV3WHibQ&list=PL83uN2JU1cdSjTKMXTCT0wqJxH2PVfLtA&index=1\nMana Khemia : https://www.youtube.com/watch?v=6NorWckNtzs&list=PL83uN2JU1cdTAwaFhyCXs9iXjmwGkTgJR\nThe Last Of Us 2 :  https://www.youtube.com/watch?v=veOzJV76Odk&list=PL83uN2JU1cdQ8WiwGLr3duaD-2OHMDQ8_\nThe Last of Us REMASTERED : https://www.youtube.com/watch?v=RZMrZRaCpzg&list=PL83uN2JU1cdQbXY1zRfueQDlC8hMlcaaa\nFinal Fantasy 7 REMAKE : https://www.youtube.com/watch?v=EwMZypVM-TA&list=PL83uN2JU1cdTNn2RHKHKUe1q8VnsZAia0\nResident Evil 3 REMAKE : https://www.youtube.com/watch?v=XX2E0gtHMf4&list=PL83uN2JU1cdRIOjfwGVlBVWrtBDg714UU\nZenonia 1 MINIS : https://www.youtube.com/watch?v=fFq1GG0ADm4&list=PL83uN2JU1cdSiUUe2HXOJJ9G6v_hjcCvR\nKingdom of Amalur RECKONING : https://www.youtube.com/watch?v=7bzjb59ni2s&list=PL83uN2JU1cdQxslH8e7okFIHreqqJ0AqC\nDevil May Cry 5 : https://www.youtube.com/watch?v=l7yAymjL6Yo&list=PL83uN2JU1cdRSENyvfFrNB37xhK5txijt\nSword Art Online FATAL BULLET : https://www.youtube.com/watch?v=kL5Asa8l3mg&list=PL83uN2JU1cdTALZWtWjup00jxzbXYZjr5\n\n#ZZZ #Skills #JaneDoe",
+      "duration": "PT880S",
+      "variants": [
+        {
+          "id": "qWr7Joaot-Y",
+          "title": "ZZZ - Jane Doe Skill & Moveset Exhibition - Zenless Zone Zero",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "Z2tA7oNs258",
+      "title": "Tsukishiro Yanagi Skill Animations & Gameplay Showcase (Zenless Zone Zero 1.3)",
+      "publishedAt": "2024-10-25T05:13:04-07:00",
+      "channelTitle": "Jimmy Chen Gaming",
+      "channelId": "UCaRXeatgLKRhkSNd50IPFMg",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCaRXeatgLKRhkSNd50IPFMg",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "Instagram : https://www.instagram.com/jimmy_chen96?igsh=MWs5eHRwYjV0NWFhdw%3D%3D&utm_source=qr\n\nTiktok : http://tiktok.com/@sunnygo895\n\nMore about my Social Media : http://linktr.ee/Jimmychen96\n\nShop Genshin Impact merch here : http://amzn.to/3ZeK3HP\n\nSupport me : http://paypal.me/ThousandOffer\n\n#zenless #zzz #hoyoverse #zenlesszonezero #jimmychengaming #jimmychen #hoyocreators #hoyocreator \n#genshinimpact #zzzgameplay #zzzero #zenlesszonezeroedit #zzzfaction #HiNewEridu #ZZZOffline #SEANightMarket #burnice #zzzstory #ZZZHighLights #caesar #lighter #sonofcalydon #tsukishiroyanagi",
+      "duration": "PT131S",
+      "variants": [
+        {
+          "id": "Z2tA7oNs258",
+          "title": "Tsukishiro Yanagi Skill Animations & Gameplay Showcase (Zenless Zone Zero 1.3)",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "Yp2MjJkJWaE",
+      "title": "Lighter Skill Animations & Gameplay Showcase (Zenless Zone Zero 1.3)",
+      "publishedAt": "2024-10-25T04:55:06-07:00",
+      "channelTitle": "Abyss Breakdown",
+      "channelId": "UCRxIDzY5KZNRGerR6KaHxCw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCRxIDzY5KZNRGerR6KaHxCw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "#ZenlessZoneZero #Lighter #ZZZ #Hoyoverse",
+      "duration": "PT112S",
+      "variants": [
+        {
+          "id": "Yp2MjJkJWaE",
+          "title": "Lighter Skill Animations & Gameplay Showcase (Zenless Zone Zero 1.3)",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "n_jfWMJi_48",
+      "title": "Camellya Character Menu & Gameplay Animations in HD with SFX!!! Wuthering Waves 1.4",
+      "publishedAt": "2024-10-11T07:19:53-07:00",
+      "channelTitle": "WhoYouVerse",
+      "channelId": "UCcCTeJUeGqyGU4RkR6uViwA",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCcCTeJUeGqyGU4RkR6uViwA",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "#wutheringwaves #camellya #lumi #wuwa\n\n1.4 Wuthering Waves\n\nA leaked gameplay animations & character menu of upcoming new 5 star character Camellya of Wuthering Waves 1.4 with sounds SFX!!!",
+      "duration": "PT38S",
+      "variants": [
+        {
+          "id": "n_jfWMJi_48",
+          "title": "Camellya Character Menu & Gameplay Animations in HD with SFX!!! Wuthering Waves 1.4",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "lfC8TRG-Fzo",
+      "title": "Shorekeeper Gameplay & Skill Showcase  | Wuthering Waves",
+      "publishedAt": "2024-09-20T06:40:22-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "➤ Wuwa 1,3 New Redeem Code https://youtu.be/Fqk28Mukpn0\n➤ Youhu Gameplay https://youtu.be/FdCVMDJ7-Qw\n➤ Wuthering Waves 1.3 New Features https://youtu.be/4lq82GZ3PJI\n\nShorekeeper Basic Attack, Shorekeeper Resonance Skill, Shorekeeper Resonance Liberation , Shorekeeper passive talent, Wuthering Waves\n\n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
+      "duration": "PT114S",
+      "variants": [
+        {
+          "id": "lfC8TRG-Fzo",
+          "title": "Shorekeeper Gameplay & Skill Showcase  | Wuthering Waves",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "FdCVMDJ7-Qw",
+      "title": "YOUHU  Gameplay & Skill Showcase  | Wuthering Waves",
+      "publishedAt": "2024-09-20T05:40:10-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "➤ Shorekeeper https://youtu.be/lfC8TRG-Fzo\n➤ Wuwa 1,3 New Redeem Code https://youtu.be/Fqk28Mukpn0\n➤ Wuthering Waves 1.3 New Features https://youtu.be/4lq82GZ3PJI\n\nYOUHU Basic Attack, YOUHU Resonance Skill, YOUHU Resonance Liberation , YOUHU passive talent, Wuthering Waves\n\n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
+      "duration": "PT92S",
+      "variants": [
+        {
+          "id": "FdCVMDJ7-Qw",
+          "title": "YOUHU  Gameplay & Skill Showcase  | Wuthering Waves",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "yuxVmfTV0vQ",
+      "title": "Burnice White Gameplay & Skill Showcase | Zenless Zone Zero Gameplay",
+      "publishedAt": "2024-09-13T06:08:24-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "➤Caesar King Gameplay https://youtu.be/wOg9QgcsCmM\n➤zzz 1.2 redeem code https://youtu.be/gj46An4m3ek\n\nBurnice White Skill ,Burnice White Special Attack, Burnice White Ultimate,Burnice White Basic Attack,Burnice White core , Burnice White passive zenless zone zero \n\n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#zenlesszonezero  #zzzero  #hoyocreators  #hoyocreators",
+      "duration": "PT90S",
+      "variants": [
+        {
+          "id": "yuxVmfTV0vQ",
+          "title": "Burnice White Gameplay & Skill Showcase | Zenless Zone Zero Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "oBIf-5FS4zA",
+      "title": "How to Play Billy (Beginner Move List Visual Guide) | ZZZ Made EZ",
+      "publishedAt": "2024-09-02T16:04:54-07:00",
+      "channelTitle": "The Sacred Spear",
+      "channelId": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "A Beginner's guide to Billy's move list in Zenless Zone Zero. Learn how to utilize the Starlight Knight to his full potential.\n\n0:00 Intro\n0:22 Damage Falloff\n0:41 Signature W-Engine\n1:04 Crouching Shot & Core Passive\n2:25 EX Special\n2:52 Ultimate & Additional Ability\n3:50 Evasive Assist + Follow-Up\n4:09 Rolling Shot & Dash Attack\n5:25 Dodge Counter & Mindscapes\n\nMore Zenless Zone Zero Videos:\nhttps://www.youtube.com/playlist?list=PLwD3z-ceqI_Pwa9AlbmiWCd15CaRhRpIQ\n\nFollow me on Twitter: @TheSacredSpear\nhttps://twitter.com/TheSacredSpear\n\nPlaylist of all my videos: https://www.youtube.com/TheSacredSpear/playlists\n\n#zzzero #hoyocreators #zenlesszonezero #zzzguide #thesacredspear",
+      "duration": "PT433S",
+      "variants": [
+        {
+          "id": "oBIf-5FS4zA",
+          "title": "How to Play Billy (Beginner Move List Visual Guide) | ZZZ Made EZ",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "2wHsBruh3SA",
+      "title": "Qingyi  Gameplay & Skill Showcase  | Zenless Zone Zero Gameplay",
+      "publishedAt": "2024-08-13T21:09:59-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "❗Zenless Zone Zero - All Character Gameplay\nhttps://www.youtube.com/playlist?list=PLPH2f477dnawKfTg9b9EPAdn86nDiFKIq\n❗Zenless Zone Zero Playlist \nhttps://www.youtube.com/playlist?list=PLPH2f477dnazlSlkRc7zIJIRnZSzFJXpy\n\n\n\n\nQingyi Skill ,Qingyi Special Attack, Qingyi Ultimate,Qingyi Basic Attack,Qingyi core , Qingyi passive zenless zone zero \n\n\n00:00 Qingyi    \n00:07 Basic Attack: Penultimate    \n00:28 Basic Attack: Flash Connect    \n00:57 Basic Attack: Enchanted Blossoms    \n01:11 Basic Attack: Enchanted Moonlit Blossoms    \n01:35 Dash Attack: Breach    \n01:52 Dodge Counter: Lingering Sentiments    \n02:04 Special Attack: Sunlit Glory    \n02:21 EX-Special Attack: Moonlit Begonia    \n02:35 Ultimate: Eight Sounds of Ganzhou    \n03:04 Chain Attack: Tranquil Serenade    \n03:20 Quick Assist: Wind Through the Pines    \n03:34 Defensive Assist: Graceful Embellishment    \n03:50 Character Skill Detail    \n05:46 Character Animation Detail    \n06:28 Character Idle    \n\n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#zenlesszonezero  #zzzero  #hoyocreators  #hoyocreators",
+      "duration": "PT423S",
+      "variants": [
+        {
+          "id": "2wHsBruh3SA",
+          "title": "Qingyi  Gameplay & Skill Showcase  | Zenless Zone Zero Gameplay",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "QwlRAVR0nhk",
+      "title": "How to Play Anby (Beginner Move List Visual Guide) | ZZZ Made EZ",
+      "publishedAt": "2024-08-12T21:13:48-07:00",
+      "channelTitle": "The Sacred Spear",
+      "channelId": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "A Beginner's Guide on how to play Anby in Zenless Zone Zero. Learn about Anby's move list and combos to use in combat. \n\n0:00 Intro\n0:26 Basic Attack: Thunderbolt\n0:55 EX Special\n1:09 Core Passive & Extra Combo\n2:00 i-Frames & Dodge Counter\n2:56 Anby's Signature W-Engine & Mindscape 1\n3:54 Chain Attack & Ultimate (Mindscape 4)\n4:44 Conclusion\n\nMore Zenless Zone Zero Videos:\nhttps://www.youtube.com/playlist?list=PLwD3z-ceqI_Pwa9AlbmiWCd15CaRhRpIQ\n\nFollow me on Twitter: @TheSacredSpear\nhttps://twitter.com/TheSacredSpear\n\nPlaylist of all my videos: https://www.youtube.com/TheSacredSpear/playlists\n\n#zzzero #zenlesszonezero #thesacredspear",
+      "duration": "PT316S",
+      "variants": [
+        {
+          "id": "QwlRAVR0nhk",
+          "title": "How to Play Anby (Beginner Move List Visual Guide) | ZZZ Made EZ",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "fQzxH9Ov2VE",
+      "title": "How to Play Nicole (Beginner Move List Visual Guide) | ZZZ Made EZ",
+      "publishedAt": "2024-07-31T07:16:06-07:00",
+      "channelTitle": "The Sacred Spear",
+      "channelId": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "A beginner guide to learn how to play Nicole in Zenless Zone Zero! Nicole offers support through Def shred debuffs and energy fields that can group enemies together. \n\nFollow me on Twitter: @TheSacredSpear\nhttps://twitter.com/TheSacredSpear\n\nPlaylist of all my videos: https://www.youtube.com/TheSacredSpear/playlists\n\n#zzzero #zenlesszonezero #thesacredspear",
+      "duration": "PT374S",
+      "variants": [
+        {
+          "id": "fQzxH9Ov2VE",
+          "title": "How to Play Nicole (Beginner Move List Visual Guide) | ZZZ Made EZ",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "cwoHNiybTH0",
+      "title": "How to Play Zhu Yuan (Beginner Move List Visual Guide) | ZZZ Made EZ",
+      "publishedAt": "2024-07-27T17:27:23-07:00",
+      "channelTitle": "The Sacred Spear",
+      "channelId": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "A starter guide to understand the basics on how to play Zhu Yuan in Zenless Zone Zero.  \n\nFollow me on Twitter: @TheSacredSpear\nhttps://twitter.com/TheSacredSpear\n\nPlaylist of all my videos: https://www.youtube.com/TheSacredSpear/playlists\n\n#zzzero #zenlesszonezero #thesacredspear",
+      "duration": "PT516S",
+      "variants": [
+        {
+          "id": "cwoHNiybTH0",
+          "title": "How to Play Zhu Yuan (Beginner Move List Visual Guide) | ZZZ Made EZ",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "NEavxDGTFRE",
+      "title": "Changli  Gameplay & Skill Showcase  | Wuthering Waves",
+      "publishedAt": "2024-07-22T04:02:11-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "Changli Basic Attack, Changli Resonance Skill, Changli Resonance Liberation , Changli passive talent, Wuthering Waves\n\n📍 Wuthering Waves 1.1 Playlist📍\nhttps://www.youtube.com/playlist?list=PLPH2f477dnaxZSffcQ7zClKBSlvZVmgt7&playnext=1&index=1\n\n❗  100% Exploration /All Colectible PLaylist \nhttps://www.youtube.com/watch?v=g-cTTnT6RNE&list=PLPH2f477dnaxNmfXEqJrfwoLfimucH_yk&index=1&ab_channel=ONGame\n❗ Material Farming Route Playlist     \nhttps://www.youtube.com/playlist?list=PLPH2f477dnayaON4EgQrvMONBRuYnoOR9\n❗  ALL Side Quest\nhttps://www.youtube.com/watch?v=9l9xYuTv9jo&list=PLPH2f477dnazmhv-6qngUeKH8jFv4z8VV&ab_channel=ONGamehttps://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u2757.png\n❗Echo Farming Route Playlist\nhttps://www.youtube.com/playlist?list=PLPH2f477dnaxwrNKZIwvGojxlf05lUvSq\n❗All Hiden Achievement\nhttps://www.youtube.com/playlist?list=PLPH2f477dnazWDyYN_dCb8_B6RKNI91AK&playnext=1&index=1\n\n\n00:00 Opening   \n00:18 Basic Attack    \n01:17 Mid-air Attack    \n01:58 Heavy Attack    \n02:34 Forte Circuit    \n03:11 Resonance Skill    \n03:48 Resonance Liberation    \n04:26 Battle Preview    \n05:43 Character Animation Detail    \n06:18 Character Idle    \n\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
+      "duration": "PT454S",
+      "variants": [
+        {
+          "id": "NEavxDGTFRE",
+          "title": "Changli  Gameplay & Skill Showcase  | Wuthering Waves",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "4gjM7dPl-dQ",
+      "title": "How to Play Ellen (Move List Visual Guide) | ZZZ Made EZ",
+      "publishedAt": "2024-07-18T18:51:45-07:00",
+      "channelTitle": "The Sacred Spear",
+      "channelId": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "gameId": "zenless-zone-zero",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "[UPDATE] As of Version 2.0 Ellen has received a rework to her kit. I have made a new guide - both a longer in-depth version and a simplified version. Check them out below!\nHow to Play Ellen 2.0 : https://youtu.be/Ql7Lkz2G5WE\nEllen 2.0 Simplified Guide: https://youtu.be/DvW0-jzOyiw\n\nThis episode of ZZZ Made EZ is a quick visual guide to Ellen's Move List in-game. Like a true shark, Ellen wants to always be Roaming.\n\nMore Zenless Zone Zero Videos:\nhttps://www.youtube.com/playlist?list=PLwD3z-ceqI_Pwa9AlbmiWCd15CaRhRpIQ\n\nFollow me on Twitter: @TheSacredSpear\nhttps://twitter.com/TheSacredSpear\n\nPlaylist of all my videos: https://www.youtube.com/TheSacredSpear/playlists\n\n#zzzero #zenlesszonezero #thesacredspear",
+      "duration": "PT270S",
+      "variants": [
+        {
+          "id": "4gjM7dPl-dQ",
+          "title": "How to Play Ellen (Move List Visual Guide) | ZZZ Made EZ",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "0pFEzdgENrg",
+      "title": "Corin Character Skill Animations Showcase | Zenless Zone Zero",
+      "publishedAt": "2024-07-04T23:00:00+00:00",
+      "channelTitle": "SiraedaLabs",
+      "channelId": "UCaHVimpAxzUHXBzJaWqHtbg",
+      "gameId": "zenless-zone-zero",
+      "language": "",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCaHVimpAxzUHXBzJaWqHtbg",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "variants": [
+        {
+          "id": "0pFEzdgENrg",
+          "title": "Corin Character Skill Animations Showcase | Zenless Zone Zero",
+          "language": ""
+        }
+      ]
+    },
+    {
+      "id": "dY_kgBmdT2w",
+      "title": "Grace Character Skill Animations Showcase | Zenless Zone Zero",
+      "publishedAt": "2024-07-04T17:43:04+00:00",
+      "channelTitle": "SiraedaLabs",
+      "channelId": "UCaHVimpAxzUHXBzJaWqHtbg",
+      "gameId": "zenless-zone-zero",
+      "language": "",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UCaHVimpAxzUHXBzJaWqHtbg",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "variants": [
+        {
+          "id": "dY_kgBmdT2w",
+          "title": "Grace Character Skill Animations Showcase | Zenless Zone Zero",
+          "language": ""
+        }
+      ]
+    },
+    {
+      "id": "EJ4MxpwcxEA",
+      "title": "Jinhsi Gameplay - Jinhsi Skill Showcase |  Wuthering Waves",
+      "publishedAt": "2024-06-29T01:03:38-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "📍 Jinhsi Combat Gameplay📍\nhttps://youtu.be/6v-0D_Uknds?si=-XkhzEHLhDqtL1Sm\n📍All Wuwa Character Gameplay📍\nhttps://www.youtube.com/watch?v=79wwE6aNVrQ&list=PLPH2f477dnawi1H2Nn0cJBW4Kl2LGf0jl&index=2&ab_channel=ONGame\n\nJinhsi Basic Attack, Jinhsi Resonance Skill, Jinhsi Resonance Liberation , Jinhsi passive talent, Wuthering Waves \n\n\n00:00   Jinhsi    \n00:19   Basic Attack    \n00:36   Mid-Air Attack    \n01:02   Heavy Attack    \n01:22   Resonance Skill    \n02:41   Resonance Liberation    \n03:05   Battle Preview    \n\n\n❗  100% Exploration /All Colectible PLaylist \nhttps://www.youtube.com/watch?v=g-cTTnT6RNE&list=PLPH2f477dnaxNmfXEqJrfwoLfimucH_yk&index=1&ab_channel=ONGame\n❗ Material Farming Route Playlist     \nhttps://www.youtube.com/playlist?list=PLPH2f477dnayaON4EgQrvMONBRuYnoOR9\n❗  ALL Side Quest\nhttps://www.youtube.com/watch?v=9l9xYuTv9jo&list=PLPH2f477dnazmhv-6qngUeKH8jFv4z8VV&ab_channel=ONGamehttps://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u2757.png\n❗Echo Farming Route Playlist\nhttps://www.youtube.com/playlist?list=PLPH2f477dnaxwrNKZIwvGojxlf05lUvSq\n❗All Hiden Achievement\nhttps://www.youtube.com/playlist?list=PLPH2f477dnazWDyYN_dCb8_B6RKNI91AK&playnext=1&index=1\n\n❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n\n   \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
+      "duration": "PT247S",
+      "variants": [
+        {
+          "id": "EJ4MxpwcxEA",
+          "title": "Jinhsi Gameplay - Jinhsi Skill Showcase |  Wuthering Waves",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "eVQmYMtYVd4",
+      "title": "Yinlin All Skill & Attack - Yinlin Gameplay | Wuthering Waves",
+      "publishedAt": "2024-06-07T04:32:00-07:00",
+      "channelTitle": "ON Game",
+      "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+      "gameId": "wuthering-waves",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "sourceChannel": "UClDD_y014JIRfnjtn_Yeliw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "description": "❗Doesnt Have Time to Play Game ? \nOpen Genshin and Wutering Pilot Sevice (Reliable & Done manually)\nhttps://www.instagram.com/rearigaming\n\n\n00:00 Opening    \n00:09 Basic Attack    \n00:29 Mid air Attack    \n00:55 Heavy Attack    \n01:08 Heavy Attack    \n01:19 Resonance Skill    \n01:46 Resonance Liberation    \n01:57 Battle Preview \n03:08 Character Animation Detail \n03:33 Character Idle Detail  \n\n\n\n➤ contact me :\n✉ gamergrup1@gmail.com\n\n#wutheringwaves    #wuthering  #kurogames",
+      "duration": "PT271S",
+      "variants": [
+        {
+          "id": "eVQmYMtYVd4",
+          "title": "Yinlin All Skill & Attack - Yinlin Gameplay | Wuthering Waves",
+          "language": "en"
         }
       ]
     }

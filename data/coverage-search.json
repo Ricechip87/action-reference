@@ -36,8 +36,21 @@
           "title": "Hsin's Official Gameplay | Wuthering Waves",
           "channel": "Suit Wearing Thug",
           "channelId": "UCc-aBhRn8KMsefFQ-k_c4xA"
+        },
+        {
+          "id": "groOVlYDAK8",
+          "title": "Suoming & Hsin Gameplay Official | Ultimate Skills & SFX Showcase 60fps - Wuthering Waves 鸣潮",
+          "channel": "Komiko",
+          "channelId": "UCcyhqAU092LNDeaffBYTPcw"
+        },
+        {
+          "id": "KtcvldsYs3A",
+          "title": "Sentinel Hsin gameplay showcase in Wuthering Waves V3.7 [JP Voice / Eng Sub]",
+          "channel": "Anigame",
+          "channelId": "UC3n6Qf73owP6QM5dssXOAbw"
         }
-      ]
+      ],
+      "additionalQuery": "Wuthering Waves Hsin all skill SFX -leak -CBT -beta"
     },
     {
       "gameId": "wuthering-waves",
@@ -50,7 +63,8 @@
           "channel": "frenchtutor_",
           "channelId": "UCuDGCvVSfkE2_bfkFQK0ZrQ"
         }
-      ]
+      ],
+      "additionalQuery": "Wuthering Waves Yangyang Xuanling all skill SFX -leak -CBT -beta"
     },
     {
       "gameId": "wuthering-waves",
@@ -150,13 +164,15 @@
       "gameId": "wuthering-waves",
       "character": "루크 · 헤르센",
       "query": "Wuthering Waves Luke Herssen skill moveset showcase -leak -CBT",
-      "candidates": []
+      "candidates": [],
+      "additionalQuery": "Wuthering Waves Luke Herssen all skill SFX -leak -CBT -beta"
     },
     {
       "gameId": "wuthering-waves",
       "character": "칸타렐라",
       "query": "Wuthering Waves Cantarella skill moveset showcase -leak -CBT",
-      "candidates": []
+      "candidates": [],
+      "additionalQuery": "Wuthering Waves Cantarella all skill SFX -leak -CBT -beta"
     },
     {
       "gameId": "wuthering-waves",
@@ -169,7 +185,8 @@
           "channel": "WhoYouVerse",
           "channelId": "UCcCTeJUeGqyGU4RkR6uViwA"
         }
-      ]
+      ],
+      "additionalQuery": "Wuthering Waves Camellya all skill SFX -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
@@ -182,7 +199,8 @@
           "channel": "Noxxis Gaming",
           "channelId": "UCiX5g1dxXMsfgRMG9PASUOw"
         }
-      ]
+      ],
+      "additionalQuery": "Zenless Zone Zero Pyrois move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
@@ -195,7 +213,8 @@
           "channel": "Noxxis Gaming",
           "channelId": "UCiX5g1dxXMsfgRMG9PASUOw"
         }
-      ]
+      ],
+      "additionalQuery": "Zenless Zone Zero Roxy move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
@@ -208,25 +227,29 @@
           "channel": "WiseGaming",
           "channelId": "UCNZFUyaZ4lWsfyU8KYj5i_g"
         }
-      ]
+      ],
+      "additionalQuery": "Zenless Zone Zero Claret move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
       "character": "시그리드",
       "query": "Zenless Zone Zero Sigrid skill moveset showcase -leak -CBT",
-      "candidates": []
+      "candidates": [],
+      "additionalQuery": "Zenless Zone Zero Sigrid move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
       "character": "레미엘",
       "query": "Zenless Zone Zero Remiel skill moveset showcase -leak -CBT",
-      "candidates": []
+      "candidates": [],
+      "additionalQuery": "Zenless Zone Zero Remiel move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
       "character": "노르마",
       "query": "Zenless Zone Zero Norma skill moveset showcase -leak -CBT",
-      "candidates": []
+      "candidates": [],
+      "additionalQuery": "Zenless Zone Zero Norma move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
@@ -239,7 +262,8 @@
           "channel": "Thichmikokomi",
           "channelId": "UC15Ha-oIt8HrhruFHjPWIpw"
         }
-      ]
+      ],
+      "additionalQuery": "Zenless Zone Zero Velina move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
@@ -258,19 +282,22 @@
           "channel": "Lin-0",
           "channelId": "UCShVdeb9VPrUs-O_Nj2FXNA"
         }
-      ]
+      ],
+      "additionalQuery": "Zenless Zone Zero Starlight Billy move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
       "character": "프로미아",
       "query": "Zenless Zone Zero Promeia skill moveset showcase -leak -CBT",
-      "candidates": []
+      "candidates": [],
+      "additionalQuery": "Zenless Zone Zero Promeia move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
       "character": "시시아",
       "query": "Zenless Zone Zero Cissia skill moveset showcase -leak -CBT",
-      "candidates": []
+      "candidates": [],
+      "additionalQuery": "Zenless Zone Zero Cissia move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
@@ -283,7 +310,8 @@
           "channel": "Noxxis Gaming",
           "channelId": "UCiX5g1dxXMsfgRMG9PASUOw"
         }
-      ]
+      ],
+      "additionalQuery": "Zenless Zone Zero Nangong Yu move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
@@ -302,7 +330,8 @@
       "gameId": "zenless-zone-zero",
       "character": "수나",
       "query": "Zenless Zone Zero Sunna skill moveset showcase -leak -CBT",
-      "candidates": []
+      "candidates": [],
+      "additionalQuery": "Zenless Zone Zero Sunna move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
@@ -341,13 +370,15 @@
           "channel": "Ongame Gachagaming",
           "channelId": "UCV-2FpvhbeBoBSXTzUvPjaQ"
         }
-      ]
+      ],
+      "additionalQuery": "Zenless Zone Zero Dialyn move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
       "character": "이드하리",
       "query": "Zenless Zone Zero Yidhari skill moveset showcase -leak -CBT",
-      "candidates": []
+      "candidates": [],
+      "additionalQuery": "Zenless Zone Zero Yidhari move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
@@ -431,7 +462,8 @@
       "gameId": "zenless-zone-zero",
       "character": "의현",
       "query": "Zenless Zone Zero Yixuan skill moveset showcase -leak -CBT",
-      "candidates": []
+      "candidates": [],
+      "additionalQuery": "Zenless Zone Zero Yixuan move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
@@ -635,8 +667,15 @@
           "title": "Zhu Yuan Character Skill Animations Showcase | Zenless Zone Zero",
           "channel": "SiraedaLabs",
           "channelId": "UCaHVimpAxzUHXBzJaWqHtbg"
+        },
+        {
+          "id": "cwoHNiybTH0",
+          "title": "How to Play Zhu Yuan (Beginner Move List Visual Guide) | ZZZ Made EZ",
+          "channel": "The Sacred Spear",
+          "channelId": "UCvpx2wJnOhCExPLs4a1mfoQ"
         }
-      ]
+      ],
+      "additionalQuery": "Zenless Zone Zero Zhu Yuan move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
@@ -654,8 +693,15 @@
           "title": "Ellen | Showcase Gameplay - Zenless Zone Zero",
           "channel": "Ion0X",
           "channelId": "UC0Ub0eXEdXn05VsHhU8sULA"
+        },
+        {
+          "id": "4gjM7dPl-dQ",
+          "title": "How to Play Ellen (Move List Visual Guide) | ZZZ Made EZ",
+          "channel": "The Sacred Spear",
+          "channelId": "UCvpx2wJnOhCExPLs4a1mfoQ"
         }
-      ]
+      ],
+      "additionalQuery": "Zenless Zone Zero Ellen move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
@@ -668,7 +714,8 @@
           "channel": "ON Game",
           "channelId": "UClDD_y014JIRfnjtn_Yeliw"
         }
-      ]
+      ],
+      "additionalQuery": "Zenless Zone Zero Soldier 11 move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
@@ -687,7 +734,8 @@
           "channel": "Tsukidal",
           "channelId": "UCeIxj2t74NTex_xfqW9Vr-w"
         }
-      ]
+      ],
+      "additionalQuery": "Zenless Zone Zero Rina move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
@@ -712,7 +760,8 @@
           "channel": "Tsukidal",
           "channelId": "UCeIxj2t74NTex_xfqW9Vr-w"
         }
-      ]
+      ],
+      "additionalQuery": "Zenless Zone Zero Lycaon move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
@@ -725,7 +774,8 @@
           "channel": "ON Game",
           "channelId": "UClDD_y014JIRfnjtn_Yeliw"
         }
-      ]
+      ],
+      "additionalQuery": "Zenless Zone Zero Nekomata move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
@@ -749,8 +799,15 @@
           "title": "SOLDIER 0 ANBY (SAnby) - ALL MOVESET | Zenless Zone Zero",
           "channel": "Miname",
           "channelId": "UCuIKsoNRJDi2w4JYW85thoA"
+        },
+        {
+          "id": "QwlRAVR0nhk",
+          "title": "How to Play Anby (Beginner Move List Visual Guide) | ZZZ Made EZ",
+          "channel": "The Sacred Spear",
+          "channelId": "UCvpx2wJnOhCExPLs4a1mfoQ"
         }
-      ]
+      ],
+      "additionalQuery": "Zenless Zone Zero Anby move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "zenless-zone-zero",
@@ -793,8 +850,15 @@
           "title": "[Zenless Zone Zero] Anby | Billy | Nicole - Moveset / Animation Showcase (4K)",
           "channel": "Tsukidal",
           "channelId": "UCeIxj2t74NTex_xfqW9Vr-w"
+        },
+        {
+          "id": "oBIf-5FS4zA",
+          "title": "How to Play Billy (Beginner Move List Visual Guide) | ZZZ Made EZ",
+          "channel": "The Sacred Spear",
+          "channelId": "UCvpx2wJnOhCExPLs4a1mfoQ"
         }
-      ]
+      ],
+      "additionalQuery": "Zenless Zone Zero Billy move list visual guide -leak -CBT -beta"
     },
     {
       "gameId": "neverness-to-everness",

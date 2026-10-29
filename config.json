@@ -77,8 +77,38 @@
           ],
           "enabled": true,
           "titleGameRequired": true
+        },
+        {
+          "channel": "UCcCTeJUeGqyGU4RkR6uViwA",
+          "name": "WhoYouVerse",
+          "includeKeywords": [
+            "Gameplay Animations"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "closed beta",
+            "beta test",
+            "beta gameplay",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "합본",
+            "early animations",
+            "unreleased",
+            "private server",
+            "skill builder",
+            "JJS",
+            "beta",
+            "test server",
+            "테스트 서버"
+          ],
+          "enabled": true
         }
-      ]
+      ],
+      "releaseDate": "2024-05-23"
     },
     {
       "id": "zenless-zone-zero",
@@ -158,8 +188,126 @@
           ],
           "enabled": true,
           "titleGameRequired": true
+        },
+        {
+          "channel": "UCvpx2wJnOhCExPLs4a1mfoQ",
+          "name": "The Sacred Spear",
+          "includeKeywords": [
+            "Move List Visual Guide"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "closed beta",
+            "beta test",
+            "beta gameplay",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "합본",
+            "early animations",
+            "unreleased",
+            "private server",
+            "skill builder",
+            "JJS",
+            "beta",
+            "test server",
+            "테스트 서버"
+          ],
+          "enabled": true
+        },
+        {
+          "channel": "UCaRXeatgLKRhkSNd50IPFMg",
+          "name": "Jimmy Chen Gaming",
+          "includeKeywords": [
+            "Skill & Gameplay Showcase",
+            "Skill Animations & Gameplay Showcase"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "closed beta",
+            "beta test",
+            "beta gameplay",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "합본",
+            "early animations",
+            "unreleased",
+            "private server",
+            "skill builder",
+            "JJS",
+            "beta",
+            "test server",
+            "테스트 서버"
+          ],
+          "enabled": true
+        },
+        {
+          "channel": "UCRxIDzY5KZNRGerR6KaHxCw",
+          "name": "Abyss Breakdown",
+          "includeKeywords": [
+            "Skill Animations & Gameplay Showcase"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "closed beta",
+            "beta test",
+            "beta gameplay",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "합본",
+            "early animations",
+            "unreleased",
+            "private server",
+            "skill builder",
+            "JJS",
+            "beta",
+            "test server",
+            "테스트 서버"
+          ],
+          "enabled": true
+        },
+        {
+          "channel": "UCaHVimpAxzUHXBzJaWqHtbg",
+          "name": "SiraedaLabs",
+          "includeKeywords": [
+            "Skill Animations Showcase"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "closed beta",
+            "beta test",
+            "beta gameplay",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "합본",
+            "early animations",
+            "unreleased",
+            "private server",
+            "skill builder",
+            "JJS",
+            "beta",
+            "test server",
+            "테스트 서버"
+          ],
+          "enabled": true
         }
-      ]
+      ],
+      "releaseDate": "2024-07-04"
     },
     {
       "id": "neverness-to-everness",
@@ -239,7 +387,8 @@
           "enabled": true,
           "titleGameRequired": true
         }
-      ]
+      ],
+      "releaseDate": "2026-04-29"
     }
   ]
 }

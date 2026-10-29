@@ -42,6 +42,11 @@ def relevant(video,game):
     hay=(video['title']+' '+video.get('description','')).casefold()
     if any(term.casefold() in video['title'].casefold() for term in game.get('excludeKeywords',[])):return False
     if game.get('sourceKind')=='creator' and re.search(r'closed beta|\bcbt\d?\b|beta test|leaked footage|유출|베타 테스트',hay,re.I):return False
+    if game.get('sourceKind')=='creator' and game.get('releaseDate') and video.get('publishedAt'):
+        try:
+            published=dt.datetime.fromisoformat(video['publishedAt'].replace('Z','+00:00')).astimezone(dt.timezone(dt.timedelta(hours=9))).date().isoformat()
+            if published<game['releaseDate']:return False
+        except ValueError:return False
     if not game.get('channelSpecific',False) and not (video.get('gameVerified') and video.get('gameId')==game.get('id')) and not any(k.strip() and k.casefold() in hay for k in game['keywords']):return False
     terms=game.get('includeKeywords',[])
     return not terms or any(k.strip() and k.casefold() in video['title'].casefold() for k in terms)

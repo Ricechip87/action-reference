@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-10-29T20:00:16.329673+00:00",
+  "checkedAt": "2026-10-29T20:11:49.815767+00:00",
   "method": "공식 시리즈의 캐릭터명과 개별 영상 제목 대조. 모션 전체 포함 여부는 영상별 확인 필요.",
   "games": [
     {
       "gameId": "wuthering-waves",
       "name": "명조",
       "total": 26,
-      "covered": 17,
+      "covered": 22,
       "characters": [
         {
           "name": "쇄명",
@@ -43,8 +43,10 @@
             "Lucy"
           ],
           "officialVideoId": "FOum33_Rewo",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "yExqHez3tFo"
+          ],
+          "covered": true
         },
         {
           "name": "레베카",
@@ -52,8 +54,10 @@
             "Rebecca"
           ],
           "officialVideoId": "kkgpnkfop4w",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "wlRulTFiYfk"
+          ],
+          "covered": true
         },
         {
           "name": "데니아",
@@ -61,8 +65,10 @@
             "Denia"
           ],
           "officialVideoId": "8-3If6yFun4",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "pHEAtOtogso"
+          ],
+          "covered": true
         },
         {
           "name": "히유키",
@@ -70,8 +76,10 @@
             "Hiyuki"
           ],
           "officialVideoId": "MKfOCCsSkRw",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "PhH02ZYROcQ"
+          ],
+          "covered": true
         },
         {
           "name": "시그리카",
@@ -273,8 +281,10 @@
             "Camellya"
           ],
           "officialVideoId": "dRZc7SLytFk",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "n_jfWMJi_48"
+          ],
+          "covered": true
         }
       ]
     },
@@ -282,7 +292,7 @@
       "gameId": "zenless-zone-zero",
       "name": "젠레스 존 제로",
       "total": 49,
-      "covered": 3,
+      "covered": 30,
       "characters": [
         {
           "name": "피닉스",
@@ -390,8 +400,10 @@
             "Aria"
           ],
           "officialVideoId": "XKceT_Iu7Ic",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "tBS__wij5c8"
+          ],
+          "covered": true
         },
         {
           "name": "수나",
@@ -408,8 +420,10 @@
             "Zhao"
           ],
           "officialVideoId": "UwNCIb8rnM8",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "ZYlgQ9O75Ko"
+          ],
+          "covered": true
         },
         {
           "name": "엽빛나",
@@ -417,8 +431,10 @@
             "Ye Shunguang"
           ],
           "officialVideoId": "G0wc63vYgnE",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "iw0_CjRFOuk"
+          ],
+          "covered": true
         },
         {
           "name": "반악",
@@ -455,8 +471,10 @@
             "Lucia"
           ],
           "officialVideoId": "isYwc9YtwR4",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "9NoQqCnrT4U"
+          ],
+          "covered": true
         },
         {
           "name": "오피 & 「도깨비불」",
@@ -465,8 +483,10 @@
             "Magus"
           ],
           "officialVideoId": "pDLCDVIVjG0",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "YgeNU10GFoo"
+          ],
+          "covered": true
         },
         {
           "name": "「시드 」",
@@ -474,8 +494,10 @@
             "Seed"
           ],
           "officialVideoId": "GJjp9p8pr2g",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "AAIPZQ8USOo"
+          ],
+          "covered": true
         },
         {
           "name": "앨리스",
@@ -483,8 +505,10 @@
             "Alice"
           ],
           "officialVideoId": "XtbkNuGlRus",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "pbfdg1yObBQ"
+          ],
+          "covered": true
         },
         {
           "name": "우키나미 유즈하",
@@ -492,8 +516,10 @@
             "Yuzuha"
           ],
           "officialVideoId": "Fng4Si2cLJY",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "3STeOWc52PU"
+          ],
+          "covered": true
         },
         {
           "name": "귤복복",
@@ -501,8 +527,10 @@
             "Ju Fufu"
           ],
           "officialVideoId": "Ws1pKw0tvxY",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "QF_Wzq1dWN4"
+          ],
+          "covered": true
         },
         {
           "name": "의현",
@@ -519,8 +547,11 @@
             "Hugo"
           ],
           "officialVideoId": "n161UP01GPw",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "oO4UCtbbPUw",
+            "s05i7z63DXg"
+          ],
+          "covered": true
         },
         {
           "name": "비비안",
@@ -528,8 +559,10 @@
             "Vivian"
           ],
           "officialVideoId": "rWh8nDIkt6o",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "OhTYJmKSLtY"
+          ],
+          "covered": true
         },
         {
           "name": "「트리거」",
@@ -537,8 +570,10 @@
             "Trigger"
           ],
           "officialVideoId": "goZXHJvw4Po",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "45vsMygCfsY"
+          ],
+          "covered": true
         },
         {
           "name": "0호·엔비",
@@ -546,8 +581,11 @@
             "Silver Soldier Anby"
           ],
           "officialVideoId": "raPhUgXfsqo",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "Ckf1W9hqzKw",
+            "y0rD_xcXNUs"
+          ],
+          "covered": true
         },
         {
           "name": "이블린",
@@ -555,8 +593,10 @@
             "Evelyn"
           ],
           "officialVideoId": "-oAWQ9htOxA",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "mOwjicwLH8U"
+          ],
+          "covered": true
         },
         {
           "name": "아스트라 야오",
@@ -564,8 +604,11 @@
             "Astra Yao"
           ],
           "officialVideoId": "OgY8LJTlktU",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "m8BEbJr0MBA",
+            "VKt0HDZz2zc"
+          ],
+          "covered": true
         },
         {
           "name": "호시미 미야비",
@@ -573,8 +616,11 @@
             "Miyabi"
           ],
           "officialVideoId": "EKPCHvdcg5M",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "RRoPka0a1wg",
+            "mMlTqb70quc"
+          ],
+          "covered": true
         },
         {
           "name": "아사바 하루마사",
@@ -582,8 +628,10 @@
             "Harumasa"
           ],
           "officialVideoId": "_zFR8-MxWi4",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "D45FNwsDqDA"
+          ],
+          "covered": true
         },
         {
           "name": "라이터",
@@ -591,8 +639,10 @@
             "Lighter"
           ],
           "officialVideoId": "uHXbS0ZtDBM",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "Yp2MjJkJWaE"
+          ],
+          "covered": true
         },
         {
           "name": "츠키시로 야나기",
@@ -600,8 +650,10 @@
             "Yanagi"
           ],
           "officialVideoId": "-z5uy50_LGY",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "Z2tA7oNs258"
+          ],
+          "covered": true
         },
         {
           "name": "버니스",
@@ -609,8 +661,10 @@
             "Burnice"
           ],
           "officialVideoId": "9MYREocNUBA",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "yuxVmfTV0vQ"
+          ],
+          "covered": true
         },
         {
           "name": "카이사르",
@@ -640,8 +694,10 @@
             "Qingyi"
           ],
           "officialVideoId": "e-J1-BnRVSs",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "2wHsBruh3SA"
+          ],
+          "covered": true
         },
         {
           "name": "주연",
@@ -649,8 +705,10 @@
             "Zhu Yuan"
           ],
           "officialVideoId": "VjGAIlePij4",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "cwoHNiybTH0"
+          ],
+          "covered": true
         },
         {
           "name": "엘렌",
@@ -658,8 +716,10 @@
             "Ellen"
           ],
           "officialVideoId": "0I4nDRxlmrs",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "4gjM7dPl-dQ"
+          ],
+          "covered": true
         },
         {
           "name": "11호",
@@ -685,8 +745,10 @@
             "Grace"
           ],
           "officialVideoId": "b7uacmcbrJg",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "dY_kgBmdT2w"
+          ],
+          "covered": true
         },
         {
           "name": "리카온",
@@ -712,8 +774,10 @@
             "Anby"
           ],
           "officialVideoId": "PXaowGDA_2Y",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "QwlRAVR0nhk"
+          ],
+          "covered": true
         },
         {
           "name": "니콜",
@@ -721,8 +785,10 @@
             "Nicole"
           ],
           "officialVideoId": "qR4UeairoR8",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "fQzxH9Ov2VE"
+          ],
+          "covered": true
         },
         {
           "name": "빌리",
@@ -730,8 +796,10 @@
             "Billy"
           ],
           "officialVideoId": "iAddYTJ956w",
-          "videoIds": [],
-          "covered": false
+          "videoIds": [
+            "oBIf-5FS4zA"
+          ],
+          "covered": true
         }
       ]
     },

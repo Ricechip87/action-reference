@@ -63,3 +63,5 @@ Python 3.12 이상과 Node 24 기준입니다. 예약 수집과 사이트 실행
 추가 채널 최초 수집: `python scripts/backfill.py --game <게임ID> --creator <creators 배열 인덱스>`
 
 공식 캐릭터 59명의 초기 누락 목록에 대해 추가 업로더를 검색했고, 검증 전 후보는 coverage-search.json에 따로 기록했습니다. 화면의 미확인 목록에서 후보 링크를 볼 수 있습니다. 추가 보완 채널의 과거 목록 초기화는 GitHub Actions의 Run workflow → Initialize supplementary creator archives 옵션으로 실행할 수 있습니다.
+
+추가 보완: The Sacred Spear, Jimmy Chen Gaming, Abyss Breakdown, SiraedaLabs(젠존제), WhoYouVerse(명조)의 개별 시연도 출처 확인 후 포함했습니다. 개인 업로더 영상은 게임 정식 출시일 이전 게시물도 제외합니다. 출시 이후 영상이라도 명시되지 않은 사전 빌드 여부까지 보증하는 것은 아닙니다.

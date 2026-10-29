@@ -24,6 +24,7 @@ def metadata(entry,game,channel,handle):
     info=player.get('microformat',{}).get('playerMicroformatRenderer',{})
     published=info.get('publishDate') or info.get('uploadDate')
     if not published:raise ValueError('Missing publication date: '+entry['id'])
+    if not relevant({'title':title,'description':details.get('shortDescription',''),'publishedAt':published},game):return None
     return {'id':entry['id'],'title':title,'publishedAt':published,'channelTitle':details.get('author','명조:워더링 웨이브'),'channelId':channel,'gameId':game['id'],'language':'ko' if re.search(r'[가-힣]',title) else 'en','type':'캐릭터 무브셋' if game.get('sourceKind')=='creator' else video_type(title),'sourceChannel':handle,'sourceKind':game.get('sourceKind','official'),'gameVerified':True,'description':details.get('shortDescription','')[:4000] if game.get('sourceKind')=='creator' else '', 'duration':'PT'+str(details.get('lengthSeconds',0))+'S'}
 
 def main():
