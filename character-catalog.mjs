@@ -8,7 +8,7 @@ function hits(title,alias){
  return [...title.matchAll(new RegExp('(?<![\\p{L}\\p{N}])'+pattern+'(?![\\p{L}\\p{N}])','giu'))].map(m=>({start:m.index,end:m.index+m[0].length}));
 }
 function identifiedCharacters(video,characters){
- const title=String(video.title||'').normalize('NFKC').replace(/[丨｜]/g,' ');
+ const title=[video.title,...(Array.isArray(video.localizedTitles)?video.localizedTitles:[])].map(t=>String(t||'')).join(' | ').normalize('NFKC').replace(/[丨｜]/g,' ');
  const found=characters.filter(c=>c.gameId===video.gameId&&!(c.kind==='family'&&video.sourceKind==='creator')).flatMap(c=>[...new Set([c.name,...(c.aliases||[])])].flatMap(a=>hits(title,a).map(span=>({character:c,...span}))));
  // A shorter name inside a full variant name must never claim that variant.
  const specific=found.filter(h=>!found.some(other=>other.character.id!==h.character.id&&other.start<=h.start&&other.end>=h.end&&(other.start<h.start||other.end>h.end)));
@@ -25,7 +25,8 @@ export function enrichVideos(videos,characters,{asOf=todayKorea()}={}){
   const found=identifiedCharacters(video,characters),c=found.length===1?found[0]:null,release=c?.releaseDate;
   if(video.sourceKind==='creator'&&found.length>1){excluded.push({...video,exclusionReason:'여러 캐릭터 합본'});continue;}
   if(video.sourceKind==='creator'&&validDate(release)&&release>asOf){excluded.push({...video,exclusionReason:'미출시 캐릭터'});continue;}
-  output.push({...video,characterId:c?.id||null,characterName:c?.name||null,characterKind:c?.kind||'character',characterReleaseDate:validDate(release)?release:null,characterReleaseOrder:c?.releaseOrder??null,characterReleaseBasis:c?.releaseBasis||null});
+  const partialType={'basic-attacks':'기본 공격 모션','skill-excerpt':'개별 기술 모션','motion-excerpt':'개별 모션'}[video.referenceScope];
+  output.push({...video,...(partialType?{type:partialType}:{}),characterId:c?.id||null,characterName:c?.name||null,characterKind:c?.kind||'character',characterReleaseDate:validDate(release)?release:null,characterReleaseOrder:c?.releaseOrder??null,characterReleaseBasis:c?.releaseBasis||null});
  }
  return {videos:output,excluded};
 }

@@ -37,3 +37,13 @@ test('multi-character creator compilations are excluded and pre-release upload a
  const {videos,excluded}=enrichVideos([{gameId:'zzz',title:'Anby and Future skills',sourceKind:'creator'},{gameId:'zzz',title:'Anby skills',sourceKind:'creator',publishedAt:'2024-07-01'}],characters,{asOf:'2026-10-30'});
  assert.equal(videos.length,1);assert.equal(videos[0].title,'Anby skills');assert.equal(excluded.length,1);
 });
+test('verified localized metadata identifies characters without changing the displayed title',()=>{
+ const video={gameId:'pgr',title:'ルシアのモーション',localizedTitles:['Lucia: Plume Moveset'],sourceKind:'creator'};
+ assert.equal(identifyCharacter(video,characters)?.id,'plume');
+ assert.equal(enrichVideos([video],characters).videos[0].title,video.title);
+});
+test('reviewed partial motion scope stays explicit after a feed refresh',()=>{
+ const result=enrichVideos([{id:'partial',gameId:'zzz',title:'Anby moves',sourceKind:'creator',type:'캐릭터 무브셋',referenceScope:'basic-attacks'}],characters).videos[0];
+ assert.equal(result.type,'기본 공격 모션');
+ assert.equal(result.referenceScope,'basic-attacks');
+});

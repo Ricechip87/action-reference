@@ -5,6 +5,23 @@ from coverage import matches, person
 from channel_archive import publication_window,collect_listing
 
 class FeedTests(unittest.TestCase):
+    def test_reviewed_video_ids_do_not_relax_future_uploads_or_beta_filters(self):
+        rule={'id':'gi','sourceKind':'creator','keywords':['Genshin Impact'],'includeKeywords':['All Skills'],'titleGameRequired':True,'requireCharacterMatch':True,'characterAliases':['Noelle'],'approvedVideoIds':['abcdefghijk'],'excludeKeywords':['CBT','all characters'],'releaseDate':'2020-09-28'}
+        video={'id':'abcdefghijk','title':'Noelle blade animations','publishedAt':'2021-03-01T00:00:00Z'}
+        self.assertTrue(relevant(video,rule))
+        self.assertFalse(relevant({**video,'id':'newupload12'},rule))
+        self.assertFalse(relevant({**video,'title':'Noelle CBT all characters'},rule))
+        self.assertFalse(relevant({**video,'publishedAt':'2020-08-01T00:00:00Z'},rule))
+
+    def test_rss_refresh_preserves_reviewed_scope_and_localized_title(self):
+        rule={'id':'gi','sourceKind':'creator','channelSpecific':True,'includeKeywords':[]}
+        old={'id':'abcdefghijk','gameId':'gi','sourceChannel':'@source','title':'old title','referenceScope':'basic-attacks','localizedTitles':['Noelle Attack Animations'],'verifiedAt':'2026-10-30','language':'ko'}
+        current={k:old[k] for k in ['id','gameId','sourceChannel']};current.update(title='new title',language='')
+        merged=merge_previous([current],[old],[(rule,'@source')])[0]
+        self.assertEqual(merged['title'],'new title')
+        self.assertEqual(merged['referenceScope'],'basic-attacks')
+        self.assertEqual(merged['localizedTitles'],old['localizedTitles'])
+        self.assertEqual(merged['language'],'ko')
     def test_relative_upload_window_is_conservative_and_never_an_exact_date(self):
         self.assertEqual(publication_window('3주 전',dt.date(2026,10,30))['earliest'],'2026-10-02')
         self.assertEqual(publication_window('5 months ago',dt.date(2026,10,30))['earliest'],'2026-04-30')
@@ -40,6 +57,18 @@ class FeedTests(unittest.TestCase):
         self.assertTrue(relevant({'title':'명조 전투 모션','description':''},g))
         self.assertFalse(relevant({'title':'명조 캐릭터 트레일러','description':''},g))
         self.assertFalse(relevant({'title':'다른 게임 트레일러','description':''},g))
+
+    def test_reviewed_duplicate_exclusion_survives_feed_and_archive_refresh(self):
+        rule={'keywords':['Genshin'],'includeKeywords':['animation'],'approvedVideoIds':['duplicate'],'excludedVideoIds':['duplicate']}
+        duplicate={'id':'duplicate','title':'Hu Tao animation Genshin','gameId':'gi','sourceChannel':'source'}
+        self.assertFalse(relevant(duplicate,rule))
+        self.assertEqual(merge_previous([],[duplicate],[({**rule,'id':'gi'},'source')]),[])
+
+    def test_expanded_channels_reject_unsafe_description_even_for_approved_id(self):
+        rule={'keywords':['Genshin'],'approvedVideoIds':['reviewed'],'strictContentExclusions':True}
+        for marker in ['beta footage','CBT2','leaks','private server','custom moveset','유출']:
+            self.assertFalse(relevant({'id':'reviewed','title':'Character Skill Showcase Genshin','description':marker},rule))
+        self.assertTrue(relevant({'id':'reviewed','title':'Character Skill Showcase Genshin','description':'Normal attacks, skill and burst'},rule))
 
     def test_archive_is_retained_without_age_limit_and_ids_are_unique(self):
         game={'id':'ww','channels':['@official'],'keywords':['명조'],'channelSpecific':True,'includeKeywords':['전투 모션']}

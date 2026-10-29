@@ -46,22 +46,25 @@ def character_aliases(game_id):
     return tuple({name for character in data['characters'] if character['gameId']==game_id and character.get('kind')!='family' for name in [character['name'],*character.get('aliases',[])]})
 
 def relevant(video,game):
+    if video.get('id') in game.get('excludedVideoIds',[]):return False
     hay=(video['title']+' '+video.get('description','')).casefold()
+    approved=video.get('id') in game.get('approvedVideoIds',[])
     def named_in_title(keyword):
         value=keyword.casefold();title=video['title'].casefold()
         return value in title if re.search('[가-힣]',value) else bool(re.search(r'(?<![a-z0-9])'+re.escape(value)+r'(?![a-z0-9])',title))
-    if game.get('titleGameRequired') and not any(named_in_title(k) for k in game.get('keywords',[])):return False
-    if game.get('requireCharacterMatch') and not any(named_in_title(k) for k in game.get('characterAliases') or character_aliases(game['id'])):return False
+    if not approved and game.get('titleGameRequired') and not any(named_in_title(k) for k in game.get('keywords',[])):return False
+    if not approved and game.get('requireCharacterMatch') and not any(named_in_title(k) for k in game.get('characterAliases') or character_aliases(game['id'])):return False
     if any(term.casefold() in video['title'].casefold() for term in game.get('excludeKeywords',[])):return False
+    if game.get('strictContentExclusions') and re.search(r'\bleaks?\b|\bcbt\d?\b|\bbeta\b|private server|test server|modded|custom moveset|fan.?animation|유출|베타',hay,re.I):return False
     if game.get('sourceKind')=='creator' and re.search(r'closed beta|\bcbt\d?\b|beta test|leaked footage|유출|베타 테스트',hay,re.I):return False
     if game.get('sourceKind')=='creator' and game.get('releaseDate') and video.get('publishedAt'):
         try:
             published=dt.datetime.fromisoformat(video['publishedAt'].replace('Z','+00:00')).astimezone(dt.timezone(dt.timedelta(hours=9))).date().isoformat()
             if published<game['releaseDate']:return False
         except ValueError:return False
-    if not game.get('channelSpecific',False) and not (video.get('gameVerified') and video.get('gameId')==game.get('id')) and not any(k.strip() and k.casefold() in hay for k in game['keywords']):return False
+    if not approved and not game.get('channelSpecific',False) and not (video.get('gameVerified') and video.get('gameId')==game.get('id')) and not any(k.strip() and k.casefold() in hay for k in game['keywords']):return False
     terms=game.get('includeKeywords',[])
-    return not terms or any(k.strip() and k.casefold() in video['title'].casefold() for k in terms)
+    return approved or not terms or any(k.strip() and k.casefold() in video['title'].casefold() for k in terms)
 
 def video_type(title):
     if '데인 여담' in title:return '데인 여담'
@@ -79,10 +82,17 @@ def merge_previous(current,previous,jobs):
     output=list(current)
     active={(g['id'],c):g for g,c in jobs}
     seen={v['id'] for v in output}
+    positions={v['id']:i for i,v in enumerate(output)}
     for old in previous:
         game=active.get((old.get('gameId'),old.get('sourceChannel')))
-        if game and relevant(old,game) and old['id'] not in seen:
-            output.append(old);seen.add(old['id'])
+        if game and relevant(old,game):
+            if old['id'] not in seen:
+                positions[old['id']]=len(output);output.append(old);seen.add(old['id'])
+            else:
+                index=positions[old['id']];fresh=output[index]
+                if fresh.get('gameId')==old.get('gameId') and fresh.get('sourceKind','official')==old.get('sourceKind','official'):
+                    output[index]={**old,**fresh}
+                    if not fresh.get('language') and old.get('language'):output[index]['language']=old['language']
     return output
 
 def collection_jobs(config):
