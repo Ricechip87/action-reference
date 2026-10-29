@@ -40,6 +40,10 @@ def parse_feed(xml,channel):
 
 def relevant(video,game):
     hay=(video['title']+' '+video.get('description','')).casefold()
+    def named_in_title(keyword):
+        value=keyword.casefold();title=video['title'].casefold()
+        return value in title if re.search('[가-힣]',value) else bool(re.search(r'(?<![a-z0-9])'+re.escape(value)+r'(?![a-z0-9])',title))
+    if game.get('titleGameRequired') and not any(named_in_title(k) for k in game.get('keywords',[])):return False
     if any(term.casefold() in video['title'].casefold() for term in game.get('excludeKeywords',[])):return False
     if game.get('sourceKind')=='creator' and re.search(r'closed beta|\bcbt\d?\b|beta test|leaked footage|유출|베타 테스트',hay,re.I):return False
     if game.get('sourceKind')=='creator' and game.get('releaseDate') and video.get('publishedAt'):

@@ -1,0 +1,5213 @@
+{
+  "checkedAt": "2026-10-30",
+  "note": "영상 게시일과 별개인 캐릭터 출시 정보. 날짜 미확인 항목은 정렬 마지막에 배치. 동시 출시는 이름순. PGR은 글로벌 기체별 일정. 공개 영상 존재/누락 상태는 포함하지 않음.",
+  "characters": [
+    {
+      "id": "genshin-impact:valeriy",
+      "gameId": "genshin-impact",
+      "name": "Valeriy",
+      "aliases": [
+        "Valeriy"
+      ],
+      "releaseDate": "2026-11-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 125
+    },
+    {
+      "id": "genshin-impact:mitya",
+      "gameId": "genshin-impact",
+      "name": "Mitya",
+      "aliases": [
+        "Mitya"
+      ],
+      "releaseDate": "2026-11-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 124
+    },
+    {
+      "id": "genshin-impact:vodyanitsa",
+      "gameId": "genshin-impact",
+      "name": "Vodyanitsa",
+      "aliases": [
+        "Vodyanitsa"
+      ],
+      "releaseDate": "2026-09-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 123
+    },
+    {
+      "id": "genshin-impact:vesna",
+      "gameId": "genshin-impact",
+      "name": "Vesna",
+      "aliases": [
+        "Vesna"
+      ],
+      "releaseDate": "2026-09-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 122
+    },
+    {
+      "id": "genshin-impact:odette",
+      "gameId": "genshin-impact",
+      "name": "Odette",
+      "aliases": [
+        "Odette"
+      ],
+      "releaseDate": "2026-08-12",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 121
+    },
+    {
+      "id": "genshin-impact:alyosha",
+      "gameId": "genshin-impact",
+      "name": "Alyosha",
+      "aliases": [
+        "Alyosha",
+        "Aloysha"
+      ],
+      "releaseDate": "2026-08-12",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 120
+    },
+    {
+      "id": "genshin-impact:sandrone",
+      "gameId": "genshin-impact",
+      "name": "Sandrone",
+      "aliases": [
+        "Sandrone"
+      ],
+      "releaseDate": "2026-07-01",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 119
+    },
+    {
+      "id": "genshin-impact:lohen",
+      "gameId": "genshin-impact",
+      "name": "Lohen",
+      "aliases": [
+        "Lohen"
+      ],
+      "releaseDate": "2026-06-09",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 118
+    },
+    {
+      "id": "genshin-impact:prune",
+      "gameId": "genshin-impact",
+      "name": "Prune",
+      "aliases": [
+        "Prune"
+      ],
+      "releaseDate": "2026-05-20",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 117
+    },
+    {
+      "id": "genshin-impact:nicole",
+      "gameId": "genshin-impact",
+      "name": "Nicole",
+      "aliases": [
+        "Nicole"
+      ],
+      "releaseDate": "2026-05-20",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 116
+    },
+    {
+      "id": "genshin-impact:linnea",
+      "gameId": "genshin-impact",
+      "name": "Linnea",
+      "aliases": [
+        "Linnea"
+      ],
+      "releaseDate": "2026-04-08",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 115
+    },
+    {
+      "id": "genshin-impact:varka",
+      "gameId": "genshin-impact",
+      "name": "바르카",
+      "aliases": [
+        "Varka",
+        "바르카"
+      ],
+      "releaseDate": "2026-02-25",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 114
+    },
+    {
+      "id": "genshin-impact:zibai",
+      "gameId": "genshin-impact",
+      "name": "자백",
+      "aliases": [
+        "Zibai",
+        "자백"
+      ],
+      "releaseDate": "2026-02-03",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 113
+    },
+    {
+      "id": "genshin-impact:illuga",
+      "gameId": "genshin-impact",
+      "name": "일루가",
+      "aliases": [
+        "Illuga",
+        "일루가"
+      ],
+      "releaseDate": "2026-02-03",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 112
+    },
+    {
+      "id": "genshin-impact:columbina",
+      "gameId": "genshin-impact",
+      "name": "콜롬비나",
+      "aliases": [
+        "Columbina",
+        "콜롬비나"
+      ],
+      "releaseDate": "2026-01-14",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 111
+    },
+    {
+      "id": "genshin-impact:jahoda",
+      "gameId": "genshin-impact",
+      "name": "야호다",
+      "aliases": [
+        "Jahoda",
+        "야호다"
+      ],
+      "releaseDate": "2025-12-03",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 110
+    },
+    {
+      "id": "genshin-impact:durin",
+      "gameId": "genshin-impact",
+      "name": "두린",
+      "aliases": [
+        "Durin",
+        "두린"
+      ],
+      "releaseDate": "2025-12-03",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 109
+    },
+    {
+      "id": "genshin-impact:nefer",
+      "gameId": "genshin-impact",
+      "name": "네페르",
+      "aliases": [
+        "Nefer",
+        "네페르"
+      ],
+      "releaseDate": "2025-10-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 108
+    },
+    {
+      "id": "genshin-impact:manekina",
+      "gameId": "genshin-impact",
+      "name": "Manekina",
+      "aliases": [
+        "Manekina"
+      ],
+      "releaseDate": "2025-10-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 107
+    },
+    {
+      "id": "genshin-impact:manekin",
+      "gameId": "genshin-impact",
+      "name": "Manekin",
+      "aliases": [
+        "Manekin"
+      ],
+      "releaseDate": "2025-10-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 106
+    },
+    {
+      "id": "genshin-impact:flins",
+      "gameId": "genshin-impact",
+      "name": "플린스",
+      "aliases": [
+        "Flins",
+        "플린스"
+      ],
+      "releaseDate": "2025-09-30",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 105
+    },
+    {
+      "id": "genshin-impact:lauma",
+      "gameId": "genshin-impact",
+      "name": "라우마",
+      "aliases": [
+        "Lauma",
+        "라우마"
+      ],
+      "releaseDate": "2025-09-10",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 103
+    },
+    {
+      "id": "genshin-impact:aino",
+      "gameId": "genshin-impact",
+      "name": "아이노",
+      "aliases": [
+        "Aino",
+        "아이노"
+      ],
+      "releaseDate": "2025-09-10",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 104
+    },
+    {
+      "id": "genshin-impact:ineffa",
+      "gameId": "genshin-impact",
+      "name": "이네파",
+      "aliases": [
+        "Ineffa",
+        "이네파"
+      ],
+      "releaseDate": "2025-07-30",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 102
+    },
+    {
+      "id": "genshin-impact:skirk",
+      "gameId": "genshin-impact",
+      "name": "스커크",
+      "aliases": [
+        "Skirk",
+        "스커크"
+      ],
+      "releaseDate": "2025-06-18",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 101
+    },
+    {
+      "id": "genshin-impact:dahlia",
+      "gameId": "genshin-impact",
+      "name": "달리아",
+      "aliases": [
+        "Dahlia",
+        "달리아"
+      ],
+      "releaseDate": "2025-06-18",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 100
+    },
+    {
+      "id": "genshin-impact:ifa",
+      "gameId": "genshin-impact",
+      "name": "이파",
+      "aliases": [
+        "Ifa",
+        "이파"
+      ],
+      "releaseDate": "2025-05-07",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 99
+    },
+    {
+      "id": "genshin-impact:escoffier",
+      "gameId": "genshin-impact",
+      "name": "에스코피에",
+      "aliases": [
+        "Escoffier",
+        "에스코피에"
+      ],
+      "releaseDate": "2025-05-07",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 98
+    },
+    {
+      "id": "genshin-impact:varesa",
+      "gameId": "genshin-impact",
+      "name": "바레사",
+      "aliases": [
+        "Varesa",
+        "바레사"
+      ],
+      "releaseDate": "2025-03-26",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 96
+    },
+    {
+      "id": "genshin-impact:iansan",
+      "gameId": "genshin-impact",
+      "name": "얀사",
+      "aliases": [
+        "Iansan",
+        "얀사"
+      ],
+      "releaseDate": "2025-03-26",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 97
+    },
+    {
+      "id": "genshin-impact:yumemizuki-mizuki",
+      "gameId": "genshin-impact",
+      "name": "유메미즈키 미즈키",
+      "aliases": [
+        "Yumemizuki Mizuki",
+        "Mizuki",
+        "유메미즈키 미즈키"
+      ],
+      "releaseDate": "2025-02-12",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 95
+    },
+    {
+      "id": "genshin-impact:lan-yan",
+      "gameId": "genshin-impact",
+      "name": "남연",
+      "aliases": [
+        "Lan Yan",
+        "남연"
+      ],
+      "releaseDate": "2025-01-21",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 94
+    },
+    {
+      "id": "genshin-impact:mavuika",
+      "gameId": "genshin-impact",
+      "name": "마비카",
+      "aliases": [
+        "Mavuika",
+        "마비카"
+      ],
+      "releaseDate": "2025-01-01",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 92
+    },
+    {
+      "id": "genshin-impact:citlali",
+      "gameId": "genshin-impact",
+      "name": "시틀라리",
+      "aliases": [
+        "Citlali",
+        "시틀라리"
+      ],
+      "releaseDate": "2025-01-01",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 93
+    },
+    {
+      "id": "genshin-impact:ororon",
+      "gameId": "genshin-impact",
+      "name": "올로룬",
+      "aliases": [
+        "Ororon",
+        "올로룬"
+      ],
+      "releaseDate": "2024-11-20",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 90
+    },
+    {
+      "id": "genshin-impact:chasca",
+      "gameId": "genshin-impact",
+      "name": "차스카",
+      "aliases": [
+        "Chasca",
+        "차스카"
+      ],
+      "releaseDate": "2024-11-20",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 91
+    },
+    {
+      "id": "genshin-impact:xilonen",
+      "gameId": "genshin-impact",
+      "name": "실로닌",
+      "aliases": [
+        "Xilonen",
+        "실로닌"
+      ],
+      "releaseDate": "2024-10-09",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 89
+    },
+    {
+      "id": "genshin-impact:kinich",
+      "gameId": "genshin-impact",
+      "name": "키니치",
+      "aliases": [
+        "Kinich",
+        "키니치"
+      ],
+      "releaseDate": "2024-09-17",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 88
+    },
+    {
+      "id": "genshin-impact:mualani",
+      "gameId": "genshin-impact",
+      "name": "말라니",
+      "aliases": [
+        "Mualani",
+        "말라니"
+      ],
+      "releaseDate": "2024-08-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 86
+    },
+    {
+      "id": "genshin-impact:kachina",
+      "gameId": "genshin-impact",
+      "name": "카치나",
+      "aliases": [
+        "Kachina",
+        "카치나"
+      ],
+      "releaseDate": "2024-08-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 87
+    },
+    {
+      "id": "genshin-impact:emilie",
+      "gameId": "genshin-impact",
+      "name": "에밀리",
+      "aliases": [
+        "Emilie",
+        "에밀리"
+      ],
+      "releaseDate": "2024-08-06",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 85
+    },
+    {
+      "id": "genshin-impact:sigewinne",
+      "gameId": "genshin-impact",
+      "name": "시그윈",
+      "aliases": [
+        "Sigewinne",
+        "시그윈"
+      ],
+      "releaseDate": "2024-06-25",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 84
+    },
+    {
+      "id": "genshin-impact:sethos",
+      "gameId": "genshin-impact",
+      "name": "세토스",
+      "aliases": [
+        "Sethos",
+        "세토스"
+      ],
+      "releaseDate": "2024-06-05",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 82
+    },
+    {
+      "id": "genshin-impact:clorinde",
+      "gameId": "genshin-impact",
+      "name": "클로린드",
+      "aliases": [
+        "Clorinde",
+        "클로린드"
+      ],
+      "releaseDate": "2024-06-05",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 83
+    },
+    {
+      "id": "genshin-impact:arlecchino",
+      "gameId": "genshin-impact",
+      "name": "아를레키노",
+      "aliases": [
+        "Arlecchino",
+        "아를레키노"
+      ],
+      "releaseDate": "2024-04-24",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 81
+    },
+    {
+      "id": "genshin-impact:chiori",
+      "gameId": "genshin-impact",
+      "name": "치오리",
+      "aliases": [
+        "Chiori",
+        "치오리"
+      ],
+      "releaseDate": "2024-03-13",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 80
+    },
+    {
+      "id": "genshin-impact:xianyun",
+      "gameId": "genshin-impact",
+      "name": "한운",
+      "aliases": [
+        "Xianyun",
+        "한운"
+      ],
+      "releaseDate": "2024-01-31",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 79
+    },
+    {
+      "id": "genshin-impact:gaming",
+      "gameId": "genshin-impact",
+      "name": "가명",
+      "aliases": [
+        "Gaming",
+        "가명"
+      ],
+      "releaseDate": "2024-01-31",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 78
+    },
+    {
+      "id": "genshin-impact:chevreuse",
+      "gameId": "genshin-impact",
+      "name": "슈브르즈",
+      "aliases": [
+        "Chevreuse",
+        "슈브르즈"
+      ],
+      "releaseDate": "2024-01-09",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 77
+    },
+    {
+      "id": "genshin-impact:navia",
+      "gameId": "genshin-impact",
+      "name": "나비아",
+      "aliases": [
+        "Navia",
+        "나비아"
+      ],
+      "releaseDate": "2023-12-20",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 76
+    },
+    {
+      "id": "genshin-impact:furina",
+      "gameId": "genshin-impact",
+      "name": "푸리나",
+      "aliases": [
+        "Furina",
+        "푸리나"
+      ],
+      "releaseDate": "2023-11-08",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 75
+    },
+    {
+      "id": "genshin-impact:charlotte",
+      "gameId": "genshin-impact",
+      "name": "샤를로트",
+      "aliases": [
+        "Charlotte",
+        "샤를로트"
+      ],
+      "releaseDate": "2023-11-08",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 74
+    },
+    {
+      "id": "genshin-impact:wriothesley",
+      "gameId": "genshin-impact",
+      "name": "라이오슬리",
+      "aliases": [
+        "Wriothesley",
+        "라이오슬리"
+      ],
+      "releaseDate": "2023-10-17",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 73
+    },
+    {
+      "id": "genshin-impact:neuvillette",
+      "gameId": "genshin-impact",
+      "name": "느비예트",
+      "aliases": [
+        "Neuvillette",
+        "느비예트"
+      ],
+      "releaseDate": "2023-09-27",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 72
+    },
+    {
+      "id": "genshin-impact:freminet",
+      "gameId": "genshin-impact",
+      "name": "프레미네",
+      "aliases": [
+        "Freminet",
+        "프레미네"
+      ],
+      "releaseDate": "2023-09-05",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 71
+    },
+    {
+      "id": "genshin-impact:lyney",
+      "gameId": "genshin-impact",
+      "name": "리니",
+      "aliases": [
+        "Lyney",
+        "리니"
+      ],
+      "releaseDate": "2023-08-16",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 70
+    },
+    {
+      "id": "genshin-impact:lynette",
+      "gameId": "genshin-impact",
+      "name": "리넷",
+      "aliases": [
+        "Lynette",
+        "리넷"
+      ],
+      "releaseDate": "2023-08-16",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 69
+    },
+    {
+      "id": "genshin-impact:kirara",
+      "gameId": "genshin-impact",
+      "name": "키라라",
+      "aliases": [
+        "Kirara",
+        "키라라"
+      ],
+      "releaseDate": "2023-05-24",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 68
+    },
+    {
+      "id": "genshin-impact:kaveh",
+      "gameId": "genshin-impact",
+      "name": "카베",
+      "aliases": [
+        "Kaveh",
+        "카베"
+      ],
+      "releaseDate": "2023-05-02",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 67
+    },
+    {
+      "id": "genshin-impact:baizhu",
+      "gameId": "genshin-impact",
+      "name": "백출",
+      "aliases": [
+        "Baizhu",
+        "백출"
+      ],
+      "releaseDate": "2023-05-02",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 66
+    },
+    {
+      "id": "genshin-impact:mika",
+      "gameId": "genshin-impact",
+      "name": "미카",
+      "aliases": [
+        "Mika",
+        "미카"
+      ],
+      "releaseDate": "2023-03-21",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 65
+    },
+    {
+      "id": "genshin-impact:dehya",
+      "gameId": "genshin-impact",
+      "name": "데히야",
+      "aliases": [
+        "Dehya",
+        "데히야"
+      ],
+      "releaseDate": "2023-03-01",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 64
+    },
+    {
+      "id": "genshin-impact:yaoyao",
+      "gameId": "genshin-impact",
+      "name": "요요",
+      "aliases": [
+        "Yaoyao",
+        "요요"
+      ],
+      "releaseDate": "2023-01-18",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 63
+    },
+    {
+      "id": "genshin-impact:alhaitham",
+      "gameId": "genshin-impact",
+      "name": "알하이탐",
+      "aliases": [
+        "Alhaitham",
+        "알하이탐"
+      ],
+      "releaseDate": "2023-01-18",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 62
+    },
+    {
+      "id": "genshin-impact:wanderer",
+      "gameId": "genshin-impact",
+      "name": "방랑자",
+      "aliases": [
+        "Wanderer",
+        "방랑자"
+      ],
+      "releaseDate": "2022-12-07",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 60
+    },
+    {
+      "id": "genshin-impact:faruzan",
+      "gameId": "genshin-impact",
+      "name": "파루잔",
+      "aliases": [
+        "Faruzan",
+        "파루잔"
+      ],
+      "releaseDate": "2022-12-07",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 61
+    },
+    {
+      "id": "genshin-impact:layla",
+      "gameId": "genshin-impact",
+      "name": "레일라",
+      "aliases": [
+        "Layla",
+        "레일라"
+      ],
+      "releaseDate": "2022-11-18",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 59
+    },
+    {
+      "id": "genshin-impact:nahida",
+      "gameId": "genshin-impact",
+      "name": "나히다",
+      "aliases": [
+        "Nahida",
+        "나히다"
+      ],
+      "releaseDate": "2022-11-02",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 58
+    },
+    {
+      "id": "genshin-impact:nilou",
+      "gameId": "genshin-impact",
+      "name": "닐루",
+      "aliases": [
+        "Nilou",
+        "닐루"
+      ],
+      "releaseDate": "2022-10-14",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 57
+    },
+    {
+      "id": "genshin-impact:cyno",
+      "gameId": "genshin-impact",
+      "name": "사이노",
+      "aliases": [
+        "Cyno",
+        "사이노"
+      ],
+      "releaseDate": "2022-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 55
+    },
+    {
+      "id": "genshin-impact:candace",
+      "gameId": "genshin-impact",
+      "name": "캔디스",
+      "aliases": [
+        "Candace",
+        "캔디스"
+      ],
+      "releaseDate": "2022-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 56
+    },
+    {
+      "id": "genshin-impact:dori",
+      "gameId": "genshin-impact",
+      "name": "도리",
+      "aliases": [
+        "Dori",
+        "도리"
+      ],
+      "releaseDate": "2022-09-09",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 54
+    },
+    {
+      "id": "genshin-impact:tighnari",
+      "gameId": "genshin-impact",
+      "name": "타이나리",
+      "aliases": [
+        "Tighnari",
+        "타이나리"
+      ],
+      "releaseDate": "2022-08-24",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 53
+    },
+    {
+      "id": "genshin-impact:collei",
+      "gameId": "genshin-impact",
+      "name": "콜레이",
+      "aliases": [
+        "Collei",
+        "콜레이"
+      ],
+      "releaseDate": "2022-08-24",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 52
+    },
+    {
+      "id": "genshin-impact:shikanoin-heizou",
+      "gameId": "genshin-impact",
+      "name": "시카노인 헤이조",
+      "aliases": [
+        "Shikanoin Heizou",
+        "Heizou",
+        "시카노인 헤이조"
+      ],
+      "releaseDate": "2022-07-13",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 51
+    },
+    {
+      "id": "genshin-impact:kuki-shinobu",
+      "gameId": "genshin-impact",
+      "name": "쿠키 시노부",
+      "aliases": [
+        "Kuki Shinobu",
+        "Shinobu",
+        "쿠키 시노부"
+      ],
+      "releaseDate": "2022-06-21",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 50
+    },
+    {
+      "id": "genshin-impact:yelan",
+      "gameId": "genshin-impact",
+      "name": "야란",
+      "aliases": [
+        "Yelan",
+        "야란"
+      ],
+      "releaseDate": "2022-05-31",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 49
+    },
+    {
+      "id": "genshin-impact:kamisato-ayato",
+      "gameId": "genshin-impact",
+      "name": "카미사토 아야토",
+      "aliases": [
+        "Kamisato Ayato",
+        "Ayato",
+        "카미사토 아야토"
+      ],
+      "releaseDate": "2022-03-30",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 48
+    },
+    {
+      "id": "genshin-impact:yae-miko",
+      "gameId": "genshin-impact",
+      "name": "야에 미코",
+      "aliases": [
+        "Yae Miko",
+        "야에 미코"
+      ],
+      "releaseDate": "2022-02-16",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 47
+    },
+    {
+      "id": "genshin-impact:yun-jin",
+      "gameId": "genshin-impact",
+      "name": "운근",
+      "aliases": [
+        "Yun Jin",
+        "운근"
+      ],
+      "releaseDate": "2022-01-05",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 46
+    },
+    {
+      "id": "genshin-impact:shenhe",
+      "gameId": "genshin-impact",
+      "name": "신학",
+      "aliases": [
+        "Shenhe",
+        "신학"
+      ],
+      "releaseDate": "2022-01-05",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 45
+    },
+    {
+      "id": "genshin-impact:gorou",
+      "gameId": "genshin-impact",
+      "name": "고로",
+      "aliases": [
+        "Gorou",
+        "고로"
+      ],
+      "releaseDate": "2021-12-14",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 43
+    },
+    {
+      "id": "genshin-impact:arataki-itto",
+      "gameId": "genshin-impact",
+      "name": "아라타키 이토",
+      "aliases": [
+        "Arataki Itto",
+        "Itto",
+        "아라타키 이토"
+      ],
+      "releaseDate": "2021-12-14",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 44
+    },
+    {
+      "id": "genshin-impact:thoma",
+      "gameId": "genshin-impact",
+      "name": "토마",
+      "aliases": [
+        "Thoma",
+        "토마"
+      ],
+      "releaseDate": "2021-11-02",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 42
+    },
+    {
+      "id": "genshin-impact:sangonomiya-kokomi",
+      "gameId": "genshin-impact",
+      "name": "산고노미야 코코미",
+      "aliases": [
+        "Sangonomiya Kokomi",
+        "Kokomi",
+        "산고노미야 코코미"
+      ],
+      "releaseDate": "2021-09-21",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 41
+    },
+    {
+      "id": "genshin-impact:raiden-shogun",
+      "gameId": "genshin-impact",
+      "name": "라이덴 쇼군",
+      "aliases": [
+        "Raiden Shogun",
+        "Raiden",
+        "라이덴 쇼군"
+      ],
+      "releaseDate": "2021-09-01",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 38
+    },
+    {
+      "id": "genshin-impact:kujou-sara",
+      "gameId": "genshin-impact",
+      "name": "쿠죠 사라",
+      "aliases": [
+        "Kujou Sara",
+        "Sara",
+        "쿠죠 사라"
+      ],
+      "releaseDate": "2021-09-01",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 40
+    },
+    {
+      "id": "genshin-impact:aloy",
+      "gameId": "genshin-impact",
+      "name": "에일로이",
+      "aliases": [
+        "Aloy",
+        "에일로이"
+      ],
+      "releaseDate": "2021-09-01",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 39
+    },
+    {
+      "id": "genshin-impact:yoimiya",
+      "gameId": "genshin-impact",
+      "name": "요이미야",
+      "aliases": [
+        "Yoimiya",
+        "요이미야"
+      ],
+      "releaseDate": "2021-08-10",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 37
+    },
+    {
+      "id": "genshin-impact:sayu",
+      "gameId": "genshin-impact",
+      "name": "사유",
+      "aliases": [
+        "Sayu",
+        "사유"
+      ],
+      "releaseDate": "2021-08-10",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 36
+    },
+    {
+      "id": "genshin-impact:kamisato-ayaka",
+      "gameId": "genshin-impact",
+      "name": "카미사토 아야카",
+      "aliases": [
+        "Kamisato Ayaka",
+        "Ayaka",
+        "카미사토 아야카"
+      ],
+      "releaseDate": "2021-07-21",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 35
+    },
+    {
+      "id": "genshin-impact:kaedehara-kazuha",
+      "gameId": "genshin-impact",
+      "name": "카에데하라 카즈하",
+      "aliases": [
+        "Kaedehara Kazuha",
+        "Kazuha",
+        "카에데하라 카즈하"
+      ],
+      "releaseDate": "2021-06-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 34
+    },
+    {
+      "id": "genshin-impact:eula",
+      "gameId": "genshin-impact",
+      "name": "유라",
+      "aliases": [
+        "Eula",
+        "유라"
+      ],
+      "releaseDate": "2021-05-18",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 33
+    },
+    {
+      "id": "genshin-impact:yanfei",
+      "gameId": "genshin-impact",
+      "name": "연비",
+      "aliases": [
+        "Yanfei",
+        "연비"
+      ],
+      "releaseDate": "2021-04-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 32
+    },
+    {
+      "id": "genshin-impact:rosaria",
+      "gameId": "genshin-impact",
+      "name": "로자리아",
+      "aliases": [
+        "Rosaria",
+        "로자리아"
+      ],
+      "releaseDate": "2021-04-06",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 31
+    },
+    {
+      "id": "genshin-impact:hu-tao",
+      "gameId": "genshin-impact",
+      "name": "호두",
+      "aliases": [
+        "Hu Tao",
+        "호두"
+      ],
+      "releaseDate": "2021-03-02",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 30
+    },
+    {
+      "id": "genshin-impact:xiao",
+      "gameId": "genshin-impact",
+      "name": "소",
+      "aliases": [
+        "Xiao",
+        "소"
+      ],
+      "releaseDate": "2021-02-03",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 29
+    },
+    {
+      "id": "genshin-impact:ganyu",
+      "gameId": "genshin-impact",
+      "name": "감우",
+      "aliases": [
+        "Ganyu",
+        "감우"
+      ],
+      "releaseDate": "2021-01-12",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 28
+    },
+    {
+      "id": "genshin-impact:albedo",
+      "gameId": "genshin-impact",
+      "name": "알베도",
+      "aliases": [
+        "Albedo",
+        "알베도"
+      ],
+      "releaseDate": "2020-12-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 27
+    },
+    {
+      "id": "genshin-impact:zhongli",
+      "gameId": "genshin-impact",
+      "name": "종려",
+      "aliases": [
+        "Zhongli",
+        "종려"
+      ],
+      "releaseDate": "2020-12-01",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 26
+    },
+    {
+      "id": "genshin-impact:xinyan",
+      "gameId": "genshin-impact",
+      "name": "신염",
+      "aliases": [
+        "Xinyan",
+        "신염"
+      ],
+      "releaseDate": "2020-12-01",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 25
+    },
+    {
+      "id": "genshin-impact:tartaglia",
+      "gameId": "genshin-impact",
+      "name": "타르탈리아",
+      "aliases": [
+        "Tartaglia",
+        "Childe",
+        "타르탈리아"
+      ],
+      "releaseDate": "2020-11-11",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 24
+    },
+    {
+      "id": "genshin-impact:diona",
+      "gameId": "genshin-impact",
+      "name": "디오나",
+      "aliases": [
+        "Diona",
+        "디오나"
+      ],
+      "releaseDate": "2020-11-11",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 23
+    },
+    {
+      "id": "genshin-impact:klee",
+      "gameId": "genshin-impact",
+      "name": "클레",
+      "aliases": [
+        "Klee",
+        "클레"
+      ],
+      "releaseDate": "2020-10-20",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 22
+    },
+    {
+      "id": "genshin-impact:xingqiu",
+      "gameId": "genshin-impact",
+      "name": "행추",
+      "aliases": [
+        "Xingqiu",
+        "행추"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 20
+    },
+    {
+      "id": "genshin-impact:xiangling",
+      "gameId": "genshin-impact",
+      "name": "향릉",
+      "aliases": [
+        "Xiangling",
+        "향릉"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 21
+    },
+    {
+      "id": "genshin-impact:venti",
+      "gameId": "genshin-impact",
+      "name": "벤티",
+      "aliases": [
+        "Venti",
+        "벤티"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 9
+    },
+    {
+      "id": "genshin-impact:traveler",
+      "gameId": "genshin-impact",
+      "name": "여행자",
+      "aliases": [
+        "Traveler",
+        "여행자"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 13
+    },
+    {
+      "id": "genshin-impact:sucrose",
+      "gameId": "genshin-impact",
+      "name": "설탕",
+      "aliases": [
+        "Sucrose",
+        "설탕"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 11
+    },
+    {
+      "id": "genshin-impact:razor",
+      "gameId": "genshin-impact",
+      "name": "레이저",
+      "aliases": [
+        "Razor",
+        "레이저"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 4
+    },
+    {
+      "id": "genshin-impact:qiqi",
+      "gameId": "genshin-impact",
+      "name": "치치",
+      "aliases": [
+        "Qiqi",
+        "치치"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 17
+    },
+    {
+      "id": "genshin-impact:noelle",
+      "gameId": "genshin-impact",
+      "name": "노엘",
+      "aliases": [
+        "Noelle",
+        "노엘"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 2
+    },
+    {
+      "id": "genshin-impact:ningguang",
+      "gameId": "genshin-impact",
+      "name": "응광",
+      "aliases": [
+        "Ningguang",
+        "응광"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 14
+    },
+    {
+      "id": "genshin-impact:mona",
+      "gameId": "genshin-impact",
+      "name": "모나",
+      "aliases": [
+        "Mona",
+        "모나"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 6
+    },
+    {
+      "id": "genshin-impact:lisa",
+      "gameId": "genshin-impact",
+      "name": "리사",
+      "aliases": [
+        "Lisa",
+        "리사"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 5
+    },
+    {
+      "id": "genshin-impact:keqing",
+      "gameId": "genshin-impact",
+      "name": "각청",
+      "aliases": [
+        "Keqing",
+        "각청"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 1
+    },
+    {
+      "id": "genshin-impact:kaeya",
+      "gameId": "genshin-impact",
+      "name": "케이아",
+      "aliases": [
+        "Kaeya",
+        "케이아"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 18
+    },
+    {
+      "id": "genshin-impact:jean",
+      "gameId": "genshin-impact",
+      "name": "진",
+      "aliases": [
+        "Jean",
+        "진"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 16
+    },
+    {
+      "id": "genshin-impact:fischl",
+      "gameId": "genshin-impact",
+      "name": "피슬",
+      "aliases": [
+        "Fischl",
+        "피슬"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 19
+    },
+    {
+      "id": "genshin-impact:diluc",
+      "gameId": "genshin-impact",
+      "name": "다이루크",
+      "aliases": [
+        "Diluc",
+        "다이루크"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 3
+    },
+    {
+      "id": "genshin-impact:chongyun",
+      "gameId": "genshin-impact",
+      "name": "중운",
+      "aliases": [
+        "Chongyun",
+        "중운"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 15
+    },
+    {
+      "id": "genshin-impact:bennett",
+      "gameId": "genshin-impact",
+      "name": "베넷",
+      "aliases": [
+        "Bennett",
+        "베넷"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 8
+    },
+    {
+      "id": "genshin-impact:beidou",
+      "gameId": "genshin-impact",
+      "name": "북두",
+      "aliases": [
+        "Beidou",
+        "북두"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 10
+    },
+    {
+      "id": "genshin-impact:barbara",
+      "gameId": "genshin-impact",
+      "name": "바바라",
+      "aliases": [
+        "Barbara",
+        "바바라"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 7
+    },
+    {
+      "id": "genshin-impact:amber",
+      "gameId": "genshin-impact",
+      "name": "앰버",
+      "aliases": [
+        "Amber",
+        "앰버"
+      ],
+      "releaseDate": "2020-09-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://chars.remls.io/characters",
+      "releaseOrder": 12
+    },
+    {
+      "id": "wuthering-waves:cartethyia",
+      "gameId": "wuthering-waves",
+      "name": "카르티시아",
+      "aliases": [
+        "Cartethyia",
+        "카르티시아"
+      ],
+      "releaseDate": "2025-06-12",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 35
+    },
+    {
+      "id": "wuthering-waves:ciaccona",
+      "gameId": "wuthering-waves",
+      "name": "샤콘",
+      "aliases": [
+        "Ciaccona",
+        "샤콘"
+      ],
+      "releaseDate": "2025-05-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 34
+    },
+    {
+      "id": "wuthering-waves:iuno",
+      "gameId": "wuthering-waves",
+      "name": "유노",
+      "aliases": [
+        "Iuno",
+        "유노"
+      ],
+      "releaseDate": "2025-09-17",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 39
+    },
+    {
+      "id": "wuthering-waves:jianxin",
+      "gameId": "wuthering-waves",
+      "name": "감심",
+      "aliases": [
+        "Jianxin",
+        "감심"
+      ],
+      "releaseDate": "2024-05-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 1
+    },
+    {
+      "id": "wuthering-waves:jiyan",
+      "gameId": "wuthering-waves",
+      "name": "기염",
+      "aliases": [
+        "Jiyan",
+        "기염"
+      ],
+      "releaseDate": "2024-05-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 2
+    },
+    {
+      "id": "wuthering-waves:qingxiao",
+      "gameId": "wuthering-waves",
+      "name": "Qingxiao",
+      "aliases": [
+        "Qingxiao"
+      ],
+      "releaseDate": "2026-08-20",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 57
+    },
+    {
+      "id": "wuthering-waves:qiuyuan",
+      "gameId": "wuthering-waves",
+      "name": "Qiuyuan",
+      "aliases": [
+        "Qiuyuan"
+      ],
+      "releaseDate": "2025-10-30",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 41
+    },
+    {
+      "id": "wuthering-waves:rover-aero",
+      "gameId": "wuthering-waves",
+      "name": "방랑자·기류",
+      "aliases": [
+        "Rover-Aero",
+        "Aero Rover",
+        "방랑자·기류"
+      ],
+      "releaseDate": "2025-03-27",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://wutheringwaves.fandom.com/wiki/Rover_(Aero)",
+      "releaseOrder": 31
+    },
+    {
+      "id": "wuthering-waves:sigrika",
+      "gameId": "wuthering-waves",
+      "name": "시그리카",
+      "aliases": [
+        "Sigrika",
+        "시그리카"
+      ],
+      "releaseDate": "2026-03-19",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 48
+    },
+    {
+      "id": "wuthering-waves:augusta",
+      "gameId": "wuthering-waves",
+      "name": "아우구스타",
+      "aliases": [
+        "Augusta",
+        "아우구스타"
+      ],
+      "releaseDate": "2025-08-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 38
+    },
+    {
+      "id": "wuthering-waves:calcharo",
+      "gameId": "wuthering-waves",
+      "name": "카카루",
+      "aliases": [
+        "Calcharo",
+        "카카루"
+      ],
+      "releaseDate": "2024-05-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 17
+    },
+    {
+      "id": "wuthering-waves:hsin",
+      "gameId": "wuthering-waves",
+      "name": "여우의 별자리",
+      "aliases": [
+        "Hsin",
+        "여우의 별자리"
+      ],
+      "releaseDate": "2026-09-30",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gameplay.hypertuned.com/game/wuthering-waves/resonator/hsin",
+      "releaseOrder": 58
+    },
+    {
+      "id": "wuthering-waves:rebecca",
+      "gameId": "wuthering-waves",
+      "name": "레베카",
+      "aliases": [
+        "Rebecca",
+        "레베카"
+      ],
+      "releaseDate": "2026-06-08",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 51
+    },
+    {
+      "id": "wuthering-waves:rover-electro",
+      "gameId": "wuthering-waves",
+      "name": "방랑자·전도",
+      "aliases": [
+        "Rover-Electro",
+        "Electro Rover",
+        "방랑자·전도"
+      ],
+      "releaseDate": "2026-07-10",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 54
+    },
+    {
+      "id": "wuthering-waves:xiangli-yao",
+      "gameId": "wuthering-waves",
+      "name": "상리요",
+      "aliases": [
+        "Xiangli Yao",
+        "상리요"
+      ],
+      "releaseDate": "2024-09-07",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 22
+    },
+    {
+      "id": "wuthering-waves:yinlin",
+      "gameId": "wuthering-waves",
+      "name": "음림",
+      "aliases": [
+        "Yinlin",
+        "음림"
+      ],
+      "releaseDate": "2024-06-06",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 18
+    },
+    {
+      "id": "wuthering-waves:aemeath",
+      "gameId": "wuthering-waves",
+      "name": "에이메스",
+      "aliases": [
+        "Aemeath",
+        "에이메스"
+      ],
+      "releaseDate": "2026-02-05",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 46
+    },
+    {
+      "id": "wuthering-waves:brant",
+      "gameId": "wuthering-waves",
+      "name": "브렌트",
+      "aliases": [
+        "Brant",
+        "브렌트"
+      ],
+      "releaseDate": "2025-03-06",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 30
+    },
+    {
+      "id": "wuthering-waves:changli",
+      "gameId": "wuthering-waves",
+      "name": "장리",
+      "aliases": [
+        "Changli",
+        "장리"
+      ],
+      "releaseDate": "2024-07-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 20
+    },
+    {
+      "id": "wuthering-waves:denia",
+      "gameId": "wuthering-waves",
+      "name": "데니아",
+      "aliases": [
+        "Denia",
+        "데니아"
+      ],
+      "releaseDate": "2026-05-21",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 50
+    },
+    {
+      "id": "wuthering-waves:encore",
+      "gameId": "wuthering-waves",
+      "name": "앙코",
+      "aliases": [
+        "Encore",
+        "앙코"
+      ],
+      "releaseDate": "2024-05-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 13
+    },
+    {
+      "id": "wuthering-waves:galbrena",
+      "gameId": "wuthering-waves",
+      "name": "갈브레나",
+      "aliases": [
+        "Galbrena",
+        "갈브레나"
+      ],
+      "releaseDate": "2025-10-09",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 40
+    },
+    {
+      "id": "wuthering-waves:jingran",
+      "gameId": "wuthering-waves",
+      "name": "Jingran",
+      "aliases": [
+        "Jingran"
+      ],
+      "releaseDate": null,
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 60
+    },
+    {
+      "id": "wuthering-waves:lupa",
+      "gameId": "wuthering-waves",
+      "name": "루파",
+      "aliases": [
+        "Lupa",
+        "루파"
+      ],
+      "releaseDate": "2025-07-03",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 36
+    },
+    {
+      "id": "wuthering-waves:mornye",
+      "gameId": "wuthering-waves",
+      "name": "모니에",
+      "aliases": [
+        "Mornye",
+        "모니에"
+      ],
+      "releaseDate": "2026-01-15",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 45
+    },
+    {
+      "id": "wuthering-waves:carlotta",
+      "gameId": "wuthering-waves",
+      "name": "카를로타",
+      "aliases": [
+        "Carlotta",
+        "카를로타"
+      ],
+      "releaseDate": "2025-01-02",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 27
+    },
+    {
+      "id": "wuthering-waves:hiyuki",
+      "gameId": "wuthering-waves",
+      "name": "히유키",
+      "aliases": [
+        "Hiyuki",
+        "히유키"
+      ],
+      "releaseDate": "2026-04-30",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 49
+    },
+    {
+      "id": "wuthering-waves:lingyang",
+      "gameId": "wuthering-waves",
+      "name": "능양",
+      "aliases": [
+        "Lingyang",
+        "능양"
+      ],
+      "releaseDate": "2024-05-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 3
+    },
+    {
+      "id": "wuthering-waves:lucilla",
+      "gameId": "wuthering-waves",
+      "name": "Lucilla",
+      "aliases": [
+        "Lucilla"
+      ],
+      "releaseDate": "2026-06-13",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 53
+    },
+    {
+      "id": "wuthering-waves:suisui",
+      "gameId": "wuthering-waves",
+      "name": "Suisui",
+      "aliases": [
+        "Suisui"
+      ],
+      "releaseDate": "2026-07-30",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 56
+    },
+    {
+      "id": "wuthering-waves:zhezhi",
+      "gameId": "wuthering-waves",
+      "name": "절지",
+      "aliases": [
+        "Zhezhi",
+        "절지"
+      ],
+      "releaseDate": "2024-08-15",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 21
+    },
+    {
+      "id": "wuthering-waves:camellya",
+      "gameId": "wuthering-waves",
+      "name": "카멜리아",
+      "aliases": [
+        "Camellya",
+        "카멜리아"
+      ],
+      "releaseDate": "2024-11-14",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 25
+    },
+    {
+      "id": "wuthering-waves:cantarella",
+      "gameId": "wuthering-waves",
+      "name": "칸타렐라",
+      "aliases": [
+        "Cantarella",
+        "칸타렐라"
+      ],
+      "releaseDate": "2025-03-27",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 32
+    },
+    {
+      "id": "wuthering-waves:chisa",
+      "gameId": "wuthering-waves",
+      "name": "치사",
+      "aliases": [
+        "Chisa",
+        "치사"
+      ],
+      "releaseDate": "2025-11-20",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 42
+    },
+    {
+      "id": "wuthering-waves:phrolova",
+      "gameId": "wuthering-waves",
+      "name": "플로로",
+      "aliases": [
+        "Phrolova",
+        "플로로"
+      ],
+      "releaseDate": "2025-07-24",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 37
+    },
+    {
+      "id": "wuthering-waves:roccia",
+      "gameId": "wuthering-waves",
+      "name": "로코코",
+      "aliases": [
+        "Roccia",
+        "로코코"
+      ],
+      "releaseDate": "2025-01-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 28
+    },
+    {
+      "id": "wuthering-waves:rover-havoc",
+      "gameId": "wuthering-waves",
+      "name": "방랑자·인멸",
+      "aliases": [
+        "Rover-Havoc",
+        "Havoc Rover",
+        "방랑자·인멸"
+      ],
+      "releaseDate": "2024-05-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 7
+    },
+    {
+      "id": "wuthering-waves:yangyang-xuanling",
+      "gameId": "wuthering-waves",
+      "name": "양양 · 현령",
+      "aliases": [
+        "Yangyang: Xuanling",
+        "양양 · 현령"
+      ],
+      "releaseDate": "2026-07-10",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 55
+    },
+    {
+      "id": "wuthering-waves:jinhsi",
+      "gameId": "wuthering-waves",
+      "name": "금희",
+      "aliases": [
+        "Jinhsi",
+        "금희"
+      ],
+      "releaseDate": "2024-06-28",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 19
+    },
+    {
+      "id": "wuthering-waves:lucy",
+      "gameId": "wuthering-waves",
+      "name": "루시",
+      "aliases": [
+        "Lucy",
+        "루시"
+      ],
+      "releaseDate": "2026-06-08",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 52
+    },
+    {
+      "id": "wuthering-waves:luuk-herssen",
+      "gameId": "wuthering-waves",
+      "name": "루크 · 헤르센",
+      "aliases": [
+        "Luuk Herssen",
+        "루크 · 헤르센"
+      ],
+      "releaseDate": "2026-02-26",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 47
+    },
+    {
+      "id": "wuthering-waves:lynae",
+      "gameId": "wuthering-waves",
+      "name": "린네",
+      "aliases": [
+        "Lynae",
+        "린네"
+      ],
+      "releaseDate": "2025-12-25",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 44
+    },
+    {
+      "id": "wuthering-waves:phoebe",
+      "gameId": "wuthering-waves",
+      "name": "페비",
+      "aliases": [
+        "Phoebe",
+        "페비"
+      ],
+      "releaseDate": "2025-02-13",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 29
+    },
+    {
+      "id": "wuthering-waves:rover-spectro",
+      "gameId": "wuthering-waves",
+      "name": "방랑자·회절",
+      "aliases": [
+        "Rover-Spectro",
+        "Spectro Rover",
+        "방랑자·회절"
+      ],
+      "releaseDate": "2024-05-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 8
+    },
+    {
+      "id": "wuthering-waves:shorekeeper",
+      "gameId": "wuthering-waves",
+      "name": "파수인",
+      "aliases": [
+        "Shorekeeper",
+        "파수인"
+      ],
+      "releaseDate": "2024-09-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 23
+    },
+    {
+      "id": "wuthering-waves:verina",
+      "gameId": "wuthering-waves",
+      "name": "벨리나",
+      "aliases": [
+        "Verina",
+        "벨리나"
+      ],
+      "releaseDate": "2024-05-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 10
+    },
+    {
+      "id": "wuthering-waves:zani",
+      "gameId": "wuthering-waves",
+      "name": "젠니",
+      "aliases": [
+        "Zani",
+        "젠니"
+      ],
+      "releaseDate": "2025-04-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 33
+    },
+    {
+      "id": "wuthering-waves:aalto",
+      "gameId": "wuthering-waves",
+      "name": "알토",
+      "aliases": [
+        "Aalto",
+        "알토"
+      ],
+      "releaseDate": "2024-05-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 12
+    },
+    {
+      "id": "wuthering-waves:yangyang",
+      "gameId": "wuthering-waves",
+      "name": "양양",
+      "aliases": [
+        "Yangyang",
+        "양양"
+      ],
+      "releaseDate": "2024-05-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 14
+    },
+    {
+      "id": "wuthering-waves:buling",
+      "gameId": "wuthering-waves",
+      "name": "복령",
+      "aliases": [
+        "Buling",
+        "복령"
+      ],
+      "releaseDate": "2025-12-11",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 43
+    },
+    {
+      "id": "wuthering-waves:lumi",
+      "gameId": "wuthering-waves",
+      "name": "루미",
+      "aliases": [
+        "Lumi",
+        "루미"
+      ],
+      "releaseDate": "2024-12-12",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 26
+    },
+    {
+      "id": "wuthering-waves:yuanwu",
+      "gameId": "wuthering-waves",
+      "name": "연무",
+      "aliases": [
+        "Yuanwu",
+        "연무"
+      ],
+      "releaseDate": "2024-05-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 15
+    },
+    {
+      "id": "wuthering-waves:chixia",
+      "gameId": "wuthering-waves",
+      "name": "치샤",
+      "aliases": [
+        "Chixia",
+        "치샤"
+      ],
+      "releaseDate": "2024-05-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 16
+    },
+    {
+      "id": "wuthering-waves:mortefi",
+      "gameId": "wuthering-waves",
+      "name": "모르테피",
+      "aliases": [
+        "Mortefi",
+        "모르테피"
+      ],
+      "releaseDate": "2024-05-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 6
+    },
+    {
+      "id": "wuthering-waves:baizhi",
+      "gameId": "wuthering-waves",
+      "name": "백지",
+      "aliases": [
+        "Baizhi",
+        "백지"
+      ],
+      "releaseDate": "2024-05-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 9
+    },
+    {
+      "id": "wuthering-waves:sanhua",
+      "gameId": "wuthering-waves",
+      "name": "산화",
+      "aliases": [
+        "Sanhua",
+        "산화"
+      ],
+      "releaseDate": "2024-05-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 11
+    },
+    {
+      "id": "wuthering-waves:youhu",
+      "gameId": "wuthering-waves",
+      "name": "유호",
+      "aliases": [
+        "Youhu",
+        "유호"
+      ],
+      "releaseDate": "2024-10-24",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 24
+    },
+    {
+      "id": "wuthering-waves:danjin",
+      "gameId": "wuthering-waves",
+      "name": "단근",
+      "aliases": [
+        "Danjin",
+        "단근"
+      ],
+      "releaseDate": "2024-05-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 4
+    },
+    {
+      "id": "wuthering-waves:taoqi",
+      "gameId": "wuthering-waves",
+      "name": "도기",
+      "aliases": [
+        "Taoqi",
+        "도기"
+      ],
+      "releaseDate": "2024-05-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://gachatracker.app/games/wuwa/characters/",
+      "releaseOrder": 5
+    },
+    {
+      "id": "wuthering-waves:suoming",
+      "gameId": "wuthering-waves",
+      "name": "쇄명",
+      "aliases": [
+        "Suoming",
+        "쇄명"
+      ],
+      "releaseDate": "2026-10-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://wudamage.com/countdown",
+      "releaseOrder": 59
+    },
+    {
+      "id": "zenless-zone-zero:alexandrina-sebastiane",
+      "gameId": "zenless-zone-zero",
+      "name": "리나",
+      "aliases": [
+        "Alexandrina Sebastiane",
+        "Rina",
+        "리나"
+      ],
+      "releaseDate": "2024-07-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 6
+    },
+    {
+      "id": "zenless-zone-zero:anby-demara",
+      "gameId": "zenless-zone-zero",
+      "name": "엔비",
+      "aliases": [
+        "Anby Demara",
+        "Anby",
+        "엔비"
+      ],
+      "releaseDate": "2024-07-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 12
+    },
+    {
+      "id": "zenless-zone-zero:anton-ivanov",
+      "gameId": "zenless-zone-zero",
+      "name": "앤톤",
+      "aliases": [
+        "Anton Ivanov",
+        "앤톤"
+      ],
+      "releaseDate": "2024-07-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 11
+    },
+    {
+      "id": "zenless-zone-zero:ben-bigger",
+      "gameId": "zenless-zone-zero",
+      "name": "벤",
+      "aliases": [
+        "Ben Bigger",
+        "벤"
+      ],
+      "releaseDate": "2024-07-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 8
+    },
+    {
+      "id": "zenless-zone-zero:billy-kid",
+      "gameId": "zenless-zone-zero",
+      "name": "빌리",
+      "aliases": [
+        "Billy Kid",
+        "Billy",
+        "빌리"
+      ],
+      "releaseDate": "2024-07-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 9
+    },
+    {
+      "id": "zenless-zone-zero:corin-wickes",
+      "gameId": "zenless-zone-zero",
+      "name": "코린",
+      "aliases": [
+        "Corin Wickes",
+        "Corin",
+        "코린"
+      ],
+      "releaseDate": "2024-07-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 14
+    },
+    {
+      "id": "zenless-zone-zero:ellen-joe",
+      "gameId": "zenless-zone-zero",
+      "name": "엘렌",
+      "aliases": [
+        "Ellen Joe",
+        "Ellen",
+        "엘렌"
+      ],
+      "releaseDate": "2024-07-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 13
+    },
+    {
+      "id": "zenless-zone-zero:grace-howard",
+      "gameId": "zenless-zone-zero",
+      "name": "그레이스",
+      "aliases": [
+        "Grace Howard",
+        "Grace",
+        "그레이스"
+      ],
+      "releaseDate": "2024-07-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 2
+    },
+    {
+      "id": "zenless-zone-zero:koleda-belobog",
+      "gameId": "zenless-zone-zero",
+      "name": "콜레다",
+      "aliases": [
+        "Koleda Belobog",
+        "콜레다"
+      ],
+      "releaseDate": "2024-07-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 15
+    },
+    {
+      "id": "zenless-zone-zero:luciana-de-montefio",
+      "gameId": "zenless-zone-zero",
+      "name": "루시",
+      "aliases": [
+        "Luciana de Montefio",
+        "루시"
+      ],
+      "releaseDate": "2024-07-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 5
+    },
+    {
+      "id": "zenless-zone-zero:nekomiya-mana",
+      "gameId": "zenless-zone-zero",
+      "name": "네코마타",
+      "aliases": [
+        "Nekomiya Mana",
+        "Nekomata",
+        "네코마타"
+      ],
+      "releaseDate": "2024-07-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 3
+    },
+    {
+      "id": "zenless-zone-zero:nicole-demara",
+      "gameId": "zenless-zone-zero",
+      "name": "니콜",
+      "aliases": [
+        "Nicole Demara",
+        "Nicole",
+        "니콜"
+      ],
+      "releaseDate": "2024-07-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 4
+    },
+    {
+      "id": "zenless-zone-zero:piper-wheel",
+      "gameId": "zenless-zone-zero",
+      "name": "파이퍼",
+      "aliases": [
+        "Piper Wheel",
+        "파이퍼"
+      ],
+      "releaseDate": "2024-07-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 16
+    },
+    {
+      "id": "zenless-zone-zero:soldier-11",
+      "gameId": "zenless-zone-zero",
+      "name": "11호",
+      "aliases": [
+        "Soldier 11",
+        "11호"
+      ],
+      "releaseDate": "2024-07-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 1
+    },
+    {
+      "id": "zenless-zone-zero:soukaku",
+      "gameId": "zenless-zone-zero",
+      "name": "소우카쿠",
+      "aliases": [
+        "Soukaku",
+        "소우카쿠"
+      ],
+      "releaseDate": "2024-07-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 10
+    },
+    {
+      "id": "zenless-zone-zero:von-lycaon",
+      "gameId": "zenless-zone-zero",
+      "name": "리카온",
+      "aliases": [
+        "Von Lycaon",
+        "Lycaon",
+        "리카온"
+      ],
+      "releaseDate": "2024-07-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 7
+    },
+    {
+      "id": "zenless-zone-zero:zhu-yuan",
+      "gameId": "zenless-zone-zero",
+      "name": "주연",
+      "aliases": [
+        "Zhu Yuan",
+        "주연"
+      ],
+      "releaseDate": "2024-07-24",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 17
+    },
+    {
+      "id": "zenless-zone-zero:qingyi",
+      "gameId": "zenless-zone-zero",
+      "name": "청의",
+      "aliases": [
+        "Qingyi",
+        "청의"
+      ],
+      "releaseDate": "2024-08-14",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 18
+    },
+    {
+      "id": "zenless-zone-zero:jane-doe",
+      "gameId": "zenless-zone-zero",
+      "name": "제인",
+      "aliases": [
+        "Jane Doe",
+        "Jane",
+        "제인"
+      ],
+      "releaseDate": "2024-09-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 20
+    },
+    {
+      "id": "zenless-zone-zero:seth-lowell",
+      "gameId": "zenless-zone-zero",
+      "name": "세스",
+      "aliases": [
+        "Seth Lowell",
+        "세스"
+      ],
+      "releaseDate": "2024-09-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 19
+    },
+    {
+      "id": "zenless-zone-zero:caesar-king",
+      "gameId": "zenless-zone-zero",
+      "name": "카이사르",
+      "aliases": [
+        "Caesar King",
+        "Caesar",
+        "카이사르"
+      ],
+      "releaseDate": "2024-09-25",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 21
+    },
+    {
+      "id": "zenless-zone-zero:burnice-white",
+      "gameId": "zenless-zone-zero",
+      "name": "버니스",
+      "aliases": [
+        "Burnice White",
+        "Burnice",
+        "버니스"
+      ],
+      "releaseDate": "2024-10-16",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 22
+    },
+    {
+      "id": "zenless-zone-zero:tsukishiro-yanagi",
+      "gameId": "zenless-zone-zero",
+      "name": "츠키시로 야나기",
+      "aliases": [
+        "Tsukishiro Yanagi",
+        "Yanagi",
+        "츠키시로 야나기"
+      ],
+      "releaseDate": "2024-11-06",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 23
+    },
+    {
+      "id": "zenless-zone-zero:lighter",
+      "gameId": "zenless-zone-zero",
+      "name": "라이터",
+      "aliases": [
+        "Lighter",
+        "라이터"
+      ],
+      "releaseDate": "2024-11-27",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 24
+    },
+    {
+      "id": "zenless-zone-zero:asaba-harumasa",
+      "gameId": "zenless-zone-zero",
+      "name": "아사바 하루마사",
+      "aliases": [
+        "Asaba Harumasa",
+        "Harumasa",
+        "아사바 하루마사"
+      ],
+      "releaseDate": "2024-12-18",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 25
+    },
+    {
+      "id": "zenless-zone-zero:hoshimi-miyabi",
+      "gameId": "zenless-zone-zero",
+      "name": "호시미 미야비",
+      "aliases": [
+        "Hoshimi Miyabi",
+        "Miyabi",
+        "호시미 미야비"
+      ],
+      "releaseDate": "2024-12-18",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 26
+    },
+    {
+      "id": "zenless-zone-zero:astra-yao",
+      "gameId": "zenless-zone-zero",
+      "name": "아스트라 야오",
+      "aliases": [
+        "Astra Yao",
+        "아스트라 야오"
+      ],
+      "releaseDate": "2025-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 27
+    },
+    {
+      "id": "zenless-zone-zero:evelyn-chevalier",
+      "gameId": "zenless-zone-zero",
+      "name": "이블린",
+      "aliases": [
+        "Evelyn Chevalier",
+        "Evelyn",
+        "이블린"
+      ],
+      "releaseDate": "2025-02-12",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 28
+    },
+    {
+      "id": "zenless-zone-zero:pulchra-fellini",
+      "gameId": "zenless-zone-zero",
+      "name": "펄크라",
+      "aliases": [
+        "Pulchra Fellini",
+        "펄크라"
+      ],
+      "releaseDate": "2025-03-12",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 30
+    },
+    {
+      "id": "zenless-zone-zero:soldier-0-anby",
+      "gameId": "zenless-zone-zero",
+      "name": "0호·엔비",
+      "aliases": [
+        "Soldier 0 - Anby",
+        "Silver Soldier Anby",
+        "0호·엔비"
+      ],
+      "releaseDate": "2025-03-12",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 29
+    },
+    {
+      "id": "zenless-zone-zero:trigger",
+      "gameId": "zenless-zone-zero",
+      "name": "트리거",
+      "aliases": [
+        "Trigger",
+        "트리거"
+      ],
+      "releaseDate": "2025-04-02",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 31
+    },
+    {
+      "id": "zenless-zone-zero:vivian-banshee",
+      "gameId": "zenless-zone-zero",
+      "name": "비비안",
+      "aliases": [
+        "Vivian Banshee",
+        "Vivian",
+        "비비안"
+      ],
+      "releaseDate": "2025-04-23",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 32
+    },
+    {
+      "id": "zenless-zone-zero:hugo-vlad",
+      "gameId": "zenless-zone-zero",
+      "name": "휴고",
+      "aliases": [
+        "Hugo Vlad",
+        "Hugo",
+        "휴고"
+      ],
+      "releaseDate": "2025-05-14",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 33
+    },
+    {
+      "id": "zenless-zone-zero:pan-yinhu",
+      "gameId": "zenless-zone-zero",
+      "name": "판인후",
+      "aliases": [
+        "Pan Yinhu",
+        "판인후"
+      ],
+      "releaseDate": "2025-06-06",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 35
+    },
+    {
+      "id": "zenless-zone-zero:yixuan",
+      "gameId": "zenless-zone-zero",
+      "name": "의현",
+      "aliases": [
+        "Yixuan",
+        "의현"
+      ],
+      "releaseDate": "2025-06-06",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 34
+    },
+    {
+      "id": "zenless-zone-zero:ju-fufu",
+      "gameId": "zenless-zone-zero",
+      "name": "귤복복",
+      "aliases": [
+        "Ju Fufu",
+        "귤복복"
+      ],
+      "releaseDate": "2025-06-25",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 36
+    },
+    {
+      "id": "zenless-zone-zero:ukinami-yuzuha",
+      "gameId": "zenless-zone-zero",
+      "name": "우키나미 유즈하",
+      "aliases": [
+        "Ukinami Yuzuha",
+        "Yuzuha",
+        "우키나미 유즈하"
+      ],
+      "releaseDate": "2025-07-16",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 37
+    },
+    {
+      "id": "zenless-zone-zero:alice-thymefield",
+      "gameId": "zenless-zone-zero",
+      "name": "앨리스",
+      "aliases": [
+        "Alice Thymefield",
+        "Alice",
+        "앨리스"
+      ],
+      "releaseDate": "2025-08-06",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 38
+    },
+    {
+      "id": "zenless-zone-zero:seed",
+      "gameId": "zenless-zone-zero",
+      "name": "시드",
+      "aliases": [
+        "Seed",
+        "시드"
+      ],
+      "releaseDate": "2025-09-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 39
+    },
+    {
+      "id": "zenless-zone-zero:orphie-magnusson-magus",
+      "gameId": "zenless-zone-zero",
+      "name": "오피 & 「도깨비불」",
+      "aliases": [
+        "Orphie Magnusson & Magus",
+        "Orphie and Magus",
+        "Orphie",
+        "오피 & 「도깨비불」"
+      ],
+      "releaseDate": "2025-09-24",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 40
+    },
+    {
+      "id": "zenless-zone-zero:komano-manato",
+      "gameId": "zenless-zone-zero",
+      "name": "코마노 마나토",
+      "aliases": [
+        "Komano Manato",
+        "코마노 마나토"
+      ],
+      "releaseDate": "2025-10-15",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 42
+    },
+    {
+      "id": "zenless-zone-zero:lucia-elowen",
+      "gameId": "zenless-zone-zero",
+      "name": "루시아",
+      "aliases": [
+        "Lucia Elowen",
+        "Lucia",
+        "루시아"
+      ],
+      "releaseDate": "2025-10-15",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 41
+    },
+    {
+      "id": "zenless-zone-zero:yidhari-murphy",
+      "gameId": "zenless-zone-zero",
+      "name": "이드하리",
+      "aliases": [
+        "Yidhari Murphy",
+        "Yidhari",
+        "이드하리"
+      ],
+      "releaseDate": "2025-11-05",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 43
+    },
+    {
+      "id": "zenless-zone-zero:dialyn",
+      "gameId": "zenless-zone-zero",
+      "name": "다이아린",
+      "aliases": [
+        "Dialyn",
+        "다이아린"
+      ],
+      "releaseDate": "2025-11-26",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 44
+    },
+    {
+      "id": "zenless-zone-zero:banyue",
+      "gameId": "zenless-zone-zero",
+      "name": "반악",
+      "aliases": [
+        "Banyue",
+        "반악"
+      ],
+      "releaseDate": "2025-12-17",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 45
+    },
+    {
+      "id": "zenless-zone-zero:ye-shunguang",
+      "gameId": "zenless-zone-zero",
+      "name": "엽빛나",
+      "aliases": [
+        "Ye Shunguang",
+        "엽빛나"
+      ],
+      "releaseDate": "2025-12-30",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 46
+    },
+    {
+      "id": "zenless-zone-zero:zhao",
+      "gameId": "zenless-zone-zero",
+      "name": "자오",
+      "aliases": [
+        "Zhao",
+        "자오"
+      ],
+      "releaseDate": "2025-12-30",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 47
+    },
+    {
+      "id": "zenless-zone-zero:sunna",
+      "gameId": "zenless-zone-zero",
+      "name": "수나",
+      "aliases": [
+        "Sunna",
+        "수나"
+      ],
+      "releaseDate": "2026-02-06",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 48
+    },
+    {
+      "id": "zenless-zone-zero:aria",
+      "gameId": "zenless-zone-zero",
+      "name": "아리아",
+      "aliases": [
+        "Aria",
+        "아리아"
+      ],
+      "releaseDate": "2026-03-04",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 49
+    },
+    {
+      "id": "zenless-zone-zero:nangong-yu",
+      "gameId": "zenless-zone-zero",
+      "name": "남궁우",
+      "aliases": [
+        "Nangong Yu",
+        "남궁우"
+      ],
+      "releaseDate": "2026-03-24",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 50
+    },
+    {
+      "id": "zenless-zone-zero:cissia",
+      "gameId": "zenless-zone-zero",
+      "name": "시시아",
+      "aliases": [
+        "Cissia",
+        "시시아"
+      ],
+      "releaseDate": "2026-04-15",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 51
+    },
+    {
+      "id": "zenless-zone-zero:promeia",
+      "gameId": "zenless-zone-zero",
+      "name": "프로미아",
+      "aliases": [
+        "Promeia",
+        "프로미아"
+      ],
+      "releaseDate": "2026-05-06",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 52
+    },
+    {
+      "id": "zenless-zone-zero:starlight-billy-kid",
+      "gameId": "zenless-zone-zero",
+      "name": "스타라이트·빌리",
+      "aliases": [
+        "Starlight - Billy Kid",
+        "Starlight Billy",
+        "스타라이트·빌리"
+      ],
+      "releaseDate": "2026-05-27",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 53
+    },
+    {
+      "id": "zenless-zone-zero:pyrois",
+      "gameId": "zenless-zone-zero",
+      "name": "피로이스",
+      "aliases": [
+        "Pyrois",
+        "피로이스"
+      ],
+      "releaseDate": "2026-06-17",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 55
+    },
+    {
+      "id": "zenless-zone-zero:velina-airgid",
+      "gameId": "zenless-zone-zero",
+      "name": "벨리나",
+      "aliases": [
+        "Velina Airgid",
+        "Velina",
+        "벨리나"
+      ],
+      "releaseDate": "2026-06-17",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 54
+    },
+    {
+      "id": "zenless-zone-zero:norma-hollowell",
+      "gameId": "zenless-zone-zero",
+      "name": "노르마",
+      "aliases": [
+        "Norma Hollowell",
+        "Norma",
+        "노르마"
+      ],
+      "releaseDate": "2026-07-08",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 56
+    },
+    {
+      "id": "zenless-zone-zero:remielle-dan",
+      "gameId": "zenless-zone-zero",
+      "name": "레미엘",
+      "aliases": [
+        "Remielle Dan",
+        "Remiel",
+        "레미엘"
+      ],
+      "releaseDate": "2026-07-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 57
+    },
+    {
+      "id": "zenless-zone-zero:sigrid-de-l-azur",
+      "gameId": "zenless-zone-zero",
+      "name": "시그리드",
+      "aliases": [
+        "Sigrid de L'Azur",
+        "Sigrid",
+        "시그리드"
+      ],
+      "releaseDate": "2026-08-19",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 58
+    },
+    {
+      "id": "zenless-zone-zero:claret-flint",
+      "gameId": "zenless-zone-zero",
+      "name": "클라렛",
+      "aliases": [
+        "Claret Flint",
+        "Claret",
+        "클라렛"
+      ],
+      "releaseDate": "2026-09-09",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 59
+    },
+    {
+      "id": "zenless-zone-zero:roxy-ifrita-pryce",
+      "gameId": "zenless-zone-zero",
+      "name": "록시",
+      "aliases": [
+        "Roxy Ifrita Pryce",
+        "Roxy",
+        "록시"
+      ],
+      "releaseDate": "2026-09-30",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 60
+    },
+    {
+      "id": "zenless-zone-zero:phoenix-reffaella",
+      "gameId": "zenless-zone-zero",
+      "name": "피닉스",
+      "aliases": [
+        "Phoenix Reffaella",
+        "Phoenix",
+        "피닉스"
+      ],
+      "releaseDate": "2026-10-21",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 61
+    },
+    {
+      "id": "zenless-zone-zero:severian-lowell",
+      "gameId": "zenless-zone-zero",
+      "name": "Severian Lowell",
+      "aliases": [
+        "Severian Lowell"
+      ],
+      "releaseDate": "2026-11-11",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "releaseOrder": 62
+    },
+    {
+      "id": "neverness-to-everness:akane-rin",
+      "gameId": "neverness-to-everness",
+      "name": "아카네 린",
+      "aliases": [
+        "Akane Rin",
+        "아카네 린"
+      ],
+      "releaseDate": "2026-10-21",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 24
+    },
+    {
+      "id": "neverness-to-everness:blackbird",
+      "gameId": "neverness-to-everness",
+      "name": "레이븐",
+      "aliases": [
+        "Blackbird",
+        "Raven",
+        "레이븐"
+      ],
+      "releaseDate": "2026-09-30",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 23
+    },
+    {
+      "id": "neverness-to-everness:linko",
+      "gameId": "neverness-to-everness",
+      "name": "링코",
+      "aliases": [
+        "Linko",
+        "링코"
+      ],
+      "releaseDate": "2026-09-09",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 22
+    },
+    {
+      "id": "neverness-to-everness:zankou",
+      "gameId": "neverness-to-everness",
+      "name": "잔홍",
+      "aliases": [
+        "Zankou",
+        "잔홍"
+      ],
+      "releaseDate": "2026-08-19",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 21
+    },
+    {
+      "id": "neverness-to-everness:iroi",
+      "gameId": "neverness-to-everness",
+      "name": "일로이",
+      "aliases": [
+        "Iroi",
+        "일로이"
+      ],
+      "releaseDate": "2026-07-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 20
+    },
+    {
+      "id": "neverness-to-everness:shinku",
+      "gameId": "neverness-to-everness",
+      "name": "신쿠",
+      "aliases": [
+        "Shinku",
+        "신쿠"
+      ],
+      "releaseDate": "2026-07-08",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 19
+    },
+    {
+      "id": "neverness-to-everness:chaos",
+      "gameId": "neverness-to-everness",
+      "name": "카오스",
+      "aliases": [
+        "Chaos",
+        "카오스"
+      ],
+      "releaseDate": "2026-06-24",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 18
+    },
+    {
+      "id": "neverness-to-everness:lacrimosa",
+      "gameId": "neverness-to-everness",
+      "name": "라크리모사",
+      "aliases": [
+        "Lacrimosa",
+        "라크리모사"
+      ],
+      "releaseDate": "2026-06-03",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 17
+    },
+    {
+      "id": "neverness-to-everness:hotori",
+      "gameId": "neverness-to-everness",
+      "name": "호토리",
+      "aliases": [
+        "Hotori",
+        "호토리"
+      ],
+      "releaseDate": "2026-05-13",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 16
+    },
+    {
+      "id": "neverness-to-everness:nanally",
+      "gameId": "neverness-to-everness",
+      "name": "나나리",
+      "aliases": [
+        "Nanally",
+        "나나리"
+      ],
+      "releaseDate": "2026-04-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 2
+    },
+    {
+      "id": "neverness-to-everness:daffodill",
+      "gameId": "neverness-to-everness",
+      "name": "다포딜",
+      "aliases": [
+        "Daffodill",
+        "Daffodil",
+        "다포딜"
+      ],
+      "releaseDate": "2026-04-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 3
+    },
+    {
+      "id": "neverness-to-everness:baicang",
+      "gameId": "neverness-to-everness",
+      "name": "백장",
+      "aliases": [
+        "Baicang",
+        "백장"
+      ],
+      "releaseDate": "2026-04-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 5
+    },
+    {
+      "id": "neverness-to-everness:jiuyuan",
+      "gameId": "neverness-to-everness",
+      "name": "구원",
+      "aliases": [
+        "Jiuyuan",
+        "구원"
+      ],
+      "releaseDate": "2026-04-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 1
+    },
+    {
+      "id": "neverness-to-everness:hathor",
+      "gameId": "neverness-to-everness",
+      "name": "하토르",
+      "aliases": [
+        "Hathor",
+        "하토르"
+      ],
+      "releaseDate": "2026-04-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 15
+    },
+    {
+      "id": "neverness-to-everness:chiz",
+      "gameId": "neverness-to-everness",
+      "name": "치즈",
+      "aliases": [
+        "Chiz",
+        "치즈"
+      ],
+      "releaseDate": "2026-04-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 12
+    },
+    {
+      "id": "neverness-to-everness:zero",
+      "gameId": "neverness-to-everness",
+      "name": "제로",
+      "aliases": [
+        "Zero",
+        "제로"
+      ],
+      "releaseDate": "2026-04-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 11
+    },
+    {
+      "id": "neverness-to-everness:skia",
+      "gameId": "neverness-to-everness",
+      "name": "스키아",
+      "aliases": [
+        "Skia",
+        "스키아"
+      ],
+      "releaseDate": "2026-04-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 7
+    },
+    {
+      "id": "neverness-to-everness:mint",
+      "gameId": "neverness-to-everness",
+      "name": "민트",
+      "aliases": [
+        "Mint",
+        "민트"
+      ],
+      "releaseDate": "2026-04-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 4
+    },
+    {
+      "id": "neverness-to-everness:aurelia",
+      "gameId": "neverness-to-everness",
+      "name": "아우렐리아",
+      "aliases": [
+        "Aurelia",
+        "아우렐리아"
+      ],
+      "releaseDate": "2026-04-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 9
+    },
+    {
+      "id": "neverness-to-everness:sakiri",
+      "gameId": "neverness-to-everness",
+      "name": "사키리",
+      "aliases": [
+        "Sakiri",
+        "사키리"
+      ],
+      "releaseDate": "2026-04-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 6
+    },
+    {
+      "id": "neverness-to-everness:fadia",
+      "gameId": "neverness-to-everness",
+      "name": "파디아",
+      "aliases": [
+        "Fadia",
+        "파디아"
+      ],
+      "releaseDate": "2026-04-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 13
+    },
+    {
+      "id": "neverness-to-everness:haniel",
+      "gameId": "neverness-to-everness",
+      "name": "하니엘",
+      "aliases": [
+        "Haniel",
+        "하니엘"
+      ],
+      "releaseDate": "2026-04-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 14
+    },
+    {
+      "id": "neverness-to-everness:adler",
+      "gameId": "neverness-to-everness",
+      "name": "아들러",
+      "aliases": [
+        "Adler",
+        "아들러"
+      ],
+      "releaseDate": "2026-04-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 8
+    },
+    {
+      "id": "neverness-to-everness:edgar",
+      "gameId": "neverness-to-everness",
+      "name": "에드가",
+      "aliases": [
+        "Edgar",
+        "에드가"
+      ],
+      "releaseDate": "2026-04-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.ntebuild.com/characters",
+      "releaseOrder": 10
+    },
+    {
+      "id": "arknights-endfield:last-rite",
+      "gameId": "arknights-endfield",
+      "name": "라스트 라이트",
+      "aliases": [
+        "Last Rite",
+        "라스트 라이트"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 3
+    },
+    {
+      "id": "arknights-endfield:tangtang",
+      "gameId": "arknights-endfield",
+      "name": "탕탕",
+      "aliases": [
+        "Tangtang",
+        "탕탕"
+      ],
+      "releaseDate": "2026-03-12",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 24
+    },
+    {
+      "id": "arknights-endfield:yvonne",
+      "gameId": "arknights-endfield",
+      "name": "이본",
+      "aliases": [
+        "Yvonne",
+        "이본"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 16
+    },
+    {
+      "id": "arknights-endfield:liino",
+      "gameId": "arknights-endfield",
+      "name": "리노",
+      "aliases": [
+        "Liino",
+        "리노"
+      ],
+      "releaseDate": "2026-08-09",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 30
+    },
+    {
+      "id": "arknights-endfield:zhuang-fangyi",
+      "gameId": "arknights-endfield",
+      "name": "장방이",
+      "aliases": [
+        "Zhuang Fangyi",
+        "장방이"
+      ],
+      "releaseDate": "2026-04-17",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 26
+    },
+    {
+      "id": "arknights-endfield:camille",
+      "gameId": "arknights-endfield",
+      "name": "카뮤",
+      "aliases": [
+        "Camille",
+        "카뮤"
+      ],
+      "releaseDate": "2026-06-26",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 28
+    },
+    {
+      "id": "arknights-endfield:ember",
+      "gameId": "arknights-endfield",
+      "name": "엠버",
+      "aliases": [
+        "Ember",
+        "엠버"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 13
+    },
+    {
+      "id": "arknights-endfield:laevatain",
+      "gameId": "arknights-endfield",
+      "name": "레바테인",
+      "aliases": [
+        "Laevatain",
+        "레바테인"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 4
+    },
+    {
+      "id": "arknights-endfield:arcane",
+      "gameId": "arknights-endfield",
+      "name": "결",
+      "aliases": [
+        "Arcane",
+        "결"
+      ],
+      "releaseDate": "2026-07-16",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 29
+    },
+    {
+      "id": "arknights-endfield:ardelia",
+      "gameId": "arknights-endfield",
+      "name": "아델리아",
+      "aliases": [
+        "Ardelia",
+        "아델리아"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 6
+    },
+    {
+      "id": "arknights-endfield:gilberta",
+      "gameId": "arknights-endfield",
+      "name": "질베르타",
+      "aliases": [
+        "Gilberta",
+        "질베르타"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 19
+    },
+    {
+      "id": "arknights-endfield:typhoeus",
+      "gameId": "arknights-endfield",
+      "name": "티프로스",
+      "aliases": [
+        "Typhoeus",
+        "Typhoues",
+        "티프로스"
+      ],
+      "releaseDate": "2026-09-02",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 31
+    },
+    {
+      "id": "arknights-endfield:endministrator",
+      "gameId": "arknights-endfield",
+      "name": "관리자",
+      "aliases": [
+        "Endministrator",
+        "Endmin",
+        "관리자"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 1
+    },
+    {
+      "id": "arknights-endfield:lifeng",
+      "gameId": "arknights-endfield",
+      "name": "여풍",
+      "aliases": [
+        "Lifeng",
+        "여풍"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 14
+    },
+    {
+      "id": "arknights-endfield:mi-fu",
+      "gameId": "arknights-endfield",
+      "name": "미브",
+      "aliases": [
+        "Mi Fu",
+        "미브"
+      ],
+      "releaseDate": "2026-06-05",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 27
+    },
+    {
+      "id": "arknights-endfield:pogranichnik",
+      "gameId": "arknights-endfield",
+      "name": "포그라니치니크",
+      "aliases": [
+        "Pogranichnik",
+        "포그라니치니크"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 22
+    },
+    {
+      "id": "arknights-endfield:rossi",
+      "gameId": "arknights-endfield",
+      "name": "로시",
+      "aliases": [
+        "Rossi",
+        "로시"
+      ],
+      "releaseDate": "2026-03-29",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 25
+    },
+    {
+      "id": "arknights-endfield:alesh",
+      "gameId": "arknights-endfield",
+      "name": "알레쉬",
+      "aliases": [
+        "Alesh",
+        "알레쉬"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 11
+    },
+    {
+      "id": "arknights-endfield:snowshine",
+      "gameId": "arknights-endfield",
+      "name": "스노우샤인",
+      "aliases": [
+        "Snowshine",
+        "스노우샤인"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 5
+    },
+    {
+      "id": "arknights-endfield:xaihi",
+      "gameId": "arknights-endfield",
+      "name": "자이히",
+      "aliases": [
+        "Xaihi",
+        "자이히"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 17
+    },
+    {
+      "id": "arknights-endfield:arclight",
+      "gameId": "arknights-endfield",
+      "name": "아크라이트",
+      "aliases": [
+        "Arclight",
+        "아크라이트"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 9
+    },
+    {
+      "id": "arknights-endfield:avywenna",
+      "gameId": "arknights-endfield",
+      "name": "아비웨나",
+      "aliases": [
+        "Avywenna",
+        "아비웨나"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 7
+    },
+    {
+      "id": "arknights-endfield:perlica",
+      "gameId": "arknights-endfield",
+      "name": "펠리카",
+      "aliases": [
+        "Perlica",
+        "Pelika",
+        "펠리카"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 21
+    },
+    {
+      "id": "arknights-endfield:wulfgard",
+      "gameId": "arknights-endfield",
+      "name": "울프가드",
+      "aliases": [
+        "Wulfgard",
+        "울프가드"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 15
+    },
+    {
+      "id": "arknights-endfield:chen-qianyu",
+      "gameId": "arknights-endfield",
+      "name": "진천우",
+      "aliases": [
+        "Chen Qianyu",
+        "진천우"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 18
+    },
+    {
+      "id": "arknights-endfield:da-pan",
+      "gameId": "arknights-endfield",
+      "name": "대판",
+      "aliases": [
+        "Da Pan",
+        "대판"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 2
+    },
+    {
+      "id": "arknights-endfield:purrchena",
+      "gameId": "arknights-endfield",
+      "name": "푸치나",
+      "aliases": [
+        "Purrchena",
+        "푸치나"
+      ],
+      "releaseDate": "2026-09-02",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 32
+    },
+    {
+      "id": "arknights-endfield:estella",
+      "gameId": "arknights-endfield",
+      "name": "에스텔라",
+      "aliases": [
+        "Estella",
+        "에스텔라"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 12
+    },
+    {
+      "id": "arknights-endfield:antal",
+      "gameId": "arknights-endfield",
+      "name": "안탈",
+      "aliases": [
+        "Antal",
+        "안탈"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 10
+    },
+    {
+      "id": "arknights-endfield:akekuri",
+      "gameId": "arknights-endfield",
+      "name": "아케쿠리",
+      "aliases": [
+        "Akekuri",
+        "아케쿠리"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 8
+    },
+    {
+      "id": "arknights-endfield:fluorite",
+      "gameId": "arknights-endfield",
+      "name": "플루오라이트",
+      "aliases": [
+        "Fluorite",
+        "플루오라이트"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 23
+    },
+    {
+      "id": "arknights-endfield:catcher",
+      "gameId": "arknights-endfield",
+      "name": "캐쳐",
+      "aliases": [
+        "Catcher",
+        "캐쳐"
+      ],
+      "releaseDate": "2026-01-22",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 20
+    },
+    {
+      "id": "arknights-endfield:si",
+      "gameId": "arknights-endfield",
+      "name": "사",
+      "aliases": [
+        "Si",
+        "사"
+      ],
+      "releaseDate": "2026-10-15",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 33
+    },
+    {
+      "id": "arknights-endfield:argent-flow",
+      "gameId": "arknights-endfield",
+      "name": "명하",
+      "aliases": [
+        "Argent Flow",
+        "명하"
+      ],
+      "releaseDate": "2026-11-05",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.enfieldbuild.com/banners",
+      "releaseOrder": 34
+    },
+    {
+      "id": "punishing-gray-raven:lucia-lotus",
+      "gameId": "punishing-gray-raven",
+      "name": "Lucia: Lotus",
+      "aliases": [
+        "Lucia: Lotus"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 6
+    },
+    {
+      "id": "punishing-gray-raven:liv-eclipse",
+      "gameId": "punishing-gray-raven",
+      "name": "리브·식암",
+      "aliases": [
+        "Liv: Eclipse",
+        "리브·식암"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 15
+    },
+    {
+      "id": "punishing-gray-raven:nanami-storm",
+      "gameId": "punishing-gray-raven",
+      "name": "나나미·폭풍",
+      "aliases": [
+        "Nanami: Storm",
+        "나나미·폭풍"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 9
+    },
+    {
+      "id": "punishing-gray-raven:lucia-dawn",
+      "gameId": "punishing-gray-raven",
+      "name": "루시아·여명",
+      "aliases": [
+        "Lucia: Dawn",
+        "루시아·여명"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 11
+    },
+    {
+      "id": "punishing-gray-raven:liv-lux",
+      "gameId": "punishing-gray-raven",
+      "name": "Liv: Lux",
+      "aliases": [
+        "Liv: Lux"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 5
+    },
+    {
+      "id": "punishing-gray-raven:lee-palefire",
+      "gameId": "punishing-gray-raven",
+      "name": "리·이화",
+      "aliases": [
+        "Lee: Palefire",
+        "리·이화"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 13
+    },
+    {
+      "id": "punishing-gray-raven:watanabe-nightblade",
+      "gameId": "punishing-gray-raven",
+      "name": "와타나베·야인",
+      "aliases": [
+        "Watanabe: Nightblade",
+        "와타나베·야인"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 19
+    },
+    {
+      "id": "punishing-gray-raven:bianca-zero",
+      "gameId": "punishing-gray-raven",
+      "name": "비앙카·영도",
+      "aliases": [
+        "Bianca: Zero",
+        "비앙카·영도"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 17
+    },
+    {
+      "id": "punishing-gray-raven:karenina-blast",
+      "gameId": "punishing-gray-raven",
+      "name": "카레니나·폭렬",
+      "aliases": [
+        "Karenina: Blast",
+        "카레니나·폭렬"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 21
+    },
+    {
+      "id": "punishing-gray-raven:liv-luminance",
+      "gameId": "punishing-gray-raven",
+      "name": "Liv: Luminance",
+      "aliases": [
+        "Liv: Luminance"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 4
+    },
+    {
+      "id": "punishing-gray-raven:lee-entropy",
+      "gameId": "punishing-gray-raven",
+      "name": "Lee: Entropy",
+      "aliases": [
+        "Lee: Entropy"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 3
+    },
+    {
+      "id": "punishing-gray-raven:karenina-ember",
+      "gameId": "punishing-gray-raven",
+      "name": "Karenina: Ember",
+      "aliases": [
+        "Karenina: Ember"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 2
+    },
+    {
+      "id": "punishing-gray-raven:nanami-pulse",
+      "gameId": "punishing-gray-raven",
+      "name": "Nanami: Pulse",
+      "aliases": [
+        "Nanami: Pulse"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 7
+    },
+    {
+      "id": "punishing-gray-raven:kamui-tenebrion",
+      "gameId": "punishing-gray-raven",
+      "name": "Kamui: Tenebrion",
+      "aliases": [
+        "Kamui: Tenebrion"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 1
+    },
+    {
+      "id": "punishing-gray-raven:lucia-crimson-abyss",
+      "gameId": "punishing-gray-raven",
+      "name": "Lucia: Crimson Abyss",
+      "aliases": [
+        "Lucia: Crimson Abyss"
+      ],
+      "releaseDate": "2021-08-03",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 23
+    },
+    {
+      "id": "punishing-gray-raven:kamui-bastion",
+      "gameId": "punishing-gray-raven",
+      "name": "카무이·중능",
+      "aliases": [
+        "Kamui: Bastion",
+        "카무이·중능"
+      ],
+      "releaseDate": "2021-08-03",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 24
+    },
+    {
+      "id": "punishing-gray-raven:watanabe-astral",
+      "gameId": "punishing-gray-raven",
+      "name": "와타나베·숙성",
+      "aliases": [
+        "Watanabe: Astral",
+        "와타나베·숙성"
+      ],
+      "releaseDate": "2021-09-09",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 26
+    },
+    {
+      "id": "punishing-gray-raven:ayla-brilliance",
+      "gameId": "punishing-gray-raven",
+      "name": "아이라·일채",
+      "aliases": [
+        "Ayla: Brilliance",
+        "아이라·일채"
+      ],
+      "releaseDate": "2021-09-09",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 25
+    },
+    {
+      "id": "punishing-gray-raven:bianca-veritas",
+      "gameId": "punishing-gray-raven",
+      "name": "Bianca: Veritas",
+      "aliases": [
+        "Bianca: Veritas"
+      ],
+      "releaseDate": "2021-10-12",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 27
+    },
+    {
+      "id": "punishing-gray-raven:sophia-silverfang",
+      "gameId": "punishing-gray-raven",
+      "name": "Sophia: Silverfang",
+      "aliases": [
+        "Sophia: Silverfang"
+      ],
+      "releaseDate": "2021-10-12",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 28
+    },
+    {
+      "id": "punishing-gray-raven:chrome-arclight",
+      "gameId": "punishing-gray-raven",
+      "name": "Chrome: Arclight",
+      "aliases": [
+        "Chrome: Arclight"
+      ],
+      "releaseDate": "2021-11-17",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 29
+    },
+    {
+      "id": "punishing-gray-raven:lucia-plume",
+      "gameId": "punishing-gray-raven",
+      "name": "루시아·아우",
+      "aliases": [
+        "Lucia: Plume",
+        "루시아·아우"
+      ],
+      "releaseDate": "2021-12-22",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 31
+    },
+    {
+      "id": "punishing-gray-raven:vera-rozen",
+      "gameId": "punishing-gray-raven",
+      "name": "Vera: Rozen",
+      "aliases": [
+        "Vera: Rozen"
+      ],
+      "releaseDate": "2022-01-26",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 33
+    },
+    {
+      "id": "punishing-gray-raven:camu-crocotta",
+      "gameId": "punishing-gray-raven",
+      "name": "Camu: Crocotta",
+      "aliases": [
+        "Camu: Crocotta"
+      ],
+      "releaseDate": "2022-01-26",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 32
+    },
+    {
+      "id": "punishing-gray-raven:rosetta-rigor",
+      "gameId": "punishing-gray-raven",
+      "name": "Rosetta: Rigor",
+      "aliases": [
+        "Rosetta: Rigor"
+      ],
+      "releaseDate": "2022-03-02",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 34
+    },
+    {
+      "id": "punishing-gray-raven:changyu-qilin",
+      "gameId": "punishing-gray-raven",
+      "name": "Changyu: Qilin",
+      "aliases": [
+        "Changyu: Qilin"
+      ],
+      "releaseDate": "2022-04-13",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 35
+    },
+    {
+      "id": "punishing-gray-raven:qu-pavo",
+      "gameId": "punishing-gray-raven",
+      "name": "Qu: Pavo",
+      "aliases": [
+        "Qu: Pavo"
+      ],
+      "releaseDate": "2022-04-13",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 36
+    },
+    {
+      "id": "punishing-gray-raven:luna-laurel",
+      "gameId": "punishing-gray-raven",
+      "name": "루나·은면",
+      "aliases": [
+        "Luna: Laurel",
+        "루나·은면"
+      ],
+      "releaseDate": "2022-05-18",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 37
+    },
+    {
+      "id": "punishing-gray-raven:2b",
+      "gameId": "punishing-gray-raven",
+      "name": "2B",
+      "aliases": [
+        "2B"
+      ],
+      "releaseDate": "2022-07-05",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 38
+    },
+    {
+      "id": "punishing-gray-raven:9s",
+      "gameId": "punishing-gray-raven",
+      "name": "9S",
+      "aliases": [
+        "9S"
+      ],
+      "releaseDate": "2022-07-05",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 39
+    },
+    {
+      "id": "punishing-gray-raven:a2",
+      "gameId": "punishing-gray-raven",
+      "name": "A2",
+      "aliases": [
+        "A2"
+      ],
+      "releaseDate": "2022-07-05",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 40
+    },
+    {
+      "id": "punishing-gray-raven:wanshi-hypnos",
+      "gameId": "punishing-gray-raven",
+      "name": "Wanshi: Hypnos",
+      "aliases": [
+        "Wanshi: Hypnos"
+      ],
+      "releaseDate": "2022-08-16",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 42
+    },
+    {
+      "id": "punishing-gray-raven:selena-tempest",
+      "gameId": "punishing-gray-raven",
+      "name": "Selena: Tempest",
+      "aliases": [
+        "Selena: Tempest"
+      ],
+      "releaseDate": "2022-08-16",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 41
+    },
+    {
+      "id": "punishing-gray-raven:chrome-glory",
+      "gameId": "punishing-gray-raven",
+      "name": "Chrome: Glory",
+      "aliases": [
+        "Chrome: Glory"
+      ],
+      "releaseDate": "2022-09-16",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 43
+    },
+    {
+      "id": "punishing-gray-raven:no-21-xxi",
+      "gameId": "punishing-gray-raven",
+      "name": "No.21: XXI",
+      "aliases": [
+        "No.21: XXI",
+        "No. 21 XXI",
+        "No.21 XXI"
+      ],
+      "releaseDate": "2022-10-18",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 44
+    },
+    {
+      "id": "punishing-gray-raven:vera-garnet",
+      "gameId": "punishing-gray-raven",
+      "name": "Vera: Garnet",
+      "aliases": [
+        "Vera: Garnet"
+      ],
+      "releaseDate": "2022-11-17",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 45
+    },
+    {
+      "id": "punishing-gray-raven:roland-flambeau",
+      "gameId": "punishing-gray-raven",
+      "name": "Roland: Flambeau",
+      "aliases": [
+        "Roland: Flambeau"
+      ],
+      "releaseDate": "2022-12-22",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 46
+    },
+    {
+      "id": "punishing-gray-raven:liv-empyrea",
+      "gameId": "punishing-gray-raven",
+      "name": "Liv: Empyrea",
+      "aliases": [
+        "Liv: Empyrea"
+      ],
+      "releaseDate": "2023-01-19",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 47
+    },
+    {
+      "id": "punishing-gray-raven:selena-capriccio",
+      "gameId": "punishing-gray-raven",
+      "name": "Selena: Capriccio",
+      "aliases": [
+        "Selena: Capriccio"
+      ],
+      "releaseDate": "2023-03-01",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 48
+    },
+    {
+      "id": "punishing-gray-raven:pulao-dragontoll",
+      "gameId": "punishing-gray-raven",
+      "name": "Pulao: Dragontoll",
+      "aliases": [
+        "Pulao: Dragontoll"
+      ],
+      "releaseDate": "2023-04-07",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 49
+    },
+    {
+      "id": "punishing-gray-raven:nanami-starfarer",
+      "gameId": "punishing-gray-raven",
+      "name": "Nanami: Starfarer",
+      "aliases": [
+        "Nanami: Starfarer"
+      ],
+      "releaseDate": "2023-05-11",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 50
+    },
+    {
+      "id": "punishing-gray-raven:haicma-starveil",
+      "gameId": "punishing-gray-raven",
+      "name": "Haicma: Starveil",
+      "aliases": [
+        "Haicma: Starveil",
+        "Haicma: Veiled Star"
+      ],
+      "releaseDate": "2023-06-15",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 51
+    },
+    {
+      "id": "punishing-gray-raven:karenina-scire",
+      "gameId": "punishing-gray-raven",
+      "name": "Karenina: Scire",
+      "aliases": [
+        "Karenina: Scire"
+      ],
+      "releaseDate": "2023-07-13",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 52
+    },
+    {
+      "id": "punishing-gray-raven:noan-arca",
+      "gameId": "punishing-gray-raven",
+      "name": "Noan: Arca",
+      "aliases": [
+        "Noan: Arca"
+      ],
+      "releaseDate": "2023-08-22",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 53
+    },
+    {
+      "id": "punishing-gray-raven:bianca-stigmata",
+      "gameId": "punishing-gray-raven",
+      "name": "Bianca: Stigmata",
+      "aliases": [
+        "Bianca: Stigmata",
+        "Bianca: Abystigma"
+      ],
+      "releaseDate": "2023-09-26",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 54
+    },
+    {
+      "id": "punishing-gray-raven:bambinata-vitrum",
+      "gameId": "punishing-gray-raven",
+      "name": "Bambinata: Vitrum",
+      "aliases": [
+        "Bambinata: Vitrum"
+      ],
+      "releaseDate": "2023-11-09",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 55
+    },
+    {
+      "id": "punishing-gray-raven:lee-hyperreal",
+      "gameId": "punishing-gray-raven",
+      "name": "Lee: Hyperreal",
+      "aliases": [
+        "Lee: Hyperreal"
+      ],
+      "releaseDate": "2023-12-12",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 56
+    },
+    {
+      "id": "punishing-gray-raven:ayla-kaleido",
+      "gameId": "punishing-gray-raven",
+      "name": "Ayla: Kaleido",
+      "aliases": [
+        "Ayla: Kaleido"
+      ],
+      "releaseDate": "2024-01-18",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 57
+    },
+    {
+      "id": "punishing-gray-raven:lucia-crimson-weave",
+      "gameId": "punishing-gray-raven",
+      "name": "Lucia: Crimson Weave",
+      "aliases": [
+        "Lucia: Crimson Weave"
+      ],
+      "releaseDate": "2024-02-23",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 58
+    },
+    {
+      "id": "punishing-gray-raven:hanying-zitherwoe",
+      "gameId": "punishing-gray-raven",
+      "name": "Hanying: Zitherwoe",
+      "aliases": [
+        "Hanying: Zitherwoe"
+      ],
+      "releaseDate": "2024-04-08",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 59
+    },
+    {
+      "id": "punishing-gray-raven:no-21-feral-scent",
+      "gameId": "punishing-gray-raven",
+      "name": "No.21: Feral Scent",
+      "aliases": [
+        "No.21: Feral Scent",
+        "No.21: Feral",
+        "21호·페럴"
+      ],
+      "releaseDate": "2024-05-09",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 60
+    },
+    {
+      "id": "punishing-gray-raven:noctis-indomitus",
+      "gameId": "punishing-gray-raven",
+      "name": "Noctis: Indomitus",
+      "aliases": [
+        "Noctis: Indomitus"
+      ],
+      "releaseDate": "2024-06-14",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 61
+    },
+    {
+      "id": "punishing-gray-raven:alisa-echo",
+      "gameId": "punishing-gray-raven",
+      "name": "Alisa: Echo",
+      "aliases": [
+        "Alisa: Echo"
+      ],
+      "releaseDate": "2024-07-15",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 62
+    },
+    {
+      "id": "punishing-gray-raven:lamia-lost-lullaby",
+      "gameId": "punishing-gray-raven",
+      "name": "Lamia: Lost Lullaby",
+      "aliases": [
+        "Lamia: Lost Lullaby"
+      ],
+      "releaseDate": "2024-08-21",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 63
+    },
+    {
+      "id": "punishing-gray-raven:black-rock-shooter",
+      "gameId": "punishing-gray-raven",
+      "name": "BLACK★ROCK SHOOTER",
+      "aliases": [
+        "BLACK★ROCK SHOOTER"
+      ],
+      "releaseDate": "2024-09-29",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 64
+    },
+    {
+      "id": "punishing-gray-raven:watanabe-epitaph",
+      "gameId": "punishing-gray-raven",
+      "name": "Watanabe: Epitaph",
+      "aliases": [
+        "Watanabe: Epitaph"
+      ],
+      "releaseDate": "2024-10-31",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 65
+    },
+    {
+      "id": "punishing-gray-raven:qu-shukra",
+      "gameId": "punishing-gray-raven",
+      "name": "Qu: Shukra",
+      "aliases": [
+        "Qu: Shukra"
+      ],
+      "releaseDate": "2024-12-04",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 66
+    },
+    {
+      "id": "punishing-gray-raven:teddy-decryptor",
+      "gameId": "punishing-gray-raven",
+      "name": "Teddy: Decryptor",
+      "aliases": [
+        "Teddy: Decryptor"
+      ],
+      "releaseDate": "2025-01-10",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 69
+    },
+    {
+      "id": "punishing-gray-raven:luna-oblivion",
+      "gameId": "punishing-gray-raven",
+      "name": "Luna: Oblivion",
+      "aliases": [
+        "Luna: Oblivion"
+      ],
+      "releaseDate": "2025-01-10",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 68
+    },
+    {
+      "id": "punishing-gray-raven:bridget-ardeo",
+      "gameId": "punishing-gray-raven",
+      "name": "Bridget: Ardeo",
+      "aliases": [
+        "Bridget: Ardeo"
+      ],
+      "releaseDate": "2025-01-10",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 67
+    },
+    {
+      "id": "punishing-gray-raven:hanying-solacetune",
+      "gameId": "punishing-gray-raven",
+      "name": "Hanying: Solacetune",
+      "aliases": [
+        "Hanying: Solacetune"
+      ],
+      "releaseDate": "2025-02-20",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 70
+    },
+    {
+      "id": "punishing-gray-raven:wanshi-lucid-dreamer",
+      "gameId": "punishing-gray-raven",
+      "name": "Wanshi: Lucid Dreamer",
+      "aliases": [
+        "Wanshi: Lucid Dreamer"
+      ],
+      "releaseDate": "2025-02-20",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 71
+    },
+    {
+      "id": "punishing-gray-raven:lucia-pyroath",
+      "gameId": "punishing-gray-raven",
+      "name": "Lucia: Pyroath",
+      "aliases": [
+        "Lucia: Pyroath"
+      ],
+      "releaseDate": "2025-04-02",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 72
+    },
+    {
+      "id": "punishing-gray-raven:yata-fulgor",
+      "gameId": "punishing-gray-raven",
+      "name": "Yata: Fulgor",
+      "aliases": [
+        "Yata: Fulgor"
+      ],
+      "releaseDate": "2025-04-02",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 74
+    },
+    {
+      "id": "punishing-gray-raven:nanami-startrail",
+      "gameId": "punishing-gray-raven",
+      "name": "Nanami: Startrail",
+      "aliases": [
+        "Nanami: Startrail"
+      ],
+      "releaseDate": "2025-04-02",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 73
+    },
+    {
+      "id": "punishing-gray-raven:ishmael-parhelion",
+      "gameId": "punishing-gray-raven",
+      "name": "Ishmael: Parhelion",
+      "aliases": [
+        "Ishmael: Parhelion"
+      ],
+      "releaseDate": "2025-05-14",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 75
+    },
+    {
+      "id": "punishing-gray-raven:lilith-daemonissa",
+      "gameId": "punishing-gray-raven",
+      "name": "Lilith: Daemonissa",
+      "aliases": [
+        "Lilith: Daemonissa"
+      ],
+      "releaseDate": "2025-05-14",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 76
+    },
+    {
+      "id": "punishing-gray-raven:selena-pianissimo",
+      "gameId": "punishing-gray-raven",
+      "name": "Selena: Pianissimo",
+      "aliases": [
+        "Selena: Pianissimo"
+      ],
+      "releaseDate": "2025-06-25",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 78
+    },
+    {
+      "id": "punishing-gray-raven:jetavie-daybreak",
+      "gameId": "punishing-gray-raven",
+      "name": "Jetavie: Daybreak",
+      "aliases": [
+        "Jetavie: Daybreak"
+      ],
+      "releaseDate": "2025-06-25",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 77
+    },
+    {
+      "id": "punishing-gray-raven:vera-geiravor",
+      "gameId": "punishing-gray-raven",
+      "name": "Vera: Geiravor",
+      "aliases": [
+        "Vera: Geiravor"
+      ],
+      "releaseDate": "2025-06-25",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 79
+    },
+    {
+      "id": "punishing-gray-raven:dante",
+      "gameId": "punishing-gray-raven",
+      "name": "Dante",
+      "aliases": [
+        "Dante"
+      ],
+      "releaseDate": "2025-08-06",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 80
+    },
+    {
+      "id": "punishing-gray-raven:vergil",
+      "gameId": "punishing-gray-raven",
+      "name": "Vergil",
+      "aliases": [
+        "Vergil"
+      ],
+      "releaseDate": "2025-08-06",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 81
+    },
+    {
+      "id": "punishing-gray-raven:bianca-crepuscule",
+      "gameId": "punishing-gray-raven",
+      "name": "Bianca: Crepuscule",
+      "aliases": [
+        "Bianca: Crepuscule"
+      ],
+      "releaseDate": "2025-09-19",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 82
+    },
+    {
+      "id": "punishing-gray-raven:discord-secator",
+      "gameId": "punishing-gray-raven",
+      "name": "Discord: Secator",
+      "aliases": [
+        "Discord: Secator"
+      ],
+      "releaseDate": "2025-09-19",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 83
+    },
+    {
+      "id": "punishing-gray-raven:veronica-aegis",
+      "gameId": "punishing-gray-raven",
+      "name": "Veronica: Aegis",
+      "aliases": [
+        "Veronica: Aegis"
+      ],
+      "releaseDate": "2025-09-19",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 84
+    },
+    {
+      "id": "punishing-gray-raven:liv-limpidity",
+      "gameId": "punishing-gray-raven",
+      "name": "리브·제몽",
+      "aliases": [
+        "Liv: Limpidity",
+        "리브·제몽"
+      ],
+      "releaseDate": "2025-11-13",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 85
+    },
+    {
+      "id": "punishing-gray-raven:teddy-spectre",
+      "gameId": "punishing-gray-raven",
+      "name": "테디베어·해영",
+      "aliases": [
+        "Teddy: Spectre",
+        "테디베어·해영"
+      ],
+      "releaseDate": "2025-12-23",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 86
+    },
+    {
+      "id": "punishing-gray-raven:rosetta-arete",
+      "gameId": "punishing-gray-raven",
+      "name": "로제타·아레테",
+      "aliases": [
+        "Rosetta: Arete",
+        "로제타·아레테"
+      ],
+      "releaseDate": "2026-02-03",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 87
+    },
+    {
+      "id": "punishing-gray-raven:nirvatia-dirge",
+      "gameId": "punishing-gray-raven",
+      "name": "네티아·만가",
+      "aliases": [
+        "Nirvatia: Dirge",
+        "Netia: Dirge",
+        "네티아·만가"
+      ],
+      "releaseDate": "2026-03-17",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 88
+    },
+    {
+      "id": "punishing-gray-raven:kamui-aeternion",
+      "gameId": "punishing-gray-raven",
+      "name": "Kamui: Aeternion",
+      "aliases": [
+        "Kamui: Aeternion",
+        "Kamui: Aeternio"
+      ],
+      "releaseDate": "2026-04-21",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 89
+    },
+    {
+      "id": "punishing-gray-raven:lucia-inverse-crown",
+      "gameId": "punishing-gray-raven",
+      "name": "루시아·역면",
+      "aliases": [
+        "Lucia: Inverse Crown",
+        "루시아·역면"
+      ],
+      "releaseDate": "2026-06-02",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 90
+    },
+    {
+      "id": "punishing-gray-raven:helentine-lacrimosa",
+      "gameId": "punishing-gray-raven",
+      "name": "헬렌틴·안혼",
+      "aliases": [
+        "Helentine: Lacrimosa",
+        "헬렌틴·안혼"
+      ],
+      "releaseDate": "2026-07-16",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 91
+    },
+    {
+      "id": "punishing-gray-raven:karenina-effulgence",
+      "gameId": "punishing-gray-raven",
+      "name": "카레니나·신항",
+      "aliases": [
+        "Karenina: Effulgence",
+        "카레니나·신항"
+      ],
+      "releaseDate": "2026-08-19",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 92
+    },
+    {
+      "id": "punishing-gray-raven:adelyde-anabasis",
+      "gameId": "punishing-gray-raven",
+      "name": "아델라이드·파연",
+      "aliases": [
+        "Adelyde: Anabasis",
+        "아델라이드·파연"
+      ],
+      "releaseDate": "2026-09-23",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 93
+    },
+    {
+      "id": "punishing-gray-raven:kurumi-tokisaki",
+      "gameId": "punishing-gray-raven",
+      "name": "토키사키 쿠루미",
+      "aliases": [
+        "Kurumi Tokisaki",
+        "Tokisaki Kurumi",
+        "토키사키 쿠루미"
+      ],
+      "releaseDate": "2026-09-29",
+      "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
+      "source": "https://grayravens.com/wiki/Patches",
+      "releaseOrder": 94
+    },
+    {
+      "id": "punishing-gray-raven:family-lucia",
+      "gameId": "punishing-gray-raven",
+      "name": "루시아 (기체 공통)",
+      "aliases": [
+        "family-Lucia",
+        "루시아",
+        "Lucia",
+        "루시아 (기체 공통)"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.youtube.com/channel/UCD3ClCZBZ8VLg_PfYMGOJjA",
+      "kind": "family",
+      "releaseOrder": 10
+    },
+    {
+      "id": "punishing-gray-raven:family-liv",
+      "gameId": "punishing-gray-raven",
+      "name": "리브 (기체 공통)",
+      "aliases": [
+        "family-Liv",
+        "리브",
+        "Liv",
+        "리브 (기체 공통)"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.youtube.com/channel/UCD3ClCZBZ8VLg_PfYMGOJjA",
+      "kind": "family",
+      "releaseOrder": 14
+    },
+    {
+      "id": "punishing-gray-raven:family-nanami",
+      "gameId": "punishing-gray-raven",
+      "name": "나나미 (기체 공통)",
+      "aliases": [
+        "family-Nanami",
+        "나나미",
+        "Nanami",
+        "나나미 (기체 공통)"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.youtube.com/channel/UCD3ClCZBZ8VLg_PfYMGOJjA",
+      "kind": "family",
+      "releaseOrder": 8
+    },
+    {
+      "id": "punishing-gray-raven:family-lee",
+      "gameId": "punishing-gray-raven",
+      "name": "리 (기체 공통)",
+      "aliases": [
+        "family-Lee",
+        "리",
+        "Lee",
+        "리 (기체 공통)"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.youtube.com/channel/UCD3ClCZBZ8VLg_PfYMGOJjA",
+      "kind": "family",
+      "releaseOrder": 12
+    },
+    {
+      "id": "punishing-gray-raven:family-watanabe",
+      "gameId": "punishing-gray-raven",
+      "name": "와타나베 (기체 공통)",
+      "aliases": [
+        "family-Watanabe",
+        "와타나베",
+        "Watanabe",
+        "와타나베 (기체 공통)"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.youtube.com/channel/UCD3ClCZBZ8VLg_PfYMGOJjA",
+      "kind": "family",
+      "releaseOrder": 18
+    },
+    {
+      "id": "punishing-gray-raven:family-bianca",
+      "gameId": "punishing-gray-raven",
+      "name": "비앙카 (기체 공통)",
+      "aliases": [
+        "family-Bianca",
+        "비앙카",
+        "Bianca",
+        "비앙카 (기체 공통)"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.youtube.com/channel/UCD3ClCZBZ8VLg_PfYMGOJjA",
+      "kind": "family",
+      "releaseOrder": 16
+    },
+    {
+      "id": "punishing-gray-raven:family-karenina",
+      "gameId": "punishing-gray-raven",
+      "name": "카레니나 (기체 공통)",
+      "aliases": [
+        "family-Karenina",
+        "카레니나",
+        "Karenina",
+        "카레니나 (기체 공통)"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.youtube.com/channel/UCD3ClCZBZ8VLg_PfYMGOJjA",
+      "kind": "family",
+      "releaseOrder": 20
+    },
+    {
+      "id": "punishing-gray-raven:family-kamui",
+      "gameId": "punishing-gray-raven",
+      "name": "카무이 (기체 공통)",
+      "aliases": [
+        "family-Kamui",
+        "카무이",
+        "Kamui",
+        "카무이 (기체 공통)"
+      ],
+      "releaseDate": "2021-07-16",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.youtube.com/channel/UCD3ClCZBZ8VLg_PfYMGOJjA",
+      "kind": "family",
+      "releaseOrder": 22
+    },
+    {
+      "id": "punishing-gray-raven:family-chrome",
+      "gameId": "punishing-gray-raven",
+      "name": "크롬 (기체 공통)",
+      "aliases": [
+        "family-Chrome",
+        "크롬",
+        "Chrome",
+        "크롬 (기체 공통)"
+      ],
+      "releaseDate": "2021-11-17",
+      "releaseBasis": "글로벌 / 아시아 출시 일정",
+      "source": "https://www.youtube.com/channel/UCD3ClCZBZ8VLg_PfYMGOJjA",
+      "kind": "family",
+      "releaseOrder": 30
+    },
+    {
+      "id": "punishing-gray-raven:rhea-giseong",
+      "gameId": "punishing-gray-raven",
+      "name": "레이아·기성",
+      "aliases": [
+        "rhea-giseong",
+        "레이아·기성"
+      ],
+      "releaseDate": "2026-11-05",
+      "releaseBasis": "한국 공식 채널에서 확인한 출시 예정일",
+      "source": "https://www.youtube.com/watch?v=fksGHPcmtp0",
+      "releaseOrder": 95
+    }
+  ]
+}

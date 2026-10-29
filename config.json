@@ -46,7 +46,8 @@
             "test server",
             "테스트 서버"
           ],
-          "enabled": true
+          "enabled": true,
+          "titleGameRequired": true
         },
         {
           "channel": "UCQVGsT4eIagPl-nwjfFvBwQ",
@@ -105,7 +106,8 @@
             "test server",
             "테스트 서버"
           ],
-          "enabled": true
+          "enabled": true,
+          "titleGameRequired": true
         }
       ],
       "releaseDate": "2024-05-23"
@@ -156,7 +158,8 @@
             "test server",
             "테스트 서버"
           ],
-          "enabled": true
+          "enabled": true,
+          "titleGameRequired": true
         },
         {
           "channel": "UClDD_y014JIRfnjtn_Yeliw",
@@ -216,7 +219,8 @@
             "test server",
             "테스트 서버"
           ],
-          "enabled": true
+          "enabled": true,
+          "titleGameRequired": true
         },
         {
           "channel": "UCaRXeatgLKRhkSNd50IPFMg",
@@ -246,7 +250,8 @@
             "test server",
             "테스트 서버"
           ],
-          "enabled": true
+          "enabled": true,
+          "titleGameRequired": true
         },
         {
           "channel": "UCRxIDzY5KZNRGerR6KaHxCw",
@@ -275,7 +280,8 @@
             "test server",
             "테스트 서버"
           ],
-          "enabled": true
+          "enabled": true,
+          "titleGameRequired": true
         },
         {
           "channel": "UCaHVimpAxzUHXBzJaWqHtbg",
@@ -304,7 +310,8 @@
             "test server",
             "테스트 서버"
           ],
-          "enabled": true
+          "enabled": true,
+          "titleGameRequired": true
         }
       ],
       "releaseDate": "2024-07-04"
@@ -355,7 +362,8 @@
             "test server",
             "테스트 서버"
           ],
-          "enabled": true
+          "enabled": true,
+          "titleGameRequired": true
         },
         {
           "channel": "UCs7asZ6zS-cf62hMU_wMAaQ",
@@ -549,6 +557,41 @@
           ],
           "enabled": true,
           "titleGameRequired": true
+        },
+        {
+          "channel": "UCdjxkkxjG1sNP1PRHEJr4rw",
+          "name": "ゲームシップ / Mercy",
+          "includeKeywords": [
+            "全モーション集",
+            "all Moveset"
+          ],
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "closed beta",
+            "beta test",
+            "beta gameplay",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "합본",
+            "early animations",
+            "unreleased",
+            "private server",
+            "skill builder",
+            "JJS",
+            "beta",
+            "test server",
+            "테스트 서버",
+            "ベータ",
+            "テスト",
+            "全キャラ",
+            "全モーションを公開中"
+          ],
+          "enabled": true,
+          "titleGameRequired": true
         }
       ]
     },
@@ -569,7 +612,11 @@
         "스킬 전시",
         "스킬 소개",
         "플레이 영상 공개",
-        "Gameplay Reveal"
+        "Gameplay Reveal",
+        "Character Introduction",
+        "Skill Showcase",
+        "Skill Exhibition",
+        "Skill Display"
       ],
       "channelSpecific": true,
       "releaseDate": "2021-07-08",

@@ -1,10 +1,11 @@
 import {execFileSync} from 'node:child_process';
 import {readFile,writeFile,unlink} from 'node:fs/promises';
 import {deduplicate} from '../dedupe.mjs';
+import {enrichVideos,compareRelease} from '../character-catalog.mjs';
 execFileSync(process.env.PYTHON||'python',['scripts/rss.py'],{stdio:'inherit'});
 const result=JSON.parse(await readFile('data/rss-candidates.json','utf8'));
-result.videos=deduplicate(result.videos).sort((a,b)=>Number(b.language==='ko')-Number(a.language==='ko')||b.publishedAt.localeCompare(a.publishedAt));
+const registry=JSON.parse(await readFile('data/characters.json','utf8'));
+result.videos=enrichVideos(deduplicate(result.videos),registry.characters).videos.sort(compareRelease);
 await writeFile('data/videos.json',JSON.stringify(result,null,2)+'\n');
 await unlink('data/rss-candidates.json');
-execFileSync(process.env.PYTHON||'python',['scripts/coverage.py','--live'],{stdio:'inherit'});
 console.log(`Saved ${result.videos.length} RSS videos`);
