@@ -28,13 +28,13 @@ jobs:
           python-version: '3.12'
       - name: Verify and collect public RSS feeds
         run: |
-          node --test scripts/dedupe.test.mjs
+          node --test scripts/dedupe.test.mjs scripts/github-sync.test.mjs
           python -m unittest discover -s scripts -p rss_test.py
           node scripts/collect.mjs
       - name: Prepare public files only
         run: |
           mkdir public
-          cp index.html style.css app.js dedupe.mjs config.json public/
+          cp index.html style.css app.js dedupe.mjs github-sync.mjs config.json public/
           cp -r data public/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

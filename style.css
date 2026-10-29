@@ -6,3 +6,5 @@
 /* Compact game galleries: typically 4–5 cards per desktop row. */
 .game-category .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,210px),1fr));gap:14px;align-items:stretch}
 .card{min-width:0}.cardbody{padding:12px}.card h3{font-size:13px;line-height:1.55;margin:8px 0;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:40px}.tag,.meta{font-size:10px}.play{font-size:25px}.thumb{overflow:hidden}.thumb img{display:block;position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+
+.header-actions{display:flex;gap:8px;flex-wrap:wrap}.sync-panel{padding:14px;background:#26311f;border:1px solid #46563b;border-radius:8px;margin-bottom:12px}.sync-panel p{margin:8px 0;line-height:1.7}.sync-panel a{font-size:12px}.setup-steps{font-size:12px;line-height:1.9;padding-left:20px}.check{display:flex;align-items:center;gap:10px}.check input{flex:none}#connectError{color:#ffb7a1}.gameitem{flex-wrap:wrap}.gameitem>div{flex:1 1 200px}button:disabled{opacity:.5;cursor:wait}#cancelEdit{margin-top:8px}
