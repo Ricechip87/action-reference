@@ -1,4 +1,4 @@
-import {enrichVideos,compareRelease} from './character-catalog.mjs?v=channel-fallback-20261030';
+import {enrichVideos,compareRelease} from './character-catalog.mjs?v=granblue-guides-20261030';
 import {deduplicate} from './dedupe.mjs';
 import {GitHubSettings,collectionStatus} from './github-sync.mjs?v=sources-20261030';
 const $=s=>document.querySelector(s), key='frame-library-v1';

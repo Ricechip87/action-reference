@@ -48,6 +48,14 @@ test('reviewed partial motion scope stays explicit after a feed refresh',()=>{
  assert.equal(result.referenceScope,'basic-attacks');
 });
 
+test('commentary guides retain their label when a collection refresh supplies a generic type',()=>{
+ const video=enrichVideos([{gameId:'zzz',title:'Anby overview and combo guide',sourceKind:'creator',type:'캐릭터 무브셋',referenceScope:'commentary-guide'}],characters).videos[0];
+ assert.equal(video.type,'해설 가이드');
+ const fresh=enrichVideos([{gameId:'zzz',title:'Anby Overview and Combo Guide',sourceKind:'creator',type:'캐릭터 무브셋'}],characters).videos[0];
+ assert.equal(fresh.type,'해설 가이드');
+ assert.equal(fresh.referenceScope,'commentary-guide');
+});
+
 test('Japanese motion titles accept grammatical suffixes without matching another name',()=>{
  const catalog=[{id:'jp-danjin',gameId:'ww',name:'단근',aliases:['Danjin','丹瑾']},{id:'jp-jean',gameId:'gi',name:'진',aliases:['Jean','ジン']}];
  assert.equal(identifyCharacter({gameId:'ww',title:'≪鳴潮≫丹瑾の戦闘モーションを見るだけ',sourceKind:'creator'},catalog)?.id,'jp-danjin');

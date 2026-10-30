@@ -2864,6 +2864,296 @@
           "strictContentExclusions": true
         }
       ]
+    },
+    {
+      "id": "granblue-versus-rising",
+      "name": "그랑블루 판타지 버서스 라이징",
+      "keywords": [
+        "Granblue Fantasy Versus",
+        "Grandblue Fantasy Versus",
+        "GBVSR",
+        "그랑블루 판타지 버서스",
+        "グランブルーファンタジーヴァーサス",
+        "グラブルVS"
+      ],
+      "channels": [
+        "UClgrS5WzqIn_0Ba4yly0edg"
+      ],
+      "includeKeywords": [
+        "Character Guide",
+        "캐릭터 가이드",
+        "キャラクターガイド"
+      ],
+      "releaseDate": "2023-12-14",
+      "enabled": true,
+      "channelSpecific": false,
+      "titleGameRequired": true,
+      "creators": [
+        {
+          "channel": "UCIb4z9EBa95RDQr1OgoZDEw",
+          "name": "GameBurst",
+          "includeKeywords": [
+            "Complete Moveset"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "合本",
+            "全キャラ",
+            "全員",
+            "リーク",
+            "ベータ",
+            "テスト",
+            "demo",
+            "private server",
+            "test server",
+            "modded",
+            "custom moveset",
+            "fan animation",
+            "comparison"
+          ],
+          "approvedVideoIds": [
+            "dRjS8va89f0",
+            "aluL5SYtit0",
+            "8frsuNjjdis",
+            "4JiGcnQVhOY",
+            "XBMk6RFK9y8",
+            "nz6ExXAHuww",
+            "RNVutpvkd8s",
+            "GvtsS3Pcts8",
+            "pmZ5exbPbtQ",
+            "X0rCtEmhs8A"
+          ]
+        },
+        {
+          "channel": "UCQzs1jKCXQc0YUERuqW54-A",
+          "name": "cupui",
+          "includeKeywords": [
+            "Overview and Combo Guide"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "合本",
+            "全キャラ",
+            "全員",
+            "リーク",
+            "ベータ",
+            "テスト",
+            "demo",
+            "private server",
+            "test server",
+            "modded",
+            "custom moveset",
+            "fan animation",
+            "comparison"
+          ],
+          "approvedVideoIds": [
+            "YTr4eg8oWiI",
+            "7IcrDaqanDA",
+            "GH3RkCDv2P0",
+            "2lACc2WBLOs"
+          ],
+          "excludedVideoIds": [
+            "CMn6k1t2Xdw"
+          ]
+        }
+      ],
+      "approvedVideoIds": [
+        "_k_F9I4SJcw",
+        "TS0UI5oYXr4",
+        "Cs9PNrfOKb0",
+        "Sxxkl2qDzT4",
+        "T1Q-Npov7gc",
+        "W5L7cEmnSdA",
+        "rlR1t170E98",
+        "U2OoiGWYFUk",
+        "qRFzs7oXl9o",
+        "ZFD5tpPVy_8",
+        "JdvbUpGJjOE",
+        "6DM3J74HwnM"
+      ]
+    },
+    {
+      "id": "granblue-relink",
+      "name": "그랑블루 판타지 리링크",
+      "keywords": [
+        "Granblue Fantasy Relink",
+        "Granblue Fantasy: Relink",
+        "그랑블루 판타지 리링크",
+        "グランブルーファンタジーリリンク",
+        "グラブルリリンク"
+      ],
+      "channels": [
+        "UCn_aYp-WejEzxkHvD_fYUGQ"
+      ],
+      "includeKeywords": [
+        "Meet the Crew",
+        "캐릭터 소개",
+        "キャラクター紹介"
+      ],
+      "releaseDate": "2024-02-01",
+      "enabled": true,
+      "channelSpecific": false,
+      "titleGameRequired": true,
+      "creators": [
+        {
+          "channel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+          "name": "Gaming Sora",
+          "includeKeywords": [
+            "All Moveset"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "合本",
+            "全キャラ",
+            "全員",
+            "リーク",
+            "ベータ",
+            "テスト",
+            "demo",
+            "private server",
+            "test server",
+            "modded",
+            "custom moveset",
+            "fan animation",
+            "comparison"
+          ],
+          "approvedVideoIds": [
+            "TWHRAZDX0G4",
+            "gwgnzKO6iG8",
+            "1jtd3GN8mnc",
+            "mX-77eDaHc8",
+            "vP0zzVK-q3M",
+            "i_Af8mHAU04",
+            "bHp5wnuTetk",
+            "YTIlxecL3tM",
+            "TKiH97O6kQ0",
+            "ipr7swGVLAY",
+            "xAMDANFWFmI",
+            "xv9JJH-hjc8",
+            "FFzqIawG5i4",
+            "jCnoNuzZZK4",
+            "YCiHCQ3x6Eo",
+            "NrwvBxbQxPY",
+            "YyjIhQ3ryHk",
+            "M2TjxrYFlG4"
+          ]
+        },
+        {
+          "channel": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+          "name": "ポテトL",
+          "includeKeywords": [
+            "モーション集",
+            "Motion Collection",
+            "Motion Showcase"
+          ],
+          "enabled": true,
+          "titleGameRequired": true,
+          "requireCharacterMatch": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "leak",
+            "CBT",
+            "beta",
+            "유출",
+            "베타",
+            "all characters",
+            "all character",
+            "compilation",
+            "合本",
+            "全キャラ",
+            "全員",
+            "リーク",
+            "ベータ",
+            "テスト",
+            "demo",
+            "private server",
+            "test server",
+            "modded",
+            "custom moveset",
+            "fan animation",
+            "comparison"
+          ],
+          "approvedVideoIds": [
+            "dhd01X8sFEk",
+            "J3R-OUFRP2E",
+            "xx7qtNTDU7Y",
+            "mOJ96P_IemE",
+            "If4IYHr046Y",
+            "JEUnQRlefrk",
+            "hCGMsk9TFBI",
+            "CD4uZxYVapY",
+            "4ZvuXmO9DXM",
+            "lszBlrrmv_c"
+          ]
+        }
+      ],
+      "approvedVideoIds": [
+        "GGRNEP0rus4",
+        "WeQzhnmH0so",
+        "1DmEzAJl3WU",
+        "6jSdaCgdkj0",
+        "SQkpEecv0zI",
+        "RbASbIvZSZ4",
+        "dc1p_Oq1pM4",
+        "4LePl_-3WC8",
+        "2LMRP9eiaxk",
+        "o2xo2SyA0kw",
+        "mookIM8vqHQ",
+        "cZExvkbEwiw",
+        "z0YwxSC5wuk",
+        "QzTbSOS89Kg",
+        "AEFhRj0cdQQ",
+        "AzV4IWQkjSY",
+        "Q1w30rpNGYk",
+        "mGiTw5ypxmg",
+        "FMI7ruI2uLI",
+        "ELxxVd52K8E",
+        "M8HNLoTANrc",
+        "2y8A1psasMc",
+        "R7_D2yIRURM",
+        "eoHs4OnEwv0",
+        "pS7nQATuL5w",
+        "UQH5LfvMDiw",
+        "_XAIrQsxjKo",
+        "1hOWx1eihRc"
+      ],
+      "excludeKeywords": [
+        "[JP]",
+        "【JP】"
+      ]
     }
   ]
 }

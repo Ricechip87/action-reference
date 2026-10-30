@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T23:19:16.791297+00:00",
+  "updatedAt": "2026-10-30T02:39:53.221641+00:00",
   "source": "rss",
   "channels": [
     {
@@ -25,7 +25,7 @@
       "channel": "UCQVGsT4eIagPl-nwjfFvBwQ",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 1
     },
@@ -43,7 +43,7 @@
       "channel": "UC2lNEgMSo1Cx3ta6pRxXujA",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
@@ -70,7 +70,7 @@
       "channel": "UCtWbpWFzcXOfME0-z3gQgzw",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
@@ -88,7 +88,7 @@
       "channel": "UCmpGI8Ub5QwzPqPjcNSzl0g",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 1
     },
@@ -115,7 +115,7 @@
       "channel": "UCsfkAM8cRqUGYsV23cDs18A",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
@@ -133,7 +133,7 @@
       "channel": "UCmzdQfQLJ-oCw6cT6IKoiLw",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 3
     },
@@ -159,16 +159,19 @@
       "gameId": "zenless-zone-zero",
       "channel": "@ZZZ_KO",
       "ok": true,
-      "via": "rss",
-      "rssError": null,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
-      "matchedCount": 0
+      "matchedCount": 3
     },
     {
       "gameId": "zenless-zone-zero",
       "channel": "UCt4k40M8zAy2w-XZXxSs9cQ",
-      "ok": false,
-      "error": "RSS: HTTP Error 404: Not Found; public videos: Public videos tab unavailable"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
     },
     {
       "gameId": "zenless-zone-zero",
@@ -200,11 +203,8 @@
     {
       "gameId": "zenless-zone-zero",
       "channel": "UCRxIDzY5KZNRGerR6KaHxCw",
-      "ok": true,
-      "via": "rss",
-      "rssError": null,
-      "feedCount": 15,
-      "matchedCount": 0
+      "ok": false,
+      "error": "RSS: HTTP Error 500: Internal Server Error; public videos: Public videos tab unavailable"
     },
     {
       "gameId": "zenless-zone-zero",
@@ -238,7 +238,7 @@
       "channel": "UCcKrgrVaRAsjsrPXWAojC_w",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 7
     },
@@ -246,8 +246,8 @@
       "gameId": "zenless-zone-zero",
       "channel": "UCBvmaoRSX7e-eXMip6xcS2g",
       "ok": true,
-      "via": "rss",
-      "rssError": null,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 5
     },
@@ -265,22 +265,25 @@
       "channel": "@NTE_KO",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 3
     },
     {
       "gameId": "neverness-to-everness",
       "channel": "UCca8OKY6cbiLbcJlRmWyDLQ",
-      "ok": false,
-      "error": "RSS: HTTP Error 404: Not Found; public videos: Public videos tab unavailable"
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 7
     },
     {
       "gameId": "neverness-to-everness",
       "channel": "UCs7asZ6zS-cf62hMU_wMAaQ",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 8
     },
@@ -288,8 +291,8 @@
       "gameId": "neverness-to-everness",
       "channel": "UChctrvAOi3P_ZCJaQqOCubw",
       "ok": true,
-      "via": "rss",
-      "rssError": null,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
@@ -297,8 +300,8 @@
       "gameId": "genshin-impact",
       "channel": "UCcum1rCJ5GJeQ_xv0xrohqg",
       "ok": true,
-      "via": "rss",
-      "rssError": null,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
@@ -334,7 +337,7 @@
       "channel": "UC2qKK9LtVl-5eXCsI7gUWZw",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
@@ -343,7 +346,7 @@
       "channel": "UC8PMRRzrNzKwoC2f0-SRL1Q",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
@@ -352,7 +355,7 @@
       "channel": "UC_9jEIdbo7WCy2mD164pH0g",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 9,
       "matchedCount": 0
     },
@@ -379,7 +382,7 @@
       "channel": "UCtm9c8ScR7tIP8SpR5svmZw",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
@@ -388,7 +391,7 @@
       "channel": "UCakEtLX5zS1F86xbRd2gdcg",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 4,
       "matchedCount": 0
     },
@@ -396,8 +399,8 @@
       "gameId": "genshin-impact",
       "channel": "UC5tc15-Oeh-l4rjDFEGsbQg",
       "ok": true,
-      "via": "rss",
-      "rssError": null,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
@@ -414,8 +417,8 @@
       "gameId": "genshin-impact",
       "channel": "UCalMqqNasuyzapNAnG8uX1A",
       "ok": true,
-      "via": "rss",
-      "rssError": null,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
@@ -423,8 +426,8 @@
       "gameId": "genshin-impact",
       "channel": "UCkBWskMb7DSKR0OfNwfXktg",
       "ok": true,
-      "via": "rss",
-      "rssError": null,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
@@ -433,7 +436,7 @@
       "channel": "UCuuKVxdPYo89HyV5IkoOOtQ",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
@@ -442,7 +445,7 @@
       "channel": "UCmHfaKu9cRRHf6RLv9oVj_A",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 1
     },
@@ -460,7 +463,7 @@
       "channel": "UCsfkAM8cRqUGYsV23cDs18A",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
@@ -504,8 +507,8 @@
       "gameId": "genshin-impact",
       "channel": "UCXZnZntLTfXnyNxrmJ-piVg",
       "ok": true,
-      "via": "rss",
-      "rssError": null,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
@@ -514,7 +517,7 @@
       "channel": "UC2Js8xQUwvu9fbxR1JVy8PQ",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 1
     },
@@ -522,10 +525,10 @@
       "gameId": "arknights-endfield",
       "channel": "UCIf9gYpmmIJV7flBhUhuqYQ",
       "ok": true,
-      "via": "rss",
-      "rssError": null,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
-      "matchedCount": 0
+      "matchedCount": 1
     },
     {
       "gameId": "arknights-endfield",
@@ -541,7 +544,7 @@
       "channel": "UCQVGsT4eIagPl-nwjfFvBwQ",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
@@ -559,7 +562,7 @@
       "channel": "UCkaCacJincq0ET6bS_rLwzQ",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 404: Not Found",
+      "rssError": "HTTP Error 500: Internal Server Error",
       "feedCount": 15,
       "matchedCount": 0
     },
@@ -568,7 +571,7 @@
       "channel": "UCsfkAM8cRqUGYsV23cDs18A",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
@@ -586,7 +589,7 @@
       "channel": "UCD3ClCZBZ8VLg_PfYMGOJjA",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
     },
@@ -595,7 +598,7 @@
       "channel": "UCDxOGM9TRLG9Qc0a_I6vP8A",
       "ok": true,
       "via": "channel-videos",
-      "rssError": "HTTP Error 500: Internal Server Error",
+      "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 11
     },
@@ -607,6 +610,60 @@
       "rssError": "HTTP Error 404: Not Found",
       "feedCount": 15,
       "matchedCount": 0
+    },
+    {
+      "gameId": "granblue-versus-rising",
+      "channel": "UClgrS5WzqIn_0Ba4yly0edg",
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 4
+    },
+    {
+      "gameId": "granblue-versus-rising",
+      "channel": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "granblue-versus-rising",
+      "channel": "UCQzs1jKCXQc0YUERuqW54-A",
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "granblue-relink",
+      "channel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 4
+    },
+    {
+      "gameId": "granblue-relink",
+      "channel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "granblue-relink",
+      "channel": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "ok": true,
+      "via": "channel-videos",
+      "rssError": "HTTP Error 404: Not Found",
+      "feedCount": 15,
+      "matchedCount": 6
     }
   ],
   "videos": [
@@ -7432,6 +7489,386 @@
       "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)"
     },
     {
+      "id": "4JiGcnQVhOY",
+      "title": "Grandblue Fantasy Versus Rising - Belial Complete Moveset",
+      "description": "조회수 937회  2024. 3. 18.  #grandblue #demon #moveset\nBelial Complete Moveset Guide - Grandblue Fantasy Versus Rising\n\nNote: This doesnt include the custom combos\n\nEnjoy!\n\nThis video is recorded and edited by me: Gameburst\nGameplay are also recorded by me: Gameburst\n\nRise to the challenge in Granblue Fantasy Versus: Rising! This powered up, revamped sequel to GBVS is more enjoyable and accessible than ever before. With simplified input options, even newcomers can engage in thrilling and strategic matches!\n\nPlease subscribe for more Grandblue Fantasy Versus Rising Moveset Guide\n\n#belial #demon #grandblue #moveset #anime #fightinggame #bahamut",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "2024-03-18",
+      "channelId": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "channelTitle": "GameBurst",
+      "language": "en",
+      "sourceChannel": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT145S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=4JiGcnQVhOY",
+      "localizedTitles": [
+        "Grandblue Fantasy Versus Rising - Belial Complete Moveset"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "4JiGcnQVhOY",
+          "title": "Grandblue Fantasy Versus Rising - Belial Complete Moveset",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:belial",
+      "characterName": "Belial",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-12-14",
+      "characterReleaseOrder": 4,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
+      "id": "nz6ExXAHuww",
+      "title": "Grandblue Fantasy Versus Rising - Gran Complete Moveset",
+      "description": "조회수 1,362회  2024. 2. 25.  #grandblue #leader #gran\nGran Complete Moveset Guide - Grandblue Fantasy Versus Rising\n\nNote: This doesnt include the custom combos\n\nEnjoy!\n\nThis video is recorded and edited by me: Gameburst\nGameplay are also recorded by me: Gameburst\n\nRise to the challenge in Granblue Fantasy Versus: Rising! This powered up, revamped sequel to GBVS is more enjoyable and accessible than ever before. With simplified input options, even newcomers can engage in thrilling and strategic matches!\n\nPlease subscribe for more Grandblue Fantasy Versus Rising Moveset Guide\n\n#gran #leader #protagonist #grandblue #moveset #anime #fightinggame #bahamut",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "2024-02-25",
+      "channelId": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "channelTitle": "GameBurst",
+      "language": "en",
+      "sourceChannel": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT121S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=nz6ExXAHuww",
+      "localizedTitles": [
+        "Grandblue Fantasy Versus Rising - Gran Complete Moveset"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "nz6ExXAHuww",
+          "title": "Grandblue Fantasy Versus Rising - Gran Complete Moveset",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:gran",
+      "characterName": "Gran",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-12-14",
+      "characterReleaseOrder": 10,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
+      "id": "2lACc2WBLOs",
+      "title": "[ GBVSR ] Grimnir Overview and Combo Guide",
+      "description": "조회수 4,853회  2023. 12. 18.  #granbluefantasy #granbluefantasyversus\nGrimnir Chuunibyou\n\n0:00 Move Overview\n6:53 Combo Structure\n12:18 Sample combo\n\nMy Arcade Stick Setup :\nhttps://tokopedia.link/OBvFAWDRBFb\n\nNotation :\n\nhttps://www.dustloop.com/w/GBVS/Controls\n\nFollow us \nMeet me @ https://linktr.ee/ekocupui\nSupport us @   / crossgath​   and   / crossgathering  \n\n#granbluefantasy #granbluefantasyversus",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "2023-12-18",
+      "channelId": "UCQzs1jKCXQc0YUERuqW54-A",
+      "channelTitle": "cupui",
+      "language": "en",
+      "sourceChannel": "UCQzs1jKCXQc0YUERuqW54-A",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "해설 가이드",
+      "duration": "PT911S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=2lACc2WBLOs",
+      "localizedTitles": [
+        "[ GBVSR ] Grimnir Overview and Combo Guide"
+      ],
+      "referenceScope": "commentary-guide",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "일반·특수기 개요와 콤보를 설명하는 해설 가이드",
+      "variants": [
+        {
+          "id": "2lACc2WBLOs",
+          "title": "[ GBVSR ] Grimnir Overview and Combo Guide",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:grimnir",
+      "characterName": "Grimnir",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-12-14",
+      "characterReleaseOrder": 11,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
+      "id": "pmZ5exbPbtQ",
+      "title": "Grandblue Fantasy Versus Rising - Katalina Complete Moveset",
+      "description": "조회수 604회  2024. 2. 27.  #grandblue #ice #knight\nKatalina Aryze Complete Moveset Guide - Grandblue Fantasy Versus Rising\n\nNote: This doesnt include the custom combos\n\nEnjoy!\n\nThis video is recorded and edited by me: Gameburst\nGameplay are also recorded by me: Gameburst\n\nRise to the challenge in Granblue Fantasy Versus: Rising! This powered up, revamped sequel to GBVS is more enjoyable and accessible than ever before. With simplified input options, even newcomers can engage in thrilling and strategic matches!\n\nPlease subscribe for more Grandblue Fantasy Versus Rising Moveset Guide\n\n#katalina #knight #erste #ice #grandblue #moveset #anime #fightinggame #bahamut",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "2024-02-27",
+      "channelId": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "channelTitle": "GameBurst",
+      "language": "en",
+      "sourceChannel": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT118S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=pmZ5exbPbtQ",
+      "localizedTitles": [
+        "Grandblue Fantasy Versus Rising - Katalina Complete Moveset"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "pmZ5exbPbtQ",
+          "title": "Grandblue Fantasy Versus Rising - Katalina Complete Moveset",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:katalina",
+      "characterName": "Katalina",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-12-14",
+      "characterReleaseOrder": 12,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
+      "id": "RNVutpvkd8s",
+      "title": "Grandblue Fantasy Versus Rising - Narmaya Complete Moveset",
+      "description": "조회수 1,136회  2024. 3. 11.  #grandblue #swordmaster #samurai\nNarmaya Complete Moveset Guide - Grandblue Fantasy Versus Rising\n\nNote: This doesnt include the custom combos\n\nEnjoy!\n\nThis video is recorded and edited by me: Gameburst\nGameplay are also recorded by me: Gameburst\n\nRise to the challenge in Granblue Fantasy Versus: Rising! This powered up, revamped sequel to GBVS is more enjoyable and accessible than ever before. With simplified input options, even newcomers can engage in thrilling and strategic matches!\n\nPlease subscribe for more Grandblue Fantasy Versus Rising Moveset Guide\n\n#samurai #swordmaster #katana #grandblue #moveset #anime #fightinggame #bahamut",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "2024-03-11",
+      "channelId": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "channelTitle": "GameBurst",
+      "language": "en",
+      "sourceChannel": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT165S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=RNVutpvkd8s",
+      "localizedTitles": [
+        "Grandblue Fantasy Versus Rising - Narmaya Complete Moveset"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "RNVutpvkd8s",
+          "title": "Grandblue Fantasy Versus Rising - Narmaya Complete Moveset",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:narmaya",
+      "characterName": "Narmaya",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-12-14",
+      "characterReleaseOrder": 17,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
+      "id": "XBMk6RFK9y8",
+      "title": "Grandblue Fantasy Versus Rising - Seox Complete Moveset",
+      "description": "조회수 837회  2024. 3. 21.  #eternals #grandblue #claws\nSeox Complete Moveset Guide - Grandblue Fantasy Versus Rising\n\nNote: This doesnt include the custom combos\n\nEnjoy!\n\nThis video is recorded and edited by me: Gameburst\nGameplay are also recorded by me: Gameburst\n\nRise to the challenge in Granblue Fantasy Versus: Rising! This powered up, revamped sequel to GBVS is more enjoyable and accessible than ever before. With simplified input options, even newcomers can engage in thrilling and strategic matches!\n\nPlease subscribe for more Grandblue Fantasy Versus Rising Moveset Guide\n\n#seox #eternals #claws #grandblue #moveset #anime #fightinggame #bahamut",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "2024-03-21",
+      "channelId": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "channelTitle": "GameBurst",
+      "language": "en",
+      "sourceChannel": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT147S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=XBMk6RFK9y8",
+      "localizedTitles": [
+        "Grandblue Fantasy Versus Rising - Seox Complete Moveset"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "XBMk6RFK9y8",
+          "title": "Grandblue Fantasy Versus Rising - Seox Complete Moveset",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:seox",
+      "characterName": "Seox",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-12-14",
+      "characterReleaseOrder": 20,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
+      "id": "GH3RkCDv2P0",
+      "title": "[ GBVSR ] Siegfried Overview and Combo Guide",
+      "description": "조회수 4,229회  2024. 1. 4.  #granbluefantasy #granbluefantasyversus\nWhy Siegfried again ??? Because I want to make a better guide\n\n0:00 Move Overview\n15:04 Combo Structure\n17:29 Sample combo\n\nMy Arcade Stick Setup :\nhttps://tokopedia.link/OBvFAWDRBFb\n\nNotation :\n\nhttps://www.dustloop.com/w/GBVS/Controls\n\nFollow us \nMeet me @ https://linktr.ee/ekocupui\nSupport us @   / crossgath​   and   / crossgathering  \n\n#granbluefantasy #granbluefantasyversus",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "2024-01-04",
+      "channelId": "UCQzs1jKCXQc0YUERuqW54-A",
+      "channelTitle": "cupui",
+      "language": "en",
+      "sourceChannel": "UCQzs1jKCXQc0YUERuqW54-A",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "해설 가이드",
+      "duration": "PT1223S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=GH3RkCDv2P0",
+      "localizedTitles": [
+        "[ GBVSR ] Siegfried Overview and Combo Guide"
+      ],
+      "referenceScope": "commentary-guide",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "일반·특수기 개요와 콤보를 설명하는 해설 가이드",
+      "variants": [
+        {
+          "id": "GH3RkCDv2P0",
+          "title": "[ GBVSR ] Siegfried Overview and Combo Guide",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:siegfried",
+      "characterName": "Siegfried",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-12-14",
+      "characterReleaseOrder": 21,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
+      "id": "7IcrDaqanDA",
+      "title": "[ GBVSR ] Soriz Overview and Combo Guide",
+      "description": "조회수 8,340회  2024. 1. 8.  #granbluefantasy #granbluefantasyversus\nWhen Siegfried didn't exist in GBVS, Soriz is my favourite character\n\n0:00 Move Overview\n14:37 Combo Structure\n17:11 Sample combo\n\nMy Arcade Stick Setup :\nhttps://tokopedia.link/OBvFAWDRBFb\n\nNotation :\n\nhttps://www.dustloop.com/w/GBVS/Controls\n\nFollow us \nMeet me @ https://linktr.ee/ekocupui\nSupport us @   / crossgath​   and   / crossgathering  \n\n#granbluefantasy #granbluefantasyversus",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "2024-01-08",
+      "channelId": "UCQzs1jKCXQc0YUERuqW54-A",
+      "channelTitle": "cupui",
+      "language": "en",
+      "sourceChannel": "UCQzs1jKCXQc0YUERuqW54-A",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "해설 가이드",
+      "duration": "PT1227S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=7IcrDaqanDA",
+      "localizedTitles": [
+        "[ GBVSR ] Soriz Overview and Combo Guide"
+      ],
+      "referenceScope": "commentary-guide",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "일반·특수기 개요와 콤보를 설명하는 해설 가이드",
+      "variants": [
+        {
+          "id": "7IcrDaqanDA",
+          "title": "[ GBVSR ] Soriz Overview and Combo Guide",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:soriz",
+      "characterName": "Soriz",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-12-14",
+      "characterReleaseOrder": 22,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
+      "id": "X0rCtEmhs8A",
+      "title": "Grandblue Fantasy Versus Rising - Zeta Complete Moveset",
+      "description": "조회수 626회  2024. 3. 13.  #grandblue #zeta #moveset\nZeta Complete Moveset Guide - Grandblue Fantasy Versus Rising\n\nNote: This doesnt include the custom combos\n\nEnjoy!\n\nThis video is recorded and edited by me: Gameburst\nGameplay are also recorded by me: Gameburst\n\nRise to the challenge in Granblue Fantasy Versus: Rising! This powered up, revamped sequel to GBVS is more enjoyable and accessible than ever before. With simplified input options, even newcomers can engage in thrilling and strategic matches!\n\nPlease subscribe for more Grandblue Fantasy Versus Rising Moveset Guide\n\n#zeta #spear #grandblue #moveset #anime #fightinggame #bahamut",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "2024-03-13",
+      "channelId": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "channelTitle": "GameBurst",
+      "language": "en",
+      "sourceChannel": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT155S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=X0rCtEmhs8A",
+      "localizedTitles": [
+        "Grandblue Fantasy Versus Rising - Zeta Complete Moveset"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "X0rCtEmhs8A",
+          "title": "Grandblue Fantasy Versus Rising - Zeta Complete Moveset",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:zeta",
+      "characterName": "Zeta",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-12-14",
+      "characterReleaseOrder": 26,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
+      "id": "GvtsS3Pcts8",
+      "title": "Grandblue Fantasy Versus Rising - Zooey Complete Moveset",
+      "description": "조회수 637회  2024. 3. 17.  #grandblue #knight #dragon\nZooey Complete Moveset Guide - Grandblue Fantasy Versus Rising\n\nNote: This doesnt include the custom combos\n\nEnjoy!\n\nThis video is recorded and edited by me: Gameburst\nGameplay are also recorded by me: Gameburst\n\nRise to the challenge in Granblue Fantasy Versus: Rising! This powered up, revamped sequel to GBVS is more enjoyable and accessible than ever before. With simplified input options, even newcomers can engage in thrilling and strategic matches!\n\nPlease subscribe for more Grandblue Fantasy Versus Rising Moveset Guide\n\n#zooey #dragon #knight #grandblue #moveset #anime #fightinggame #bahamut",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "2024-03-17",
+      "channelId": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "channelTitle": "GameBurst",
+      "language": "en",
+      "sourceChannel": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT165S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=GvtsS3Pcts8",
+      "localizedTitles": [
+        "Grandblue Fantasy Versus Rising - Zooey Complete Moveset"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "GvtsS3Pcts8",
+          "title": "Grandblue Fantasy Versus Rising - Zooey Complete Moveset",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:zooey",
+      "characterName": "Zooey",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-12-14",
+      "characterReleaseOrder": 27,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
       "id": "tvnB7pBWcAY",
       "title": "원신 | 데인 여담-「나비아: 새로운 항해의 서막」",
       "publishedAt": "2023-12-19T20:00:20-08:00",
@@ -7572,6 +8009,84 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "6DM3J74HwnM",
+      "title": "Granblue Fantasy Versus: Rising – Lucilius Character Guide",
+      "description": "Give praise, for he has no equal. Lucilius, the king of fallen angels, arrives on January 16 as Granblue Fantasy Versus: Rising's first playable DLC character—prepare yourself with this gameplay...",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2023-10-30",
+        "latest": "2024-10-30",
+        "label": "2년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UClgrS5WzqIn_0Ba4yly0edg",
+      "channelTitle": "Cygames EN",
+      "language": "en",
+      "sourceChannel": "UClgrS5WzqIn_0Ba4yly0edg",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT399S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UClgrS5WzqIn_0Ba4yly0edg/search?query=Granblue%20Fantasy%20Versus%3A%20Rising%20%E2%80%93%20Lucilius%20Character%20Guide",
+      "localizedTitles": [
+        "Granblue Fantasy Versus: Rising – Lucilius Character Guide"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "6DM3J74HwnM",
+          "title": "Granblue Fantasy Versus: Rising – Lucilius Character Guide",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:lucilius",
+      "characterName": "Lucilius",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-01-16",
+      "characterReleaseOrder": 28,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
+      "id": "aluL5SYtit0",
+      "title": "Grandblue Fantasy Versus Rising - Lucilius Complete Moveset",
+      "description": "조회수 1,459회  2024. 3. 10.  #grandblue #lucifer #astral\nLucilius (Lucifer the Voidwing) Complete Moveset Guide - Grandblue Fantasy Versus Rising\n\nNote: This doesnt include the custom combos\n\nEnjoy!\n\nThis video is recorded and edited by me: Gameburst\nGameplay are also recorded by me: Gameburst\n\nRise to the challenge in Granblue Fantasy Versus: Rising! This powered up, revamped sequel to GBVS is more enjoyable and accessible than ever before. With simplified input options, even newcomers can engage in thrilling and strategic matches!\n\nPlease subscribe for more Grandblue Fantasy Versus Rising Moveset Guide\n\n#lucifer #astral #gran #helel #grandblue #moveset #anime #fightinggame #bahamut",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "2024-03-10",
+      "channelId": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "channelTitle": "GameBurst",
+      "language": "en",
+      "sourceChannel": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT151S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=aluL5SYtit0",
+      "localizedTitles": [
+        "Grandblue Fantasy Versus Rising - Lucilius Complete Moveset"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "aluL5SYtit0",
+          "title": "Grandblue Fantasy Versus Rising - Lucilius Complete Moveset",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:lucilius",
+      "characterName": "Lucilius",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-01-16",
+      "characterReleaseOrder": 28,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
       "id": "p_u6H4rpcuw",
       "title": "Ayla: Kaleido | Punishing: Gray Raven | Character Ultimates | Finishers | Brief Moveset Showcase",
       "publishedAt": "2026-08-17T21:00:20-07:00",
@@ -7704,6 +8219,1568 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "6jSdaCgdkj0",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Gran",
+      "description": "Meet Gran (Voice: Kyle McCarley), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Gran:\nhttps://relink-ragnarok.granbluefantasy.com/en/characte...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "기타",
+      "duration": "PT49S",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/videos",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Gran"
+      ],
+      "referenceScope": "official-character-showcase",
+      "requiresReleaseWindow": true,
+      "variants": [
+        {
+          "id": "6jSdaCgdkj0",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Gran",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:captain",
+      "characterName": "주인공(그랑·지타)",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 18,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "TWHRAZDX0G4",
+      "title": "Gran & Djeeta All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+      "description": "조회수 1,061회  2024. 2. 27.\nThe Most Completed Chracter's Battle Moveset Showcase of Granblue Fantasy Relink \n\nEmbark on thrilling adventures with me to explore the captivating worlds of JRPGs, Horror, Action RPGs, and Story-Driven Games! From intense boss battles to gripping narratives, I'm here to document every unforgettable moment.\n\nSubscribe to My Channel to stay up-to-date on the latest uploads and join me on epic quests, terrifying encounters, and exhilarating battles. Don't forget to hit the notification bell to ensure you never miss a beat!\n\nLet's journey together into the heart of gaming greatness. Welcome to My Channel!",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-02-27",
+      "channelId": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "channelTitle": "Gaming Sora",
+      "language": "en",
+      "sourceChannel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT187S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=TWHRAZDX0G4",
+      "localizedTitles": [
+        "Gran & Djeeta All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "TWHRAZDX0G4",
+          "title": "Gran & Djeeta All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:captain",
+      "characterName": "주인공(그랑·지타)",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 18,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "QzTbSOS89Kg",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Cagliostro",
+      "description": "Meet Cagliostro (Voice: Sarah Anne Williams), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Cagliostro:\nhttps://relink-ragnarok.granbluefanta...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT62S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Cagliostro",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Cagliostro"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "QzTbSOS89Kg",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Cagliostro",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:cagliostro",
+      "characterName": "Cagliostro",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 0,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "FFzqIawG5i4",
+      "title": "Cagliostro All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+      "description": "조회수 1,391회  2024. 2. 28.\nThe Most Completed Chracter's Battle Moveset Showcase of Granblue Fantasy Relink \n\nEmbark on thrilling adventures with me to explore the captivating worlds of JRPGs, Horror, Action RPGs, and Story-Driven Games! From intense boss battles to gripping narratives, I'm here to document every unforgettable moment.\n\nSubscribe to My Channel to stay up-to-date on the latest uploads and join me on epic quests, terrifying encounters, and exhilarating battles. Don't forget to hit the notification bell to ensure you never miss a beat!\n\nLet's journey together into the heart of gaming greatness. Welcome to My Channel!",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-02-28",
+      "channelId": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "channelTitle": "Gaming Sora",
+      "language": "en",
+      "sourceChannel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT100S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=FFzqIawG5i4",
+      "localizedTitles": [
+        "Cagliostro All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "FFzqIawG5i4",
+          "title": "Cagliostro All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:cagliostro",
+      "characterName": "Cagliostro",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 0,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "M8HNLoTANrc",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Charlotta",
+      "description": "Meet Charlotta (Voice: Cristina \"Vee\" Valenzuela), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Charlotta:\nhttps://relink-ragnarok.granbluef...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT51S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Charlotta",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Charlotta"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "M8HNLoTANrc",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Charlotta",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:charlotta",
+      "characterName": "Charlotta",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 1,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "vP0zzVK-q3M",
+      "title": "Charlotta All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+      "description": "조회수 1,042회  2024. 2. 28.\nThe Most Completed Chracter's Battle Moveset Showcase of Granblue Fantasy Relink \n\nEmbark on thrilling adventures with me to explore the captivating worlds of JRPGs, Horror, Action RPGs, and Story-Driven Games! From intense boss battles to gripping narratives, I'm here to document every unforgettable moment.\n\nSubscribe to My Channel to stay up-to-date on the latest uploads and join me on epic quests, terrifying encounters, and exhilarating battles. Don't forget to hit the notification bell to ensure you never miss a beat!\n\nLet's journey together into the heart of gaming greatness. Welcome to My Channel!",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-02-28",
+      "channelId": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "channelTitle": "Gaming Sora",
+      "language": "en",
+      "sourceChannel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT97S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=vP0zzVK-q3M",
+      "localizedTitles": [
+        "Charlotta All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "vP0zzVK-q3M",
+          "title": "Charlotta All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:charlotta",
+      "characterName": "Charlotta",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 1,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "dc1p_Oq1pM4",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Eugen",
+      "description": "Meet Eugen (Voice: Richard Epcar), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Eugen:\nhttps://relink-ragnarok.granbluefantasy.com/en/charac...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT54S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Eugen",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Eugen"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "dc1p_Oq1pM4",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Eugen",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:eugen",
+      "characterName": "Eugen",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 2,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "xv9JJH-hjc8",
+      "title": "Eugene All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+      "description": "조회수 324회  2024. 2. 28.\nThe Most Completed Chracter's Battle Moveset Showcase of Granblue Fantasy Relink \n\nEmbark on thrilling adventures with me to explore the captivating worlds of JRPGs, Horror, Action RPGs, and Story-Driven Games! From intense boss battles to gripping narratives, I'm here to document every unforgettable moment.\n\nSubscribe to My Channel to stay up-to-date on the latest uploads and join me on epic quests, terrifying encounters, and exhilarating battles. Don't forget to hit the notification bell to ensure you never miss a beat!\n\nLet's journey together into the heart of gaming greatness. Welcome to My Channel!",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-02-28",
+      "channelId": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "channelTitle": "Gaming Sora",
+      "language": "en",
+      "sourceChannel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT104S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=xv9JJH-hjc8",
+      "localizedTitles": [
+        "Eugene All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "xv9JJH-hjc8",
+          "title": "Eugene All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:eugen",
+      "characterName": "Eugen",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 2,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "AzV4IWQkjSY",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Ferry",
+      "description": "Meet Ferry (Voice: Cristina \"Vee\" Valenzuela), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Ferry:\nhttps://relink-ragnarok.granbluefantasy.c...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT56S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Ferry",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Ferry"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "AzV4IWQkjSY",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Ferry",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:ferry",
+      "characterName": "Ferry",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 3,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "xAMDANFWFmI",
+      "title": "Ferry All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+      "description": "조회수 586회  2024. 2. 28.\nThe Most Completed Chracter's Battle Moveset Showcase of Granblue Fantasy Relink \n\nEmbark on thrilling adventures with me to explore the captivating worlds of JRPGs, Horror, Action RPGs, and Story-Driven Games! From intense boss battles to gripping narratives, I'm here to document every unforgettable moment.\n\nSubscribe to My Channel to stay up-to-date on the latest uploads and join me on epic quests, terrifying encounters, and exhilarating battles. Don't forget to hit the notification bell to ensure you never miss a beat!\n\nLet's journey together into the heart of gaming greatness. Welcome to My Channel!",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-02-28",
+      "channelId": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "channelTitle": "Gaming Sora",
+      "language": "en",
+      "sourceChannel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT101S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=xAMDANFWFmI",
+      "localizedTitles": [
+        "Ferry All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "xAMDANFWFmI",
+          "title": "Ferry All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:ferry",
+      "characterName": "Ferry",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 3,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "AEFhRj0cdQQ",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Ghandagoza",
+      "description": "Meet Ghandagoza (Voice: Dave Fennoy), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Ghandagoza:\nhttps://relink-ragnarok.granbluefantasy.com/e...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT53S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Ghandagoza",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Ghandagoza"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "AEFhRj0cdQQ",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Ghandagoza",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:ghandagoza",
+      "characterName": "Ghandagoza",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 4,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "i_Af8mHAU04",
+      "title": "Ghandagoza All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+      "description": "조회수 516회  2024. 2. 28.\nThe Most Completed Chracter's Battle Moveset Showcase of Granblue Fantasy Relink \n\nEmbark on thrilling adventures with me to explore the captivating worlds of JRPGs, Horror, Action RPGs, and Story-Driven Games! From intense boss battles to gripping narratives, I'm here to document every unforgettable moment.\n\nSubscribe to My Channel to stay up-to-date on the latest uploads and join me on epic quests, terrifying encounters, and exhilarating battles. Don't forget to hit the notification bell to ensure you never miss a beat!\n\nLet's journey together into the heart of gaming greatness. Welcome to My Channel!",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-02-28",
+      "channelId": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "channelTitle": "Gaming Sora",
+      "language": "en",
+      "sourceChannel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT115S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=i_Af8mHAU04",
+      "localizedTitles": [
+        "Ghandagoza All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "i_Af8mHAU04",
+          "title": "Ghandagoza All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:ghandagoza",
+      "characterName": "Ghandagoza",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 4,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "o2xo2SyA0kw",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Id",
+      "description": "Meet Id (Voice: Robbie Daymond), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Id:\nhttps://relink-ragnarok.granbluefantasy.com/en/characters/...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT84S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Id",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Id"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "o2xo2SyA0kw",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Id",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:id",
+      "characterName": "Id",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 5,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "1jtd3GN8mnc",
+      "title": "Id All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+      "description": "조회수 1,373회  2024. 2. 29.\nThe Most Completed Chracter's Battle Moveset Showcase of Granblue Fantasy Relink \n\nEmbark on thrilling adventures with me to explore the captivating worlds of JRPGs, Horror, Action RPGs, and Story-Driven Games! From intense boss battles to gripping narratives, I'm here to document every unforgettable moment.\n\nSubscribe to My Channel to stay up-to-date on the latest uploads and join me on epic quests, terrifying encounters, and exhilarating battles. Don't forget to hit the notification bell to ensure you never miss a beat!\n\nLet's journey together into the heart of gaming greatness. Welcome to My Channel!",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-02-29",
+      "channelId": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "channelTitle": "Gaming Sora",
+      "language": "en",
+      "sourceChannel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT159S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=1jtd3GN8mnc",
+      "localizedTitles": [
+        "Id All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "1jtd3GN8mnc",
+          "title": "Id All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:id",
+      "characterName": "Id",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 5,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "1DmEzAJl3WU",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Io",
+      "description": "Meet Io (Voice: Jackie Lastra), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Io:\nhttps://relink-ragnarok.granbluefantasy.com/en/characters/i...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT50S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Io",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Io"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "1DmEzAJl3WU",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Io",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:io",
+      "characterName": "Io",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 6,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "bHp5wnuTetk",
+      "title": "Io All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+      "description": "조회수 670회  2024. 2. 27.\nThe Most Completed Chracter's Battle Moveset Showcase \n\nEmbark on thrilling adventures with me to explore the captivating worlds of JRPGs, Horror, Action RPGs, and Story-Driven Games! From intense boss battles to gripping narratives, I'm here to document every unforgettable moment.\n\nSubscribe to My Channel to stay up-to-date on the latest uploads and join me on epic quests, terrifying encounters, and exhilarating battles. Don't forget to hit the notification bell to ensure you never miss a beat!\n\nLet's journey together into the heart of gaming greatness. Welcome to My Channel!",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-02-27",
+      "channelId": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "channelTitle": "Gaming Sora",
+      "language": "en",
+      "sourceChannel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT121S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=bHp5wnuTetk",
+      "localizedTitles": [
+        "Io All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "bHp5wnuTetk",
+          "title": "Io All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:io",
+      "characterName": "Io",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 6,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "2LMRP9eiaxk",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Katalina",
+      "description": "Meet Katalina (Voice: Erica Lindbeck), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Katalina:\nhttps://relink-ragnarok.granbluefantasy.com/en...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT48S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Katalina",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Katalina"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "2LMRP9eiaxk",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Katalina",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:katalina",
+      "characterName": "Katalina",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 7,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "M2TjxrYFlG4",
+      "title": "Katalina All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+      "description": "조회수 948회  2024. 2. 27.\nThe Most Completed Character's Battle Moveset Showcase \n\nEmbark on thrilling adventures with me to explore the captivating worlds of JRPGs, Horror, Action RPGs, and Story-Driven Games! From intense boss battles to gripping narratives, I'm here to document every unforgettable moment.\n\nSubscribe to My Channel to stay up-to-date on the latest uploads and join me on epic quests, terrifying encounters, and exhilarating battles. Don't forget to hit the notification bell to ensure you never miss a beat!\n\nLet's journey together into the heart of gaming greatness. Welcome to My Channel!",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-02-27",
+      "channelId": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "channelTitle": "Gaming Sora",
+      "language": "en",
+      "sourceChannel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT161S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=M2TjxrYFlG4",
+      "localizedTitles": [
+        "Katalina All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "M2TjxrYFlG4",
+          "title": "Katalina All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:katalina",
+      "characterName": "Katalina",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 7,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "SQkpEecv0zI",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Lancelot",
+      "description": "Meet Lancelot (Voice: Stephen Fu), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Lancelot:\nhttps://relink-ragnarok.granbluefantasy.com/en/cha...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "기타",
+      "duration": "PT50S",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/videos",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Lancelot"
+      ],
+      "referenceScope": "official-character-showcase",
+      "requiresReleaseWindow": true,
+      "variants": [
+        {
+          "id": "SQkpEecv0zI",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Lancelot",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:lancelot",
+      "characterName": "Lancelot",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 8,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "lszBlrrmv_c",
+      "title": "グランブルーファンタジーリリンク/ランスロット(CV：小野友樹)/モーション集/グラブルリリンク",
+      "localizedTitles": [
+        "グランブルーファンタジーリリンク/ランスロット(CV：小野友樹)/モーション集/グラブルリリンク"
+      ],
+      "gameId": "granblue-relink",
+      "channelId": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "channelTitle": "ポテトL",
+      "sourceChannel": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "sourceKind": "creator",
+      "language": "ja",
+      "referenceScope": "moveset",
+      "type": "캐릭터 무브셋",
+      "gameVerified": true,
+      "duration": "PT130S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=lszBlrrmv_c",
+      "description": "조회수 1,211회  2024. 2. 20.  #グラブル #granbluefantasy #モーション集\nランスロットのモーション集です\n0:00 サポートアビリティ\n\n0:08 打ち上げ攻撃→空中コンボ→落下攻撃\n\n0:19 双剣乱舞\n\n0:26 コンボ攻撃→リンクアタック\n\n0:46 ブラオドルヒ\n\n0:53 シュヴェルトガイスト\n\n1:01 ルフトシュピーゲル\n\n1:09 ブレードインパルス\n\n1:17 カルツヴィンガー\n\n1:27 ラヴィーナシュトローム\n\n1:39 トゥルブレンツ\n\n1:47 サザンクロス\n\n1:55 奥義（ヴァイス・フリューゲル）\n\n\nGRANBLUE FANTASY: Relink\nプラットフォーム \nPlayStation5\nPlayStation4\nSteam\nジャンル アクションRPG\nプレイ人数 1人（オンライン時:最大4人）\nオンライン 対応\n発売日 2024年2月1日\nCERO:B\nCygames\n\n#モーション集 #グラブル #リリンク #granbluefantasy",
+      "publishedAt": "2024-02-20",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "lszBlrrmv_c",
+          "title": "グランブルーファンタジーリリンク/ランスロット(CV：小野友樹)/モーション集/グラブルリリンク",
+          "language": "ja"
+        }
+      ],
+      "characterId": "granblue-relink:lancelot",
+      "characterName": "Lancelot",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 8,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "FMI7ruI2uLI",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Narmaya",
+      "description": "Meet Narmaya (Voice: Brianna Knickerbocker), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Narmaya:\nhttps://relink-ragnarok.granbluefantasy.c...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT55S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Narmaya",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Narmaya"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "FMI7ruI2uLI",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Narmaya",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:narmaya",
+      "characterName": "Narmaya",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 9,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "gwgnzKO6iG8",
+      "title": "Narmaya All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+      "description": "조회수 1,748회  2024. 2. 29.\nThe Most Completed Chracter's Battle Moveset Showcase of Granblue Fantasy Relink \n\nEmbark on thrilling adventures with me to explore the captivating worlds of JRPGs, Horror, Action RPGs, and Story-Driven Games! From intense boss battles to gripping narratives, I'm here to document every unforgettable moment.\n\nSubscribe to My Channel to stay up-to-date on the latest uploads and join me on epic quests, terrifying encounters, and exhilarating battles. Don't forget to hit the notification bell to ensure you never miss a beat!\n\nLet's journey together into the heart of gaming greatness. Welcome to My Channel!",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-02-29",
+      "channelId": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "channelTitle": "Gaming Sora",
+      "language": "en",
+      "sourceChannel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT156S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=gwgnzKO6iG8",
+      "localizedTitles": [
+        "Narmaya All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "gwgnzKO6iG8",
+          "title": "Narmaya All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:narmaya",
+      "characterName": "Narmaya",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 9,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "R7_D2yIRURM",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Percival",
+      "description": "Meet Percival (Voice: Mark Whitten), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Percival:\nhttps://relink-ragnarok.granbluefantasy.com/en/c...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT51S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Percival",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Percival"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "R7_D2yIRURM",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Percival",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:percival",
+      "characterName": "Percival",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 10,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "mX-77eDaHc8",
+      "title": "Percival All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+      "description": "조회수 1,085회  2024. 2. 29.\nThe Most Completed Chracter's Battle Moveset Showcase of Granblue Fantasy Relink \n\nEmbark on thrilling adventures with me to explore the captivating worlds of JRPGs, Horror, Action RPGs, and Story-Driven Games! From intense boss battles to gripping narratives, I'm here to document every unforgettable moment.\n\nSubscribe to My Channel to stay up-to-date on the latest uploads and join me on epic quests, terrifying encounters, and exhilarating battles. Don't forget to hit the notification bell to ensure you never miss a beat!\n\nLet's journey together into the heart of gaming greatness. Welcome to My Channel!",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-02-29",
+      "channelId": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "channelTitle": "Gaming Sora",
+      "language": "en",
+      "sourceChannel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT114S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=mX-77eDaHc8",
+      "localizedTitles": [
+        "Percival All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "mX-77eDaHc8",
+          "title": "Percival All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:percival",
+      "characterName": "Percival",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 10,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "4LePl_-3WC8",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Rackam",
+      "description": "Meet Rackam (Voice: Kyle Hebert), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Rackam:\nhttps://relink-ragnarok.granbluefantasy.com/en/charac...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT48S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Rackam",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Rackam"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "4LePl_-3WC8",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Rackam",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:rackam",
+      "characterName": "Rackam",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 11,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "TKiH97O6kQ0",
+      "title": "Rackam All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+      "description": "조회수 428회  2024. 2. 29.\nThe Most Completed Chracter's Battle Moveset Showcase of Granblue Fantasy Relink \n\nEmbark on thrilling adventures with me to explore the captivating worlds of JRPGs, Horror, Action RPGs, and Story-Driven Games! From intense boss battles to gripping narratives, I'm here to document every unforgettable moment.\n\nSubscribe to My Channel to stay up-to-date on the latest uploads and join me on epic quests, terrifying encounters, and exhilarating battles. Don't forget to hit the notification bell to ensure you never miss a beat!\n\nLet's journey together into the heart of gaming greatness. Welcome to My Channel!",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-02-29",
+      "channelId": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "channelTitle": "Gaming Sora",
+      "language": "en",
+      "sourceChannel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT126S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=TKiH97O6kQ0",
+      "localizedTitles": [
+        "Rackam All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "TKiH97O6kQ0",
+          "title": "Rackam All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:rackam",
+      "characterName": "Rackam",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 11,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "RbASbIvZSZ4",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Rosetta",
+      "description": "Meet Rosetta (Voice: Allegra Clark), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Rosetta:\nhttps://relink-ragnarok.granbluefantasy.com/en/ch...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT47S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Rosetta",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Rosetta"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "RbASbIvZSZ4",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Rosetta",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:rosetta",
+      "characterName": "Rosetta",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 12,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "jCnoNuzZZK4",
+      "title": "Rosetta All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+      "description": "조회수 854회  2024. 2. 29.\nThe Most Completed Chracter's Battle Moveset Showcase of Granblue Fantasy Relink \n\nEmbark on thrilling adventures with me to explore the captivating worlds of JRPGs, Horror, Action RPGs, and Story-Driven Games! From intense boss battles to gripping narratives, I'm here to document every unforgettable moment.\n\nSubscribe to My Channel to stay up-to-date on the latest uploads and join me on epic quests, terrifying encounters, and exhilarating battles. Don't forget to hit the notification bell to ensure you never miss a beat!\n\nLet's journey together into the heart of gaming greatness. Welcome to My Channel!",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-02-29",
+      "channelId": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "channelTitle": "Gaming Sora",
+      "language": "en",
+      "sourceChannel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT139S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=jCnoNuzZZK4",
+      "localizedTitles": [
+        "Rosetta All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "jCnoNuzZZK4",
+          "title": "Rosetta All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:rosetta",
+      "characterName": "Rosetta",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 12,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "2y8A1psasMc",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Siegfried",
+      "description": "Meet Siegfried (Voice: Jordan Reynolds), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Siegfried:\nhttps://relink-ragnarok.granbluefantasy.com...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT48S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Siegfried",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Siegfried"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "2y8A1psasMc",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Siegfried",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:siegfried",
+      "characterName": "Siegfried",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 13,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "YCiHCQ3x6Eo",
+      "title": "Siegfried All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+      "description": "조회수 893회  2024. 2. 29.\nThe Most Completed Chracter's Battle Moveset Showcase of Granblue Fantasy Relink \n\nEmbark on thrilling adventures with me to explore the captivating worlds of JRPGs, Horror, Action RPGs, and Story-Driven Games! From intense boss battles to gripping narratives, I'm here to document every unforgettable moment.\n\nSubscribe to My Channel to stay up-to-date on the latest uploads and join me on epic quests, terrifying encounters, and exhilarating battles. Don't forget to hit the notification bell to ensure you never miss a beat!\n\nLet's journey together into the heart of gaming greatness. Welcome to My Channel!",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-02-29",
+      "channelId": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "channelTitle": "Gaming Sora",
+      "language": "en",
+      "sourceChannel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT101S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=YCiHCQ3x6Eo",
+      "localizedTitles": [
+        "Siegfried All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "YCiHCQ3x6Eo",
+          "title": "Siegfried All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:siegfried",
+      "characterName": "Siegfried",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 13,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "eoHs4OnEwv0",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Vane",
+      "description": "Meet Vane (Voice: Zeno Robinson), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Vane:\nhttps://relink-ragnarok.granbluefantasy.com/en/characte...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT53S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Vane",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Vane"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "eoHs4OnEwv0",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Vane",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:vane",
+      "characterName": "Vane",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 14,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "NrwvBxbQxPY",
+      "title": "Vane All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+      "description": "조회수 665회  2024. 2. 29.\nThe Most Completed Chracter's Battle Moveset Showcase of Granblue Fantasy Relink \n\nEmbark on thrilling adventures with me to explore the captivating worlds of JRPGs, Horror, Action RPGs, and Story-Driven Games! From intense boss battles to gripping narratives, I'm here to document every unforgettable moment.\n\nSubscribe to My Channel to stay up-to-date on the latest uploads and join me on epic quests, terrifying encounters, and exhilarating battles. Don't forget to hit the notification bell to ensure you never miss a beat!\n\nLet's journey together into the heart of gaming greatness. Welcome to My Channel!",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-02-29",
+      "channelId": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "channelTitle": "Gaming Sora",
+      "language": "en",
+      "sourceChannel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT106S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=NrwvBxbQxPY",
+      "localizedTitles": [
+        "Vane All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "NrwvBxbQxPY",
+          "title": "Vane All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:vane",
+      "characterName": "Vane",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 14,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "Q1w30rpNGYk",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Vaseraga",
+      "description": "Meet Vaseraga (Voice: SungWon Cho), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Vaseraga:\nhttps://relink-ragnarok.granbluefantasy.com/en/ch...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT56S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Vaseraga",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Vaseraga"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "Q1w30rpNGYk",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Vaseraga",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:vaseraga",
+      "characterName": "Vaseraga",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 15,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "ipr7swGVLAY",
+      "title": "Vaseraga All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+      "description": "조회수 666회  2024. 2. 29.\nThe Most Completed Chracter's Battle Moveset Showcase of Granblue Fantasy Relink \n\nEmbark on thrilling adventures with me to explore the captivating worlds of JRPGs, Horror, Action RPGs, and Story-Driven Games! From intense boss battles to gripping narratives, I'm here to document every unforgettable moment.\n\nSubscribe to My Channel to stay up-to-date on the latest uploads and join me on epic quests, terrifying encounters, and exhilarating battles. Don't forget to hit the notification bell to ensure you never miss a beat!\n\nLet's journey together into the heart of gaming greatness. Welcome to My Channel!",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-02-29",
+      "channelId": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "channelTitle": "Gaming Sora",
+      "language": "en",
+      "sourceChannel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT177S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=ipr7swGVLAY",
+      "localizedTitles": [
+        "Vaseraga All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "ipr7swGVLAY",
+          "title": "Vaseraga All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:vaseraga",
+      "characterName": "Vaseraga",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 15,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "ELxxVd52K8E",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Yodarha",
+      "description": "Meet Yodarha (Voice: Peter Kelamis), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Yodarha:\nhttps://relink-ragnarok.granbluefantasy.com/en/ch...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT60S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Yodarha",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Yodarha"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "ELxxVd52K8E",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Yodarha",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:yodarha",
+      "characterName": "Yodarha",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 16,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "YTIlxecL3tM",
+      "title": "Yodarha All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+      "description": "조회수 555회  2024. 2. 29.\nThe Most Completed Chracter's Battle Moveset Showcase of Granblue Fantasy Relink \n\nEmbark on thrilling adventures with me to explore the captivating worlds of JRPGs, Horror, Action RPGs, and Story-Driven Games! From intense boss battles to gripping narratives, I'm here to document every unforgettable moment.\n\nSubscribe to My Channel to stay up-to-date on the latest uploads and join me on epic quests, terrifying encounters, and exhilarating battles. Don't forget to hit the notification bell to ensure you never miss a beat!\n\nLet's journey together into the heart of gaming greatness. Welcome to My Channel!",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-02-29",
+      "channelId": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "channelTitle": "Gaming Sora",
+      "language": "en",
+      "sourceChannel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT126S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=YTIlxecL3tM",
+      "localizedTitles": [
+        "Yodarha All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "YTIlxecL3tM",
+          "title": "Yodarha All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:yodarha",
+      "characterName": "Yodarha",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 16,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "mGiTw5ypxmg",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Zeta",
+      "description": "Meet Zeta (Voice: Mela Lee), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Zeta:\nhttps://relink-ragnarok.granbluefantasy.com/en/characters/ze...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT47S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Zeta",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Zeta"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "mGiTw5ypxmg",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Zeta",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:zeta",
+      "characterName": "Zeta",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 17,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "YyjIhQ3ryHk",
+      "title": "Zeta All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+      "description": "조회수 836회  2024. 2. 28.\nThe Most Completed Chracter's Battle Moveset Showcase of Granblue Fantasy Relink \n\nEmbark on thrilling adventures with me to explore the captivating worlds of JRPGs, Horror, Action RPGs, and Story-Driven Games! From intense boss battles to gripping narratives, I'm here to document every unforgettable moment.\n\nSubscribe to My Channel to stay up-to-date on the latest uploads and join me on epic quests, terrifying encounters, and exhilarating battles. Don't forget to hit the notification bell to ensure you never miss a beat!\n\nLet's journey together into the heart of gaming greatness. Welcome to My Channel!",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-02-28",
+      "channelId": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "channelTitle": "Gaming Sora",
+      "language": "en",
+      "sourceChannel": "UCC92KvvgJH6u7BvjJ_yaYIw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT104S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=YyjIhQ3ryHk",
+      "localizedTitles": [
+        "Zeta All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "YyjIhQ3ryHk",
+          "title": "Zeta All Moveset ,Skills & Skybound Arts | Granblue Fantasy Relink",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:zeta",
+      "characterName": "Zeta",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-01",
+      "characterReleaseOrder": 17,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "JdvbUpGJjOE",
+      "title": "Granblue Fantasy Versus: Rising – 2B Character Guide",
+      "description": "2B (YoRHa No.2 Type B) from NieR:Automata arrives on February 20 as Granblue Fantasy Versus: Rising's second playable DLC character! Gear up for battle with this guide detailing her unique...",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2023-10-30",
+        "latest": "2024-10-30",
+        "label": "2년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UClgrS5WzqIn_0Ba4yly0edg",
+      "channelTitle": "Cygames EN",
+      "language": "en",
+      "sourceChannel": "UClgrS5WzqIn_0Ba4yly0edg",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT587S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UClgrS5WzqIn_0Ba4yly0edg/search?query=Granblue%20Fantasy%20Versus%3A%20Rising%20%E2%80%93%202B%20Character%20Guide",
+      "localizedTitles": [
+        "Granblue Fantasy Versus: Rising – 2B Character Guide"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "JdvbUpGJjOE",
+          "title": "Granblue Fantasy Versus: Rising – 2B Character Guide",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:2b",
+      "characterName": "2B",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-20",
+      "characterReleaseOrder": 29,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
+      "id": "dRjS8va89f0",
+      "title": "Grandblue Fantasy Versus Rising - 2B Complete Moveset",
+      "description": "조회수 2,614회  2024. 2. 24.  #grandblue #nierautomata #2b\n2B (NieR:Automata) (YoRHa No. 2 Type B) Complete Moveset Guide - Grandblue Fantasy Versus Rising\n\nNote: This doesnt include the custom combos\n\nEnjoy!\n\nThis video is recorded and edited by me: Gameburst\nGameplay are also recorded by me: Gameburst\n\nRise to the challenge in Granblue Fantasy Versus: Rising! This powered up, revamped sequel to GBVS is more enjoyable and accessible than ever before. With simplified input options, even newcomers can engage in thrilling and strategic matches!\n\nPlease subscribe for more Grandblue Fantasy Versus Rising Moveset Guide\n\n#2b #grandblue #nierautomata #moveset #anime #fightinggame #bahamut",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "2024-02-24",
+      "channelId": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "channelTitle": "GameBurst",
+      "language": "en",
+      "sourceChannel": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT201S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=dRjS8va89f0",
+      "localizedTitles": [
+        "Grandblue Fantasy Versus Rising - 2B Complete Moveset"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "dRjS8va89f0",
+          "title": "Grandblue Fantasy Versus Rising - 2B Complete Moveset",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:2b",
+      "characterName": "2B",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-20",
+      "characterReleaseOrder": 29,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
       "id": "Zjy3iY3M_vA",
       "title": "Lucia: Crimson Weave | Punishing: Gray Raven | Character Ultimates | Brief Moveset Showcase",
       "publishedAt": "2026-08-17T01:00:15-07:00",
@@ -7796,6 +9873,84 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "ZFD5tpPVy_8",
+      "title": "Granblue Fantasy Versus: Rising – Vane Character Guide",
+      "description": "Vane, indomitable knight and Vice-Captain of the White Dragons, arrives on April 2 as Granblue Fantasy Versus: Rising's third playable DLC character—arm yourself for battle with this heroic...",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2023-10-30",
+        "latest": "2024-10-30",
+        "label": "2년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UClgrS5WzqIn_0Ba4yly0edg",
+      "channelTitle": "Cygames EN",
+      "language": "en",
+      "sourceChannel": "UClgrS5WzqIn_0Ba4yly0edg",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT431S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UClgrS5WzqIn_0Ba4yly0edg/search?query=Granblue%20Fantasy%20Versus%3A%20Rising%20%E2%80%93%20Vane%20Character%20Guide",
+      "localizedTitles": [
+        "Granblue Fantasy Versus: Rising – Vane Character Guide"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "ZFD5tpPVy_8",
+          "title": "Granblue Fantasy Versus: Rising – Vane Character Guide",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:vane",
+      "characterName": "Vane",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-04-02",
+      "characterReleaseOrder": 30,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
+      "id": "8frsuNjjdis",
+      "title": "Grandblue Fantasy Versus Rising - Vane Complete Moveset",
+      "description": "조회수 600회  2024. 4. 3.  #grandblue #moveset #fightinggame\nVane Complete Moveset Guide - Grandblue Fantasy Versus Rising\n\nNote: This doesnt include the custom combos\n\nEnjoy!\n\nThis video is recorded and edited by me: Gameburst\nGameplay are also recorded by me: Gameburst\n\nRise to the challenge in Granblue Fantasy Versus: Rising! This powered up, revamped sequel to GBVS is more enjoyable and accessible than ever before. With simplified input options, even newcomers can engage in thrilling and strategic matches!\n\nPlease subscribe for more Grandblue Fantasy Versus Rising Moveset Guide\n\n#vane #order #axe #grandblue #moveset #anime #fightinggame #bahamut",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "2024-04-03",
+      "channelId": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "channelTitle": "GameBurst",
+      "language": "en",
+      "sourceChannel": "UCIb4z9EBa95RDQr1OgoZDEw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT131S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=8frsuNjjdis",
+      "localizedTitles": [
+        "Grandblue Fantasy Versus Rising - Vane Complete Moveset"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "8frsuNjjdis",
+          "title": "Grandblue Fantasy Versus Rising - Vane Complete Moveset",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:vane",
+      "characterName": "Vane",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-04-02",
+      "characterReleaseOrder": 30,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
       "id": "64mskbLzI8A",
       "title": "Hanying: Zitherwoe | Punishing: Gray Raven | Character Ultimates | Finisher | Brief Moveset Showcase",
       "publishedAt": "2026-08-18T05:00:30-07:00",
@@ -7886,6 +10041,163 @@
       "characterReleaseDate": "2024-04-24",
       "characterReleaseOrder": 81,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "z0YwxSC5wuk",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Seofon",
+      "description": "Meet Seofon (Voice: Alejandro Saab), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Seofon:\nhttps://relink-ragnarok.granbluefantasy.com/en/cha...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT68S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Seofon",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Seofon"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "z0YwxSC5wuk",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Seofon",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:seofon",
+      "characterName": "Seofon",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-04-26",
+      "characterReleaseOrder": 19,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "J3R-OUFRP2E",
+      "title": "グラブルリリンク/シエテ(CV：諏訪部順一)/技モーション集",
+      "description": "조회수 6,605회  2024. 4. 28.  #グラブルリリンク #シエテ #モーション集\nシエテのモーション集です\n0:00 解放シーン\n\n0:20 打ち上げ攻撃→空中コンボ→落下攻撃\n\n0:35 コンボ攻撃A\n\n0:48 コンボ攻撃B\n\n1:03 コンボ攻撃C\n\n1:21 コンボ攻撃D→リンクアタック\n\n1:48 イスピラツィオーネ\n\n1:54 テンペスターレ\n\n2:01 バリード\n\n2:14 インフィニート・クレアーレ\n\n2:28 ロンピエンド\n\n2:41 プリジオン・デ・アルマス\n\n2:54 デスペタザール\n\n3:09 七星の煌めき\n\n3:28 奥義　シエン・ミル・エズパーダ\n\n\nGRANBLUE FANTASY: Relink\nプラットフォーム \nPlayStation5\nPlayStation4\nSteam\nジャンル アクションRPG\nプレイ人数 1人（オンライン時:最大4人）\nオンライン 対応\n発売日 2024年2月1日\nCERO:B\nCygames\n\n#グラブルリリンク #シエテ #モーション集 #granbluefantasyrelink\n콘텐츠 생성 방식\n자동 더빙\n일부 언어의 오디오 트랙이 자동으로 생성되었습니다. 자세히 알아보기",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-04-28",
+      "channelId": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "channelTitle": "ポテトL",
+      "language": "en",
+      "sourceChannel": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT235S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=J3R-OUFRP2E",
+      "localizedTitles": [
+        "Granblue Fantasy Relink/Siete (CV: Junichi Suwabe)/Technique Motion Collection",
+        "グラブルリリンク/シエテ(CV：諏訪部順一)/技モーション集"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "J3R-OUFRP2E",
+          "title": "グラブルリリンク/シエテ(CV：諏訪部順一)/技モーション集",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:seofon",
+      "characterName": "Seofon",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-04-26",
+      "characterReleaseOrder": 19,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "cZExvkbEwiw",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Tweyen",
+      "description": "Meet Tweyen (Voice: Giselle Fernandez), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Tweyen:\nhttps://relink-ragnarok.granbluefantasy.com/en/...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT58S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Tweyen",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Tweyen"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "cZExvkbEwiw",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Tweyen",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:tweyen",
+      "characterName": "Tweyen",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-04-26",
+      "characterReleaseOrder": 20,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "dhd01X8sFEk",
+      "title": "グラブルリリンク/ソーン(CV：皆口裕子)/技モーション集",
+      "description": "조회수 5,753회  2024. 4. 27.  #グラブルリリンク #ソーン #モーション集\nソーンのモーション集です\n0:00 解放シーン\n\n0:16 打ち上げ攻撃→空中コンボ→落下攻撃\n\n0:24 コンボ攻撃A\n\n0:34 コンボ攻撃B\n\n0:45 コンボ攻撃C\n\n0:55 マルチロックショット\n\n1:08 マーキュライト\n\n1:16 ピアレス\n\n1:25 ディプラヴィティ\n\n1:34 クリンチャー\n\n1:42 ヴェリエンス\n\n1:50 フェアタイレン\n\n1:58 キリングレイン→リンクアタック\n\n2:10 二王の諍い\n\n2:20 奥義　アステロイド・イェーガー\n\n2:34 キャラクター図鑑\n\n\nGRANBLUE FANTASY: Relink\nプラットフォーム \nPlayStation5\nPlayStation4\nSteam\nジャンル アクションRPG\nプレイ人数 1人（オンライン時:最大4人）\nオンライン 対応\n発売日 2024年2月1日\nCERO:B\nCygames\n\n#グラブルリリンク #ソーン #モーション集 #granbluefantasyrelink",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-04-27",
+      "channelId": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "channelTitle": "ポテトL",
+      "language": "ja",
+      "sourceChannel": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT169S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=dhd01X8sFEk",
+      "localizedTitles": [
+        "グラブルリリンク/ソーン(CV：皆口裕子)/技モーション集"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "dhd01X8sFEk",
+          "title": "グラブルリリンク/ソーン(CV：皆口裕子)/技モーション集",
+          "language": "ja"
+        }
+      ],
+      "characterId": "granblue-relink:tweyen",
+      "characterName": "Tweyen",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-04-26",
+      "characterReleaseOrder": 20,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
     },
     {
       "id": "aghv-y8YUCE",
@@ -8273,7 +10585,7 @@
       "sourceChannel": "UCdjxkkxjG1sNP1PRHEJr4rw",
       "sourceKind": "creator",
       "gameVerified": true,
-      "requiresReleaseWindow": true,
+      "requiresReleaseWindow": false,
       "variants": [
         {
           "id": "LdBgtXd1jws",
@@ -8321,13 +10633,13 @@
       "characterReleaseDate": "2024-05-23",
       "characterReleaseOrder": 14,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false,
       "publicationWindow": {
         "earliest": "2024-10-30",
         "latest": "2025-10-30",
         "label": "1년 전",
         "capturedAt": "2026-10-30"
-      },
-      "requiresReleaseWindow": false
+      }
     },
     {
       "id": "M1lz2Ad2ZNs",
@@ -8363,6 +10675,162 @@
       "characterReleaseDate": "2024-05-23",
       "characterReleaseOrder": 17,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "YTr4eg8oWiI",
+      "title": "[ GBVSR ] Beatrix Overview and Combo Guide",
+      "description": "조회수 9,042회  2024. 5. 30.  #granbluefantasy #granbluefantasyversus\nDelta Clock Knight\n\n0:00 Move Overview\n8:01 Combo Structure\n10:29 Sample combo\n\nMy Arcade Stick Setup :\nhttps://tokopedia.link/OBvFAWDRBFb\n\nNotation :\n\nhttps://fightinggameguide.com/gbvs\n\nhttps://www.dustloop.com/w/GBVS/Controls\n\nFollow us \nMeet me @ https://linktr.ee/ekocupui\nSupport us @   / crossgath​   and   / crossgathering  \n\n#granbluefantasy #granbluefantasyversus",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "2024-05-30",
+      "channelId": "UCQzs1jKCXQc0YUERuqW54-A",
+      "channelTitle": "cupui",
+      "language": "en",
+      "sourceChannel": "UCQzs1jKCXQc0YUERuqW54-A",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "해설 가이드",
+      "duration": "PT807S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=YTr4eg8oWiI",
+      "localizedTitles": [
+        "[ GBVSR ] Beatrix Overview and Combo Guide"
+      ],
+      "referenceScope": "commentary-guide",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "일반·특수기 개요와 콤보를 설명하는 해설 가이드",
+      "variants": [
+        {
+          "id": "YTr4eg8oWiI",
+          "title": "[ GBVSR ] Beatrix Overview and Combo Guide",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:beatrix",
+      "characterName": "Beatrix",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-05-23",
+      "characterReleaseOrder": 31,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
+      "id": "qRFzs7oXl9o",
+      "title": "Granblue Fantasy Versus: Rising – Beatrix Character Guide",
+      "description": "Beatrix, the Undying Blue, arrives on May 23 as Granblue Fantasy Versus: Rising's fourth playable DLC character—prepare yourself for your next mission with this visual dossier!\n\n⬇️ DLC...",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2023-10-30",
+        "latest": "2024-10-30",
+        "label": "2년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UClgrS5WzqIn_0Ba4yly0edg",
+      "channelTitle": "Cygames EN",
+      "language": "en",
+      "sourceChannel": "UClgrS5WzqIn_0Ba4yly0edg",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT438S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UClgrS5WzqIn_0Ba4yly0edg/search?query=Granblue%20Fantasy%20Versus%3A%20Rising%20%E2%80%93%20Beatrix%20Character%20Guide",
+      "localizedTitles": [
+        "Granblue Fantasy Versus: Rising – Beatrix Character Guide"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "qRFzs7oXl9o",
+          "title": "Granblue Fantasy Versus: Rising – Beatrix Character Guide",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:beatrix",
+      "characterName": "Beatrix",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-05-23",
+      "characterReleaseOrder": 31,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
+      "id": "mookIM8vqHQ",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Sandalphon",
+      "description": "Meet Sandalphon (Voice: Howard Wang), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Sandalphon:\nhttps://relink-ragnarok.granbluefantasy.com/e...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT71S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5DGranblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Sandalphon",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Sandalphon"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "mookIM8vqHQ",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Sandalphon",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:sandalphon",
+      "characterName": "Sandalphon",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-05-31",
+      "characterReleaseOrder": 21,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "xx7qtNTDU7Y",
+      "title": "グラブルリリンク/サンダルフォン(CV：鈴村健一)/技モーション集",
+      "description": "조회수 9,092회  2024. 5. 31.  #グラブルリリンク #サンダルフォン #モーション集\nサンダルフォンのモーション集です\n0:00 解放シーン\n\n0:19 打ち上げ攻撃→空中コンボ→落下攻撃\n\n0:30 コンボ攻撃A\n\n0:41 コンボ攻撃B→リンクアタック\n\n0:55 ランニングライツ→突進攻撃\n\n1:03 チャージ→極彩色の羽\n\n1:17 【極彩色の羽】コンボ攻撃A\n\n1:31 【極彩色の羽】コンボ攻撃B\n\n1:47 【極彩色の羽】ゾハル・ストライク\n\n1:59 パワー・オブ・ワン\n\n2:08 アローン・イン・ヘヴン\n\n2:19 エクリプティカ\n\n2:26 タルヴィユエ\n\n2:58 ブリージング\n\n3:14 ノー・ウェイ・アウト\n\n3:29 レヴォントゥレット\n\n3:50 ロウ・プリズン\n\n4:06 アイン・ソフ・オウル\n\n4:23 パラダイス・ロスト\n\n4:38 キャラクター図鑑\n\n\nGRANBLUE FANTASY: Relink\nプラットフォーム \nPlayStation5\nPlayStation4\nSteam\nジャンル アクションRPG\nプレイ人数 1人（オンライン時:最大4人）\nオンライン 対応\n発売日 2024年2月1日\nCERO:B\nCygames\n\n#グラブルリリンク #サンダルフォン #モーション集 #granbluefantasyrelink",
+      "gameId": "granblue-relink",
+      "publishedAt": "2024-05-31",
+      "channelId": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "channelTitle": "ポテトL",
+      "language": "ja",
+      "sourceChannel": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT289S",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=xx7qtNTDU7Y",
+      "localizedTitles": [
+        "グラブルリリンク/サンダルフォン(CV：鈴村健一)/技モーション集"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "variants": [
+        {
+          "id": "xx7qtNTDU7Y",
+          "title": "グラブルリリンク/サンダルフォン(CV：鈴村健一)/技モーション集",
+          "language": "ja"
+        }
+      ],
+      "characterId": "granblue-relink:sandalphon",
+      "characterName": "Sandalphon",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-05-31",
+      "characterReleaseOrder": 21,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
     },
     {
       "id": "70REFeqcQiA",
@@ -9408,8 +11876,8 @@
       "type": "캐릭터 무브셋",
       "referenceScope": "moveset",
       "duration": 2785,
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBvmaoRSX7e-eXMip6xcS2g",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCBvmaoRSX7e-eXMip6xcS2g/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2024-07-04",
       "gameVerified": true,
@@ -9451,6 +11919,12 @@
       "characterReleaseDate": "2024-07-04",
       "characterReleaseOrder": 10,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-05-30",
+        "latest": "2026-06-30",
+        "label": "4개월 전",
+        "capturedAt": "2026-10-30"
+      },
       "requiresReleaseWindow": false
     },
     {
@@ -10033,6 +12507,46 @@
       "characterReleaseDate": "2024-08-15",
       "characterReleaseOrder": 21,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "U2OoiGWYFUk",
+      "title": "Granblue Fantasy Versus: Rising – Versusia Character Guide",
+      "description": "Let crush the wheel of destruction. Versusia arrives on Aug 20 as Granblue Fantasy Versus: Rising's fifth playable DLC character!\n\n⬇️ DLC Details\nhttps://rising.granbluefantasy.jp/en/dlc/charac...",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2023-10-30",
+        "latest": "2024-10-30",
+        "label": "2년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UClgrS5WzqIn_0Ba4yly0edg",
+      "channelTitle": "Cygames EN",
+      "language": "en",
+      "sourceChannel": "UClgrS5WzqIn_0Ba4yly0edg",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT589S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UClgrS5WzqIn_0Ba4yly0edg/search?query=Granblue%20Fantasy%20Versus%3A%20Rising%20%E2%80%93%20Versusia%20Character%20Guide",
+      "localizedTitles": [
+        "Granblue Fantasy Versus: Rising – Versusia Character Guide"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "U2OoiGWYFUk",
+          "title": "Granblue Fantasy Versus: Rising – Versusia Character Guide",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:versusia",
+      "characterName": "Versusia",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-08-20",
+      "characterReleaseOrder": 32,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
     },
     {
       "id": "BkBm4ilNTRA",
@@ -10707,6 +13221,46 @@
       "characterReleaseDate": "2024-10-24",
       "characterReleaseOrder": 24,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "rlR1t170E98",
+      "title": "Granblue Fantasy Versus: Rising – Vikala Character Guide",
+      "description": "Vikala, Divine Rat and guardian of the north, arrives on October 25 as Granblue Fantasy Versus: Rising's sixth playable DLC character—put on a show your fans won't ever forget with this handy-dan...",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2023-10-30",
+        "latest": "2024-10-30",
+        "label": "2년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UClgrS5WzqIn_0Ba4yly0edg",
+      "channelTitle": "Cygames EN",
+      "language": "en",
+      "sourceChannel": "UClgrS5WzqIn_0Ba4yly0edg",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT548S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UClgrS5WzqIn_0Ba4yly0edg/search?query=Granblue%20Fantasy%20Versus%3A%20Rising%20%E2%80%93%20Vikala%20Character%20Guide",
+      "localizedTitles": [
+        "Granblue Fantasy Versus: Rising – Vikala Character Guide"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "rlR1t170E98",
+          "title": "Granblue Fantasy Versus: Rising – Vikala Character Guide",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:vikala",
+      "characterName": "Vikala",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-10-25",
+      "characterReleaseOrder": 33,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
     },
     {
       "id": "1t-XQkxDZU4",
@@ -11910,6 +14464,46 @@
       "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)"
     },
     {
+      "id": "W5L7cEmnSdA",
+      "title": "Granblue Fantasy Versus: Rising – Sandalphon Character Guide",
+      "description": "Look to the heavens... The supreme primarch descends upon Granblue Fantasy Versus: Rising on Feb 26 as the next playable DLC character. Consult upon this primer and carve your path to victory!...",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2024-10-30",
+        "latest": "2025-10-30",
+        "label": "1년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UClgrS5WzqIn_0Ba4yly0edg",
+      "channelTitle": "Cygames EN",
+      "language": "en",
+      "sourceChannel": "UClgrS5WzqIn_0Ba4yly0edg",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT878S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UClgrS5WzqIn_0Ba4yly0edg/search?query=Granblue%20Fantasy%20Versus%3A%20Rising%20%E2%80%93%20Sandalphon%20Character%20Guide",
+      "localizedTitles": [
+        "Granblue Fantasy Versus: Rising – Sandalphon Character Guide"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "W5L7cEmnSdA",
+          "title": "Granblue Fantasy Versus: Rising – Sandalphon Character Guide",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:sandalphon",
+      "characterName": "Sandalphon",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-02-26",
+      "characterReleaseOrder": 34,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
       "id": "Sq2ZegRdRzc",
       "title": "공명자 전투 모션 | 브렌트",
       "publishedAt": "2025-03-01T19:00:31-08:00",
@@ -12988,6 +15582,46 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "T1Q-Npov7gc",
+      "title": "Granblue Fantasy Versus: Rising – Galleon Character Guide",
+      "description": "Enlighten. (Galleon the Gold of the Six Dragons shall grace the Granblue Fantasy Versus: Rising roster on May 28 as the next playable DLC character. May this guide serve as the cornerstone...",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2024-10-30",
+        "latest": "2025-10-30",
+        "label": "1년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UClgrS5WzqIn_0Ba4yly0edg",
+      "channelTitle": "Cygames EN",
+      "language": "en",
+      "sourceChannel": "UClgrS5WzqIn_0Ba4yly0edg",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT519S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UClgrS5WzqIn_0Ba4yly0edg/search?query=Granblue%20Fantasy%20Versus%3A%20Rising%20%E2%80%93%20Galleon%20Character%20Guide",
+      "localizedTitles": [
+        "Granblue Fantasy Versus: Rising – Galleon Character Guide"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "T1Q-Npov7gc",
+          "title": "Granblue Fantasy Versus: Rising – Galleon Character Guide",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:galleon",
+      "characterName": "Galleon",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-05-28",
+      "characterReleaseOrder": 35,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
       "id": "WYrm2RTe7Ww",
       "title": "의현 캐릭터 플레이 「결전, 무도의 정상」 | 젠레스 존 제로",
       "publishedAt": "2025-05-29T21:00:06-07:00",
@@ -13628,6 +16262,47 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "Sxxkl2qDzT4",
+      "title": "Granblue Fantasy Versus: Rising – Wilnas Character Guide",
+      "description": "Let blaze your passion! Wilnas the Vermillion storms in as the next playable DLC character in Granblue Fantasy Versus: Rising on August 5. Use this guide as your recipe for victory, and get...",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2024-10-30",
+        "latest": "2025-10-30",
+        "label": "1년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UClgrS5WzqIn_0Ba4yly0edg",
+      "channelTitle": "Cygames EN",
+      "language": "en",
+      "sourceChannel": "UClgrS5WzqIn_0Ba4yly0edg",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT510S",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UClgrS5WzqIn_0Ba4yly0edg/videos",
+      "localizedTitles": [
+        "Granblue Fantasy Versus: Rising – Wilnas Character Guide"
+      ],
+      "referenceScope": "official-character-showcase",
+      "requiresReleaseWindow": true,
+      "variants": [
+        {
+          "id": "Sxxkl2qDzT4",
+          "title": "Granblue Fantasy Versus: Rising – Wilnas Character Guide",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:wilnas",
+      "characterName": "Wilnas",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-08-05",
+      "characterReleaseOrder": 36,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
       "id": "XtbkNuGlRus",
       "title": "앨리스 캐릭터 플레이 「검과 왈츠」 | 젠레스 존 제로",
       "publishedAt": "2025-08-01T21:00:09-07:00",
@@ -14199,6 +16874,7 @@
       "characterReleaseDate": "2025-10-09",
       "characterReleaseOrder": 40,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false,
       "publicationWindow": {
         "earliest": "2025-10-30",
         "latest": "2025-11-30",
@@ -14206,8 +16882,7 @@
         "capturedAt": "2026-10-30"
       },
       "verification": "public-channel-videos",
-      "verificationSource": "https://www.youtube.com/channel/UCxyN2G9cCKxtUWFoKfy247A/videos",
-      "requiresReleaseWindow": false
+      "verificationSource": "https://www.youtube.com/channel/UCxyN2G9cCKxtUWFoKfy247A/videos"
     },
     {
       "id": "DsSPBFfhST8",
@@ -14338,6 +17013,47 @@
       "characterReleaseDate": "2025-10-15",
       "characterReleaseOrder": 42,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "Cs9PNrfOKb0",
+      "title": "Granblue Fantasy Versus: Rising – Meg Character Guide",
+      "description": "When girl meets girl meets shark... shenanigans ensue! Meg, once a typical girl like any other, makes her Granblue Fantasy Versus: Rising debut on October 15!\n\n⬇️ DLC Details\nhttps://rising.gra...",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2024-10-30",
+        "latest": "2025-10-30",
+        "label": "1년 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UClgrS5WzqIn_0Ba4yly0edg",
+      "channelTitle": "Cygames EN",
+      "language": "en",
+      "sourceChannel": "UClgrS5WzqIn_0Ba4yly0edg",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT648S",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UClgrS5WzqIn_0Ba4yly0edg/videos",
+      "localizedTitles": [
+        "Granblue Fantasy Versus: Rising – Meg Character Guide"
+      ],
+      "referenceScope": "official-character-showcase",
+      "requiresReleaseWindow": true,
+      "variants": [
+        {
+          "id": "Cs9PNrfOKb0",
+          "title": "Granblue Fantasy Versus: Rising – Meg Character Guide",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:meg",
+      "characterName": "Meg",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-10-15",
+      "characterReleaseOrder": 37,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
     },
     {
       "id": "3Hd4ba25mTE",
@@ -15860,8 +18576,8 @@
       "type": "캐릭터 무브셋",
       "referenceScope": "moveset",
       "duration": 2542,
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBvmaoRSX7e-eXMip6xcS2g",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCBvmaoRSX7e-eXMip6xcS2g/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2026-02-06",
       "gameVerified": true,
@@ -15908,7 +18624,54 @@
       "characterReleaseDate": "2026-02-06",
       "characterReleaseOrder": 48,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
       "requiresReleaseWindow": false
+    },
+    {
+      "id": "TS0UI5oYXr4",
+      "title": "Granblue Fantasy Versus: Rising – Ilsa Character Guide",
+      "description": "At attention, soldier! You're gonna learn today—Ilsa reports for duty as the next DLC character in Granblue Fantasy Versus: Rising on February 10. Get yourself mission-ready at launch with...",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-01-30",
+        "latest": "2026-02-28",
+        "label": "8개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UClgrS5WzqIn_0Ba4yly0edg",
+      "channelTitle": "Cygames EN",
+      "language": "en",
+      "sourceChannel": "UClgrS5WzqIn_0Ba4yly0edg",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT672S",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UClgrS5WzqIn_0Ba4yly0edg/videos",
+      "localizedTitles": [
+        "Granblue Fantasy Versus: Rising – Ilsa Character Guide"
+      ],
+      "referenceScope": "official-character-showcase",
+      "requiresReleaseWindow": true,
+      "variants": [
+        {
+          "id": "TS0UI5oYXr4",
+          "title": "Granblue Fantasy Versus: Rising – Ilsa Character Guide",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:ilsa",
+      "characterName": "Ilsa",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-02-10",
+      "characterReleaseOrder": 38,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
     },
     {
       "id": "uIqtnU0phM4",
@@ -16288,8 +19051,8 @@
       "type": "캐릭터 무브셋",
       "referenceScope": "moveset",
       "duration": 2678,
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBvmaoRSX7e-eXMip6xcS2g",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCBvmaoRSX7e-eXMip6xcS2g/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2026-03-24",
       "gameVerified": true,
@@ -16336,6 +19099,12 @@
       "characterReleaseDate": "2026-03-24",
       "characterReleaseOrder": 50,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
       "requiresReleaseWindow": false
     },
     {
@@ -16495,8 +19264,8 @@
       "type": "캐릭터 무브셋",
       "referenceScope": "moveset",
       "duration": 2715,
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBvmaoRSX7e-eXMip6xcS2g",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCBvmaoRSX7e-eXMip6xcS2g/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2026-04-15",
       "gameVerified": true,
@@ -16545,6 +19314,12 @@
       "characterReleaseDate": "2026-04-15",
       "characterReleaseOrder": 51,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-06-30",
+        "latest": "2026-07-30",
+        "label": "3개월 전",
+        "capturedAt": "2026-10-30"
+      },
       "requiresReleaseWindow": false
     },
     {
@@ -16782,7 +19557,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-04-29",
       "characterReleaseOrder": 3,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCca8OKY6cbiLbcJlRmWyDLQ/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "fiuBE92Oj8k",
@@ -16879,7 +19663,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-04-29",
       "characterReleaseOrder": 6,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCca8OKY6cbiLbcJlRmWyDLQ/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "ifvCbgCNkIA",
@@ -16907,7 +19700,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-04-29",
       "characterReleaseOrder": 7,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-05-30",
+        "latest": "2026-06-30",
+        "label": "4개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCca8OKY6cbiLbcJlRmWyDLQ/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "i6xxT1DXSYs",
@@ -16935,7 +19737,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-04-29",
       "characterReleaseOrder": 8,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCca8OKY6cbiLbcJlRmWyDLQ/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "j7AxR17v7Nk",
@@ -16963,7 +19774,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-04-29",
       "characterReleaseOrder": 9,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-05-30",
+        "latest": "2026-06-30",
+        "label": "4개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCca8OKY6cbiLbcJlRmWyDLQ/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "RoWtezTlMIE",
@@ -16991,7 +19811,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-04-29",
       "characterReleaseOrder": 10,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCca8OKY6cbiLbcJlRmWyDLQ/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "BRyF9EIZy58",
@@ -17496,8 +20325,8 @@
       "type": "캐릭터 무브셋",
       "referenceScope": "moveset",
       "duration": 3577,
-      "verification": "public-atom-feed",
-      "verificationSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBvmaoRSX7e-eXMip6xcS2g",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCBvmaoRSX7e-eXMip6xcS2g/videos",
       "reviewedAfterCharacterRelease": true,
       "reviewedCharacterReleaseDate": "2026-05-27",
       "gameVerified": true,
@@ -17550,6 +20379,12 @@
       "characterReleaseDate": "2026-05-27",
       "characterReleaseOrder": 53,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-06-30",
+        "latest": "2026-07-30",
+        "label": "3개월 전",
+        "capturedAt": "2026-10-30"
+      },
       "requiresReleaseWindow": false
     },
     {
@@ -17676,7 +20511,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-06-03",
       "characterReleaseOrder": 17,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-05-30",
+        "latest": "2026-06-30",
+        "label": "4개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCca8OKY6cbiLbcJlRmWyDLQ/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "oDZb0T51Rok",
@@ -18486,6 +21330,525 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "1hOWx1eihRc",
+      "title": "[EN] 그랑블루 판타지: 릴링크 - 끝없는 라그나로크 | 제작진 소개: 베아트릭스",
+      "description": "2026년 7월 9일 출시 예정인 Granblue Fantasy: Relink - Endless Ragnarok에 새롭게 추가되는 플레이어블 캐릭터, 베아트릭스(성우: 제니퍼 로시)를 소개합니다!...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-02-28",
+        "latest": "2026-03-30",
+        "label": "7개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "ko",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT63S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5D%20Granblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Beatrix",
+      "localizedTitles": [
+        "[EN] Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Beatrix",
+        "[EN] 그랑블루 판타지: 릴링크 - 끝없는 라그나로크 | 제작진 소개: 베아트릭스"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "1hOWx1eihRc",
+          "title": "[EN] 그랑블루 판타지: 릴링크 - 끝없는 라그나로크 | 제작진 소개: 베아트릭스",
+          "language": "ko"
+        }
+      ],
+      "characterId": "granblue-relink:beatrix",
+      "characterName": "Beatrix",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-07-09",
+      "characterReleaseOrder": 22,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "hCGMsk9TFBI",
+      "title": "グラブルリリンク/ベアトリクス(CV：平野綾)/技モーション集【Granblue Fantasy: Relink - Endless Ragnarok】",
+      "description": "조회수 815회  2026. 7. 13.  #グラブルリリンク #ベアトリクス #追加要素\nベアトリクスのモーション集です\n\n0:00 解放シーン\n\n0:20 エムブラスクの契約者➡因果喰い\n\n0:34 打ち上げ攻撃➡空中コンボ➡落下攻撃\n\n0:42 コンボ攻撃A\n\n0:49 【因果喰い】コンボ攻撃A\n\n0:56 コンボ攻撃B\n\n1:02 【因果喰い】コンボ攻撃B\n\n1:12 コンボ攻撃C\n\n1:20 【因果喰い】コンボ攻撃C\n\n1:32 コンボ攻撃D\n\n1:41 【因果喰い】コンボ攻撃D➡リンクアタック\n\n1:53 ライディングフリー\n\n2:06 スターチェイサー\n\n2:17 エムブラスクの剣\n\n2:39 エターナルクエスト\n\n2:53 ハーツ・オン・ファイア\n\n3:09 サンダーバード\n\n3:24 アンチェイン\n\n3:36 ライジング・ノヴァ\n\n3:49 イモータル・アソールト\n\n4:03 キャラクター図鑑\n\n\nGranblue Fantasy: Relink - Endless Ragnarok\n\nプラットフォーム\nNintendo Switch™ 2\nPlayStation®5 / PlayStation®4\nSteam®\n\nジャンル\nアクションRPG\n\nプレイ人数\n1人（オンライン時:最大4人）\n\nオンライン\n対応\n\n発売日\n2026年7月9日\n\nCERO:B\n\n対応言語\n表示言語 ：\n日本語 / 英語 / フランス語 / イタリア語 / ドイツ語 /\nスペイン語（スペイン） / ポルトガル語（ブラジル） /\n中国語（簡体字） / 中国語（繁体字） / 韓国語\n音声：\n日本語 / 英語\n\n#グラブルリリンク #ベアトリクス #追加要素 #granbluefantasyrelink\n콘텐츠 생성 방식\n자동 더빙\n일부 언어의 오디오 트랙이 자동으로 생성되었습니다. 자세히 알아보기",
+      "gameId": "granblue-relink",
+      "publishedAt": "2026-07-13",
+      "channelId": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "channelTitle": "ポテトL",
+      "language": "en",
+      "sourceChannel": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT257S",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UC_7cuLB5hLrZ2xIB9ZxvlOw/videos",
+      "localizedTitles": [
+        "Granblue Fantasy: Relink - Beatrix (VA: Aya Hirano) / Skill Motion Showcase",
+        "グラブルリリンク/ベアトリクス(CV：平野綾)/技モーション集【Granblue Fantasy: Relink - Endless Ragnarok】"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "publicationWindow": {
+        "earliest": "2026-06-30",
+        "latest": "2026-07-30",
+        "label": "3개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false,
+      "variants": [
+        {
+          "id": "hCGMsk9TFBI",
+          "title": "グラブルリリンク/ベアトリクス(CV：平野綾)/技モーション集【Granblue Fantasy: Relink - Endless Ragnarok】",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:beatrix",
+      "characterName": "Beatrix",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-07-09",
+      "characterReleaseOrder": 22,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "_XAIrQsxjKo",
+      "title": "[EN] 그랑블루 판타지: 렐링크 - 끝없는 라그나로크 | 승무원 소개: 유스타스",
+      "description": "2026년 7월 9일 출시 예정인 Granblue Fantasy: Relink - Endless Ragnarok에 새롭게 추가되는 플레이어블 캐릭터, 유스타스(성우: 탕 카이지)를 소개합니다!\n...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-02-28",
+        "latest": "2026-03-30",
+        "label": "7개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "ko",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT58S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5D%20Granblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Eustace",
+      "localizedTitles": [
+        "[EN] Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Eustace",
+        "[EN] 그랑블루 판타지: 렐링크 - 끝없는 라그나로크 | 승무원 소개: 유스타스"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "_XAIrQsxjKo",
+          "title": "[EN] 그랑블루 판타지: 렐링크 - 끝없는 라그나로크 | 승무원 소개: 유스타스",
+          "language": "ko"
+        }
+      ],
+      "characterId": "granblue-relink:eustace",
+      "characterName": "Eustace",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-07-09",
+      "characterReleaseOrder": 23,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "CD4uZxYVapY",
+      "title": "グラブルリリンク/ユーステス(CV：中井和哉)/技モーション集【Granblue Fantasy: Relink - Endless Ragnarok】",
+      "localizedTitles": [
+        "Granblue Fantasy: Relink - Eustace (CV: Kazuya Nakai) / Skill Motion Collection【Granblue Fantasy:...",
+        "グラブルリリンク/ユーステス(CV：中井和哉)/技モーション集【Granblue Fantasy: Relink - Endless Ragnarok】"
+      ],
+      "gameId": "granblue-relink",
+      "channelId": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "channelTitle": "ポテトL",
+      "sourceChannel": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "sourceKind": "creator",
+      "language": "en",
+      "referenceScope": "moveset",
+      "type": "캐릭터 무브셋",
+      "gameVerified": true,
+      "duration": "PT204S",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UC_7cuLB5hLrZ2xIB9ZxvlOw/videos",
+      "description": "조회수 220회  2026. 7. 12.  #グラブルリリンク #ガランツァ #追加要素\nユーステスのモーション集です\n\n0:00 解放シーン\n\n0:15 打ち上げ攻撃➡空中ショット\n\n0:25 通常ショット\n\n0:38 強化弾ショット➡リンクアタック\n\n0:49 スロー・キル\n\n1:07 フォエヴァー・ユアーズ\n\n1:19 プレイウィズファイア\n\n1:32 アシッドレイジ・ロアー\n\n1:49 ファストレーン\n\n2:02 ネバ―・サレンダー\n\n2:15 フラメクの雷\n\n2:32 ヘブン・カムズ・ダウン\n\n2:55 デッドエンド・シュート\n\n3:10 キャラクター図鑑\n\nGranblue Fantasy: Relink - Endless Ragnarok\n\nプラットフォーム\nNintendo Switch™ 2\nPlayStation®5 / PlayStation®4\nSteam®\n\nジャンル\nアクションRPG\n\nプレイ人数\n1人（オンライン時:最大4人）\n\nオンライン\n対応\n\n発売日\n2026年7月9日\n\nCERO:B\n\n対応言語\n表示言語 ：\n日本語 / 英語 / フランス語 / イタリア語 / ドイツ語 /\nスペイン語（スペイン） / ポルトガル語（ブラジル） /\n中国語（簡体字） / 中国語（繁体字） / 韓国語\n音声：\n日本語 / 英語\n\n#グラブルリリンク #ガランツァ #追加要素 #granbluefantasyrelink\n콘텐츠 생성 방식\n자동 더빙\n일부 언어의 오디오 트랙이 자동으로 생성되었습니다. 자세히 알아보기",
+      "publishedAt": "2026-07-12",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "publicationWindow": {
+        "earliest": "2026-06-30",
+        "latest": "2026-07-30",
+        "label": "3개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false,
+      "variants": [
+        {
+          "id": "CD4uZxYVapY",
+          "title": "グラブルリリンク/ユーステス(CV：中井和哉)/技モーション集【Granblue Fantasy: Relink - Endless Ragnarok】",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:eustace",
+      "characterName": "Eustace",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-07-09",
+      "characterReleaseOrder": 23,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "GGRNEP0rus4",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Fediel",
+      "description": "Introducing Fediel (Voice: Savy Des-Etages), a new playable character coming to Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Fediel:\nhttps://re...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-05-30",
+        "latest": "2026-06-30",
+        "label": "4개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "기타",
+      "duration": "PT62S",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/videos",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Fediel"
+      ],
+      "referenceScope": "official-character-showcase",
+      "requiresReleaseWindow": true,
+      "variants": [
+        {
+          "id": "GGRNEP0rus4",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Fediel",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:fediel",
+      "characterName": "Fediel",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-07-09",
+      "characterReleaseOrder": 24,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "4ZvuXmO9DXM",
+      "title": "グラブルリリンク/フェディエル(CV：田野アサミ)/技モーション集【Granblue Fantasy: Relink - Endless Ragnarok】",
+      "description": "조회수 515회  2026. 7. 15.  #グラブルリリンク #フェディエル #追加要素\nフェディエルのモーション集です\n\n0:00 解放シーン\n\n0:22 打ち上げ攻撃➡空中コンボ➡落下攻撃\n\n0:32 『黒』の跳躍\n\n0:40 通常コンボ➡リンクアタック➡コンボフィニッシュ\n\n0:57 ブレイクソウル\n\n1:10 リヴァーサルクロー\n\n1:25 カラミティサイン\n\n1:37 黒の祝福\n\n1:52 根源たる恐怖\n\n2:05 カースドヒューネラル\n\n2:19 ミアズマホール\n\n2:38 リヴァーサルスフィア\n\n3:03 カースドステークス\n\n3:18 キャラクター図鑑\n\n\nGranblue Fantasy: Relink - Endless Ragnarok\n\nプラットフォーム\nNintendo Switch™ 2\nPlayStation®5 / PlayStation®4\nSteam®\n\nジャンル\nアクションRPG\n\nプレイ人数\n1人（オンライン時:最大4人）\n\nオンライン\n対応\n\n発売日\n2026年7月9日\n\nCERO:B\n\n対応言語\n表示言語 ：\n日本語 / 英語 / フランス語 / イタリア語 / ドイツ語 /\nスペイン語（スペイン） / ポルトガル語（ブラジル） /\n中国語（簡体字） / 中国語（繁体字） / 韓国語\n音声：\n日本語 / 英語\n\n#グラブルリリンク #フェディエル #追加要素 #granbluefantasyrelink\n콘텐츠 생성 방식\n자동 더빙\n일부 언어의 오디오 트랙이 자동으로 생성되었습니다. 자세히 알아보기",
+      "gameId": "granblue-relink",
+      "publishedAt": "2026-07-15",
+      "channelId": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "channelTitle": "ポテトL",
+      "language": "en",
+      "sourceChannel": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT212S",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UC_7cuLB5hLrZ2xIB9ZxvlOw/videos",
+      "localizedTitles": [
+        "Granblue Fantasy: Relink - Fediel (CV: Asami Tano) / Skill Motion Collection【Granblue Fantasy: Re...",
+        "グラブルリリンク/フェディエル(CV：田野アサミ)/技モーション集【Granblue Fantasy: Relink - Endless Ragnarok】"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "publicationWindow": {
+        "earliest": "2026-06-30",
+        "latest": "2026-07-30",
+        "label": "3개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false,
+      "variants": [
+        {
+          "id": "4ZvuXmO9DXM",
+          "title": "グラブルリリンク/フェディエル(CV：田野アサミ)/技モーション集【Granblue Fantasy: Relink - Endless Ragnarok】",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:fediel",
+      "characterName": "Fediel",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-07-09",
+      "characterReleaseOrder": 24,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "WeQzhnmH0so",
+      "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Fraux",
+      "description": "Introducing Fraux (Voice: Kelly Baskin), a new playable character coming to Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Fraux:\nhttps://relink-...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "기타",
+      "duration": "PT66S",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/videos",
+      "localizedTitles": [
+        "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Fraux"
+      ],
+      "referenceScope": "official-character-showcase",
+      "requiresReleaseWindow": true,
+      "variants": [
+        {
+          "id": "WeQzhnmH0so",
+          "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Fraux",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:fraux",
+      "characterName": "Fraux",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-07-09",
+      "characterReleaseOrder": 25,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "If4IYHr046Y",
+      "title": "グラブルリリンク/フラウ(CV：浅倉杏美)/技モーション集【Granblue Fantasy: Relink - Endless Ragnarok】",
+      "description": "조회수 625회  2026. 7. 14.  #グラブルリリンク #フラウ #追加要素\nフラウのモーション集です\n\n0:00 解放シーン\n\n0:21 スタンス切替\n\n0:28 打ち上げ攻撃➡空中コンボ➡落下攻撃\n\n0:39 【アップライト】コンボ攻撃A\n\n0:47 【アップライト】コンボ攻撃B\n\n0:55 【アップライト】コンボ攻撃C\n\n1:04 【アップライト】コンボ攻撃D\n\n1:17 【リバース】コンボ攻撃A\n\n1:25 【リバース】コンボ攻撃B\n\n1:35 【リバース】コンボ攻撃C\n\n1:47 【リバース】コンボ攻撃D➡リンクアタック\n\n2:00 オールダウン\n\n2:11 クリムゾンナイトメア\n\n2:23 インドミナス\n\n2:35 オポチュニティ\n\n2:49 デッドランズ\n\n3:10 キックフェイス\n\n3:24 スプレンドル\n\n3:36 パワープラント\n\n3:53 デビリッシュ・ランブル\n\n4:09 キャラクター図鑑\n\n\nGranblue Fantasy: Relink - Endless Ragnarok\n\nプラットフォーム\nNintendo Switch™ 2\nPlayStation®5 / PlayStation®4\nSteam®\n\nジャンル\nアクションRPG\n\nプレイ人数\n1人（オンライン時:最大4人）\n\nオンライン\n対応\n\n発売日\n2026年7月9日\n\nCERO:B\n\n対応言語\n表示言語 ：\n日本語 / 英語 / フランス語 / イタリア語 / ドイツ語 /\nスペイン語（スペイン） / ポルトガル語（ブラジル） /\n中国語（簡体字） / 中国語（繁体字） / 韓国語\n音声：\n日本語 / 英語\n\n#グラブルリリンク #フラウ #追加要素 #granbluefantasyrelink",
+      "gameId": "granblue-relink",
+      "publishedAt": "2026-07-14",
+      "channelId": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "channelTitle": "ポテトL",
+      "language": "ja",
+      "sourceChannel": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "sourceKind": "creator",
+      "gameVerified": true,
+      "type": "캐릭터 무브셋",
+      "duration": "PT263S",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UC_7cuLB5hLrZ2xIB9ZxvlOw/videos",
+      "localizedTitles": [
+        "グラブルリリンク/フラウ(CV：浅倉杏美)/技モーション集【Granblue Fantasy: Relink - Endless Ragnarok】"
+      ],
+      "referenceScope": "moveset",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "publicationWindow": {
+        "earliest": "2026-06-30",
+        "latest": "2026-07-30",
+        "label": "3개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false,
+      "variants": [
+        {
+          "id": "If4IYHr046Y",
+          "title": "グラブルリリンク/フラウ(CV：浅倉杏美)/技モーション集【Granblue Fantasy: Relink - Endless Ragnarok】",
+          "language": "ja"
+        }
+      ],
+      "characterId": "granblue-relink:fraux",
+      "characterName": "Fraux",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-07-09",
+      "characterReleaseOrder": 25,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "UQH5LfvMDiw",
+      "title": "[EN] Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Gallanza",
+      "description": "Introducing Gallanza (Voice: Crispin Freeman), a new playable character coming to Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Gallanza:...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT66S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5D%20Granblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Gallanza",
+      "localizedTitles": [
+        "[EN] Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Gallanza"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "UQH5LfvMDiw",
+          "title": "[EN] Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Gallanza",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:gallanza",
+      "characterName": "Gallanza",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-07-09",
+      "characterReleaseOrder": 26,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "JEUnQRlefrk",
+      "title": "グラブルリリンク/ガランツァ(CV：山寺宏一)/技モーション集【Granblue Fantasy: Relink - Endless Ragnarok】",
+      "localizedTitles": [
+        "Granblue Fantasy: Relink / Gallanza (CV: Koichi Yamadera) / Skill Motion Showcase 【Granblue Fanta...",
+        "グラブルリリンク/ガランツァ(CV：山寺宏一)/技モーション集【Granblue Fantasy: Relink - Endless Ragnarok】"
+      ],
+      "gameId": "granblue-relink",
+      "channelId": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "channelTitle": "ポテトL",
+      "sourceChannel": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "sourceKind": "creator",
+      "language": "en",
+      "referenceScope": "moveset",
+      "type": "캐릭터 무브셋",
+      "gameVerified": true,
+      "duration": "PT339S",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UC_7cuLB5hLrZ2xIB9ZxvlOw/videos",
+      "description": "조회수 475회  2026. 7. 11.  #グラブルリリンク #ガランツァ #追加要素\nガランツァのモーション集です\n\n0:00 解放シーン\n\n0:19 打ち上げ攻撃➡空中コンボ➡落下攻撃\n\n0:29 打ち上げ攻撃➡【鎧散牙】空中コンボ➡落下攻撃➡リンクアタック\n\n0:41 コンボ攻撃A\n\n0:51 コンボ攻撃B\n\n1:02 コンボ攻撃C\n\n1:14 コンボ攻撃D\n\n1:27 大風車\n\n1:42 大風車（失敗）\n\n2:03 【鎧散牙】コンボ攻撃A\n\n2:19 【鎧散牙】コンボ攻撃B\n\n2:33 【鎧散牙】大風車\n\n2:50 横槍\n\n3:04 急降華\n\n3:20 槍玉\n\n3:35 武刹槍\n\n3:59 凪祓い\n\n4:14 一直閃\n\n4:29 禍武斗割\n\n4:55 鎧散牙\n\n5:11 八万嵐死\n\n5:25 キャラクター図鑑\n\nGranblue Fantasy: Relink - Endless Ragnarok\n\nプラットフォーム\nNintendo Switch™ 2\nPlayStation®5 / PlayStation®4\nSteam®\n\nジャンル\nアクションRPG\n\nプレイ人数\n1人（オンライン時:最大4人）\n\nオンライン\n対応\n\n発売日\n2026年7月9日\n\nCERO:B\n\n対応言語\n表示言語 ：\n日本語 / 英語 / フランス語 / イタリア語 / ドイツ語 /\nスペイン語（スペイン） / ポルトガル語（ブラジル） /\n中国語（簡体字） / 中国語（繁体字） / 韓国語\n音声：\n日本語 / 英語\n\n#グラブルリリンク #ガランツァ #追加要素 #granbluefantasyrelink\n콘텐츠 생성 방식\n자동 더빙\n일부 언어의 오디오 트랙이 자동으로 생성되었습니다. 자세히 알아보기",
+      "publishedAt": "2026-07-11",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "publicationWindow": {
+        "earliest": "2026-06-30",
+        "latest": "2026-07-30",
+        "label": "3개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false,
+      "variants": [
+        {
+          "id": "JEUnQRlefrk",
+          "title": "グラブルリリンク/ガランツァ(CV：山寺宏一)/技モーション集【Granblue Fantasy: Relink - Endless Ragnarok】",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:gallanza",
+      "characterName": "Gallanza",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-07-09",
+      "characterReleaseOrder": 26,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "pS7nQATuL5w",
+      "title": "[EN] Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Maglielle",
+      "description": "Introducing Maglielle (Voice: Debi Derryberry), a new playable character coming to Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Maglielle:...",
+      "gameId": "granblue-relink",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-04-30",
+        "latest": "2026-05-30",
+        "label": "5개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "channelTitle": "Granblue Fantasy: Relink Official Channel",
+      "language": "en",
+      "sourceChannel": "UCn_aYp-WejEzxkHvD_fYUGQ",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT67S",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCn_aYp-WejEzxkHvD_fYUGQ/search?query=%5BEN%5D%20Granblue%20Fantasy%3A%20Relink%20-%20Endless%20Ragnarok%20%7C%20Meet%20the%20Crew%3A%20Maglielle",
+      "localizedTitles": [
+        "[EN] Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Maglielle"
+      ],
+      "referenceScope": "official-character-showcase",
+      "variants": [
+        {
+          "id": "pS7nQATuL5w",
+          "title": "[EN] Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Maglielle",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:maglielle",
+      "characterName": "Maglielle",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-07-09",
+      "characterReleaseOrder": 27,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
+      "id": "mOJ96P_IemE",
+      "title": "グラブルリリンク/マギラフリラ(CV：早見沙織)/技モーション集【Granblue Fantasy: Relink - Endless Ragnarok】",
+      "localizedTitles": [
+        "Granblue Fantasy: Relink - Maglielle (CV: Saori Hayami) / Skill Motion Showcase 【Granblue Fantasy...",
+        "グラブルリリンク/マギラフリラ(CV：早見沙織)/技モーション集【Granblue Fantasy: Relink - Endless Ragnarok】"
+      ],
+      "gameId": "granblue-relink",
+      "channelId": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "channelTitle": "ポテトL",
+      "sourceChannel": "UC_7cuLB5hLrZ2xIB9ZxvlOw",
+      "sourceKind": "creator",
+      "language": "en",
+      "referenceScope": "moveset",
+      "type": "캐릭터 무브셋",
+      "gameVerified": true,
+      "duration": "PT344S",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UC_7cuLB5hLrZ2xIB9ZxvlOw/videos",
+      "description": "조회수 1,225회  2026. 7. 10.  #グラブルリリンク #マギラフリラ #追加要素\nマギラフリラのモーション集です\n\n0:00 解放シーン\n\n0:18 打ち上げ攻撃→空中コンボ→落下攻撃\n\n0:28 コンボ攻撃A\n\n0:42 コンボ攻撃B\n\n1:12 コンボ攻撃C\n\n1:44 魔剣操舞\n\n1:57 迅雷の大槌\n\n2:13 必殺の魔銃\n\n2:39 奇跡の権杖\n\n3:30 神威の秘槍\n\n3:48 テナシティ\n\n4:26 ナハトムジーク\n\n4:40 ソステヌート\n\n4:56 ブレイブキャロル\n\n5:12 奥義\n\n5:30 キャラクター図鑑\n\nGranblue Fantasy: Relink - Endless Ragnarok\n\nプラットフォーム\nNintendo Switch™ 2\nPlayStation®5 / PlayStation®4\nSteam®\n\nジャンル\nアクションRPG\n\nプレイ人数\n1人（オンライン時:最大4人）\n\nオンライン\n対応\n\n発売日\n2026年7月9日\n\nCERO:B\n\n対応言語\n表示言語 ：\n日本語 / 英語 / フランス語 / イタリア語 / ドイツ語 /\nスペイン語（スペイン） / ポルトガル語（ブラジル） /\n中国語（簡体字） / 中国語（繁体字） / 韓国語\n音声：\n日本語 / 英語\n\n#グラブルリリンク #マギラフリラ #追加要素 #granbluefantasyrelink\n콘텐츠 생성 방식\n자동 더빙\n일부 언어의 오디오 트랙이 자동으로 생성되었습니다. 자세히 알아보기",
+      "publishedAt": "2026-07-10",
+      "publicationPrecision": "day",
+      "reviewedAfterCharacterRelease": true,
+      "reviewedAt": "2026-10-30",
+      "referenceCoverageNote": "캐릭터별 공격·기술 시연",
+      "publicationWindow": {
+        "earliest": "2026-06-30",
+        "latest": "2026-07-30",
+        "label": "3개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "requiresReleaseWindow": false,
+      "variants": [
+        {
+          "id": "mOJ96P_IemE",
+          "title": "グラブルリリンク/マギラフリラ(CV：早見沙織)/技モーション集【Granblue Fantasy: Relink - Endless Ragnarok】",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-relink:maglielle",
+      "characterName": "Maglielle",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-07-09",
+      "characterReleaseOrder": 27,
+      "characterReleaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일"
+    },
+    {
       "id": "4dpCeWya6SE",
       "title": "Electro Rover Gameplay: Why this Moveset is a Game Changer In Wuthering Waves!",
       "publishedAt": "2026-07-15T07:50:21-07:00",
@@ -18919,6 +22282,7 @@
       "characterReleaseDate": "2026-07-29",
       "characterReleaseOrder": 20,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false,
       "publicationWindow": {
         "earliest": "2026-06-30",
         "latest": "2026-07-30",
@@ -18926,8 +22290,7 @@
         "capturedAt": "2026-10-30"
       },
       "verification": "public-channel-videos",
-      "verificationSource": "https://www.youtube.com/channel/UCs7asZ6zS-cf62hMU_wMAaQ/videos",
-      "requiresReleaseWindow": false
+      "verificationSource": "https://www.youtube.com/channel/UCs7asZ6zS-cf62hMU_wMAaQ/videos"
     },
     {
       "id": "uQio1kB9Bsk",
@@ -18949,7 +22312,7 @@
       "sourceChannel": "UCdjxkkxjG1sNP1PRHEJr4rw",
       "sourceKind": "creator",
       "gameVerified": true,
-      "requiresReleaseWindow": true,
+      "requiresReleaseWindow": false,
       "variants": [
         {
           "id": "uQio1kB9Bsk",
@@ -19305,6 +22668,7 @@
       "characterReleaseDate": "2026-08-19",
       "characterReleaseOrder": 21,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false,
       "publicationWindow": {
         "earliest": "2026-07-30",
         "latest": "2026-08-30",
@@ -19312,8 +22676,7 @@
         "capturedAt": "2026-10-30"
       },
       "verification": "public-channel-videos",
-      "verificationSource": "https://www.youtube.com/channel/UCs7asZ6zS-cf62hMU_wMAaQ/videos",
-      "requiresReleaseWindow": false
+      "verificationSource": "https://www.youtube.com/channel/UCs7asZ6zS-cf62hMU_wMAaQ/videos"
     },
     {
       "id": "ovY3_wU2wC8",
@@ -19592,6 +22955,7 @@
       "characterReleaseDate": "2026-09-09",
       "characterReleaseOrder": 22,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false,
       "publicationWindow": {
         "earliest": "2026-08-30",
         "latest": "2026-09-30",
@@ -19599,8 +22963,7 @@
         "capturedAt": "2026-10-30"
       },
       "verification": "public-channel-videos",
-      "verificationSource": "https://www.youtube.com/channel/UCs7asZ6zS-cf62hMU_wMAaQ/videos",
-      "requiresReleaseWindow": false
+      "verificationSource": "https://www.youtube.com/channel/UCs7asZ6zS-cf62hMU_wMAaQ/videos"
     },
     {
       "id": "24Ed9TlA2bo",
@@ -19625,7 +22988,60 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-09-09",
       "characterReleaseOrder": 59,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-08-30",
+        "latest": "2026-09-30",
+        "label": "1개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCmry1hfaRHI_iTfxUMhC8mA/videos",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "requiresReleaseWindow": false
+    },
+    {
+      "id": "_k_F9I4SJcw",
+      "title": "그랑블루 판타지 버서스 라이징 – 이드 캐릭터 가이드",
+      "description": "파괴는 멈출 수 없다! Id가 9월 17일 Granblue Fantasy Versus: Rising의 차기 DLC 캐릭터로 참전합니다. 이 캐릭터 가이드를 통해 내면의 드래곤을 깨워보세요!...",
+      "gameId": "granblue-versus-rising",
+      "publishedAt": "",
+      "publicationWindow": {
+        "earliest": "2026-08-30",
+        "latest": "2026-09-30",
+        "label": "1개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "channelId": "UClgrS5WzqIn_0Ba4yly0edg",
+      "channelTitle": "Cygames EN",
+      "language": "ko",
+      "sourceChannel": "UClgrS5WzqIn_0Ba4yly0edg",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "type": "캐릭터 소개",
+      "duration": "PT827S",
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UClgrS5WzqIn_0Ba4yly0edg/videos",
+      "localizedTitles": [
+        "Granblue Fantasy Versus: Rising – Id Character Guide",
+        "그랑블루 판타지 버서스 라이징 – 이드 캐릭터 가이드"
+      ],
+      "referenceScope": "official-character-showcase",
+      "requiresReleaseWindow": true,
+      "variants": [
+        {
+          "id": "_k_F9I4SJcw",
+          "title": "그랑블루 판타지 버서스 라이징 – 이드 캐릭터 가이드",
+          "language": "ko"
+        }
+      ],
+      "characterId": "granblue-versus-rising:id",
+      "characterName": "Id",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-09-17",
+      "characterReleaseOrder": 39,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
     },
     {
       "id": "0HW959Txuk4",
@@ -19836,6 +23252,7 @@
       "characterReleaseDate": "2026-09-30",
       "characterReleaseOrder": 23,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false,
       "publicationWindow": {
         "earliest": "2026-08-30",
         "latest": "2026-09-30",
@@ -19843,8 +23260,7 @@
         "capturedAt": "2026-10-30"
       },
       "verification": "public-channel-videos",
-      "verificationSource": "https://www.youtube.com/channel/UCs7asZ6zS-cf62hMU_wMAaQ/videos",
-      "requiresReleaseWindow": false
+      "verificationSource": "https://www.youtube.com/channel/UCs7asZ6zS-cf62hMU_wMAaQ/videos"
     },
     {
       "id": "SZhPyIC89TA",
@@ -19869,7 +23285,18 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-09-30",
       "characterReleaseOrder": 60,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-08-30",
+        "latest": "2026-09-30",
+        "label": "1개월 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCmry1hfaRHI_iTfxUMhC8mA/videos",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "requiresReleaseWindow": false
     },
     {
       "id": "3sh-ycq-tZ4",
@@ -20009,7 +23436,16 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-10-15",
       "characterReleaseOrder": 33,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-10-09",
+        "latest": "2026-10-16",
+        "label": "2주 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCIf9gYpmmIJV7flBhUhuqYQ/videos",
+      "requiresReleaseWindow": false
     },
     {
       "id": "m1eUNnTJ9_A",
@@ -20108,6 +23544,7 @@
       "characterReleaseDate": "2026-10-21",
       "characterReleaseOrder": 24,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "requiresReleaseWindow": false,
       "publicationWindow": {
         "earliest": "2026-10-09",
         "latest": "2026-10-16",
@@ -20115,8 +23552,7 @@
         "capturedAt": "2026-10-30"
       },
       "verification": "public-channel-videos",
-      "verificationSource": "https://www.youtube.com/channel/UCs7asZ6zS-cf62hMU_wMAaQ/videos",
-      "requiresReleaseWindow": false
+      "verificationSource": "https://www.youtube.com/channel/UCs7asZ6zS-cf62hMU_wMAaQ/videos"
     },
     {
       "id": "QKNAlmj_X_0",
@@ -20141,7 +23577,18 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-10-21",
       "characterReleaseOrder": 61,
-      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정",
+      "publicationWindow": {
+        "earliest": "2026-10-16",
+        "latest": "2026-10-17",
+        "label": "13일 전",
+        "capturedAt": "2026-10-30"
+      },
+      "verification": "public-channel-videos",
+      "verificationSource": "https://www.youtube.com/channel/UCmry1hfaRHI_iTfxUMhC8mA/videos",
+      "sourceKind": "official",
+      "gameVerified": true,
+      "requiresReleaseWindow": false
     },
     {
       "id": "deklulwUNvU",
@@ -20179,7 +23626,7 @@
       "publicationWindow": {
         "earliest": "2026-10-29",
         "latest": "2026-10-30",
-        "label": "17시간 전",
+        "label": "20시간 전",
         "capturedAt": "2026-10-30"
       },
       "requiresReleaseWindow": false
@@ -20289,7 +23736,8 @@
       "characterKind": "character",
       "characterReleaseDate": "2026-11-05",
       "characterReleaseOrder": 95,
-      "characterReleaseBasis": "한국 공식 채널에서 확인한 출시 예정일"
+      "characterReleaseBasis": "한국 공식 채널에서 확인한 출시 예정일",
+      "requiresReleaseWindow": false
     }
   ]
 }

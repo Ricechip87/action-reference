@@ -5621,6 +5621,899 @@
       "releaseBasis": "한국 공식 채널에서 확인한 출시 예정일",
       "source": "https://www.youtube.com/watch?v=fksGHPcmtp0",
       "releaseOrder": 95
+    },
+    {
+      "id": "granblue-versus-rising:gran",
+      "gameId": "granblue-versus-rising",
+      "name": "Gran",
+      "aliases": [
+        "Gran",
+        "グラン"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 10
+    },
+    {
+      "id": "granblue-versus-rising:djeeta",
+      "gameId": "granblue-versus-rising",
+      "name": "Djeeta",
+      "aliases": [
+        "Djeeta",
+        "ジータ"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 7
+    },
+    {
+      "id": "granblue-versus-rising:katalina",
+      "gameId": "granblue-versus-rising",
+      "name": "Katalina",
+      "aliases": [
+        "Katalina",
+        "カタリナ"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 12
+    },
+    {
+      "id": "granblue-versus-rising:charlotta",
+      "gameId": "granblue-versus-rising",
+      "name": "Charlotta",
+      "aliases": [
+        "Charlotta",
+        "シャルロッテ"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 6
+    },
+    {
+      "id": "granblue-versus-rising:lancelot",
+      "gameId": "granblue-versus-rising",
+      "name": "Lancelot",
+      "aliases": [
+        "Lancelot",
+        "ランスロット"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 14
+    },
+    {
+      "id": "granblue-versus-rising:percival",
+      "gameId": "granblue-versus-rising",
+      "name": "Percival",
+      "aliases": [
+        "Percival",
+        "パーシヴァル"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 19
+    },
+    {
+      "id": "granblue-versus-rising:ladiva",
+      "gameId": "granblue-versus-rising",
+      "name": "Ladiva",
+      "aliases": [
+        "Ladiva",
+        "ファスティバ"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 13
+    },
+    {
+      "id": "granblue-versus-rising:metera",
+      "gameId": "granblue-versus-rising",
+      "name": "Metera",
+      "aliases": [
+        "Metera",
+        "メーテラ"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 16
+    },
+    {
+      "id": "granblue-versus-rising:lowain",
+      "gameId": "granblue-versus-rising",
+      "name": "Lowain",
+      "aliases": [
+        "Lowain",
+        "ローアイン"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 15
+    },
+    {
+      "id": "granblue-versus-rising:ferry",
+      "gameId": "granblue-versus-rising",
+      "name": "Ferry",
+      "aliases": [
+        "Ferry",
+        "フェリ"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 9
+    },
+    {
+      "id": "granblue-versus-rising:zeta",
+      "gameId": "granblue-versus-rising",
+      "name": "Zeta",
+      "aliases": [
+        "Zeta",
+        "ゼタ"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 26
+    },
+    {
+      "id": "granblue-versus-rising:vaseraga",
+      "gameId": "granblue-versus-rising",
+      "name": "Vaseraga",
+      "aliases": [
+        "Vaseraga",
+        "バザラガ"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 23
+    },
+    {
+      "id": "granblue-versus-rising:narmaya",
+      "gameId": "granblue-versus-rising",
+      "name": "Narmaya",
+      "aliases": [
+        "Narmaya",
+        "ナルメア"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 17
+    },
+    {
+      "id": "granblue-versus-rising:soriz",
+      "gameId": "granblue-versus-rising",
+      "name": "Soriz",
+      "aliases": [
+        "Soriz",
+        "ソリッズ"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 22
+    },
+    {
+      "id": "granblue-versus-rising:zooey",
+      "gameId": "granblue-versus-rising",
+      "name": "Zooey",
+      "aliases": [
+        "Zooey",
+        "ゾーイ"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 27
+    },
+    {
+      "id": "granblue-versus-rising:cagliostro",
+      "gameId": "granblue-versus-rising",
+      "name": "Cagliostro",
+      "aliases": [
+        "Cagliostro",
+        "カリオストロ"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 5
+    },
+    {
+      "id": "granblue-versus-rising:yuel",
+      "gameId": "granblue-versus-rising",
+      "name": "Yuel",
+      "aliases": [
+        "Yuel",
+        "ユエル"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 25
+    },
+    {
+      "id": "granblue-versus-rising:anre",
+      "gameId": "granblue-versus-rising",
+      "name": "Anre",
+      "aliases": [
+        "Anre",
+        "ウーノ"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 1
+    },
+    {
+      "id": "granblue-versus-rising:eustace",
+      "gameId": "granblue-versus-rising",
+      "name": "Eustace",
+      "aliases": [
+        "Eustace",
+        "ユーステス"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 8
+    },
+    {
+      "id": "granblue-versus-rising:seox",
+      "gameId": "granblue-versus-rising",
+      "name": "Seox",
+      "aliases": [
+        "Seox",
+        "シス"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 20
+    },
+    {
+      "id": "granblue-versus-rising:vira",
+      "gameId": "granblue-versus-rising",
+      "name": "Vira",
+      "aliases": [
+        "Vira",
+        "ヴィーラ"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 24
+    },
+    {
+      "id": "granblue-versus-rising:beelzebub",
+      "gameId": "granblue-versus-rising",
+      "name": "Beelzebub",
+      "aliases": [
+        "Beelzebub",
+        "ベルゼバブ"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 3
+    },
+    {
+      "id": "granblue-versus-rising:belial",
+      "gameId": "granblue-versus-rising",
+      "name": "Belial",
+      "aliases": [
+        "Belial",
+        "ベリアル"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 4
+    },
+    {
+      "id": "granblue-versus-rising:avatar-belial",
+      "gameId": "granblue-versus-rising",
+      "name": "Avatar Belial",
+      "aliases": [
+        "Avatar Belial",
+        "アバタール・ベリアル"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 2
+    },
+    {
+      "id": "granblue-versus-rising:anila",
+      "gameId": "granblue-versus-rising",
+      "name": "Anila",
+      "aliases": [
+        "Anila",
+        "アニラ"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 0
+    },
+    {
+      "id": "granblue-versus-rising:siegfried",
+      "gameId": "granblue-versus-rising",
+      "name": "Siegfried",
+      "aliases": [
+        "Siegfried",
+        "ジークフリート"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 21
+    },
+    {
+      "id": "granblue-versus-rising:grimnir",
+      "gameId": "granblue-versus-rising",
+      "name": "Grimnir",
+      "aliases": [
+        "Grimnir",
+        "グリームニル"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 11
+    },
+    {
+      "id": "granblue-versus-rising:nier",
+      "gameId": "granblue-versus-rising",
+      "name": "Nier",
+      "aliases": [
+        "Nier",
+        "ニーア"
+      ],
+      "releaseDate": "2023-12-14",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/",
+      "releaseOrder": 18
+    },
+    {
+      "id": "granblue-versus-rising:lucilius",
+      "gameId": "granblue-versus-rising",
+      "name": "Lucilius",
+      "aliases": [
+        "Lucilius",
+        "ルシファー"
+      ],
+      "releaseDate": "2024-01-16",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/dlc/character/03",
+      "releaseOrder": 28
+    },
+    {
+      "id": "granblue-versus-rising:2b",
+      "gameId": "granblue-versus-rising",
+      "name": "2B",
+      "aliases": [
+        "2B"
+      ],
+      "releaseDate": "2024-02-20",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/dlc/character/04",
+      "releaseOrder": 29
+    },
+    {
+      "id": "granblue-versus-rising:vane",
+      "gameId": "granblue-versus-rising",
+      "name": "Vane",
+      "aliases": [
+        "Vane",
+        "ヴェイン"
+      ],
+      "releaseDate": "2024-04-02",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/dlc/character/05",
+      "releaseOrder": 30
+    },
+    {
+      "id": "granblue-versus-rising:beatrix",
+      "gameId": "granblue-versus-rising",
+      "name": "Beatrix",
+      "aliases": [
+        "Beatrix",
+        "ベアトリクス"
+      ],
+      "releaseDate": "2024-05-23",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/dlc/character/06",
+      "releaseOrder": 31
+    },
+    {
+      "id": "granblue-versus-rising:versusia",
+      "gameId": "granblue-versus-rising",
+      "name": "Versusia",
+      "aliases": [
+        "Versusia",
+        "ヴェルサシア"
+      ],
+      "releaseDate": "2024-08-20",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/dlc/character/07",
+      "releaseOrder": 32
+    },
+    {
+      "id": "granblue-versus-rising:vikala",
+      "gameId": "granblue-versus-rising",
+      "name": "Vikala",
+      "aliases": [
+        "Vikala",
+        "ビカラ"
+      ],
+      "releaseDate": "2024-10-25",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/dlc/character/08",
+      "releaseOrder": 33
+    },
+    {
+      "id": "granblue-versus-rising:sandalphon",
+      "gameId": "granblue-versus-rising",
+      "name": "Sandalphon",
+      "aliases": [
+        "Sandalphon",
+        "サンダルフォン"
+      ],
+      "releaseDate": "2025-02-26",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/dlc/character/11",
+      "releaseOrder": 34
+    },
+    {
+      "id": "granblue-versus-rising:galleon",
+      "gameId": "granblue-versus-rising",
+      "name": "Galleon",
+      "aliases": [
+        "Galleon",
+        "ガレヲン",
+        "Galeon"
+      ],
+      "releaseDate": "2025-05-28",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/dlc/character/12",
+      "releaseOrder": 35
+    },
+    {
+      "id": "granblue-versus-rising:wilnas",
+      "gameId": "granblue-versus-rising",
+      "name": "Wilnas",
+      "aliases": [
+        "Wilnas",
+        "ウィルナス"
+      ],
+      "releaseDate": "2025-08-05",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/dlc/character/13",
+      "releaseOrder": 36
+    },
+    {
+      "id": "granblue-versus-rising:meg",
+      "gameId": "granblue-versus-rising",
+      "name": "Meg",
+      "aliases": [
+        "Meg",
+        "メグ"
+      ],
+      "releaseDate": "2025-10-15",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/dlc/character/14",
+      "releaseOrder": 37
+    },
+    {
+      "id": "granblue-versus-rising:ilsa",
+      "gameId": "granblue-versus-rising",
+      "name": "Ilsa",
+      "aliases": [
+        "Ilsa",
+        "イルザ"
+      ],
+      "releaseDate": "2026-02-10",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/dlc/character/15",
+      "releaseOrder": 38
+    },
+    {
+      "id": "granblue-versus-rising:id",
+      "gameId": "granblue-versus-rising",
+      "name": "Id",
+      "aliases": [
+        "Id",
+        "イド"
+      ],
+      "releaseDate": "2026-09-17",
+      "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
+      "source": "https://rising.granbluefantasy.jp/en/dlc/character/16",
+      "releaseOrder": 39
+    },
+    {
+      "id": "granblue-relink:captain",
+      "gameId": "granblue-relink",
+      "name": "주인공(그랑·지타)",
+      "aliases": [
+        "Captain",
+        "Gran",
+        "Djeeta",
+        "グラン",
+        "ジータ",
+        "주인공",
+        "그랑",
+        "지타"
+      ],
+      "releaseDate": "2024-02-01",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 18
+    },
+    {
+      "id": "granblue-relink:katalina",
+      "gameId": "granblue-relink",
+      "name": "Katalina",
+      "aliases": [
+        "Katalina",
+        "カタリナ"
+      ],
+      "releaseDate": "2024-02-01",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 7
+    },
+    {
+      "id": "granblue-relink:rackam",
+      "gameId": "granblue-relink",
+      "name": "Rackam",
+      "aliases": [
+        "Rackam",
+        "ラカム"
+      ],
+      "releaseDate": "2024-02-01",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 11
+    },
+    {
+      "id": "granblue-relink:io",
+      "gameId": "granblue-relink",
+      "name": "Io",
+      "aliases": [
+        "Io",
+        "イオ"
+      ],
+      "releaseDate": "2024-02-01",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 6
+    },
+    {
+      "id": "granblue-relink:eugen",
+      "gameId": "granblue-relink",
+      "name": "Eugen",
+      "aliases": [
+        "Eugen",
+        "オイゲン",
+        "Eugene"
+      ],
+      "releaseDate": "2024-02-01",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 2
+    },
+    {
+      "id": "granblue-relink:rosetta",
+      "gameId": "granblue-relink",
+      "name": "Rosetta",
+      "aliases": [
+        "Rosetta",
+        "ロゼッタ"
+      ],
+      "releaseDate": "2024-02-01",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 12
+    },
+    {
+      "id": "granblue-relink:lancelot",
+      "gameId": "granblue-relink",
+      "name": "Lancelot",
+      "aliases": [
+        "Lancelot",
+        "ランスロット"
+      ],
+      "releaseDate": "2024-02-01",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 8
+    },
+    {
+      "id": "granblue-relink:vane",
+      "gameId": "granblue-relink",
+      "name": "Vane",
+      "aliases": [
+        "Vane",
+        "ヴェイン"
+      ],
+      "releaseDate": "2024-02-01",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 14
+    },
+    {
+      "id": "granblue-relink:percival",
+      "gameId": "granblue-relink",
+      "name": "Percival",
+      "aliases": [
+        "Percival",
+        "パーシヴァル"
+      ],
+      "releaseDate": "2024-02-01",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 10
+    },
+    {
+      "id": "granblue-relink:siegfried",
+      "gameId": "granblue-relink",
+      "name": "Siegfried",
+      "aliases": [
+        "Siegfried",
+        "ジークフリート"
+      ],
+      "releaseDate": "2024-02-01",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 13
+    },
+    {
+      "id": "granblue-relink:charlotta",
+      "gameId": "granblue-relink",
+      "name": "Charlotta",
+      "aliases": [
+        "Charlotta",
+        "シャルロッテ"
+      ],
+      "releaseDate": "2024-02-01",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 1
+    },
+    {
+      "id": "granblue-relink:yodarha",
+      "gameId": "granblue-relink",
+      "name": "Yodarha",
+      "aliases": [
+        "Yodarha",
+        "ヨダルラーハ"
+      ],
+      "releaseDate": "2024-02-01",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 16
+    },
+    {
+      "id": "granblue-relink:narmaya",
+      "gameId": "granblue-relink",
+      "name": "Narmaya",
+      "aliases": [
+        "Narmaya",
+        "ナルメア"
+      ],
+      "releaseDate": "2024-02-01",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 9
+    },
+    {
+      "id": "granblue-relink:zeta",
+      "gameId": "granblue-relink",
+      "name": "Zeta",
+      "aliases": [
+        "Zeta",
+        "ゼタ"
+      ],
+      "releaseDate": "2024-02-01",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 17
+    },
+    {
+      "id": "granblue-relink:vaseraga",
+      "gameId": "granblue-relink",
+      "name": "Vaseraga",
+      "aliases": [
+        "Vaseraga",
+        "バザラガ"
+      ],
+      "releaseDate": "2024-02-01",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 15
+    },
+    {
+      "id": "granblue-relink:ferry",
+      "gameId": "granblue-relink",
+      "name": "Ferry",
+      "aliases": [
+        "Ferry",
+        "フェリ"
+      ],
+      "releaseDate": "2024-02-01",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 3
+    },
+    {
+      "id": "granblue-relink:ghandagoza",
+      "gameId": "granblue-relink",
+      "name": "Ghandagoza",
+      "aliases": [
+        "Ghandagoza",
+        "ガンダゴウザ"
+      ],
+      "releaseDate": "2024-02-01",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 4
+    },
+    {
+      "id": "granblue-relink:cagliostro",
+      "gameId": "granblue-relink",
+      "name": "Cagliostro",
+      "aliases": [
+        "Cagliostro",
+        "カリオストロ"
+      ],
+      "releaseDate": "2024-02-01",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 0
+    },
+    {
+      "id": "granblue-relink:id",
+      "gameId": "granblue-relink",
+      "name": "Id",
+      "aliases": [
+        "Id",
+        "イド"
+      ],
+      "releaseDate": "2024-02-01",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 5
+    },
+    {
+      "id": "granblue-relink:seofon",
+      "gameId": "granblue-relink",
+      "name": "Seofon",
+      "aliases": [
+        "Seofon",
+        "シエテ",
+        "Siete",
+        "Seafon"
+      ],
+      "releaseDate": "2024-04-26",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 19
+    },
+    {
+      "id": "granblue-relink:tweyen",
+      "gameId": "granblue-relink",
+      "name": "Tweyen",
+      "aliases": [
+        "Tweyen",
+        "ソーン"
+      ],
+      "releaseDate": "2024-04-26",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink.granbluefantasy.jp/en/characters/detail",
+      "releaseOrder": 20
+    },
+    {
+      "id": "granblue-relink:sandalphon",
+      "gameId": "granblue-relink",
+      "name": "Sandalphon",
+      "aliases": [
+        "Sandalphon",
+        "サンダルフォン"
+      ],
+      "releaseDate": "2024-05-31",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://www.gamespress.com/de/Granblue-Fantasy-Relink-Gets-Version-130-Update",
+      "releaseOrder": 21
+    },
+    {
+      "id": "granblue-relink:beatrix",
+      "gameId": "granblue-relink",
+      "name": "Beatrix",
+      "aliases": [
+        "Beatrix",
+        "ベアトリクス"
+      ],
+      "releaseDate": "2026-07-09",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink-ragnarok.granbluefantasy.com/en/characters/",
+      "releaseOrder": 22
+    },
+    {
+      "id": "granblue-relink:eustace",
+      "gameId": "granblue-relink",
+      "name": "Eustace",
+      "aliases": [
+        "Eustace",
+        "ユーステス"
+      ],
+      "releaseDate": "2026-07-09",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink-ragnarok.granbluefantasy.com/en/characters/",
+      "releaseOrder": 23
+    },
+    {
+      "id": "granblue-relink:fraux",
+      "gameId": "granblue-relink",
+      "name": "Fraux",
+      "aliases": [
+        "Fraux",
+        "フラウ"
+      ],
+      "releaseDate": "2026-07-09",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink-ragnarok.granbluefantasy.com/en/characters/",
+      "releaseOrder": 25
+    },
+    {
+      "id": "granblue-relink:fediel",
+      "gameId": "granblue-relink",
+      "name": "Fediel",
+      "aliases": [
+        "Fediel",
+        "フェディエル"
+      ],
+      "releaseDate": "2026-07-09",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink-ragnarok.granbluefantasy.com/en/characters/",
+      "releaseOrder": 24
+    },
+    {
+      "id": "granblue-relink:gallanza",
+      "gameId": "granblue-relink",
+      "name": "Gallanza",
+      "aliases": [
+        "Gallanza",
+        "ガランツァ"
+      ],
+      "releaseDate": "2026-07-09",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink-ragnarok.granbluefantasy.com/en/characters/",
+      "releaseOrder": 26
+    },
+    {
+      "id": "granblue-relink:maglielle",
+      "gameId": "granblue-relink",
+      "name": "Maglielle",
+      "aliases": [
+        "Maglielle",
+        "マギラフリラ"
+      ],
+      "releaseDate": "2026-07-09",
+      "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
+      "source": "https://relink-ragnarok.granbluefantasy.com/en/characters/",
+      "releaseOrder": 27
     }
   ]
 }
