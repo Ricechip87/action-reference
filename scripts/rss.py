@@ -86,7 +86,7 @@ def video_type(title):
     if '캐릭터 쇼케이스' in title:return '캐릭터 쇼케이스'
     if '캐릭터 플레이' in title:return '캐릭터 플레이'
     if re.search(r'전투|combat|gameplay|플레이',title,re.I):return '플레이 영상'
-    if re.search(r'캐릭터|character|공명자',title,re.I):return '캐릭터 소개'
+    if re.search(r'캐릭터|character|공명자|meet the crew',title,re.I):return '캐릭터 소개'
     if re.search(r'트레일러|trailer|\bpv\b|프로모션',title,re.I):return 'PV / 트레일러'
     return '기타'
 

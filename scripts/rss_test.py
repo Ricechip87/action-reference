@@ -1,11 +1,14 @@
 import unittest
 import datetime as dt
-from rss import parse_feed, resolve_channel_id, relevant, merge_previous, load_channel_entries
+from rss import parse_feed, resolve_channel_id, relevant, merge_previous, load_channel_entries, video_type
 from channel_recent import parse_recent
 from coverage import matches, person
 from channel_archive import publication_window,collect_listing
 
 class FeedTests(unittest.TestCase):
+    def test_official_meet_the_crew_series_is_character_introduction(self):
+        self.assertEqual(video_type('[EN]Granblue Fantasy: Relink | Meet the Crew: Gran'),'캐릭터 소개')
+
     def test_failed_rss_uses_only_verified_recent_grid_and_preserves_date_uncertainty(self):
         import json
         channel='UC'+'a'*22
