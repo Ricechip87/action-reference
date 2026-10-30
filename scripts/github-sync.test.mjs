@@ -22,3 +22,15 @@ test('cannot save before reading revision or save without connection',async()=>{
  const client=new GitHubSettings('token',()=>{throw Error('Should not fetch');});
  await assert.rejects(()=>client.save(payload),/먼저/);
 });
+
+test('channel edits preserve shared tags and tag edits never upload personal videos or credentials',async()=>{
+ const tagged={...payload,videoWeaponTags:{abcdefghijk:['greatsword']},characterWeaponTags:{'ww:test':['sword']}};
+ const written=[];const client=new GitHubSettings('token',async(url,options)=>({ok:true,status:200,json:async()=>{
+  if(options.method==='PUT'){written.push(JSON.parse(Buffer.from(JSON.parse(options.body).content,'base64').toString()));return {content:{sha:'next'},commit:{sha:'commit'}};}
+  return {sha:'base',content:Buffer.from(JSON.stringify(tagged)).toString('base64')};
+ }}));
+ await client.read();await client.save(payload);
+ assert.deepEqual(written[0],tagged);
+ await client.save({...tagged,videoWeaponTags:{abcdefghijk:[]},videos:[{id:'private'}],token:'secret'});
+ assert.deepEqual(written[1],{...tagged,videoWeaponTags:{abcdefghijk:[]}});
+});

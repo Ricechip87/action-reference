@@ -36,7 +36,12 @@
       "releaseDate": "2026-09-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 123
+      "releaseOrder": 123,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:vesna",
@@ -48,7 +53,12 @@
       "releaseDate": "2026-09-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 122
+      "releaseOrder": 122,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:odette",
@@ -60,7 +70,12 @@
       "releaseDate": "2026-08-12",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 121
+      "releaseOrder": 121,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:alyosha",
@@ -73,7 +88,12 @@
       "releaseDate": "2026-08-12",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 120
+      "releaseOrder": 120,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:sandrone",
@@ -85,7 +105,12 @@
       "releaseDate": "2026-07-01",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 119
+      "releaseOrder": 119,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:lohen",
@@ -97,7 +122,12 @@
       "releaseDate": "2026-06-09",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 118
+      "releaseOrder": 118,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:prune",
@@ -109,7 +139,12 @@
       "releaseDate": "2026-05-20",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 117
+      "releaseOrder": 117,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:nicole",
@@ -121,7 +156,12 @@
       "releaseDate": "2026-05-20",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 116
+      "releaseOrder": 116,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:linnea",
@@ -133,7 +173,12 @@
       "releaseDate": "2026-04-08",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 115
+      "releaseOrder": 115,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:varka",
@@ -146,7 +191,12 @@
       "releaseDate": "2026-02-25",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 114
+      "releaseOrder": 114,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:zibai",
@@ -159,7 +209,12 @@
       "releaseDate": "2026-02-03",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 113
+      "releaseOrder": 113,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:illuga",
@@ -172,7 +227,12 @@
       "releaseDate": "2026-02-03",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 112
+      "releaseOrder": 112,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:columbina",
@@ -185,7 +245,12 @@
       "releaseDate": "2026-01-14",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 111
+      "releaseOrder": 111,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:jahoda",
@@ -198,7 +263,12 @@
       "releaseDate": "2025-12-03",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 110
+      "releaseOrder": 110,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:durin",
@@ -211,7 +281,12 @@
       "releaseDate": "2025-12-03",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 109
+      "releaseOrder": 109,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:nefer",
@@ -224,7 +299,12 @@
       "releaseDate": "2025-10-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 108
+      "releaseOrder": 108,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:manekina",
@@ -236,7 +316,12 @@
       "releaseDate": "2025-10-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 107
+      "releaseOrder": 107,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:manekin",
@@ -248,7 +333,12 @@
       "releaseDate": "2025-10-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 106
+      "releaseOrder": 106,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:flins",
@@ -261,7 +351,12 @@
       "releaseDate": "2025-09-30",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 105
+      "releaseOrder": 105,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:lauma",
@@ -274,7 +369,12 @@
       "releaseDate": "2025-09-10",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 103
+      "releaseOrder": 103,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:aino",
@@ -287,7 +387,12 @@
       "releaseDate": "2025-09-10",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 104
+      "releaseOrder": 104,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:ineffa",
@@ -300,7 +405,12 @@
       "releaseDate": "2025-07-30",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 102
+      "releaseOrder": 102,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:skirk",
@@ -313,7 +423,12 @@
       "releaseDate": "2025-06-18",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 101
+      "releaseOrder": 101,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:dahlia",
@@ -326,7 +441,12 @@
       "releaseDate": "2025-06-18",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 100
+      "releaseOrder": 100,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:ifa",
@@ -339,7 +459,12 @@
       "releaseDate": "2025-05-07",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 99
+      "releaseOrder": 99,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:escoffier",
@@ -352,7 +477,12 @@
       "releaseDate": "2025-05-07",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 98
+      "releaseOrder": 98,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:varesa",
@@ -365,7 +495,12 @@
       "releaseDate": "2025-03-26",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 96
+      "releaseOrder": 96,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:iansan",
@@ -378,7 +513,12 @@
       "releaseDate": "2025-03-26",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 97
+      "releaseOrder": 97,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:yumemizuki-mizuki",
@@ -392,7 +532,12 @@
       "releaseDate": "2025-02-12",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 95
+      "releaseOrder": 95,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:lan-yan",
@@ -405,7 +550,12 @@
       "releaseDate": "2025-01-21",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 94
+      "releaseOrder": 94,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:mavuika",
@@ -418,7 +568,12 @@
       "releaseDate": "2025-01-01",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 92
+      "releaseOrder": 92,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:citlali",
@@ -431,7 +586,12 @@
       "releaseDate": "2025-01-01",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 93
+      "releaseOrder": 93,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:ororon",
@@ -444,7 +604,12 @@
       "releaseDate": "2024-11-20",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 90
+      "releaseOrder": 90,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:chasca",
@@ -457,7 +622,12 @@
       "releaseDate": "2024-11-20",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 91
+      "releaseOrder": 91,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:xilonen",
@@ -470,7 +640,12 @@
       "releaseDate": "2024-10-09",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 89
+      "releaseOrder": 89,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:kinich",
@@ -483,7 +658,12 @@
       "releaseDate": "2024-09-17",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 88
+      "releaseOrder": 88,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:mualani",
@@ -496,7 +676,12 @@
       "releaseDate": "2024-08-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 86
+      "releaseOrder": 86,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:kachina",
@@ -509,7 +694,12 @@
       "releaseDate": "2024-08-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 87
+      "releaseOrder": 87,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:emilie",
@@ -529,7 +719,12 @@
           "alias": "エミリエ",
           "source": "https://www.youtube.com/watch?v=HiN8RSpHjzg"
         }
-      ]
+      ],
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:sigewinne",
@@ -542,7 +737,12 @@
       "releaseDate": "2024-06-25",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 84
+      "releaseOrder": 84,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:sethos",
@@ -562,7 +762,12 @@
           "alias": "セトス",
           "source": "https://www.youtube.com/watch?v=-AGxMfZm_yI"
         }
-      ]
+      ],
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:clorinde",
@@ -582,7 +787,12 @@
           "alias": "クロリンデ",
           "source": "https://www.youtube.com/watch?v=3DxX7orlY9o"
         }
-      ]
+      ],
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:arlecchino",
@@ -595,7 +805,12 @@
       "releaseDate": "2024-04-24",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 81
+      "releaseOrder": 81,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:chiori",
@@ -608,7 +823,12 @@
       "releaseDate": "2024-03-13",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 80
+      "releaseOrder": 80,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:xianyun",
@@ -628,7 +848,12 @@
           "alias": "閑雲",
           "source": "https://www.youtube.com/watch?v=kaPiiSthwkw"
         }
-      ]
+      ],
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:gaming",
@@ -641,7 +866,12 @@
       "releaseDate": "2024-01-31",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 78
+      "releaseOrder": 78,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:chevreuse",
@@ -661,7 +891,12 @@
           "alias": "シュヴルーズ",
           "source": "https://www.youtube.com/watch?v=j_ktlSI7wqQ"
         }
-      ]
+      ],
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:navia",
@@ -674,7 +909,12 @@
       "releaseDate": "2023-12-20",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 76
+      "releaseOrder": 76,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:furina",
@@ -694,7 +934,12 @@
           "alias": "フリーナ",
           "source": "https://www.youtube.com/watch?v=y_hdXOf5O4k"
         }
-      ]
+      ],
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:charlotte",
@@ -714,7 +959,12 @@
           "alias": "シャルロット",
           "source": "https://www.youtube.com/watch?v=r2jiU0oERyY"
         }
-      ]
+      ],
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:wriothesley",
@@ -734,7 +984,12 @@
           "alias": "リオセスリ",
           "source": "https://www.youtube.com/watch?v=4bTumLji-Dw"
         }
-      ]
+      ],
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:neuvillette",
@@ -754,7 +1009,12 @@
           "alias": "ヌヴィレット",
           "source": "https://www.youtube.com/watch?v=TKkS5xfN5mI"
         }
-      ]
+      ],
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:freminet",
@@ -767,7 +1027,12 @@
       "releaseDate": "2023-09-05",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 71
+      "releaseOrder": 71,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:lyney",
@@ -780,7 +1045,12 @@
       "releaseDate": "2023-08-16",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 70
+      "releaseOrder": 70,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:lynette",
@@ -793,7 +1063,12 @@
       "releaseDate": "2023-08-16",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 69
+      "releaseOrder": 69,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:kirara",
@@ -806,7 +1081,12 @@
       "releaseDate": "2023-05-24",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 68
+      "releaseOrder": 68,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:kaveh",
@@ -819,7 +1099,12 @@
       "releaseDate": "2023-05-02",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 67
+      "releaseOrder": 67,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:baizhu",
@@ -832,7 +1117,12 @@
       "releaseDate": "2023-05-02",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 66
+      "releaseOrder": 66,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:mika",
@@ -845,7 +1135,12 @@
       "releaseDate": "2023-03-21",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 65
+      "releaseOrder": 65,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:dehya",
@@ -865,7 +1160,12 @@
           "alias": "ディシア",
           "source": "https://www.youtube.com/watch?v=gkHMC6ARxQo"
         }
-      ]
+      ],
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:yaoyao",
@@ -878,7 +1178,12 @@
       "releaseDate": "2023-01-18",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 63
+      "releaseOrder": 63,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:alhaitham",
@@ -891,7 +1196,12 @@
       "releaseDate": "2023-01-18",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 62
+      "releaseOrder": 62,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:wanderer",
@@ -904,7 +1214,12 @@
       "releaseDate": "2022-12-07",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 60
+      "releaseOrder": 60,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:faruzan",
@@ -917,7 +1232,12 @@
       "releaseDate": "2022-12-07",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 61
+      "releaseOrder": 61,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:layla",
@@ -930,7 +1250,12 @@
       "releaseDate": "2022-11-18",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 59
+      "releaseOrder": 59,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:nahida",
@@ -943,7 +1268,12 @@
       "releaseDate": "2022-11-02",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 58
+      "releaseOrder": 58,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:nilou",
@@ -956,7 +1286,12 @@
       "releaseDate": "2022-10-14",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 57
+      "releaseOrder": 57,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:cyno",
@@ -969,7 +1304,12 @@
       "releaseDate": "2022-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 55
+      "releaseOrder": 55,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:candace",
@@ -982,7 +1322,12 @@
       "releaseDate": "2022-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 56
+      "releaseOrder": 56,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:dori",
@@ -995,7 +1340,12 @@
       "releaseDate": "2022-09-09",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 54
+      "releaseOrder": 54,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:tighnari",
@@ -1008,7 +1358,12 @@
       "releaseDate": "2022-08-24",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 53
+      "releaseOrder": 53,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:collei",
@@ -1028,7 +1383,12 @@
           "alias": "コレイ",
           "source": "https://www.youtube.com/watch?v=tyWOzMgRRXI"
         }
-      ]
+      ],
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:shikanoin-heizou",
@@ -1049,7 +1409,12 @@
           "alias": "鹿野院平蔵",
           "source": "https://www.youtube.com/watch?v=s8wr4740DFk"
         }
-      ]
+      ],
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:kuki-shinobu",
@@ -1063,7 +1428,12 @@
       "releaseDate": "2022-06-21",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 50
+      "releaseOrder": 50,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:yelan",
@@ -1076,7 +1446,12 @@
       "releaseDate": "2022-05-31",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 49
+      "releaseOrder": 49,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:kamisato-ayato",
@@ -1097,7 +1472,12 @@
           "alias": "神里綾人",
           "source": "https://www.youtube.com/watch?v=eNevYJw_D70"
         }
-      ]
+      ],
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:yae-miko",
@@ -1117,7 +1497,12 @@
           "alias": "八重神子",
           "source": "https://www.youtube.com/watch?v=rYex0TwJL3E"
         }
-      ]
+      ],
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:yun-jin",
@@ -1137,7 +1522,12 @@
           "alias": "雲菫",
           "source": "https://www.youtube.com/watch?v=bjQt1Sj0Ozg"
         }
-      ]
+      ],
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:shenhe",
@@ -1150,7 +1540,12 @@
       "releaseDate": "2022-01-05",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 45
+      "releaseOrder": 45,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:gorou",
@@ -1170,7 +1565,12 @@
           "alias": "ゴロー",
           "source": "https://www.youtube.com/watch?v=CpRwj-fB3Ac"
         }
-      ]
+      ],
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:arataki-itto",
@@ -1184,7 +1584,12 @@
       "releaseDate": "2021-12-14",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 44
+      "releaseOrder": 44,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:thoma",
@@ -1197,7 +1602,12 @@
       "releaseDate": "2021-11-02",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 42
+      "releaseOrder": 42,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:sangonomiya-kokomi",
@@ -1211,7 +1621,12 @@
       "releaseDate": "2021-09-21",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 41
+      "releaseOrder": 41,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:raiden-shogun",
@@ -1232,7 +1647,12 @@
           "alias": "雷電将軍",
           "source": "https://www.youtube.com/watch?v=aNvHNzOCWEQ"
         }
-      ]
+      ],
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:kujou-sara",
@@ -1246,7 +1666,12 @@
       "releaseDate": "2021-09-01",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 40
+      "releaseOrder": 40,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:aloy",
@@ -1259,7 +1684,12 @@
       "releaseDate": "2021-09-01",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 39
+      "releaseOrder": 39,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:yoimiya",
@@ -1272,7 +1702,12 @@
       "releaseDate": "2021-08-10",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 37
+      "releaseOrder": 37,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:sayu",
@@ -1285,7 +1720,12 @@
       "releaseDate": "2021-08-10",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 36
+      "releaseOrder": 36,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:kamisato-ayaka",
@@ -1306,7 +1746,12 @@
           "alias": "神里綾華",
           "source": "https://www.youtube.com/watch?v=dxV1DJMfwkA"
         }
-      ]
+      ],
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:kaedehara-kazuha",
@@ -1320,7 +1765,12 @@
       "releaseDate": "2021-06-29",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 34
+      "releaseOrder": 34,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:eula",
@@ -1333,7 +1783,12 @@
       "releaseDate": "2021-05-18",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 33
+      "releaseOrder": 33,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:yanfei",
@@ -1353,7 +1808,12 @@
           "alias": "煙緋",
           "source": "https://www.youtube.com/watch?v=WKjtQUbX-8o"
         }
-      ]
+      ],
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:rosaria",
@@ -1373,7 +1833,12 @@
           "alias": "ロサリア",
           "source": "https://www.youtube.com/watch?v=S2eI93-wPyg"
         }
-      ]
+      ],
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:hu-tao",
@@ -1386,7 +1851,12 @@
       "releaseDate": "2021-03-02",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 30
+      "releaseOrder": 30,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:xiao",
@@ -1399,7 +1869,12 @@
       "releaseDate": "2021-02-03",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 29
+      "releaseOrder": 29,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:ganyu",
@@ -1412,7 +1887,12 @@
       "releaseDate": "2021-01-12",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 28
+      "releaseOrder": 28,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:albedo",
@@ -1425,7 +1905,12 @@
       "releaseDate": "2020-12-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 27
+      "releaseOrder": 27,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:zhongli",
@@ -1438,7 +1923,12 @@
       "releaseDate": "2020-12-01",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 26
+      "releaseOrder": 26,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:xinyan",
@@ -1451,7 +1941,12 @@
       "releaseDate": "2020-12-01",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 25
+      "releaseOrder": 25,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:tartaglia",
@@ -1465,7 +1960,12 @@
       "releaseDate": "2020-11-11",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 24
+      "releaseOrder": 24,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:diona",
@@ -1478,7 +1978,12 @@
       "releaseDate": "2020-11-11",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 23
+      "releaseOrder": 23,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:klee",
@@ -1491,7 +1996,12 @@
       "releaseDate": "2020-10-20",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 22
+      "releaseOrder": 22,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:xingqiu",
@@ -1504,7 +2014,12 @@
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 20
+      "releaseOrder": 20,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:xiangling",
@@ -1524,7 +2039,12 @@
           "alias": "香菱",
           "source": "https://www.youtube.com/watch?v=t8kz47OOpbc"
         }
-      ]
+      ],
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "genshin-impact:venti",
@@ -1537,7 +2057,12 @@
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 9
+      "releaseOrder": 9,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:traveler",
@@ -1550,7 +2075,12 @@
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 13
+      "releaseOrder": 13,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:sucrose",
@@ -1570,7 +2100,12 @@
           "alias": "スクロース",
           "source": "https://www.youtube.com/watch?v=ISdV8atMWrU"
         }
-      ]
+      ],
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:razor",
@@ -1590,7 +2125,12 @@
           "alias": "レザー",
           "source": "https://www.youtube.com/watch?v=2bixiNaR7ZE"
         }
-      ]
+      ],
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:qiqi",
@@ -1610,7 +2150,12 @@
           "alias": "七七",
           "source": "https://www.youtube.com/watch?v=2F_LfKXAcro"
         }
-      ]
+      ],
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:noelle",
@@ -1630,7 +2175,12 @@
           "alias": "ノエル",
           "source": "https://www.youtube.com/watch?v=rIUJtQiFYQw"
         }
-      ]
+      ],
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:ningguang",
@@ -1643,7 +2193,12 @@
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 14
+      "releaseOrder": 14,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:mona",
@@ -1656,7 +2211,12 @@
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 6
+      "releaseOrder": 6,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:lisa",
@@ -1669,7 +2229,12 @@
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 5
+      "releaseOrder": 5,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:keqing",
@@ -1682,7 +2247,12 @@
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 1
+      "releaseOrder": 1,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:kaeya",
@@ -1702,7 +2272,12 @@
           "alias": "ガイア",
           "source": "https://www.youtube.com/watch?v=P1TYsFJhRTg"
         }
-      ]
+      ],
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:jean",
@@ -1722,7 +2297,12 @@
           "alias": "ジン",
           "source": "https://www.youtube.com/watch?v=EmqNjBRWUN0"
         }
-      ]
+      ],
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:fischl",
@@ -1742,7 +2322,12 @@
           "alias": "フィッシュル",
           "source": "https://www.youtube.com/watch?v=kkFOTdecLOw"
         }
-      ]
+      ],
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "genshin-impact:diluc",
@@ -1762,7 +2347,12 @@
           "alias": "ディルック",
           "source": "https://www.youtube.com/watch?v=U1FRRz04JD4"
         }
-      ]
+      ],
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:chongyun",
@@ -1775,7 +2365,12 @@
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 15
+      "releaseOrder": 15,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:bennett",
@@ -1788,7 +2383,12 @@
       "releaseDate": "2020-09-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://chars.remls.io/characters",
-      "releaseOrder": 8
+      "releaseOrder": 8,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "genshin-impact:beidou",
@@ -1808,7 +2408,12 @@
           "alias": "北斗",
           "source": "https://www.youtube.com/watch?v=k_nLjbOJnEc"
         }
-      ]
+      ],
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Claymore"
     },
     {
       "id": "genshin-impact:barbara",
@@ -1828,7 +2433,12 @@
           "alias": "バーバラ",
           "source": "https://www.youtube.com/watch?v=zfVD5G5UwpM"
         }
-      ]
+      ],
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Catalyst"
     },
     {
       "id": "genshin-impact:amber",
@@ -1848,7 +2458,12 @@
           "alias": "アンバー",
           "source": "https://www.youtube.com/watch?v=9UWubESFsFw"
         }
-      ]
+      ],
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://github.com/theBowja/genshin-db",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "wuthering-waves:cartethyia",
@@ -1861,7 +2476,12 @@
       "releaseDate": "2025-06-12",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 35
+      "releaseOrder": 35,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "wuthering-waves:ciaccona",
@@ -1874,7 +2494,12 @@
       "releaseDate": "2025-05-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 34
+      "releaseOrder": 34,
+      "weaponTags": [
+        "pistol"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Pistols"
     },
     {
       "id": "wuthering-waves:iuno",
@@ -1887,7 +2512,12 @@
       "releaseDate": "2025-09-17",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 39
+      "releaseOrder": 39,
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Gauntlets"
     },
     {
       "id": "wuthering-waves:jianxin",
@@ -1900,7 +2530,12 @@
       "releaseDate": "2024-05-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 1
+      "releaseOrder": 1,
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Gauntlets"
     },
     {
       "id": "wuthering-waves:jiyan",
@@ -1913,7 +2548,12 @@
       "releaseDate": "2024-05-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 2
+      "releaseOrder": 2,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Broadblade"
     },
     {
       "id": "wuthering-waves:qingxiao",
@@ -1937,7 +2577,12 @@
       "releaseDate": "2025-10-30",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 41
+      "releaseOrder": 41,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "wuthering-waves:rover-aero",
@@ -1951,7 +2596,12 @@
       "releaseDate": "2025-03-27",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://wutheringwaves.fandom.com/wiki/Rover_(Aero)",
-      "releaseOrder": 31
+      "releaseOrder": 31,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "wuthering-waves:sigrika",
@@ -1977,7 +2627,12 @@
       "releaseDate": "2025-08-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 38
+      "releaseOrder": 38,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Broadblade"
     },
     {
       "id": "wuthering-waves:calcharo",
@@ -1990,7 +2645,12 @@
       "releaseDate": "2024-05-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 17
+      "releaseOrder": 17,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Broadblade"
     },
     {
       "id": "wuthering-waves:hsin",
@@ -2043,7 +2703,12 @@
       "releaseDate": "2024-09-07",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 22
+      "releaseOrder": 22,
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Gauntlets"
     },
     {
       "id": "wuthering-waves:yinlin",
@@ -2056,7 +2721,12 @@
       "releaseDate": "2024-06-06",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 18
+      "releaseOrder": 18,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Rectifier"
     },
     {
       "id": "wuthering-waves:aemeath",
@@ -2069,7 +2739,12 @@
       "releaseDate": "2026-02-05",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 46
+      "releaseOrder": 46,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "wuthering-waves:brant",
@@ -2082,7 +2757,12 @@
       "releaseDate": "2025-03-06",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 30
+      "releaseOrder": 30,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "wuthering-waves:changli",
@@ -2095,7 +2775,12 @@
       "releaseDate": "2024-07-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 20
+      "releaseOrder": 20,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "wuthering-waves:denia",
@@ -2121,7 +2806,12 @@
       "releaseDate": "2024-05-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 13
+      "releaseOrder": 13,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Rectifier"
     },
     {
       "id": "wuthering-waves:galbrena",
@@ -2134,7 +2824,12 @@
       "releaseDate": "2025-10-09",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 40
+      "releaseOrder": 40,
+      "weaponTags": [
+        "pistol"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Pistols"
     },
     {
       "id": "wuthering-waves:jingran",
@@ -2159,7 +2854,12 @@
       "releaseDate": "2025-07-03",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 36
+      "releaseOrder": 36,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Broadblade"
     },
     {
       "id": "wuthering-waves:mornye",
@@ -2172,7 +2872,12 @@
       "releaseDate": "2026-01-15",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 45
+      "releaseOrder": 45,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Broadblade"
     },
     {
       "id": "wuthering-waves:carlotta",
@@ -2185,7 +2890,12 @@
       "releaseDate": "2025-01-02",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 27
+      "releaseOrder": 27,
+      "weaponTags": [
+        "pistol"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Pistols"
     },
     {
       "id": "wuthering-waves:hiyuki",
@@ -2211,7 +2921,12 @@
       "releaseDate": "2024-05-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 3
+      "releaseOrder": 3,
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Gauntlets"
     },
     {
       "id": "wuthering-waves:lucilla",
@@ -2248,7 +2963,12 @@
       "releaseDate": "2024-08-15",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 21
+      "releaseOrder": 21,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Rectifier"
     },
     {
       "id": "wuthering-waves:camellya",
@@ -2261,7 +2981,12 @@
       "releaseDate": "2024-11-14",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 25
+      "releaseOrder": 25,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "wuthering-waves:cantarella",
@@ -2281,7 +3006,12 @@
           "alias": "カンタレラ",
           "source": "https://www.youtube.com/watch?v=dbXrKVqtQfE"
         }
-      ]
+      ],
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Rectifier"
     },
     {
       "id": "wuthering-waves:chisa",
@@ -2294,7 +3024,12 @@
       "releaseDate": "2025-11-20",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 42
+      "releaseOrder": 42,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Broadblade"
     },
     {
       "id": "wuthering-waves:phrolova",
@@ -2307,7 +3042,12 @@
       "releaseDate": "2025-07-24",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 37
+      "releaseOrder": 37,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Rectifier"
     },
     {
       "id": "wuthering-waves:roccia",
@@ -2320,7 +3060,12 @@
       "releaseDate": "2025-01-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 28
+      "releaseOrder": 28,
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Gauntlets"
     },
     {
       "id": "wuthering-waves:rover-havoc",
@@ -2341,7 +3086,12 @@
           "alias": "漂泊者(男)・消滅",
           "source": "https://www.youtube.com/watch?v=02BYhgDRbjo"
         }
-      ]
+      ],
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "wuthering-waves:yangyang-xuanling",
@@ -2367,7 +3117,12 @@
       "releaseDate": "2024-06-28",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 19
+      "releaseOrder": 19,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Broadblade"
     },
     {
       "id": "wuthering-waves:lucy",
@@ -2406,7 +3161,12 @@
       "releaseDate": "2025-12-25",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 44
+      "releaseOrder": 44,
+      "weaponTags": [
+        "pistol"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Pistols"
     },
     {
       "id": "wuthering-waves:phoebe",
@@ -2419,7 +3179,12 @@
       "releaseDate": "2025-02-13",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 29
+      "releaseOrder": 29,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Rectifier"
     },
     {
       "id": "wuthering-waves:rover-spectro",
@@ -2433,7 +3198,12 @@
       "releaseDate": "2024-05-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 8
+      "releaseOrder": 8,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "wuthering-waves:shorekeeper",
@@ -2446,7 +3216,12 @@
       "releaseDate": "2024-09-29",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 23
+      "releaseOrder": 23,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Rectifier"
     },
     {
       "id": "wuthering-waves:verina",
@@ -2459,7 +3234,12 @@
       "releaseDate": "2024-05-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 10
+      "releaseOrder": 10,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Rectifier"
     },
     {
       "id": "wuthering-waves:zani",
@@ -2472,7 +3252,12 @@
       "releaseDate": "2025-04-29",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 33
+      "releaseOrder": 33,
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Gauntlets"
     },
     {
       "id": "wuthering-waves:aalto",
@@ -2485,7 +3270,12 @@
       "releaseDate": "2024-05-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 12
+      "releaseOrder": 12,
+      "weaponTags": [
+        "pistol"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Pistols"
     },
     {
       "id": "wuthering-waves:yangyang",
@@ -2498,7 +3288,12 @@
       "releaseDate": "2024-05-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 14
+      "releaseOrder": 14,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "wuthering-waves:buling",
@@ -2511,7 +3306,12 @@
       "releaseDate": "2025-12-11",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 43
+      "releaseOrder": 43,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Rectifier"
     },
     {
       "id": "wuthering-waves:lumi",
@@ -2524,7 +3324,12 @@
       "releaseDate": "2024-12-12",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 26
+      "releaseOrder": 26,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Broadblade"
     },
     {
       "id": "wuthering-waves:yuanwu",
@@ -2537,7 +3342,12 @@
       "releaseDate": "2024-05-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 15
+      "releaseOrder": 15,
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Gauntlets"
     },
     {
       "id": "wuthering-waves:chixia",
@@ -2550,7 +3360,12 @@
       "releaseDate": "2024-05-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 16
+      "releaseOrder": 16,
+      "weaponTags": [
+        "pistol"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Pistols"
     },
     {
       "id": "wuthering-waves:mortefi",
@@ -2563,7 +3378,12 @@
       "releaseDate": "2024-05-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 6
+      "releaseOrder": 6,
+      "weaponTags": [
+        "pistol"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Pistols"
     },
     {
       "id": "wuthering-waves:baizhi",
@@ -2576,7 +3396,12 @@
       "releaseDate": "2024-05-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 9
+      "releaseOrder": 9,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Rectifier"
     },
     {
       "id": "wuthering-waves:sanhua",
@@ -2589,7 +3414,12 @@
       "releaseDate": "2024-05-23",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 11
+      "releaseOrder": 11,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "wuthering-waves:youhu",
@@ -2602,7 +3432,12 @@
       "releaseDate": "2024-10-24",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://gachatracker.app/games/wuwa/characters/",
-      "releaseOrder": 24
+      "releaseOrder": 24,
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Gauntlets"
     },
     {
       "id": "wuthering-waves:danjin",
@@ -2622,7 +3457,12 @@
           "alias": "丹瑾",
           "source": "https://www.youtube.com/watch?v=Z0u8eT3ulRA"
         }
-      ]
+      ],
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "wuthering-waves:taoqi",
@@ -2642,7 +3482,12 @@
           "alias": "桃祈",
           "source": "https://www.youtube.com/watch?v=BkIFlmvKQx4"
         }
-      ]
+      ],
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/wuwa/characters/weapons/",
+      "weaponTagBasis": "Broadblade"
     },
     {
       "id": "wuthering-waves:suoming",
@@ -3974,7 +4819,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 3
+      "releaseOrder": 3,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Great Sword"
     },
     {
       "id": "arknights-endfield:tangtang",
@@ -3994,7 +4844,12 @@
           "alias": "タンタン",
           "source": "https://www.youtube.com/watch?v=a7lPI6VyCv4"
         }
-      ]
+      ],
+      "weaponTags": [
+        "firearm"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Handcannon"
     },
     {
       "id": "arknights-endfield:yvonne",
@@ -4007,7 +4862,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 16
+      "releaseOrder": 16,
+      "weaponTags": [
+        "firearm"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Guns"
     },
     {
       "id": "arknights-endfield:liino",
@@ -4020,7 +4880,12 @@
       "releaseDate": "2026-08-09",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 30
+      "releaseOrder": 30,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "arknights-endfield:zhuang-fangyi",
@@ -4033,7 +4898,12 @@
       "releaseDate": "2026-04-17",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 26
+      "releaseOrder": 26,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Arts Unit"
     },
     {
       "id": "arknights-endfield:camille",
@@ -4046,7 +4916,12 @@
       "releaseDate": "2026-06-26",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 28
+      "releaseOrder": 28,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "arknights-endfield:ember",
@@ -4059,7 +4934,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 13
+      "releaseOrder": 13,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Great Sword"
     },
     {
       "id": "arknights-endfield:laevatain",
@@ -4072,7 +4952,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 4
+      "releaseOrder": 4,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "arknights-endfield:arcane",
@@ -4085,7 +4970,12 @@
       "releaseDate": "2026-07-16",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 29
+      "releaseOrder": 29,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Arts Unit"
     },
     {
       "id": "arknights-endfield:ardelia",
@@ -4098,7 +4988,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 6
+      "releaseOrder": 6,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Orbiter"
     },
     {
       "id": "arknights-endfield:gilberta",
@@ -4111,7 +5006,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 19
+      "releaseOrder": 19,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Orbiter"
     },
     {
       "id": "arknights-endfield:typhoeus",
@@ -4125,7 +5025,12 @@
       "releaseDate": "2026-09-02",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 31
+      "releaseOrder": 31,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Arts Unit"
     },
     {
       "id": "arknights-endfield:endministrator",
@@ -4139,7 +5044,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 1
+      "releaseOrder": 1,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "arknights-endfield:lifeng",
@@ -4152,7 +5062,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 14
+      "releaseOrder": 14,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "arknights-endfield:mi-fu",
@@ -4165,7 +5080,12 @@
       "releaseDate": "2026-06-05",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 27
+      "releaseOrder": 27,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Great Sword"
     },
     {
       "id": "arknights-endfield:pogranichnik",
@@ -4178,7 +5098,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 22
+      "releaseOrder": 22,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "arknights-endfield:rossi",
@@ -4191,7 +5116,12 @@
       "releaseDate": "2026-03-29",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 25
+      "releaseOrder": 25,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "arknights-endfield:alesh",
@@ -4204,7 +5134,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 11
+      "releaseOrder": 11,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "arknights-endfield:snowshine",
@@ -4217,7 +5152,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 5
+      "releaseOrder": 5,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Great Sword"
     },
     {
       "id": "arknights-endfield:xaihi",
@@ -4230,7 +5170,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 17
+      "releaseOrder": 17,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Orbiters"
     },
     {
       "id": "arknights-endfield:arclight",
@@ -4243,7 +5188,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 9
+      "releaseOrder": 9,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "arknights-endfield:avywenna",
@@ -4256,7 +5206,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 7
+      "releaseOrder": 7,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "arknights-endfield:perlica",
@@ -4270,7 +5225,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 21
+      "releaseOrder": 21,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Orbiter"
     },
     {
       "id": "arknights-endfield:wulfgard",
@@ -4283,7 +5243,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 15
+      "releaseOrder": 15,
+      "weaponTags": [
+        "firearm"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Guns"
     },
     {
       "id": "arknights-endfield:chen-qianyu",
@@ -4296,7 +5261,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 18
+      "releaseOrder": 18,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "arknights-endfield:da-pan",
@@ -4309,7 +5279,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 2
+      "releaseOrder": 2,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Great Sword"
     },
     {
       "id": "arknights-endfield:purrchena",
@@ -4322,7 +5297,12 @@
       "releaseDate": "2026-09-02",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 32
+      "releaseOrder": 32,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "arknights-endfield:estella",
@@ -4335,7 +5315,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 12
+      "releaseOrder": 12,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Polearm"
     },
     {
       "id": "arknights-endfield:antal",
@@ -4348,7 +5333,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 10
+      "releaseOrder": 10,
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Orbiter"
     },
     {
       "id": "arknights-endfield:akekuri",
@@ -4361,7 +5351,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 8
+      "releaseOrder": 8,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Sword"
     },
     {
       "id": "arknights-endfield:fluorite",
@@ -4374,7 +5369,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 23
+      "releaseOrder": 23,
+      "weaponTags": [
+        "firearm"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Guns"
     },
     {
       "id": "arknights-endfield:catcher",
@@ -4387,7 +5387,12 @@
       "releaseDate": "2026-01-22",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
       "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 20
+      "releaseOrder": 20,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://gachatracker.app/games/endfield/characters/weapons/",
+      "weaponTagBasis": "Great Sword"
     },
     {
       "id": "arknights-endfield:si",
@@ -4425,7 +5430,12 @@
       "releaseDate": "2021-07-16",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 6
+      "releaseOrder": 6,
+      "weaponTags": [
+        "katana"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Katana"
     },
     {
       "id": "punishing-gray-raven:liv-eclipse",
@@ -4438,7 +5448,12 @@
       "releaseDate": "2021-07-16",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 15
+      "releaseOrder": 15,
+      "weaponTags": [
+        "firearm"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Levi-Gun"
     },
     {
       "id": "punishing-gray-raven:nanami-storm",
@@ -4451,7 +5466,12 @@
       "releaseDate": "2021-07-16",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 9
+      "releaseOrder": 9,
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Saw"
     },
     {
       "id": "punishing-gray-raven:lucia-dawn",
@@ -4464,7 +5484,12 @@
       "releaseDate": "2021-07-16",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 11
+      "releaseOrder": 11,
+      "weaponTags": [
+        "katana"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Katana"
     },
     {
       "id": "punishing-gray-raven:liv-lux",
@@ -4476,7 +5501,12 @@
       "releaseDate": "2021-07-16",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 5
+      "releaseOrder": 5,
+      "weaponTags": [
+        "firearm"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Levi-Gun"
     },
     {
       "id": "punishing-gray-raven:lee-palefire",
@@ -4489,7 +5519,12 @@
       "releaseDate": "2021-07-16",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 13
+      "releaseOrder": 13,
+      "weaponTags": [
+        "pistol"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Dual Guns"
     },
     {
       "id": "punishing-gray-raven:watanabe-nightblade",
@@ -4502,7 +5537,12 @@
       "releaseDate": "2021-07-16",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 19
+      "releaseOrder": 19,
+      "weaponTags": [
+        "dagger"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Dagger"
     },
     {
       "id": "punishing-gray-raven:bianca-zero",
@@ -4515,7 +5555,12 @@
       "releaseDate": "2021-07-16",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 17
+      "releaseOrder": 17,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "punishing-gray-raven:karenina-blast",
@@ -4528,7 +5573,12 @@
       "releaseDate": "2021-07-16",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 21
+      "releaseOrder": 21,
+      "weaponTags": [
+        "firearm"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Cannon"
     },
     {
       "id": "punishing-gray-raven:liv-luminance",
@@ -4540,7 +5590,12 @@
       "releaseDate": "2021-07-16",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 4
+      "releaseOrder": 4,
+      "weaponTags": [
+        "firearm"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Levi-Gun"
     },
     {
       "id": "punishing-gray-raven:lee-entropy",
@@ -4552,7 +5607,12 @@
       "releaseDate": "2021-07-16",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 3
+      "releaseOrder": 3,
+      "weaponTags": [
+        "pistol"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Dual Guns"
     },
     {
       "id": "punishing-gray-raven:karenina-ember",
@@ -4564,7 +5624,12 @@
       "releaseDate": "2021-07-16",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 2
+      "releaseOrder": 2,
+      "weaponTags": [
+        "firearm"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Cannon"
     },
     {
       "id": "punishing-gray-raven:nanami-pulse",
@@ -4576,7 +5641,12 @@
       "releaseDate": "2021-07-16",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 7
+      "releaseOrder": 7,
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Saw"
     },
     {
       "id": "punishing-gray-raven:kamui-tenebrion",
@@ -4588,7 +5658,12 @@
       "releaseDate": "2021-07-16",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 1
+      "releaseOrder": 1,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Greatsword"
     },
     {
       "id": "punishing-gray-raven:lucia-crimson-abyss",
@@ -4600,7 +5675,12 @@
       "releaseDate": "2021-08-03",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 23
+      "releaseOrder": 23,
+      "weaponTags": [
+        "katana"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Katana"
     },
     {
       "id": "punishing-gray-raven:kamui-bastion",
@@ -4613,7 +5693,12 @@
       "releaseDate": "2021-08-03",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 24
+      "releaseOrder": 24,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Greatsword"
     },
     {
       "id": "punishing-gray-raven:watanabe-astral",
@@ -4626,7 +5711,12 @@
       "releaseDate": "2021-09-09",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 26
+      "releaseOrder": 26,
+      "weaponTags": [
+        "dagger"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Dagger"
     },
     {
       "id": "punishing-gray-raven:ayla-brilliance",
@@ -4639,7 +5729,12 @@
       "releaseDate": "2021-09-09",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 25
+      "releaseOrder": 25,
+      "weaponTags": [
+        "scythe"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Scythe"
     },
     {
       "id": "punishing-gray-raven:bianca-veritas",
@@ -4651,7 +5746,12 @@
       "releaseDate": "2021-10-12",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 27
+      "releaseOrder": 27,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "punishing-gray-raven:sophia-silverfang",
@@ -4663,7 +5763,12 @@
       "releaseDate": "2021-10-12",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 28
+      "releaseOrder": 28,
+      "weaponTags": [
+        "pistol"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Dual Guns"
     },
     {
       "id": "punishing-gray-raven:chrome-arclight",
@@ -4675,7 +5780,12 @@
       "releaseDate": "2021-11-17",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 29
+      "releaseOrder": 29,
+      "weaponTags": [
+        "scythe"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Scythe"
     },
     {
       "id": "punishing-gray-raven:lucia-plume",
@@ -4688,7 +5798,12 @@
       "releaseDate": "2021-12-22",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 31
+      "releaseOrder": 31,
+      "weaponTags": [
+        "katana"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Katana"
     },
     {
       "id": "punishing-gray-raven:vera-rozen",
@@ -4700,7 +5815,12 @@
       "releaseDate": "2022-01-26",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 33
+      "releaseOrder": 33,
+      "weaponTags": [
+        "katana"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Katana"
     },
     {
       "id": "punishing-gray-raven:camu-crocotta",
@@ -4712,7 +5832,12 @@
       "releaseDate": "2022-01-26",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 32
+      "releaseOrder": 32,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Uniframe: Greatsword"
     },
     {
       "id": "punishing-gray-raven:rosetta-rigor",
@@ -4724,7 +5849,13 @@
       "releaseDate": "2022-03-02",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 34
+      "releaseOrder": 34,
+      "weaponTags": [
+        "spear",
+        "shield"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Spear Shield"
     },
     {
       "id": "punishing-gray-raven:changyu-qilin",
@@ -4736,7 +5867,12 @@
       "releaseDate": "2022-04-13",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 35
+      "releaseOrder": 35,
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Gauntlets"
     },
     {
       "id": "punishing-gray-raven:qu-pavo",
@@ -4748,7 +5884,12 @@
       "releaseDate": "2022-04-13",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 36
+      "releaseOrder": 36,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Uniframe: Glaive"
     },
     {
       "id": "punishing-gray-raven:luna-laurel",
@@ -4761,7 +5902,12 @@
       "releaseDate": "2022-05-18",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 37
+      "releaseOrder": 37,
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Amplifier"
     },
     {
       "id": "punishing-gray-raven:2b",
@@ -4809,7 +5955,12 @@
       "releaseDate": "2022-08-16",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 42
+      "releaseOrder": 42,
+      "weaponTags": [
+        "firearm"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Gun Set"
     },
     {
       "id": "punishing-gray-raven:selena-tempest",
@@ -4821,7 +5972,12 @@
       "releaseDate": "2022-08-16",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 41
+      "releaseOrder": 41,
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Uniframe: Cello Blade"
     },
     {
       "id": "punishing-gray-raven:chrome-glory",
@@ -4833,7 +5989,13 @@
       "releaseDate": "2022-09-16",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 43
+      "releaseOrder": 43,
+      "weaponTags": [
+        "sword",
+        "firearm"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Gunblade"
     },
     {
       "id": "punishing-gray-raven:no-21-xxi",
@@ -4847,7 +6009,12 @@
       "releaseDate": "2022-10-18",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 44
+      "releaseOrder": 44,
+      "weaponTags": [
+        "summon"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Co-Bot"
     },
     {
       "id": "punishing-gray-raven:vera-garnet",
@@ -4859,7 +6026,12 @@
       "releaseDate": "2022-11-17",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 45
+      "releaseOrder": 45,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Banner Spear"
     },
     {
       "id": "punishing-gray-raven:roland-flambeau",
@@ -4871,7 +6043,12 @@
       "releaseDate": "2022-12-22",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 46
+      "releaseOrder": 46,
+      "weaponTags": [
+        "whip"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Uniframe: Chain Blade"
     },
     {
       "id": "punishing-gray-raven:liv-empyrea",
@@ -4883,7 +6060,12 @@
       "releaseDate": "2023-01-19",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 47
+      "releaseOrder": 47,
+      "weaponTags": [
+        "staff"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Scepter"
     },
     {
       "id": "punishing-gray-raven:selena-capriccio",
@@ -4895,7 +6077,12 @@
       "releaseDate": "2023-03-01",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 48
+      "releaseOrder": 48,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Flute Sword"
     },
     {
       "id": "punishing-gray-raven:pulao-dragontoll",
@@ -4919,7 +6106,12 @@
       "releaseDate": "2023-05-11",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 50
+      "releaseOrder": 50,
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Mega Saw"
     },
     {
       "id": "punishing-gray-raven:haicma-starveil",
@@ -4932,7 +6124,12 @@
       "releaseDate": "2023-06-15",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 51
+      "releaseOrder": 51,
+      "weaponTags": [
+        "scythe"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Scythe"
     },
     {
       "id": "punishing-gray-raven:karenina-scire",
@@ -4969,7 +6166,13 @@
       "releaseDate": "2023-09-26",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 54
+      "releaseOrder": 54,
+      "weaponTags": [
+        "sword",
+        "staff"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Swordstaff"
     },
     {
       "id": "punishing-gray-raven:bambinata-vitrum",
@@ -4981,7 +6184,12 @@
       "releaseDate": "2023-11-09",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 55
+      "releaseOrder": 55,
+      "weaponTags": [
+        "dual-blades"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Mantis Blades"
     },
     {
       "id": "punishing-gray-raven:lee-hyperreal",
@@ -4993,7 +6201,12 @@
       "releaseDate": "2023-12-12",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 56
+      "releaseOrder": 56,
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Composite Armaments"
     },
     {
       "id": "punishing-gray-raven:ayla-kaleido",
@@ -5005,7 +6218,13 @@
       "releaseDate": "2024-01-18",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 57
+      "releaseOrder": 57,
+      "weaponTags": [
+        "spear",
+        "firearm"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Beam Gunlance"
     },
     {
       "id": "punishing-gray-raven:lucia-crimson-weave",
@@ -5017,7 +6236,12 @@
       "releaseDate": "2024-02-23",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 58
+      "releaseOrder": 58,
+      "weaponTags": [
+        "dual-blades"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Daisho"
     },
     {
       "id": "punishing-gray-raven:hanying-zitherwoe",
@@ -5029,7 +6253,12 @@
       "releaseDate": "2024-04-08",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 59
+      "releaseOrder": 59,
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Folding Fan"
     },
     {
       "id": "punishing-gray-raven:no-21-feral-scent",
@@ -5043,7 +6272,12 @@
       "releaseDate": "2024-05-09",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 60
+      "releaseOrder": 60,
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Claw Blades"
     },
     {
       "id": "punishing-gray-raven:noctis-indomitus",
@@ -5055,7 +6289,12 @@
       "releaseDate": "2024-06-14",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 61
+      "releaseOrder": 61,
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Robotic Arm"
     },
     {
       "id": "punishing-gray-raven:alisa-echo",
@@ -5067,7 +6306,12 @@
       "releaseDate": "2024-07-15",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 62
+      "releaseOrder": 62,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Bow"
     },
     {
       "id": "punishing-gray-raven:lamia-lost-lullaby",
@@ -5079,7 +6323,12 @@
       "releaseDate": "2024-08-21",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 63
+      "releaseOrder": 63,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Halberd Blade"
     },
     {
       "id": "punishing-gray-raven:black-rock-shooter",
@@ -5103,7 +6352,12 @@
       "releaseDate": "2024-10-31",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 65
+      "releaseOrder": 65,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Trailblade"
     },
     {
       "id": "punishing-gray-raven:qu-shukra",
@@ -5115,7 +6369,12 @@
       "releaseDate": "2024-12-04",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 66
+      "releaseOrder": 66,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Longsword"
     },
     {
       "id": "punishing-gray-raven:teddy-decryptor",
@@ -5127,7 +6386,12 @@
       "releaseDate": "2025-01-10",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 69
+      "releaseOrder": 69,
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Tactical Headphones"
     },
     {
       "id": "punishing-gray-raven:luna-oblivion",
@@ -5139,7 +6403,12 @@
       "releaseDate": "2025-01-10",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 68
+      "releaseOrder": 68,
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Chakram"
     },
     {
       "id": "punishing-gray-raven:bridget-ardeo",
@@ -5151,7 +6420,12 @@
       "releaseDate": "2025-01-10",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 67
+      "releaseOrder": 67,
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Tactical Tonfas"
     },
     {
       "id": "punishing-gray-raven:hanying-solacetune",
@@ -5163,7 +6437,12 @@
       "releaseDate": "2025-02-20",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 70
+      "releaseOrder": 70,
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Pipa"
     },
     {
       "id": "punishing-gray-raven:wanshi-lucid-dreamer",
@@ -5175,7 +6454,12 @@
       "releaseDate": "2025-02-20",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 71
+      "releaseOrder": 71,
+      "weaponTags": [
+        "pistol"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Revolver"
     },
     {
       "id": "punishing-gray-raven:lucia-pyroath",
@@ -5187,7 +6471,12 @@
       "releaseDate": "2025-04-02",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 72
+      "releaseOrder": 72,
+      "weaponTags": [
+        "katana"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Pyro Katana"
     },
     {
       "id": "punishing-gray-raven:yata-fulgor",
@@ -5199,7 +6488,12 @@
       "releaseDate": "2025-04-02",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 74
+      "releaseOrder": 74,
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Powered Arms"
     },
     {
       "id": "punishing-gray-raven:nanami-startrail",
@@ -5211,7 +6505,13 @@
       "releaseDate": "2025-04-02",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 73
+      "releaseOrder": 73,
+      "weaponTags": [
+        "axe",
+        "shield"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Shield Axe"
     },
     {
       "id": "punishing-gray-raven:ishmael-parhelion",
@@ -5223,7 +6523,12 @@
       "releaseDate": "2025-05-14",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 75
+      "releaseOrder": 75,
+      "weaponTags": [
+        "staff"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Keystaff"
     },
     {
       "id": "punishing-gray-raven:lilith-daemonissa",
@@ -5235,7 +6540,12 @@
       "releaseDate": "2025-05-14",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 76
+      "releaseOrder": 76,
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Moon Umbrella"
     },
     {
       "id": "punishing-gray-raven:selena-pianissimo",
@@ -5259,7 +6569,13 @@
       "releaseDate": "2025-06-25",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 77
+      "releaseOrder": 77,
+      "weaponTags": [
+        "sword",
+        "firearm"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Fusion Gunsword"
     },
     {
       "id": "punishing-gray-raven:vera-geiravor",
@@ -5271,7 +6587,12 @@
       "releaseDate": "2025-06-25",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 79
+      "releaseOrder": 79,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Dual-Bladed Lance"
     },
     {
       "id": "punishing-gray-raven:dante",
@@ -5307,7 +6628,12 @@
       "releaseDate": "2025-09-19",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 82
+      "releaseOrder": 82,
+      "weaponTags": [
+        "whip"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Lashblade"
     },
     {
       "id": "punishing-gray-raven:discord-secator",
@@ -5319,7 +6645,12 @@
       "releaseDate": "2025-09-19",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 83
+      "releaseOrder": 83,
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Scissors"
     },
     {
       "id": "punishing-gray-raven:veronica-aegis",
@@ -5331,7 +6662,12 @@
       "releaseDate": "2025-09-19",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 84
+      "releaseOrder": 84,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Lance"
     },
     {
       "id": "punishing-gray-raven:liv-limpidity",
@@ -5344,7 +6680,12 @@
       "releaseDate": "2025-11-13",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 85
+      "releaseOrder": 85,
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Lotus Wheel"
     },
     {
       "id": "punishing-gray-raven:teddy-spectre",
@@ -5357,7 +6698,12 @@
       "releaseDate": "2025-12-23",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 86
+      "releaseOrder": 86,
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Digital Warboots"
     },
     {
       "id": "punishing-gray-raven:rosetta-arete",
@@ -5370,7 +6716,12 @@
       "releaseDate": "2026-02-03",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 87
+      "releaseOrder": 87,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Radiant Halberd"
     },
     {
       "id": "punishing-gray-raven:nirvatia-dirge",
@@ -5384,7 +6735,12 @@
       "releaseDate": "2026-03-17",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 88
+      "releaseOrder": 88,
+      "weaponTags": [
+        "scythe"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Judgment Scythe"
     },
     {
       "id": "punishing-gray-raven:kamui-aeternion",
@@ -5397,7 +6753,12 @@
       "releaseDate": "2026-04-21",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 89
+      "releaseOrder": 89,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Kinetic Greatsword"
     },
     {
       "id": "punishing-gray-raven:lucia-inverse-crown",
@@ -5410,7 +6771,12 @@
       "releaseDate": "2026-06-02",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 90
+      "releaseOrder": 90,
+      "weaponTags": [
+        "katana"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Cylinder Katana"
     },
     {
       "id": "punishing-gray-raven:helentine-lacrimosa",
@@ -5423,7 +6789,12 @@
       "releaseDate": "2026-07-16",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 91
+      "releaseOrder": 91,
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Folding Buzzsaw"
     },
     {
       "id": "punishing-gray-raven:karenina-effulgence",
@@ -5436,7 +6807,12 @@
       "releaseDate": "2026-08-19",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 92
+      "releaseOrder": 92,
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Drift Anchor"
     },
     {
       "id": "punishing-gray-raven:adelyde-anabasis",
@@ -5449,7 +6825,12 @@
       "releaseDate": "2026-09-23",
       "releaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)",
       "source": "https://grayravens.com/wiki/Patches",
-      "releaseOrder": 93
+      "releaseOrder": 93,
+      "weaponTags": [
+        "firearm"
+      ],
+      "weaponTagSource": "https://grayravens.com/wiki/Weapons/6%E2%98%85_Weapons",
+      "weaponTagBasis": "Cross Cannon"
     },
     {
       "id": "punishing-gray-raven:kurumi-tokisaki",
@@ -5633,7 +7014,12 @@
       "releaseDate": "2023-12-14",
       "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
       "source": "https://rising.granbluefantasy.jp/en/",
-      "releaseOrder": 10
+      "releaseOrder": 10,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=nz6ExXAHuww",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-versus-rising:djeeta",
@@ -5659,7 +7045,12 @@
       "releaseDate": "2023-12-14",
       "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
       "source": "https://rising.granbluefantasy.jp/en/",
-      "releaseOrder": 12
+      "releaseOrder": 12,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=pmZ5exbPbtQ",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-versus-rising:charlotta",
@@ -5763,7 +7154,12 @@
       "releaseDate": "2023-12-14",
       "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
       "source": "https://rising.granbluefantasy.jp/en/",
-      "releaseOrder": 26
+      "releaseOrder": 26,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=X0rCtEmhs8A",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-versus-rising:vaseraga",
@@ -5789,7 +7185,12 @@
       "releaseDate": "2023-12-14",
       "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
       "source": "https://rising.granbluefantasy.jp/en/",
-      "releaseOrder": 17
+      "releaseOrder": 17,
+      "weaponTags": [
+        "katana"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=RNVutpvkd8s",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-versus-rising:soriz",
@@ -5958,7 +7359,12 @@
       "releaseDate": "2023-12-14",
       "releaseBasis": "라이징 출시 / 공식 DLC 발매일",
       "source": "https://rising.granbluefantasy.jp/en/",
-      "releaseOrder": 21
+      "releaseOrder": 21,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=GH3RkCDv2P0",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-versus-rising:grimnir",
@@ -6159,7 +7565,12 @@
       "releaseDate": "2024-02-01",
       "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
       "source": "https://relink.granbluefantasy.jp/en/characters/detail",
-      "releaseOrder": 18
+      "releaseOrder": 18,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=TWHRAZDX0G4",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-relink:katalina",
@@ -6172,7 +7583,12 @@
       "releaseDate": "2024-02-01",
       "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
       "source": "https://relink.granbluefantasy.jp/en/characters/detail",
-      "releaseOrder": 7
+      "releaseOrder": 7,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=M2TjxrYFlG4",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-relink:rackam",
@@ -6185,7 +7601,13 @@
       "releaseDate": "2024-02-01",
       "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
       "source": "https://relink.granbluefantasy.jp/en/characters/detail",
-      "releaseOrder": 11
+      "releaseOrder": 11,
+      "weaponTags": [
+        "pistol",
+        "firearm"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=TKiH97O6kQ0",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-relink:io",
@@ -6198,7 +7620,12 @@
       "releaseDate": "2024-02-01",
       "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
       "source": "https://relink.granbluefantasy.jp/en/characters/detail",
-      "releaseOrder": 6
+      "releaseOrder": 6,
+      "weaponTags": [
+        "staff"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=bHp5wnuTetk",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-relink:eugen",
@@ -6212,7 +7639,12 @@
       "releaseDate": "2024-02-01",
       "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
       "source": "https://relink.granbluefantasy.jp/en/characters/detail",
-      "releaseOrder": 2
+      "releaseOrder": 2,
+      "weaponTags": [
+        "firearm"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=xv9JJH-hjc8",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-relink:rosetta",
@@ -6225,7 +7657,12 @@
       "releaseDate": "2024-02-01",
       "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
       "source": "https://relink.granbluefantasy.jp/en/characters/detail",
-      "releaseOrder": 12
+      "releaseOrder": 12,
+      "weaponTags": [
+        "dagger"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=jCnoNuzZZK4",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-relink:lancelot",
@@ -6238,7 +7675,12 @@
       "releaseDate": "2024-02-01",
       "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
       "source": "https://relink.granbluefantasy.jp/en/characters/detail",
-      "releaseOrder": 8
+      "releaseOrder": 8,
+      "weaponTags": [
+        "dual-blades"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=lszBlrrmv_c",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-relink:vane",
@@ -6277,7 +7719,12 @@
       "releaseDate": "2024-02-01",
       "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
       "source": "https://relink.granbluefantasy.jp/en/characters/detail",
-      "releaseOrder": 13
+      "releaseOrder": 13,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=YCiHCQ3x6Eo",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-relink:charlotta",
@@ -6290,7 +7737,12 @@
       "releaseDate": "2024-02-01",
       "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
       "source": "https://relink.granbluefantasy.jp/en/characters/detail",
-      "releaseOrder": 1
+      "releaseOrder": 1,
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=vP0zzVK-q3M",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-relink:yodarha",
@@ -6303,7 +7755,12 @@
       "releaseDate": "2024-02-01",
       "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
       "source": "https://relink.granbluefantasy.jp/en/characters/detail",
-      "releaseOrder": 16
+      "releaseOrder": 16,
+      "weaponTags": [
+        "dual-blades"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=YTIlxecL3tM",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-relink:narmaya",
@@ -6316,7 +7773,12 @@
       "releaseDate": "2024-02-01",
       "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
       "source": "https://relink.granbluefantasy.jp/en/characters/detail",
-      "releaseOrder": 9
+      "releaseOrder": 9,
+      "weaponTags": [
+        "katana"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=gwgnzKO6iG8",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-relink:zeta",
@@ -6329,7 +7791,12 @@
       "releaseDate": "2024-02-01",
       "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
       "source": "https://relink.granbluefantasy.jp/en/characters/detail",
-      "releaseOrder": 17
+      "releaseOrder": 17,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=YyjIhQ3ryHk",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-relink:vaseraga",
@@ -6342,7 +7809,12 @@
       "releaseDate": "2024-02-01",
       "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
       "source": "https://relink.granbluefantasy.jp/en/characters/detail",
-      "releaseOrder": 15
+      "releaseOrder": 15,
+      "weaponTags": [
+        "scythe"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=ipr7swGVLAY",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-relink:ferry",
@@ -6355,7 +7827,12 @@
       "releaseDate": "2024-02-01",
       "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
       "source": "https://relink.granbluefantasy.jp/en/characters/detail",
-      "releaseOrder": 3
+      "releaseOrder": 3,
+      "weaponTags": [
+        "whip"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=xAMDANFWFmI",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-relink:ghandagoza",
@@ -6368,7 +7845,12 @@
       "releaseDate": "2024-02-01",
       "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
       "source": "https://relink.granbluefantasy.jp/en/characters/detail",
-      "releaseOrder": 4
+      "releaseOrder": 4,
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=i_Af8mHAU04",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-relink:cagliostro",
@@ -6422,7 +7904,12 @@
       "releaseDate": "2024-04-26",
       "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
       "source": "https://relink.granbluefantasy.jp/en/characters/detail",
-      "releaseOrder": 20
+      "releaseOrder": 20,
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=dhd01X8sFEk",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-relink:sandalphon",
@@ -6500,7 +7987,12 @@
       "releaseDate": "2026-07-09",
       "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
       "source": "https://relink-ragnarok.granbluefantasy.com/en/characters/",
-      "releaseOrder": 26
+      "releaseOrder": 26,
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://www.youtube.com/watch?v=JEUnQRlefrk",
+      "weaponTagBasis": "개별 시연의 무기 형태"
     },
     {
       "id": "granblue-relink:maglielle",
