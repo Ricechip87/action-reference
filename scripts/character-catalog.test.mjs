@@ -71,3 +71,10 @@ test('new public-list entries require a release-safe publication window; known r
  assert.deepEqual(result.videos.map(v=>v.id),['safe','known']);
  assert.equal(result.excluded[0].id,'uncertain');
 });
+
+test('verified official addition order sorts undated characters without inventing dates',()=>{
+ const a={gameId:'heroes',characterName:'Zeta',characterReleaseDate:null,characterReleaseOrder:1};
+ const b={gameId:'heroes',characterName:'Alpha',characterReleaseDate:null,characterReleaseOrder:2};
+ assert.ok(compareRelease(a,b)<0);
+ assert.ok(compareRelease(a,b,{descending:true})>0);
+});

@@ -117,6 +117,14 @@ def collection_jobs(config):
             if creator.get('enabled',True):jobs.append(({**game,**creator,'channelSpecific':False,'sourceKind':'creator'},creator['channel']))
     return jobs
 
+def annotate_video(video,game,source,via,known_ids):
+    row={**video}
+    row.update(gameId=game['id'],language='ko' if re.search(r'_KO$|_KR_',source,re.I) else '',type='캐릭터 무브셋' if game.get('sourceKind')=='creator' else video_type(row['title']),sourceChannel=source,sourceKind=game.get('sourceKind','official'),gameVerified=True)
+    if game.get('referenceScope'):row['referenceScope']=game['referenceScope']
+    row['requiresReleaseWindow']=via=='channel-videos' and row['id'] not in known_ids
+    row.pop('description',None)
+    return row
+
 def collect():
     config=json.loads(Path('config.json').read_text(encoding='utf-8'));prior={}
     try:prior=json.loads(fetch('https://ricechip87.github.io/action-reference/data/videos.json'))
@@ -133,9 +141,7 @@ def collect():
             entries,via,rss_error=load_channel_entries(channel);selected=[]
             for v in entries:
                 if not relevant(v,game):continue
-                v.update(gameId=game['id'],language='ko' if re.search(r'_KO$|_KR_',source,re.I) else '',type='캐릭터 무브셋' if game.get('sourceKind')=='creator' else video_type(v['title']),sourceChannel=source,sourceKind=game.get('sourceKind','official'),gameVerified=True)
-                v['requiresReleaseWindow']=via=='channel-videos' and v['id'] not in known_ids
-                v.pop('description',None);selected.append(v)
+                selected.append(annotate_video(v,game,source,via,known_ids))
             return selected,{'gameId':game['id'],'channel':source,'ok':True,'via':via,'rssError':rss_error,'feedCount':len(entries),'matchedCount':len(selected)}
         except Exception as error:
             return [],{'gameId':game['id'],'channel':source,'ok':False,'error':str(error)[:200]}

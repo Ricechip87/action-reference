@@ -21,6 +21,15 @@ test('weapon filtering supports all, unclassified, and one of multiple weapon ta
  assert.equal(matchesWeapon(['sword'],'unclassified'),false);
  assert.equal(matchesWeapon([],''),true);
 });
+
+test('a class awakening uses that style weapon, while an explicit video override still wins',()=>{
+ const classes=[{id:'bdo:warrior',weaponTags:['sword','shield'],weaponTagVariants:[{keywords:['Awakening','각성'],tags:['greatsword']}]}];
+ const original={id:'classnormal',characterId:'bdo:warrior',title:'Warrior Class Skills'};
+ const awakening={...original,title:'Warrior Awakening Skills'};
+ assert.deepEqual(weaponTagsFor(original,{characters:classes}),['sword','shield']);
+ assert.deepEqual(weaponTagsFor(awakening,{characters:classes}),['greatsword']);
+ assert.deepEqual(weaponTagsFor({...awakening,weaponTags:['fist']},{characters:classes}),['fist']);
+});
 test('a single-video edit covers language variants without affecting another video; character edit clears its stale overrides',()=>{
  const config={games:[{id:'ww'}],videoWeaponTags:{other:['bow']}};
  const one=updateWeaponTags(config,video,['spear']);

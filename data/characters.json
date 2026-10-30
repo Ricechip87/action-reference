@@ -8006,6 +8006,4119 @@
       "releaseBasis": "원작 / 추가 캐릭터 / Endless Ragnarok 발매일",
       "source": "https://relink-ragnarok.granbluefantasy.com/en/characters/",
       "releaseOrder": 27
+    },
+    {
+      "id": "devil-may-cry-4:dante",
+      "gameId": "devil-may-cry-4",
+      "name": "단테",
+      "aliases": [
+        "Dante",
+        "단테"
+      ],
+      "releaseDate": "2008-01-31",
+      "releaseOrder": 1,
+      "releaseBasis": "캐릭터 / 작품·확장판 발매 기준",
+      "source": "https://sonyinteractive.com/en/press-releases/2007/sony-computer-entertainment-japan-to-introduce-playstation3-bundle-pack-featuring-devil-may-cry-4/",
+      "weaponTags": [
+        "sword",
+        "fist",
+        "firearm"
+      ],
+      "weaponTagSource": "https://news.capcomusa.com/lets/browse/devil-may-cry-4-special-edition-release-date-pricing-gameplay-trailer-and-costumes"
+    },
+    {
+      "id": "devil-may-cry-4:nero",
+      "gameId": "devil-may-cry-4",
+      "name": "네로",
+      "aliases": [
+        "Nero",
+        "네로"
+      ],
+      "releaseDate": "2008-01-31",
+      "releaseOrder": 2,
+      "releaseBasis": "캐릭터 / 작품·확장판 발매 기준",
+      "source": "https://sonyinteractive.com/en/press-releases/2007/sony-computer-entertainment-japan-to-introduce-playstation3-bundle-pack-featuring-devil-may-cry-4/",
+      "weaponTags": [
+        "sword",
+        "pistol"
+      ],
+      "weaponTagSource": "https://news.capcomusa.com/lets/browse/devil-may-cry-4-special-edition-release-date-pricing-gameplay-trailer-and-costumes"
+    },
+    {
+      "id": "devil-may-cry-4:vergil",
+      "gameId": "devil-may-cry-4",
+      "name": "버질",
+      "aliases": [
+        "Vergil",
+        "버질"
+      ],
+      "releaseDate": "2015-06-23",
+      "releaseOrder": 3,
+      "releaseBasis": "캐릭터 / 작품·확장판 발매 기준",
+      "source": "https://news.capcomusa.com/lets/browse/devil-may-cry-4-special-edition-release-date-pricing-gameplay-trailer-and-costumes",
+      "weaponTags": [
+        "katana",
+        "sword",
+        "fist"
+      ],
+      "weaponTagSource": "https://news.capcomusa.com/lets/browse/devil-may-cry-4-special-edition-release-date-pricing-gameplay-trailer-and-costumes"
+    },
+    {
+      "id": "devil-may-cry-4:lady",
+      "gameId": "devil-may-cry-4",
+      "name": "레이디",
+      "aliases": [
+        "Lady",
+        "레이디"
+      ],
+      "releaseDate": "2015-06-23",
+      "releaseOrder": 4,
+      "releaseBasis": "캐릭터 / 작품·확장판 발매 기준",
+      "source": "https://news.capcomusa.com/lets/browse/devil-may-cry-4-special-edition-release-date-pricing-gameplay-trailer-and-costumes",
+      "weaponTags": [
+        "firearm",
+        "pistol"
+      ],
+      "weaponTagSource": "https://news.capcomusa.com/lets/browse/devil-may-cry-4-special-edition-release-date-pricing-gameplay-trailer-and-costumes"
+    },
+    {
+      "id": "devil-may-cry-4:trish",
+      "gameId": "devil-may-cry-4",
+      "name": "트리쉬",
+      "aliases": [
+        "Trish",
+        "트리쉬"
+      ],
+      "releaseDate": "2015-06-23",
+      "releaseOrder": 5,
+      "releaseBasis": "캐릭터 / 작품·확장판 발매 기준",
+      "source": "https://news.capcomusa.com/lets/browse/devil-may-cry-4-special-edition-release-date-pricing-gameplay-trailer-and-costumes",
+      "weaponTags": [
+        "sword",
+        "pistol",
+        "fist"
+      ],
+      "weaponTagSource": "https://news.capcomusa.com/lets/browse/devil-may-cry-4-special-edition-release-date-pricing-gameplay-trailer-and-costumes"
+    },
+    {
+      "id": "devil-may-cry-5:dante",
+      "gameId": "devil-may-cry-5",
+      "name": "단테",
+      "aliases": [
+        "Dante",
+        "단테"
+      ],
+      "releaseDate": "2019-03-08",
+      "releaseOrder": 1,
+      "releaseBasis": "캐릭터 / 작품·확장판 발매 기준",
+      "source": "https://www.capcom.co.jp/ir/english/data/oar/2018/develop/dmc.html",
+      "weaponTags": [
+        "sword",
+        "fist",
+        "firearm"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/data/oar/2018/develop/dmc.html"
+    },
+    {
+      "id": "devil-may-cry-5:nero",
+      "gameId": "devil-may-cry-5",
+      "name": "네로",
+      "aliases": [
+        "Nero",
+        "네로"
+      ],
+      "releaseDate": "2019-03-08",
+      "releaseOrder": 2,
+      "releaseBasis": "캐릭터 / 작품·확장판 발매 기준",
+      "source": "https://www.capcom.co.jp/ir/english/data/oar/2018/develop/dmc.html",
+      "weaponTags": [
+        "sword",
+        "pistol"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/data/oar/2018/develop/dmc.html"
+    },
+    {
+      "id": "devil-may-cry-5:v",
+      "gameId": "devil-may-cry-5",
+      "name": "브이",
+      "aliases": [
+        "V",
+        "브이"
+      ],
+      "releaseDate": "2019-03-08",
+      "releaseOrder": 3,
+      "releaseBasis": "캐릭터 / 작품·확장판 발매 기준",
+      "source": "https://www.capcom.co.jp/ir/english/data/oar/2018/develop/dmc.html",
+      "weaponTags": [
+        "summon"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/data/oar/2018/develop/dmc.html"
+    },
+    {
+      "id": "devil-may-cry-5:vergil",
+      "gameId": "devil-may-cry-5",
+      "name": "버질",
+      "aliases": [
+        "Vergil",
+        "버질"
+      ],
+      "releaseDate": "2020-11-10",
+      "releaseOrder": 4,
+      "releaseBasis": "캐릭터 / 작품·확장판 발매 기준",
+      "source": "https://www.capcomfrance.fr/dmc5cesortie/",
+      "weaponTags": [
+        "katana",
+        "sword",
+        "fist"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/data/oar/2018/develop/dmc.html"
+    },
+    {
+      "id": "monster-hunter-world:great-sword",
+      "gameId": "monster-hunter-world",
+      "name": "대검",
+      "aliases": [
+        "Great Sword",
+        "Greatsword",
+        "大剣",
+        "대검"
+      ],
+      "releaseDate": "2018-01-26",
+      "releaseOrder": 1,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/world/",
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/world/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-world:long-sword",
+      "gameId": "monster-hunter-world",
+      "name": "태도",
+      "aliases": [
+        "Long Sword",
+        "Longsword",
+        "太刀",
+        "태도"
+      ],
+      "releaseDate": "2018-01-26",
+      "releaseOrder": 2,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/world/",
+      "weaponTags": [
+        "katana"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/world/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-world:sword-shield",
+      "gameId": "monster-hunter-world",
+      "name": "한손검",
+      "aliases": [
+        "Sword & Shield",
+        "Sword and Shield",
+        "Sword Shield",
+        "片手剣",
+        "한손검"
+      ],
+      "releaseDate": "2018-01-26",
+      "releaseOrder": 3,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/world/",
+      "weaponTags": [
+        "sword",
+        "shield",
+        "sword-shield"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/world/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-world:dual-blades",
+      "gameId": "monster-hunter-world",
+      "name": "쌍검",
+      "aliases": [
+        "Dual Blades",
+        "Dual Swords",
+        "双剣",
+        "쌍검"
+      ],
+      "releaseDate": "2018-01-26",
+      "releaseOrder": 4,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/world/",
+      "weaponTags": [
+        "dual-blades"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/world/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-world:hammer",
+      "gameId": "monster-hunter-world",
+      "name": "해머",
+      "aliases": [
+        "Hammer",
+        "ハンマー",
+        "해머"
+      ],
+      "releaseDate": "2018-01-26",
+      "releaseOrder": 5,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/world/",
+      "weaponTags": [
+        "hammer"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/world/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-world:hunting-horn",
+      "gameId": "monster-hunter-world",
+      "name": "수렵피리",
+      "aliases": [
+        "Hunting Horn",
+        "狩猟笛",
+        "수렵피리"
+      ],
+      "releaseDate": "2018-01-26",
+      "releaseOrder": 6,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/world/",
+      "weaponTags": [
+        "special",
+        "hunting-horn"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/world/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-world:lance",
+      "gameId": "monster-hunter-world",
+      "name": "랜스",
+      "aliases": [
+        "Lance",
+        "ランス",
+        "랜스"
+      ],
+      "releaseDate": "2018-01-26",
+      "releaseOrder": 7,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/world/",
+      "weaponTags": [
+        "spear",
+        "shield",
+        "lance"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/world/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-world:gunlance",
+      "gameId": "monster-hunter-world",
+      "name": "건랜스",
+      "aliases": [
+        "Gunlance",
+        "Gun Lance",
+        "ガンランス",
+        "건랜스"
+      ],
+      "releaseDate": "2018-01-26",
+      "releaseOrder": 8,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/world/",
+      "weaponTags": [
+        "spear",
+        "firearm",
+        "shield",
+        "gunlance"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/world/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-world:switch-axe",
+      "gameId": "monster-hunter-world",
+      "name": "슬래시액스",
+      "aliases": [
+        "Switch Axe",
+        "Switchaxe",
+        "スラッシュアックス",
+        "슬래시액스"
+      ],
+      "releaseDate": "2018-01-26",
+      "releaseOrder": 9,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/world/",
+      "weaponTags": [
+        "axe",
+        "sword",
+        "switch-axe"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/world/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-world:charge-blade",
+      "gameId": "monster-hunter-world",
+      "name": "차지액스",
+      "aliases": [
+        "Charge Blade",
+        "Chargeblade",
+        "チャージアックス",
+        "차지액스"
+      ],
+      "releaseDate": "2018-01-26",
+      "releaseOrder": 10,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/world/",
+      "weaponTags": [
+        "axe",
+        "sword",
+        "shield",
+        "charge-blade"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/world/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-world:insect-glaive",
+      "gameId": "monster-hunter-world",
+      "name": "조충곤",
+      "aliases": [
+        "Insect Glaive",
+        "操虫棍",
+        "조충곤"
+      ],
+      "releaseDate": "2018-01-26",
+      "releaseOrder": 11,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/world/",
+      "weaponTags": [
+        "spear",
+        "insect-glaive"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/world/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-world:light-bowgun",
+      "gameId": "monster-hunter-world",
+      "name": "라이트보우건",
+      "aliases": [
+        "Light Bowgun",
+        "Light Bow Gun",
+        "ライトボウガン",
+        "라이트보우건"
+      ],
+      "releaseDate": "2018-01-26",
+      "releaseOrder": 12,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/world/",
+      "weaponTags": [
+        "firearm",
+        "light-bowgun"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/world/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-world:heavy-bowgun",
+      "gameId": "monster-hunter-world",
+      "name": "헤비보우건",
+      "aliases": [
+        "Heavy Bowgun",
+        "Heavy Bow Gun",
+        "ヘビィボウガン",
+        "헤비보우건"
+      ],
+      "releaseDate": "2018-01-26",
+      "releaseOrder": 13,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/world/",
+      "weaponTags": [
+        "firearm",
+        "heavy-bowgun"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/world/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-world:bow",
+      "gameId": "monster-hunter-world",
+      "name": "활",
+      "aliases": [
+        "Bow",
+        "弓",
+        "활"
+      ],
+      "releaseDate": "2018-01-26",
+      "releaseOrder": 14,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/world/",
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/world/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-iceborne:great-sword",
+      "gameId": "monster-hunter-iceborne",
+      "name": "대검",
+      "aliases": [
+        "Great Sword",
+        "Greatsword",
+        "大剣",
+        "대검"
+      ],
+      "releaseDate": "2019-09-06",
+      "releaseOrder": 1,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-iceborne:long-sword",
+      "gameId": "monster-hunter-iceborne",
+      "name": "태도",
+      "aliases": [
+        "Long Sword",
+        "Longsword",
+        "太刀",
+        "태도"
+      ],
+      "releaseDate": "2019-09-06",
+      "releaseOrder": 2,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "weaponTags": [
+        "katana"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-iceborne:sword-shield",
+      "gameId": "monster-hunter-iceborne",
+      "name": "한손검",
+      "aliases": [
+        "Sword & Shield",
+        "Sword and Shield",
+        "Sword Shield",
+        "片手剣",
+        "한손검"
+      ],
+      "releaseDate": "2019-09-06",
+      "releaseOrder": 3,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "weaponTags": [
+        "sword",
+        "shield",
+        "sword-shield"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-iceborne:dual-blades",
+      "gameId": "monster-hunter-iceborne",
+      "name": "쌍검",
+      "aliases": [
+        "Dual Blades",
+        "Dual Swords",
+        "双剣",
+        "쌍검"
+      ],
+      "releaseDate": "2019-09-06",
+      "releaseOrder": 4,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "weaponTags": [
+        "dual-blades"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-iceborne:hammer",
+      "gameId": "monster-hunter-iceborne",
+      "name": "해머",
+      "aliases": [
+        "Hammer",
+        "ハンマー",
+        "해머"
+      ],
+      "releaseDate": "2019-09-06",
+      "releaseOrder": 5,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "weaponTags": [
+        "hammer"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-iceborne:hunting-horn",
+      "gameId": "monster-hunter-iceborne",
+      "name": "수렵피리",
+      "aliases": [
+        "Hunting Horn",
+        "狩猟笛",
+        "수렵피리"
+      ],
+      "releaseDate": "2019-09-06",
+      "releaseOrder": 6,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "weaponTags": [
+        "special",
+        "hunting-horn"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-iceborne:lance",
+      "gameId": "monster-hunter-iceborne",
+      "name": "랜스",
+      "aliases": [
+        "Lance",
+        "ランス",
+        "랜스"
+      ],
+      "releaseDate": "2019-09-06",
+      "releaseOrder": 7,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "weaponTags": [
+        "spear",
+        "shield",
+        "lance"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-iceborne:gunlance",
+      "gameId": "monster-hunter-iceborne",
+      "name": "건랜스",
+      "aliases": [
+        "Gunlance",
+        "Gun Lance",
+        "ガンランス",
+        "건랜스"
+      ],
+      "releaseDate": "2019-09-06",
+      "releaseOrder": 8,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "weaponTags": [
+        "spear",
+        "firearm",
+        "shield",
+        "gunlance"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-iceborne:switch-axe",
+      "gameId": "monster-hunter-iceborne",
+      "name": "슬래시액스",
+      "aliases": [
+        "Switch Axe",
+        "Switchaxe",
+        "スラッシュアックス",
+        "슬래시액스"
+      ],
+      "releaseDate": "2019-09-06",
+      "releaseOrder": 9,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "weaponTags": [
+        "axe",
+        "sword",
+        "switch-axe"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-iceborne:charge-blade",
+      "gameId": "monster-hunter-iceborne",
+      "name": "차지액스",
+      "aliases": [
+        "Charge Blade",
+        "Chargeblade",
+        "チャージアックス",
+        "차지액스"
+      ],
+      "releaseDate": "2019-09-06",
+      "releaseOrder": 10,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "weaponTags": [
+        "axe",
+        "sword",
+        "shield",
+        "charge-blade"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-iceborne:insect-glaive",
+      "gameId": "monster-hunter-iceborne",
+      "name": "조충곤",
+      "aliases": [
+        "Insect Glaive",
+        "操虫棍",
+        "조충곤"
+      ],
+      "releaseDate": "2019-09-06",
+      "releaseOrder": 11,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "weaponTags": [
+        "spear",
+        "insect-glaive"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-iceborne:light-bowgun",
+      "gameId": "monster-hunter-iceborne",
+      "name": "라이트보우건",
+      "aliases": [
+        "Light Bowgun",
+        "Light Bow Gun",
+        "ライトボウガン",
+        "라이트보우건"
+      ],
+      "releaseDate": "2019-09-06",
+      "releaseOrder": 12,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "weaponTags": [
+        "firearm",
+        "light-bowgun"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-iceborne:heavy-bowgun",
+      "gameId": "monster-hunter-iceborne",
+      "name": "헤비보우건",
+      "aliases": [
+        "Heavy Bowgun",
+        "Heavy Bow Gun",
+        "ヘビィボウガン",
+        "헤비보우건"
+      ],
+      "releaseDate": "2019-09-06",
+      "releaseOrder": 13,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "weaponTags": [
+        "firearm",
+        "heavy-bowgun"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-iceborne:bow",
+      "gameId": "monster-hunter-iceborne",
+      "name": "활",
+      "aliases": [
+        "Bow",
+        "弓",
+        "활"
+      ],
+      "releaseDate": "2019-09-06",
+      "releaseOrder": 14,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e190510a.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-rise:great-sword",
+      "gameId": "monster-hunter-rise",
+      "name": "대검",
+      "aliases": [
+        "Great Sword",
+        "Greatsword",
+        "大剣",
+        "대검"
+      ],
+      "releaseDate": "2021-03-26",
+      "releaseOrder": 1,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/rise/",
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/rise/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-rise:long-sword",
+      "gameId": "monster-hunter-rise",
+      "name": "태도",
+      "aliases": [
+        "Long Sword",
+        "Longsword",
+        "太刀",
+        "태도"
+      ],
+      "releaseDate": "2021-03-26",
+      "releaseOrder": 2,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/rise/",
+      "weaponTags": [
+        "katana"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/rise/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-rise:sword-shield",
+      "gameId": "monster-hunter-rise",
+      "name": "한손검",
+      "aliases": [
+        "Sword & Shield",
+        "Sword and Shield",
+        "Sword Shield",
+        "片手剣",
+        "한손검"
+      ],
+      "releaseDate": "2021-03-26",
+      "releaseOrder": 3,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/rise/",
+      "weaponTags": [
+        "sword",
+        "shield",
+        "sword-shield"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/rise/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-rise:dual-blades",
+      "gameId": "monster-hunter-rise",
+      "name": "쌍검",
+      "aliases": [
+        "Dual Blades",
+        "Dual Swords",
+        "双剣",
+        "쌍검"
+      ],
+      "releaseDate": "2021-03-26",
+      "releaseOrder": 4,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/rise/",
+      "weaponTags": [
+        "dual-blades"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/rise/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-rise:hammer",
+      "gameId": "monster-hunter-rise",
+      "name": "해머",
+      "aliases": [
+        "Hammer",
+        "ハンマー",
+        "해머"
+      ],
+      "releaseDate": "2021-03-26",
+      "releaseOrder": 5,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/rise/",
+      "weaponTags": [
+        "hammer"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/rise/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-rise:hunting-horn",
+      "gameId": "monster-hunter-rise",
+      "name": "수렵피리",
+      "aliases": [
+        "Hunting Horn",
+        "狩猟笛",
+        "수렵피리"
+      ],
+      "releaseDate": "2021-03-26",
+      "releaseOrder": 6,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/rise/",
+      "weaponTags": [
+        "special",
+        "hunting-horn"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/rise/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-rise:lance",
+      "gameId": "monster-hunter-rise",
+      "name": "랜스",
+      "aliases": [
+        "Lance",
+        "ランス",
+        "랜스"
+      ],
+      "releaseDate": "2021-03-26",
+      "releaseOrder": 7,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/rise/",
+      "weaponTags": [
+        "spear",
+        "shield",
+        "lance"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/rise/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-rise:gunlance",
+      "gameId": "monster-hunter-rise",
+      "name": "건랜스",
+      "aliases": [
+        "Gunlance",
+        "Gun Lance",
+        "ガンランス",
+        "건랜스"
+      ],
+      "releaseDate": "2021-03-26",
+      "releaseOrder": 8,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/rise/",
+      "weaponTags": [
+        "spear",
+        "firearm",
+        "shield",
+        "gunlance"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/rise/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-rise:switch-axe",
+      "gameId": "monster-hunter-rise",
+      "name": "슬래시액스",
+      "aliases": [
+        "Switch Axe",
+        "Switchaxe",
+        "スラッシュアックス",
+        "슬래시액스"
+      ],
+      "releaseDate": "2021-03-26",
+      "releaseOrder": 9,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/rise/",
+      "weaponTags": [
+        "axe",
+        "sword",
+        "switch-axe"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/rise/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-rise:charge-blade",
+      "gameId": "monster-hunter-rise",
+      "name": "차지액스",
+      "aliases": [
+        "Charge Blade",
+        "Chargeblade",
+        "チャージアックス",
+        "차지액스"
+      ],
+      "releaseDate": "2021-03-26",
+      "releaseOrder": 10,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/rise/",
+      "weaponTags": [
+        "axe",
+        "sword",
+        "shield",
+        "charge-blade"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/rise/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-rise:insect-glaive",
+      "gameId": "monster-hunter-rise",
+      "name": "조충곤",
+      "aliases": [
+        "Insect Glaive",
+        "操虫棍",
+        "조충곤"
+      ],
+      "releaseDate": "2021-03-26",
+      "releaseOrder": 11,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/rise/",
+      "weaponTags": [
+        "spear",
+        "insect-glaive"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/rise/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-rise:light-bowgun",
+      "gameId": "monster-hunter-rise",
+      "name": "라이트보우건",
+      "aliases": [
+        "Light Bowgun",
+        "Light Bow Gun",
+        "ライトボウガン",
+        "라이트보우건"
+      ],
+      "releaseDate": "2021-03-26",
+      "releaseOrder": 12,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/rise/",
+      "weaponTags": [
+        "firearm",
+        "light-bowgun"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/rise/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-rise:heavy-bowgun",
+      "gameId": "monster-hunter-rise",
+      "name": "헤비보우건",
+      "aliases": [
+        "Heavy Bowgun",
+        "Heavy Bow Gun",
+        "ヘビィボウガン",
+        "헤비보우건"
+      ],
+      "releaseDate": "2021-03-26",
+      "releaseOrder": 13,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/rise/",
+      "weaponTags": [
+        "firearm",
+        "heavy-bowgun"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/rise/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-rise:bow",
+      "gameId": "monster-hunter-rise",
+      "name": "활",
+      "aliases": [
+        "Bow",
+        "弓",
+        "활"
+      ],
+      "releaseDate": "2021-03-26",
+      "releaseOrder": 14,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/rise/",
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/rise/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-sunbreak:great-sword",
+      "gameId": "monster-hunter-sunbreak",
+      "name": "대검",
+      "aliases": [
+        "Great Sword",
+        "Greatsword",
+        "大剣",
+        "대검"
+      ],
+      "releaseDate": "2022-06-30",
+      "releaseOrder": 1,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-sunbreak:long-sword",
+      "gameId": "monster-hunter-sunbreak",
+      "name": "태도",
+      "aliases": [
+        "Long Sword",
+        "Longsword",
+        "太刀",
+        "태도"
+      ],
+      "releaseDate": "2022-06-30",
+      "releaseOrder": 2,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "weaponTags": [
+        "katana"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-sunbreak:sword-shield",
+      "gameId": "monster-hunter-sunbreak",
+      "name": "한손검",
+      "aliases": [
+        "Sword & Shield",
+        "Sword and Shield",
+        "Sword Shield",
+        "片手剣",
+        "한손검"
+      ],
+      "releaseDate": "2022-06-30",
+      "releaseOrder": 3,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "weaponTags": [
+        "sword",
+        "shield",
+        "sword-shield"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-sunbreak:dual-blades",
+      "gameId": "monster-hunter-sunbreak",
+      "name": "쌍검",
+      "aliases": [
+        "Dual Blades",
+        "Dual Swords",
+        "双剣",
+        "쌍검"
+      ],
+      "releaseDate": "2022-06-30",
+      "releaseOrder": 4,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "weaponTags": [
+        "dual-blades"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-sunbreak:hammer",
+      "gameId": "monster-hunter-sunbreak",
+      "name": "해머",
+      "aliases": [
+        "Hammer",
+        "ハンマー",
+        "해머"
+      ],
+      "releaseDate": "2022-06-30",
+      "releaseOrder": 5,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "weaponTags": [
+        "hammer"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-sunbreak:hunting-horn",
+      "gameId": "monster-hunter-sunbreak",
+      "name": "수렵피리",
+      "aliases": [
+        "Hunting Horn",
+        "狩猟笛",
+        "수렵피리"
+      ],
+      "releaseDate": "2022-06-30",
+      "releaseOrder": 6,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "weaponTags": [
+        "special",
+        "hunting-horn"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-sunbreak:lance",
+      "gameId": "monster-hunter-sunbreak",
+      "name": "랜스",
+      "aliases": [
+        "Lance",
+        "ランス",
+        "랜스"
+      ],
+      "releaseDate": "2022-06-30",
+      "releaseOrder": 7,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "weaponTags": [
+        "spear",
+        "shield",
+        "lance"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-sunbreak:gunlance",
+      "gameId": "monster-hunter-sunbreak",
+      "name": "건랜스",
+      "aliases": [
+        "Gunlance",
+        "Gun Lance",
+        "ガンランス",
+        "건랜스"
+      ],
+      "releaseDate": "2022-06-30",
+      "releaseOrder": 8,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "weaponTags": [
+        "spear",
+        "firearm",
+        "shield",
+        "gunlance"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-sunbreak:switch-axe",
+      "gameId": "monster-hunter-sunbreak",
+      "name": "슬래시액스",
+      "aliases": [
+        "Switch Axe",
+        "Switchaxe",
+        "スラッシュアックス",
+        "슬래시액스"
+      ],
+      "releaseDate": "2022-06-30",
+      "releaseOrder": 9,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "weaponTags": [
+        "axe",
+        "sword",
+        "switch-axe"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-sunbreak:charge-blade",
+      "gameId": "monster-hunter-sunbreak",
+      "name": "차지액스",
+      "aliases": [
+        "Charge Blade",
+        "Chargeblade",
+        "チャージアックス",
+        "차지액스"
+      ],
+      "releaseDate": "2022-06-30",
+      "releaseOrder": 10,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "weaponTags": [
+        "axe",
+        "sword",
+        "shield",
+        "charge-blade"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-sunbreak:insect-glaive",
+      "gameId": "monster-hunter-sunbreak",
+      "name": "조충곤",
+      "aliases": [
+        "Insect Glaive",
+        "操虫棍",
+        "조충곤"
+      ],
+      "releaseDate": "2022-06-30",
+      "releaseOrder": 11,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "weaponTags": [
+        "spear",
+        "insect-glaive"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-sunbreak:light-bowgun",
+      "gameId": "monster-hunter-sunbreak",
+      "name": "라이트보우건",
+      "aliases": [
+        "Light Bowgun",
+        "Light Bow Gun",
+        "ライトボウガン",
+        "라이트보우건"
+      ],
+      "releaseDate": "2022-06-30",
+      "releaseOrder": 12,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "weaponTags": [
+        "firearm",
+        "light-bowgun"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-sunbreak:heavy-bowgun",
+      "gameId": "monster-hunter-sunbreak",
+      "name": "헤비보우건",
+      "aliases": [
+        "Heavy Bowgun",
+        "Heavy Bow Gun",
+        "ヘビィボウガン",
+        "헤비보우건"
+      ],
+      "releaseDate": "2022-06-30",
+      "releaseOrder": 13,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "weaponTags": [
+        "firearm",
+        "heavy-bowgun"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-sunbreak:bow",
+      "gameId": "monster-hunter-sunbreak",
+      "name": "활",
+      "aliases": [
+        "Bow",
+        "弓",
+        "활"
+      ],
+      "releaseDate": "2022-06-30",
+      "releaseOrder": 14,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/news/html/220316.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-wilds:great-sword",
+      "gameId": "monster-hunter-wilds",
+      "name": "대검",
+      "aliases": [
+        "Great Sword",
+        "Greatsword",
+        "大剣",
+        "대검"
+      ],
+      "releaseDate": "2025-02-28",
+      "releaseOrder": 1,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/wilds/",
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/wilds/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-wilds:long-sword",
+      "gameId": "monster-hunter-wilds",
+      "name": "태도",
+      "aliases": [
+        "Long Sword",
+        "Longsword",
+        "太刀",
+        "태도"
+      ],
+      "releaseDate": "2025-02-28",
+      "releaseOrder": 2,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/wilds/",
+      "weaponTags": [
+        "katana"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/wilds/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-wilds:sword-shield",
+      "gameId": "monster-hunter-wilds",
+      "name": "한손검",
+      "aliases": [
+        "Sword & Shield",
+        "Sword and Shield",
+        "Sword Shield",
+        "片手剣",
+        "한손검"
+      ],
+      "releaseDate": "2025-02-28",
+      "releaseOrder": 3,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/wilds/",
+      "weaponTags": [
+        "sword",
+        "shield",
+        "sword-shield"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/wilds/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-wilds:dual-blades",
+      "gameId": "monster-hunter-wilds",
+      "name": "쌍검",
+      "aliases": [
+        "Dual Blades",
+        "Dual Swords",
+        "双剣",
+        "쌍검"
+      ],
+      "releaseDate": "2025-02-28",
+      "releaseOrder": 4,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/wilds/",
+      "weaponTags": [
+        "dual-blades"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/wilds/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-wilds:hammer",
+      "gameId": "monster-hunter-wilds",
+      "name": "해머",
+      "aliases": [
+        "Hammer",
+        "ハンマー",
+        "해머"
+      ],
+      "releaseDate": "2025-02-28",
+      "releaseOrder": 5,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/wilds/",
+      "weaponTags": [
+        "hammer"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/wilds/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-wilds:hunting-horn",
+      "gameId": "monster-hunter-wilds",
+      "name": "수렵피리",
+      "aliases": [
+        "Hunting Horn",
+        "狩猟笛",
+        "수렵피리"
+      ],
+      "releaseDate": "2025-02-28",
+      "releaseOrder": 6,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/wilds/",
+      "weaponTags": [
+        "special",
+        "hunting-horn"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/wilds/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-wilds:lance",
+      "gameId": "monster-hunter-wilds",
+      "name": "랜스",
+      "aliases": [
+        "Lance",
+        "ランス",
+        "랜스"
+      ],
+      "releaseDate": "2025-02-28",
+      "releaseOrder": 7,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/wilds/",
+      "weaponTags": [
+        "spear",
+        "shield",
+        "lance"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/wilds/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-wilds:gunlance",
+      "gameId": "monster-hunter-wilds",
+      "name": "건랜스",
+      "aliases": [
+        "Gunlance",
+        "Gun Lance",
+        "ガンランス",
+        "건랜스"
+      ],
+      "releaseDate": "2025-02-28",
+      "releaseOrder": 8,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/wilds/",
+      "weaponTags": [
+        "spear",
+        "firearm",
+        "shield",
+        "gunlance"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/wilds/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-wilds:switch-axe",
+      "gameId": "monster-hunter-wilds",
+      "name": "슬래시액스",
+      "aliases": [
+        "Switch Axe",
+        "Switchaxe",
+        "スラッシュアックス",
+        "슬래시액스"
+      ],
+      "releaseDate": "2025-02-28",
+      "releaseOrder": 9,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/wilds/",
+      "weaponTags": [
+        "axe",
+        "sword",
+        "switch-axe"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/wilds/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-wilds:charge-blade",
+      "gameId": "monster-hunter-wilds",
+      "name": "차지액스",
+      "aliases": [
+        "Charge Blade",
+        "Chargeblade",
+        "チャージアックス",
+        "차지액스"
+      ],
+      "releaseDate": "2025-02-28",
+      "releaseOrder": 10,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/wilds/",
+      "weaponTags": [
+        "axe",
+        "sword",
+        "shield",
+        "charge-blade"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/wilds/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-wilds:insect-glaive",
+      "gameId": "monster-hunter-wilds",
+      "name": "조충곤",
+      "aliases": [
+        "Insect Glaive",
+        "操虫棍",
+        "조충곤"
+      ],
+      "releaseDate": "2025-02-28",
+      "releaseOrder": 11,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/wilds/",
+      "weaponTags": [
+        "spear",
+        "insect-glaive"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/wilds/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-wilds:light-bowgun",
+      "gameId": "monster-hunter-wilds",
+      "name": "라이트보우건",
+      "aliases": [
+        "Light Bowgun",
+        "Light Bow Gun",
+        "ライトボウガン",
+        "라이트보우건"
+      ],
+      "releaseDate": "2025-02-28",
+      "releaseOrder": 12,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/wilds/",
+      "weaponTags": [
+        "firearm",
+        "light-bowgun"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/wilds/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-wilds:heavy-bowgun",
+      "gameId": "monster-hunter-wilds",
+      "name": "헤비보우건",
+      "aliases": [
+        "Heavy Bowgun",
+        "Heavy Bow Gun",
+        "ヘビィボウガン",
+        "헤비보우건"
+      ],
+      "releaseDate": "2025-02-28",
+      "releaseOrder": 13,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/wilds/",
+      "weaponTags": [
+        "firearm",
+        "heavy-bowgun"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/wilds/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-wilds:bow",
+      "gameId": "monster-hunter-wilds",
+      "name": "활",
+      "aliases": [
+        "Bow",
+        "弓",
+        "활"
+      ],
+      "releaseDate": "2025-02-28",
+      "releaseOrder": 14,
+      "releaseBasis": "작품·확장판의 최초 정식 발매일",
+      "source": "https://www.monsterhunter.com/wilds/",
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://www.monsterhunter.com/wilds/",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-ascendance:great-sword",
+      "gameId": "monster-hunter-ascendance",
+      "name": "대검",
+      "aliases": [
+        "Great Sword",
+        "Greatsword",
+        "大剣",
+        "대검"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 1,
+      "releaseBasis": "2027년 출시 예정 · 공식 선공개",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-ascendance:long-sword",
+      "gameId": "monster-hunter-ascendance",
+      "name": "태도",
+      "aliases": [
+        "Long Sword",
+        "Longsword",
+        "太刀",
+        "태도"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 2,
+      "releaseBasis": "2027년 출시 예정 · 공식 선공개",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "weaponTags": [
+        "katana"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-ascendance:sword-shield",
+      "gameId": "monster-hunter-ascendance",
+      "name": "한손검",
+      "aliases": [
+        "Sword & Shield",
+        "Sword and Shield",
+        "Sword Shield",
+        "片手剣",
+        "한손검"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 3,
+      "releaseBasis": "2027년 출시 예정 · 공식 선공개",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "weaponTags": [
+        "sword",
+        "shield",
+        "sword-shield"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-ascendance:dual-blades",
+      "gameId": "monster-hunter-ascendance",
+      "name": "쌍검",
+      "aliases": [
+        "Dual Blades",
+        "Dual Swords",
+        "双剣",
+        "쌍검"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 4,
+      "releaseBasis": "2027년 출시 예정 · 공식 선공개",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "weaponTags": [
+        "dual-blades"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-ascendance:hammer",
+      "gameId": "monster-hunter-ascendance",
+      "name": "해머",
+      "aliases": [
+        "Hammer",
+        "ハンマー",
+        "해머"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 5,
+      "releaseBasis": "2027년 출시 예정 · 공식 선공개",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "weaponTags": [
+        "hammer"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-ascendance:hunting-horn",
+      "gameId": "monster-hunter-ascendance",
+      "name": "수렵피리",
+      "aliases": [
+        "Hunting Horn",
+        "狩猟笛",
+        "수렵피리"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 6,
+      "releaseBasis": "2027년 출시 예정 · 공식 선공개",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "weaponTags": [
+        "special",
+        "hunting-horn"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-ascendance:lance",
+      "gameId": "monster-hunter-ascendance",
+      "name": "랜스",
+      "aliases": [
+        "Lance",
+        "ランス",
+        "랜스"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 7,
+      "releaseBasis": "2027년 출시 예정 · 공식 선공개",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "weaponTags": [
+        "spear",
+        "shield",
+        "lance"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-ascendance:gunlance",
+      "gameId": "monster-hunter-ascendance",
+      "name": "건랜스",
+      "aliases": [
+        "Gunlance",
+        "Gun Lance",
+        "ガンランス",
+        "건랜스"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 8,
+      "releaseBasis": "2027년 출시 예정 · 공식 선공개",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "weaponTags": [
+        "spear",
+        "firearm",
+        "shield",
+        "gunlance"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-ascendance:switch-axe",
+      "gameId": "monster-hunter-ascendance",
+      "name": "슬래시액스",
+      "aliases": [
+        "Switch Axe",
+        "Switchaxe",
+        "スラッシュアックス",
+        "슬래시액스"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 9,
+      "releaseBasis": "2027년 출시 예정 · 공식 선공개",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "weaponTags": [
+        "axe",
+        "sword",
+        "switch-axe"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-ascendance:charge-blade",
+      "gameId": "monster-hunter-ascendance",
+      "name": "차지액스",
+      "aliases": [
+        "Charge Blade",
+        "Chargeblade",
+        "チャージアックス",
+        "차지액스"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 10,
+      "releaseBasis": "2027년 출시 예정 · 공식 선공개",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "weaponTags": [
+        "axe",
+        "sword",
+        "shield",
+        "charge-blade"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-ascendance:insect-glaive",
+      "gameId": "monster-hunter-ascendance",
+      "name": "조충곤",
+      "aliases": [
+        "Insect Glaive",
+        "操虫棍",
+        "조충곤"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 11,
+      "releaseBasis": "2027년 출시 예정 · 공식 선공개",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "weaponTags": [
+        "spear",
+        "insect-glaive"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-ascendance:light-bowgun",
+      "gameId": "monster-hunter-ascendance",
+      "name": "라이트보우건",
+      "aliases": [
+        "Light Bowgun",
+        "Light Bow Gun",
+        "ライトボウガン",
+        "라이트보우건"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 12,
+      "releaseBasis": "2027년 출시 예정 · 공식 선공개",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "weaponTags": [
+        "firearm",
+        "light-bowgun"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-ascendance:heavy-bowgun",
+      "gameId": "monster-hunter-ascendance",
+      "name": "헤비보우건",
+      "aliases": [
+        "Heavy Bowgun",
+        "Heavy Bow Gun",
+        "ヘビィボウガン",
+        "헤비보우건"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 13,
+      "releaseBasis": "2027년 출시 예정 · 공식 선공개",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "weaponTags": [
+        "firearm",
+        "heavy-bowgun"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "monster-hunter-ascendance:bow",
+      "gameId": "monster-hunter-ascendance",
+      "name": "활",
+      "aliases": [
+        "Bow",
+        "弓",
+        "활"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 14,
+      "releaseBasis": "2027년 출시 예정 · 공식 선공개",
+      "source": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://www.capcom.co.jp/ir/english/news/html/e260608b.html",
+      "kind": "weapon"
+    },
+    {
+      "id": "vindictus:lethita",
+      "gameId": "vindictus",
+      "name": "리시타",
+      "aliases": [
+        "리시타",
+        "Lann",
+        "lethita"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 1,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=1",
+      "weaponTags": [
+        "dual-blades"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=1",
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "듀얼스피어",
+            "Twin Spears"
+          ],
+          "tags": [
+            "spear"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vindictus:fiona",
+      "gameId": "vindictus",
+      "name": "피오나",
+      "aliases": [
+        "피오나",
+        "Fiona",
+        "fiona"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 2,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=2",
+      "weaponTags": [
+        "sword",
+        "shield"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=2",
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "해머",
+            "Hammer"
+          ],
+          "tags": [
+            "hammer",
+            "shield"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vindictus:evy",
+      "gameId": "vindictus",
+      "name": "이비",
+      "aliases": [
+        "이비",
+        "Evie",
+        "evy"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 3,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=3",
+      "weaponTags": [
+        "staff"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=3",
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "배틀사이드",
+            "Scythe"
+          ],
+          "tags": [
+            "scythe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vindictus:kalok",
+      "gameId": "vindictus",
+      "name": "카록",
+      "aliases": [
+        "카록",
+        "Karok",
+        "kalok"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 4,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=4",
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=4",
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "블래스터",
+            "Cestus"
+          ],
+          "tags": [
+            "fist"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vindictus:kay",
+      "gameId": "vindictus",
+      "name": "카이",
+      "aliases": [
+        "카이",
+        "Kai",
+        "kay"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 5,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=5",
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=5",
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "크로스건",
+            "Crossgun",
+            "Cross Gun"
+          ],
+          "tags": [
+            "firearm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vindictus:vella",
+      "gameId": "vindictus",
+      "name": "벨라",
+      "aliases": [
+        "벨라",
+        "Vella",
+        "vella"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 6,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=6",
+      "weaponTags": [
+        "dual-blades"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=6",
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "듀얼블레이드",
+            "Chain Blades"
+          ],
+          "tags": [
+            "whip",
+            "dual-blades"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vindictus:hurk",
+      "gameId": "vindictus",
+      "name": "허크",
+      "aliases": [
+        "허크",
+        "Hurk",
+        "hurk"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 7,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=7",
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=7",
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "테이드",
+            "Teide"
+          ],
+          "tags": [
+            "sword",
+            "firearm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vindictus:lynn",
+      "gameId": "vindictus",
+      "name": "린",
+      "aliases": [
+        "린",
+        "Lynn",
+        "lynn"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 8,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=8",
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=8",
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "블뤼테",
+            "Blute",
+            "Battleshade"
+          ],
+          "tags": [
+            "special"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vindictus:arisha",
+      "gameId": "vindictus",
+      "name": "아리샤",
+      "aliases": [
+        "아리샤",
+        "Arisha",
+        "arisha"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 9,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=9",
+      "weaponTags": [
+        "sword",
+        "focus"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=9",
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "윕",
+            "Whip"
+          ],
+          "tags": [
+            "whip",
+            "focus"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vindictus:hagie",
+      "gameId": "vindictus",
+      "name": "헤기",
+      "aliases": [
+        "헤기",
+        "Hagie",
+        "hagie"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 10,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=10",
+      "weaponTags": [
+        "dagger"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=10"
+    },
+    {
+      "id": "vindictus:delia",
+      "gameId": "vindictus",
+      "name": "델리아",
+      "aliases": [
+        "델리아",
+        "Delia",
+        "delia"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 11,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=11",
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=11"
+    },
+    {
+      "id": "vindictus:miri",
+      "gameId": "vindictus",
+      "name": "미리",
+      "aliases": [
+        "미리",
+        "Miri",
+        "miri"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 12,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=12",
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=12"
+    },
+    {
+      "id": "vindictus:grimden",
+      "gameId": "vindictus",
+      "name": "그림덴",
+      "aliases": [
+        "그림덴",
+        "Grimden",
+        "grimden"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 13,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=13",
+      "weaponTags": [
+        "dagger"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=13"
+    },
+    {
+      "id": "vindictus:miul",
+      "gameId": "vindictus",
+      "name": "미울",
+      "aliases": [
+        "미울",
+        "Eira",
+        "miul"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 14,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=14",
+      "weaponTags": [
+        "pistol"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=14"
+    },
+    {
+      "id": "vindictus:bel",
+      "gameId": "vindictus",
+      "name": "벨",
+      "aliases": [
+        "벨",
+        "Belle",
+        "bel"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 15,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=15",
+      "weaponTags": [
+        "axe"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=15"
+    },
+    {
+      "id": "vindictus:lethor",
+      "gameId": "vindictus",
+      "name": "레서",
+      "aliases": [
+        "레서",
+        "Lethor",
+        "lethor"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 16,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=16",
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=16"
+    },
+    {
+      "id": "vindictus:kael",
+      "gameId": "vindictus",
+      "name": "카엘",
+      "aliases": [
+        "카엘",
+        "Kael",
+        "kael"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 17,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=17",
+      "weaponTags": [
+        "spear",
+        "sword"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=17"
+    },
+    {
+      "id": "vindictus:tessa",
+      "gameId": "vindictus",
+      "name": "테사",
+      "aliases": [
+        "테사",
+        "Tessa",
+        "tessa"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 18,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=18",
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=18"
+    },
+    {
+      "id": "vindictus:danah",
+      "gameId": "vindictus",
+      "name": "단아",
+      "aliases": [
+        "단아",
+        "Dan-Ah",
+        "danah",
+        "Danah"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 19,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=19",
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=19"
+    },
+    {
+      "id": "vindictus:letty",
+      "gameId": "vindictus",
+      "name": "레티",
+      "aliases": [
+        "레티",
+        "Letty",
+        "letty"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 20,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=20",
+      "weaponTags": [
+        "firearm"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=20"
+    },
+    {
+      "id": "vindictus:latiya",
+      "gameId": "vindictus",
+      "name": "라티야",
+      "aliases": [
+        "라티야",
+        "Latiya",
+        "latiya"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 21,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=21",
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=21"
+    },
+    {
+      "id": "vindictus:czern",
+      "gameId": "vindictus",
+      "name": "체른",
+      "aliases": [
+        "체른",
+        "Charon",
+        "czern",
+        "Czern"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 22,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=22",
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=22"
+    },
+    {
+      "id": "vindictus:achel",
+      "gameId": "vindictus",
+      "name": "아켈",
+      "aliases": [
+        "아켈",
+        "Achel",
+        "achel"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 23,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=23",
+      "weaponTags": [
+        "spear",
+        "shield"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=23"
+    },
+    {
+      "id": "vindictus:sou",
+      "gameId": "vindictus",
+      "name": "소우",
+      "aliases": [
+        "소우",
+        "Sou",
+        "sou"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 24,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=24",
+      "weaponTags": [
+        "katana"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=24"
+    },
+    {
+      "id": "vindictus:sanyaa",
+      "gameId": "vindictus",
+      "name": "사냐",
+      "aliases": [
+        "사냐",
+        "Sanyaa",
+        "sanyaa",
+        "Sanya"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 25,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=25",
+      "weaponTags": [
+        "dagger"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=25"
+    },
+    {
+      "id": "vindictus:neamhain",
+      "gameId": "vindictus",
+      "name": "네반",
+      "aliases": [
+        "네반",
+        "Neamhain",
+        "neamhain"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 26,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=26",
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=26"
+    },
+    {
+      "id": "vindictus:calia",
+      "gameId": "vindictus",
+      "name": "칼리아",
+      "aliases": [
+        "칼리아",
+        "Calia",
+        "calia"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 27,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=27",
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=27"
+    },
+    {
+      "id": "vindictus:lumielle",
+      "gameId": "vindictus",
+      "name": "루미엘",
+      "aliases": [
+        "루미엘",
+        "Lumielle",
+        "lumielle"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 28,
+      "releaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인",
+      "source": "https://heroes.nexon.com/guide/character?cNum=28",
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://heroes.nexon.com/guide/character?cNum=28"
+    },
+    {
+      "id": "black-desert-pc:0",
+      "gameId": "black-desert-pc",
+      "name": "워리어",
+      "aliases": [
+        "워리어",
+        "Warrior"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 1,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=0",
+      "weaponsByStyle": [
+        "장검/방패",
+        "대검",
+        "대검",
+        "장검/방패",
+        "장검/방패",
+        "대검",
+        "장검/방패"
+      ],
+      "weaponTags": [
+        "sword",
+        "shield"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "greatsword"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=0"
+    },
+    {
+      "id": "black-desert-pc:4",
+      "gameId": "black-desert-pc",
+      "name": "레인저",
+      "aliases": [
+        "레인저",
+        "Ranger"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 2,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=4",
+      "weaponsByStyle": [
+        "장궁/단검",
+        "정령검",
+        "정령검",
+        "장궁/단검",
+        "장궁/단검",
+        "정령검",
+        "장궁/단검"
+      ],
+      "weaponTags": [
+        "bow",
+        "dagger"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "sword",
+            "dagger"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=4"
+    },
+    {
+      "id": "black-desert-pc:8",
+      "gameId": "black-desert-pc",
+      "name": "소서러",
+      "aliases": [
+        "소서러",
+        "Sorceress"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 3,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=8",
+      "weaponsByStyle": [
+        "부적/타리스만",
+        "사신낫",
+        "사신낫",
+        "부적/타리스만",
+        "부적/타리스만",
+        "사신낫",
+        "부적/타리스만"
+      ],
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "scythe"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=8"
+    },
+    {
+      "id": "black-desert-pc:12",
+      "gameId": "black-desert-pc",
+      "name": "자이언트",
+      "aliases": [
+        "자이언트",
+        "Berserker"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 4,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=12",
+      "weaponsByStyle": [
+        "도끼/장식매듭",
+        "철장갑포",
+        "철장갑포",
+        "도끼/장식매듭",
+        "도끼/장식매듭",
+        "철장갑포",
+        "도끼/장식매듭"
+      ],
+      "weaponTags": [
+        "axe"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "fist",
+            "firearm"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=12"
+    },
+    {
+      "id": "black-desert-pc:16",
+      "gameId": "black-desert-pc",
+      "name": "금수랑",
+      "aliases": [
+        "금수랑",
+        "Tamer"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 5,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=16",
+      "weaponsByStyle": [
+        "소검/노리개",
+        "하늘봉",
+        "하늘봉",
+        "소검/노리개",
+        "소검/노리개",
+        "하늘봉",
+        "소검/노리개"
+      ],
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "staff"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=16"
+    },
+    {
+      "id": "black-desert-pc:20",
+      "gameId": "black-desert-pc",
+      "name": "무사",
+      "aliases": [
+        "무사",
+        "Musa"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 6,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=20",
+      "weaponsByStyle": [
+        "도검/각궁",
+        "무신도",
+        "무신도",
+        "도검/각궁",
+        "도검/각궁",
+        "무신도",
+        "도검/각궁"
+      ],
+      "weaponTags": [
+        "katana",
+        "bow"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "spear"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=20"
+    },
+    {
+      "id": "black-desert-pc:21",
+      "gameId": "black-desert-pc",
+      "name": "매화",
+      "aliases": [
+        "매화",
+        "Maehwa"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 7,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=21",
+      "weaponsByStyle": [
+        "도검/각궁",
+        "화월창",
+        "화월창",
+        "도검/각궁",
+        "도검/각궁",
+        "화월창",
+        "도검/각궁"
+      ],
+      "weaponTags": [
+        "katana",
+        "bow"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "spear"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=21"
+    },
+    {
+      "id": "black-desert-pc:24",
+      "gameId": "black-desert-pc",
+      "name": "발키리",
+      "aliases": [
+        "발키리",
+        "Valkyrie"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 8,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=24",
+      "weaponsByStyle": [
+        "장검/방패",
+        "랜시아",
+        "랜시아",
+        "장검/방패",
+        "장검/방패",
+        "랜시아",
+        "장검/방패"
+      ],
+      "weaponTags": [
+        "sword",
+        "shield"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "spear",
+            "shield"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=24"
+    },
+    {
+      "id": "black-desert-pc:25",
+      "gameId": "black-desert-pc",
+      "name": "쿠노이치",
+      "aliases": [
+        "쿠노이치",
+        "Kunoichi"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 9,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=25",
+      "weaponsByStyle": [
+        "소검, 표창/수리검",
+        "사하륜",
+        "사하륜",
+        "소검, 표창/수리검",
+        "소검, 표창/수리검",
+        "사하륜",
+        "소검, 표창/수리검"
+      ],
+      "weaponTags": [
+        "sword",
+        "special"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "special"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=25"
+    },
+    {
+      "id": "black-desert-pc:26",
+      "gameId": "black-desert-pc",
+      "name": "닌자",
+      "aliases": [
+        "닌자",
+        "Ninja"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 10,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=26",
+      "weaponsByStyle": [
+        "소검, 표창/수리검",
+        "수라도",
+        "수라도",
+        "소검, 표창/수리검",
+        "소검, 표창/수리검",
+        "수라도",
+        "소검, 표창/수리검"
+      ],
+      "weaponTags": [
+        "sword",
+        "special"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "katana"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=26"
+    },
+    {
+      "id": "black-desert-pc:28",
+      "gameId": "black-desert-pc",
+      "name": "위자드",
+      "aliases": [
+        "위자드",
+        "Wizard"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 11,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=28",
+      "weaponsByStyle": [
+        "지팡이/단검",
+        "고드혼",
+        "고드혼",
+        "지팡이/단검",
+        "지팡이/단검",
+        "고드혼",
+        "지팡이/단검"
+      ],
+      "weaponTags": [
+        "staff",
+        "dagger"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "focus"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=28"
+    },
+    {
+      "id": "black-desert-pc:31",
+      "gameId": "black-desert-pc",
+      "name": "위치",
+      "aliases": [
+        "위치",
+        "Witch"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 12,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=31",
+      "weaponsByStyle": [
+        "지팡이/단검",
+        "아드혼",
+        "아드혼",
+        "지팡이/단검",
+        "지팡이/단검",
+        "아드혼",
+        "지팡이/단검"
+      ],
+      "weaponTags": [
+        "staff",
+        "dagger"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "focus"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=31"
+    },
+    {
+      "id": "black-desert-pc:27",
+      "gameId": "black-desert-pc",
+      "name": "다크나이트",
+      "aliases": [
+        "다크나이트",
+        "Dark Knight"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 13,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=27",
+      "weaponsByStyle": [
+        "태도/장식매듭",
+        "베디안트",
+        "베디안트",
+        "태도/장식매듭",
+        "태도/장식매듭",
+        "베디안트",
+        "태도/장식매듭"
+      ],
+      "weaponTags": [
+        "katana"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "sword",
+            "focus"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=27"
+    },
+    {
+      "id": "black-desert-pc:19",
+      "gameId": "black-desert-pc",
+      "name": "격투가",
+      "aliases": [
+        "격투가",
+        "Striker"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 14,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=19",
+      "weaponsByStyle": [
+        "권갑/완갑",
+        "투신갑",
+        "투신갑",
+        "권갑/완갑",
+        "권갑/완갑",
+        "투신갑",
+        "권갑/완갑"
+      ],
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "fist"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=19"
+    },
+    {
+      "id": "black-desert-pc:23",
+      "gameId": "black-desert-pc",
+      "name": "미스틱",
+      "aliases": [
+        "미스틱",
+        "Mystic"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 15,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=23",
+      "weaponsByStyle": [
+        "권갑/완갑",
+        "청파각",
+        "청파각",
+        "권갑/완갑",
+        "권갑/완갑",
+        "청파각",
+        "권갑/완갑"
+      ],
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "fist"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=23"
+    },
+    {
+      "id": "black-desert-pc:11",
+      "gameId": "black-desert-pc",
+      "name": "란",
+      "aliases": [
+        "란",
+        "Lahn"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 16,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=11",
+      "weaponsByStyle": [
+        "반월추/고검",
+        "혈류인",
+        "혈류인",
+        "반월추/고검",
+        "반월추/고검",
+        "혈류인",
+        "반월추/고검"
+      ],
+      "weaponTags": [
+        "whip",
+        "sword"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "whip",
+            "dual-blades"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=11"
+    },
+    {
+      "id": "black-desert-pc:29",
+      "gameId": "black-desert-pc",
+      "name": "아처",
+      "aliases": [
+        "아처",
+        "Archer"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 17,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=29",
+      "weaponsByStyle": [
+        "석궁/라곤",
+        "태궁",
+        "태궁",
+        "석궁/라곤",
+        "태궁"
+      ],
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "bow"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=29"
+    },
+    {
+      "id": "black-desert-pc:17",
+      "gameId": "black-desert-pc",
+      "name": "샤이",
+      "aliases": [
+        "샤이",
+        "Shai"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 18,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=17",
+      "weaponsByStyle": [
+        "플로랑/비츠아리",
+        "솔",
+        "솔",
+        "플로랑/비츠아리",
+        "솔"
+      ],
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "special"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=17"
+    },
+    {
+      "id": "black-desert-pc:5",
+      "gameId": "black-desert-pc",
+      "name": "가디언",
+      "aliases": [
+        "가디언",
+        "Guardian"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 19,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=5",
+      "weaponsByStyle": [
+        "전투도끼/방패",
+        "욜둔 ",
+        "욜둔 ",
+        "전투도끼/방패",
+        "전투도끼/방패",
+        "욜둔 ",
+        "전투도끼/방패"
+      ],
+      "weaponTags": [
+        "axe",
+        "shield"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "axe"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=5"
+    },
+    {
+      "id": "black-desert-pc:1",
+      "gameId": "black-desert-pc",
+      "name": "하사신",
+      "aliases": [
+        "하사신",
+        "Hashashin"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 20,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=1",
+      "weaponsByStyle": [
+        "사곡도/금계",
+        "주살도 ",
+        "주살도 ",
+        "사곡도/금계",
+        "사곡도/금계",
+        "주살도 ",
+        "사곡도/금계"
+      ],
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "spear"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=1"
+    },
+    {
+      "id": "black-desert-pc:9",
+      "gameId": "black-desert-pc",
+      "name": "노바",
+      "aliases": [
+        "노바",
+        "Nova"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 21,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=9",
+      "weaponsByStyle": [
+        "샛별/크라툼",
+        "스팅",
+        "스팅",
+        "샛별/크라툼",
+        "샛별/크라툼",
+        "스팅",
+        "샛별/크라툼"
+      ],
+      "weaponTags": [
+        "hammer",
+        "shield"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "sword"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=9"
+    },
+    {
+      "id": "black-desert-pc:2",
+      "gameId": "black-desert-pc",
+      "name": "세이지",
+      "aliases": [
+        "세이지",
+        "Sage"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 22,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=2",
+      "weaponsByStyle": [
+        "카이브/타리스만",
+        "키벨리우스",
+        "키벨리우스",
+        "카이브/타리스만",
+        "카이브/타리스만",
+        "키벨리우스",
+        "카이브/타리스만"
+      ],
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "spear"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=2"
+    },
+    {
+      "id": "black-desert-pc:10",
+      "gameId": "black-desert-pc",
+      "name": "커세어",
+      "aliases": [
+        "커세어",
+        "Corsair"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 23,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=10",
+      "weaponsByStyle": [
+        "세레나카/마레카",
+        "파트라카",
+        "파트라카",
+        "세레나카/마레카",
+        "세레나카/마레카",
+        "파트라카",
+        "세레나카/마레카"
+      ],
+      "weaponTags": [
+        "sword",
+        "focus"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "firearm"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=10"
+    },
+    {
+      "id": "black-desert-pc:7",
+      "gameId": "black-desert-pc",
+      "name": "드라카니아",
+      "aliases": [
+        "드라카니아",
+        "Drakania"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 24,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=7",
+      "weaponsByStyle": [
+        "슬레이어/샤드",
+        "트리온",
+        "트리온",
+        "슬레이어/샤드",
+        "슬레이어/샤드",
+        "트리온",
+        "슬레이어/샤드"
+      ],
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "spear"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=7"
+    },
+    {
+      "id": "black-desert-pc:30",
+      "gameId": "black-desert-pc",
+      "name": "우사",
+      "aliases": [
+        "우사",
+        "Woosa"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 25,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=30",
+      "weaponsByStyle": [
+        "호화선/도장",
+        "초령부",
+        "초령부",
+        "호화선/도장",
+        "호화선/도장",
+        "초령부",
+        "호화선/도장"
+      ],
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "focus"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=30"
+    },
+    {
+      "id": "black-desert-pc:15",
+      "gameId": "black-desert-pc",
+      "name": "매구",
+      "aliases": [
+        "매구",
+        "Maegu"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 26,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=15",
+      "weaponsByStyle": [
+        "호령부/비녀칼",
+        "초화선",
+        "초화선",
+        "호령부/비녀칼",
+        "호령부/비녀칼",
+        "초화선",
+        "호령부/비녀칼"
+      ],
+      "weaponTags": [
+        "focus",
+        "dagger"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "special"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=15"
+    },
+    {
+      "id": "black-desert-pc:6",
+      "gameId": "black-desert-pc",
+      "name": "스칼라",
+      "aliases": [
+        "스칼라",
+        "Scholar"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 27,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=6",
+      "weaponsByStyle": [
+        "망치/중력핵",
+        "양손망치",
+        "양손망치",
+        "망치/중력핵",
+        "양손망치"
+      ],
+      "weaponTags": [
+        "hammer"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "hammer"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=6"
+    },
+    {
+      "id": "black-desert-pc:33",
+      "gameId": "black-desert-pc",
+      "name": "도사",
+      "aliases": [
+        "도사",
+        "Dosa"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 28,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=33",
+      "weaponsByStyle": [
+        "환도/곰방대",
+        "선검",
+        "선검",
+        "환도/곰방대",
+        "환도/곰방대",
+        "선검",
+        "환도/곰방대"
+      ],
+      "weaponTags": [
+        "katana"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "sword",
+            "focus"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=33"
+    },
+    {
+      "id": "black-desert-pc:34",
+      "gameId": "black-desert-pc",
+      "name": "데드아이",
+      "aliases": [
+        "데드아이",
+        "Deadeye"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 29,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=34",
+      "weaponsByStyle": [
+        "리볼버/샷건",
+        "릴데블",
+        "릴데블",
+        "리볼버/샷건",
+        "릴데블"
+      ],
+      "weaponTags": [
+        "pistol",
+        "firearm"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "firearm"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=34"
+    },
+    {
+      "id": "black-desert-pc:3",
+      "gameId": "black-desert-pc",
+      "name": "오공",
+      "aliases": [
+        "오공",
+        "Wukong"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 30,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=3",
+      "weaponsByStyle": [
+        "여의봉/호리병",
+        "옥경주",
+        "옥경주",
+        "여의봉/호리병",
+        "옥경주"
+      ],
+      "weaponTags": [
+        "staff"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "focus"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=3"
+    },
+    {
+      "id": "black-desert-pc:32",
+      "gameId": "black-desert-pc",
+      "name": "세라핌",
+      "aliases": [
+        "세라핌",
+        "Seraph"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 31,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=32",
+      "weaponsByStyle": [
+        "성약/봉인구",
+        "단죄",
+        "단죄",
+        "성약/봉인구",
+        "단죄"
+      ],
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "special"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=32"
+    },
+    {
+      "id": "black-desert-pc:35",
+      "gameId": "black-desert-pc",
+      "name": "에이전트",
+      "aliases": [
+        "에이전트",
+        "Agent"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 32,
+      "releaseBasis": "공식 클래스 목록 순서 · 일자 미확인",
+      "source": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=35",
+      "weaponsByStyle": [
+        "리볼버/마탄",
+        "리볼버/마탄",
+        "리볼버/마탄",
+        "리볼버/마탄"
+      ],
+      "weaponTags": [
+        "pistol"
+      ],
+      "weaponTagVariants": [
+        {
+          "keywords": [
+            "Awakening",
+            "각성",
+            "Ascension",
+            "개방",
+            "Talent",
+            "재능"
+          ],
+          "excludeKeywords": [
+            "pre-awakening",
+            "pre awakening",
+            "비각성",
+            "미각성"
+          ],
+          "tags": [
+            "pistol"
+          ]
+        }
+      ],
+      "weaponTagSource": "https://www.kr.playblackdesert.com/GameInfo/Class?classType=35"
+    },
+    {
+      "id": "vindictus-defying-fate:lann",
+      "gameId": "vindictus-defying-fate",
+      "name": "리시타",
+      "aliases": [
+        "Lann",
+        "리시타"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 1,
+      "releaseBasis": "2027년 출시 예정 · 공식 선공개",
+      "source": "https://store.steampowered.com/app/2814860/",
+      "weaponTags": [
+        "dual-blades"
+      ],
+      "weaponTagSource": "https://store.steampowered.com/app/2814860/"
+    },
+    {
+      "id": "vindictus-defying-fate:fiona",
+      "gameId": "vindictus-defying-fate",
+      "name": "피오나",
+      "aliases": [
+        "Fiona",
+        "피오나"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 2,
+      "releaseBasis": "2027년 출시 예정 · 공식 선공개",
+      "source": "https://store.steampowered.com/app/2814860/",
+      "weaponTags": [
+        "sword",
+        "shield"
+      ],
+      "weaponTagSource": "https://store.steampowered.com/app/2814860/"
+    },
+    {
+      "id": "vindictus-defying-fate:delia",
+      "gameId": "vindictus-defying-fate",
+      "name": "델리아",
+      "aliases": [
+        "Delia",
+        "델리아"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 3,
+      "releaseBasis": "2027년 출시 예정 · 공식 선공개",
+      "source": "https://store.steampowered.com/app/2814860/",
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://store.steampowered.com/app/2814860/"
+    },
+    {
+      "id": "vindictus-defying-fate:karok",
+      "gameId": "vindictus-defying-fate",
+      "name": "카록",
+      "aliases": [
+        "Karok",
+        "카록"
+      ],
+      "releaseDate": null,
+      "releaseOrder": 4,
+      "releaseBasis": "2027년 출시 예정 · 공식 선공개",
+      "source": "https://store.steampowered.com/app/2814860/",
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://store.steampowered.com/app/2814860/"
     }
   ]
 }

@@ -1,11 +1,20 @@
 import unittest
 import datetime as dt
-from rss import parse_feed, resolve_channel_id, relevant, merge_previous, load_channel_entries, video_type
+from rss import parse_feed, resolve_channel_id, relevant, merge_previous, load_channel_entries, video_type, annotate_video
 from channel_recent import parse_recent
 from coverage import matches, person
 from channel_archive import publication_window,collect_listing
 
 class FeedTests(unittest.TestCase):
+    def test_source_scope_is_preserved_without_copying_private_settings(self):
+        raw={'id':'abcdefghijk','title':'Great Sword Tutorial','description':'public description'}
+        rule={'id':'mh','sourceKind':'creator','referenceScope':'commentary-guide','token':'private'}
+        row=annotate_video(raw,rule,'UC'+'a'*22,'channel-videos',set())
+        self.assertEqual(row['referenceScope'],'commentary-guide')
+        self.assertTrue(row['requiresReleaseWindow'])
+        self.assertNotIn('token',row);self.assertNotIn('description',row)
+        self.assertIn('description',raw)
+
     def test_official_meet_the_crew_series_is_character_introduction(self):
         self.assertEqual(video_type('[EN]Granblue Fantasy: Relink | Meet the Crew: Gran'),'캐릭터 소개')
 
