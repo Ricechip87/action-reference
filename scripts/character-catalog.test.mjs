@@ -33,9 +33,26 @@ test('pre-release creator footage is removed while official previews remain',()=
  const {videos,excluded}=enrichVideos([{gameId:'zzz',title:'Future showcase',sourceKind:'creator'},{gameId:'zzz',title:'Future official',sourceKind:'official'}],characters,{asOf:'2026-10-30'});
  assert.equal(videos.length,1);assert.equal(videos[0].sourceKind,'official');assert.equal(excluded.length,1);
 });
-test('multi-character creator compilations are excluded and pre-release upload alone does not prove CBT',()=>{
- const {videos,excluded}=enrichVideos([{gameId:'zzz',title:'Anby and Future skills',sourceKind:'creator'},{gameId:'zzz',title:'Anby skills',sourceKind:'creator',publishedAt:'2024-07-01'}],characters,{asOf:'2026-10-30'});
- assert.equal(videos.length,1);assert.equal(videos[0].title,'Anby skills');assert.equal(excluded.length,1);
+test('compilations and pre-release creator uploads are excluded even if previously published',()=>{
+ const {videos,excluded}=enrichVideos([
+  {gameId:'zzz',title:'Anby and Future skills',sourceKind:'creator'},
+  {gameId:'zzz',title:'Anby skills',sourceKind:'creator',publishedAt:'2024-07-01'},
+  {gameId:'zzz',title:'Anby skills',sourceKind:'creator',publicationWindow:{earliest:'2024-06-01',latest:'2024-07-03'}},
+  {gameId:'zzz',title:'Anby skills',sourceKind:'creator',requiresReleaseWindow:true,publishedAt:'2024-07-03T16:00:00Z'},
+  {gameId:'zzz',title:'Anby skills',sourceKind:'official',publishedAt:'2024-07-01'}
+ ],characters,{asOf:'2026-10-30'});
+ assert.equal(videos.length,2);
+ assert.equal(videos[0].sourceKind,'creator');
+ assert.equal(videos[1].type,'출시 전 공식 시연');
+ assert.equal(excluded.length,3);
+});
+
+test('verified earlier regional releases preserve footage and use global order',()=>{
+ const {videos}=enrichVideos([{
+  gameId:'pgr',title:'Lucia Plume moveset',sourceKind:'creator',publishedAt:'2021-08-01',
+  reviewedAfterCharacterRelease:true,reviewedCharacterReleaseDate:'2021-07-01'
+ }],characters,{asOf:'2026-11-13'});
+ assert.equal(videos[0].characterReleaseDate,'2021-12-22');
 });
 test('verified localized metadata identifies characters without changing the displayed title',()=>{
  const video={gameId:'pgr',title:'ルシアのモーション',localizedTitles:['Lucia: Plume Moveset'],sourceKind:'creator'};

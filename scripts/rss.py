@@ -58,6 +58,7 @@ def relevant(video,game):
     if video.get('id') in game.get('excludedVideoIds',[]):return False
     hay=(video['title']+' '+video.get('description','')).casefold()
     approved=video.get('id') in game.get('approvedVideoIds',[])
+    if game.get('approvedOnly') and not approved:return False
     def named_in_title(keyword):
         value=keyword.casefold();title=video['title'].casefold()
         return value in title if re.search('[가-힣]',value) else bool(re.search(r'(?<![a-z0-9])'+re.escape(value)+r'(?![a-z0-9])',title))
@@ -121,7 +122,7 @@ def annotate_video(video,game,source,via,known_ids):
     row={**video}
     row.update(gameId=game['id'],language='ko' if re.search(r'_KO$|_KR_',source,re.I) else '',type='캐릭터 무브셋' if game.get('sourceKind')=='creator' else video_type(row['title']),sourceChannel=source,sourceKind=game.get('sourceKind','official'),gameVerified=True)
     if game.get('referenceScope'):row['referenceScope']=game['referenceScope']
-    row['requiresReleaseWindow']=via=='channel-videos' and row['id'] not in known_ids
+    row['requiresReleaseWindow']=game.get('sourceKind')=='creator' and row['id'] not in known_ids
     row.pop('description',None)
     return row
 

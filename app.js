@@ -1,4 +1,4 @@
-import {enrichVideos,compareRelease} from './character-catalog.mjs?v=action-expansion-20261030';
+import {enrichVideos,compareRelease} from './character-catalog.mjs?v=20261113';
 import {deduplicate} from './dedupe.mjs';
 import {GitHubSettings,collectionStatus} from './github-sync.mjs?v=weapon-tags-20261030';
 import {WEAPON_TYPES,normalizeWeaponTags,weaponTagsFor,matchesWeapon,updateWeaponTags} from './weapon-tags.mjs?v=action-expansion-20261030';

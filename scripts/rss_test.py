@@ -12,6 +12,7 @@ class FeedTests(unittest.TestCase):
         row=annotate_video(raw,rule,'UC'+'a'*22,'channel-videos',set())
         self.assertEqual(row['referenceScope'],'commentary-guide')
         self.assertTrue(row['requiresReleaseWindow'])
+        self.assertTrue(annotate_video(raw,rule,'UC'+'a'*22,'rss',set())['requiresReleaseWindow'])
         self.assertNotIn('token',row);self.assertNotIn('description',row)
         self.assertIn('description',raw)
 
@@ -50,6 +51,7 @@ class FeedTests(unittest.TestCase):
         self.assertFalse(relevant({**video,'id':'newupload12'},rule))
         self.assertFalse(relevant({**video,'title':'Noelle CBT all characters'},rule))
         self.assertFalse(relevant({**video,'publishedAt':'2020-08-01T00:00:00Z'},rule))
+        self.assertFalse(relevant({**video,'id':'newupload12','title':'Noelle Genshin Impact All Skills'},{**rule,'approvedOnly':True}))
 
     def test_rss_refresh_preserves_reviewed_scope_and_localized_title(self):
         rule={'id':'gi','sourceKind':'creator','channelSpecific':True,'includeKeywords':[]}

@@ -5,25 +5,27 @@
     {
       "id": "genshin-impact:valeriy",
       "gameId": "genshin-impact",
-      "name": "Valeriy",
+      "name": "발레리",
       "aliases": [
-        "Valeriy"
+        "Valeriy",
+        "발레리"
       ],
       "releaseDate": "2026-11-04",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
-      "source": "https://chars.remls.io/characters",
+      "source": "https://genshin.hoyoverse.com/en/news/detail/167139",
       "releaseOrder": 125
     },
     {
       "id": "genshin-impact:mitya",
       "gameId": "genshin-impact",
-      "name": "Mitya",
+      "name": "미탸",
       "aliases": [
-        "Mitya"
+        "Mitya",
+        "미탸"
       ],
       "releaseDate": "2026-11-04",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
-      "source": "https://chars.remls.io/characters",
+      "source": "https://genshin.hoyoverse.com/en/news/detail/167139",
       "releaseOrder": 124
     },
     {
@@ -4485,13 +4487,15 @@
     {
       "id": "zenless-zone-zero:severian-lowell",
       "gameId": "zenless-zone-zero",
-      "name": "Severian Lowell",
+      "name": "세베리안",
       "aliases": [
-        "Severian Lowell"
+        "Severian Lowell",
+        "Severian",
+        "세베리안"
       ],
       "releaseDate": "2026-11-11",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
-      "source": "https://metammo.com/guides/zenless-zone-zero-all-characters-list",
+      "source": "https://zenless.hoyoverse.com/ko-kr/news/167269",
       "releaseOrder": 62
     },
     {
@@ -5417,8 +5421,12 @@
       ],
       "releaseDate": "2026-11-05",
       "releaseBasis": "글로벌 / 아시아 출시 일정",
-      "source": "https://www.enfieldbuild.com/banners",
-      "releaseOrder": 34
+      "source": "https://endfield.gryphline.com/en-us/news/7012",
+      "releaseOrder": 34,
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://www.enfieldbuild.com/banners"
     },
     {
       "id": "punishing-gray-raven:lucia-lotus",
@@ -9267,7 +9275,8 @@
       "aliases": [
         "Insect Glaive",
         "操虫棍",
-        "조충곤"
+        "조충곤",
+        "Insectoglaive"
       ],
       "releaseDate": "2022-06-30",
       "releaseOrder": 11,
@@ -12119,6 +12128,38 @@
         "special"
       ],
       "weaponTagSource": "https://store.steampowered.com/app/2814860/"
+    },
+    {
+      "id": "wuthering-waves:lily",
+      "gameId": "wuthering-waves",
+      "name": "릴리",
+      "aliases": [
+        "Lily",
+        "릴리",
+        "リリー",
+        "莉莉"
+      ],
+      "releaseDate": "2026-11-12",
+      "releaseOrder": 61,
+      "releaseBasis": "한국 / 글로벌 정식 출시",
+      "source": "https://wutheringwaves.kurogames.com/en/main/news/detail/5705",
+      "weaponTags": [
+        "pistol"
+      ],
+      "weaponTagSource": "https://wutheringwaves.kurogames.com/en/main/news/detail/5705"
+    },
+    {
+      "id": "neverness-to-everness:elim",
+      "gameId": "neverness-to-everness",
+      "name": "엘림",
+      "aliases": [
+        "Elim",
+        "엘림"
+      ],
+      "releaseDate": "2026-11-11",
+      "releaseOrder": 25,
+      "releaseBasis": "한국 / 글로벌 정식 출시",
+      "source": "https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html"
     }
   ]
 }
