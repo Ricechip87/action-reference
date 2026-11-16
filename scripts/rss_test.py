@@ -1,6 +1,6 @@
 import unittest
 import datetime as dt
-from rss import parse_feed, resolve_channel_id, relevant, merge_previous, load_channel_entries, video_type, annotate_video
+from rss import parse_feed, resolve_channel_id, relevant, merge_previous, load_channel_entries, video_type, annotate_video, collection_jobs
 from channel_recent import parse_recent
 from coverage import matches, person
 from channel_archive import publication_window,collect_listing
@@ -18,6 +18,19 @@ class FeedTests(unittest.TestCase):
 
     def test_official_meet_the_crew_series_is_character_introduction(self):
         self.assertEqual(video_type('[EN]Granblue Fantasy: Relink | Meet the Crew: Gran'),'캐릭터 소개')
+
+    def test_creator_refresh_keeps_reviewed_guide_scope_separate_from_official_showcases(self):
+        config={'games':[{'id':'mh','channels':['official'],'referenceScope':'official-weapon-showcase',
+                         'keywords':['Monster Hunter'],'creators':[{'channel':'player','includeKeywords':['Guide']}]}]}
+        jobs=collection_jobs(config)
+        raw={'id':'abcdefghijk','title':'Monster Hunter Bow Guide'}
+        official=annotate_video(raw,jobs[0][0],'official','rss',set())
+        creator=annotate_video(raw,jobs[1][0],'player','rss',set())
+        self.assertEqual(official['referenceScope'],'official-weapon-showcase')
+        self.assertNotIn('referenceScope',creator)
+        archived={**creator,'referenceScope':'commentary-guide','reviewedAt':'2026-11-17'}
+        previous={**creator,'referenceScope':'official-weapon-showcase'}
+        self.assertEqual(merge_previous([], [previous,archived],jobs)[0]['referenceScope'],'commentary-guide')
 
     def test_failed_rss_uses_only_verified_recent_grid_and_preserves_date_uncertainty(self):
         import json

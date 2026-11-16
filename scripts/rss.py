@@ -105,6 +105,7 @@ def merge_previous(current,previous,jobs):
                 index=positions[old['id']];fresh=output[index]
                 if fresh.get('gameId')==old.get('gameId') and fresh.get('sourceKind','official')==old.get('sourceKind','official'):
                     output[index]={**old,**fresh}
+                    if old.get('reviewedAt') and old.get('referenceScope'):output[index]['referenceScope']=old['referenceScope']
                     if not fresh.get('publishedAt') and old.get('publishedAt'):output[index]['publishedAt']=old['publishedAt']
                     if not fresh.get('language') and old.get('language'):output[index]['language']=old['language']
     return output
@@ -115,7 +116,7 @@ def collection_jobs(config):
         if not game.get('enabled',True):continue
         jobs.extend(({**game,'sourceKind':'official'},c) for c in game['channels'])
         for creator in game.get('creators',[]):
-            if creator.get('enabled',True):jobs.append(({**game,**creator,'channelSpecific':False,'sourceKind':'creator'},creator['channel']))
+            if creator.get('enabled',True):jobs.append(({**game,'referenceScope':None,**creator,'channelSpecific':False,'sourceKind':'creator'},creator['channel']))
     return jobs
 
 def annotate_video(video,game,source,via,known_ids):
