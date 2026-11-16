@@ -1,7 +1,7 @@
-import {enrichVideos,compareRelease} from './character-catalog.mjs?v=20261113';
+import {enrichVideos,compareRelease} from './character-catalog.mjs?v=nioh-weapons';
 import {deduplicate} from './dedupe.mjs';
 import {GitHubSettings,collectionStatus} from './github-sync.mjs?v=weapon-tags-20261030';
-import {WEAPON_TYPES,normalizeWeaponTags,weaponTagsFor,matchesWeapon,updateWeaponTags} from './weapon-tags.mjs?v=action-expansion-20261030';
+import {WEAPON_TYPES,normalizeWeaponTags,weaponTagsFor,matchesWeapon,updateWeaponTags} from './weapon-tags.mjs?v=nioh-weapons';
 const $=s=>document.querySelector(s), key='frame-library-v1';
 let state={games:[],videos:[],videoWeaponTags:{},characterWeaponTags:{}}, remote=[], activeSource='official', github=null, syncBusy=false, monitor=0,catalog={characters:[]};
 let tagVideo=null;
@@ -13,7 +13,7 @@ function validate(x){if(!x||!Array.isArray(x.games)||x.games.length>200)throw Er
 function save(){try{localStorage.setItem(key,JSON.stringify(state));}catch{alert('브라우저 저장 공간을 사용할 수 없습니다. 설정을 내보내 보관하세요.');}}
 function render(){const selected=$('#gameFilter').value;for(const id of ['gameFilter','videoGame']){const s=$('#'+id);s.replaceChildren();if(id==='gameFilter')s.add(new Option('모든 게임',''));state.games.forEach(g=>s.add(new Option(g.name,g.id)));}$('#gameFilter').value=selected;
  const games=$('#games');games.replaceChildren();state.games.forEach(g=>{const row=el('div',null,'gameitem'),info=el('div',g.name);info.append(el('small',`${g.enabled===false?'수집 꺼짐':'수집 켜짐'} · ${g.channels.join(', ')} · 제목 조건: ${(g.includeKeywords||[]).join(', ')||'전체'}`));const b=el('button','삭제');b.onclick=async()=>{if(confirm(`${g.name} 수집 설정을 삭제할까요?`)){if(await changeGames(state.games.filter(x=>x.id!==g.id))){state.videos=state.videos.filter(v=>v.gameId!==g.id);save();}}};const toggle=el('button',g.enabled===false?'수집 켜기':'수집 끄기');toggle.onclick=()=>changeGames(state.games.map(x=>x.id===g.id?{...x,enabled:x.enabled===false}:x));const edit=el('button','수정');edit.onclick=()=>editGame(g);row.append(info,edit,toggle,b);games.append(row);});renderFeed();}
-function renderFeed(){const ids=new Set(state.games.map(g=>g.id)),seen=new Set();const all=[...state.videos,...remote].filter(v=>{if((v.sourceKind||'official')!==activeSource)return false;const k=v.id;if(!ids.has(v.gameId)||seen.has(k)||!(/^[\w-]{11}$/).test(v.id))return false;seen.add(k);return true;});const q=$('#search').value.toLowerCase();const list=enrichVideos(deduplicate(all),catalog.characters).videos.map(v=>({...v,weaponTags:weaponTagsFor(v,tagContext())})).filter(v=>matchesWeapon(v.weaponTags,$('#weaponFilter').value)&&(!$('#gameFilter').value||v.gameId===$('#gameFilter').value)&&(!$('#typeFilter').value||v.type===$('#typeFilter').value)&&String(v.title).toLowerCase().includes(q)).sort((a,b)=>compareRelease(a,b,{descending:$('#sortOrder').value==='newest'}));$('#count').textContent=`${list.length} VIDEOS`;const feed=$('#feed');feed.replaceChildren();if(!list.length){const empty=el('div',null,'empty');empty.append(el('strong',$('#weaponFilter').value?'선택한 무기군에 맞는 영상이 없습니다.':state.games.length?'아직 수집된 영상이 없습니다.':'첫 번째 게임을 등록해보세요.'),el('p',state.games.length?'영상 링크를 직접 추가하거나, README에 따라 자동 수집을 연결하세요.':'오른쪽 위 게임 · 채널 관리에서 레퍼런스 수집을 시작하세요.'));feed.append(empty);}
+function renderFeed(){const ids=new Set(state.games.map(g=>g.id)),seen=new Set();const all=[...state.videos,...remote].filter(v=>{if((v.sourceKind||'official')!==activeSource)return false;const k=v.id;if(!ids.has(v.gameId)||seen.has(k)||!(/^[\w-]{11}$/).test(v.id))return false;seen.add(k);return true;});const q=$('#search').value.toLowerCase();const list=enrichVideos(deduplicate(all),catalog.characters).videos.map(v=>({...v,weaponTags:weaponTagsFor(v,tagContext())})).filter(v=>matchesWeapon(v.weaponTags,$('#weaponFilter').value)&&(!$('#gameFilter').value||v.gameId===$('#gameFilter').value)&&(!$('#typeFilter').value||v.type===$('#typeFilter').value)&&[v.title,v.characterName,...(v.localizedTitles||[])].some(text=>String(text||'').toLowerCase().includes(q))).sort((a,b)=>compareRelease(a,b,{descending:$('#sortOrder').value==='newest'}));$('#count').textContent=`${list.length} VIDEOS`;const feed=$('#feed');feed.replaceChildren();if(!list.length){const empty=el('div',null,'empty');empty.append(el('strong',$('#weaponFilter').value?'선택한 무기군에 맞는 영상이 없습니다.':state.games.length?'아직 수집된 영상이 없습니다.':'첫 번째 게임을 등록해보세요.'),el('p',state.games.length?'영상 링크를 직접 추가하거나, README에 따라 자동 수집을 연결하세요.':'오른쪽 위 게임 · 채널 관리에서 레퍼런스 수집을 시작하세요.'));feed.append(empty);}
  state.games.forEach(game=>{
  const items=list.filter(v=>v.gameId===game.id);
  if(!items.length)return;
@@ -23,9 +23,30 @@ function renderFeed(){const ids=new Set(state.games.map(g=>g.id)),seen=new Set()
  const title=el('h2',game.name);
  heading.append(title,el('span',`${items.length}개 영상`,'category-count'));
  section.setAttribute('aria-label',game.name+' 영상');
+ section.append(heading);
+ if(game.groupByWeapon){
+  const groups=new Map();
+  for(const video of items){
+   const key=video.characterId||'';
+   if(!groups.has(key))groups.set(key,[]);
+   groups.get(key).push(video);
+  }
+  for(const [key,videos] of groups){
+   const group=el('section',null,'weapon-category');
+   group.dataset.weapon=key;
+   group.append(el('h3',videos[0].characterName||'공통 전투 시연','weapon-heading'));
+   appendVideoGrid(group,videos,game);
+   section.append(group);
+  }
+ }else appendVideoGrid(section,items,game);
+ feed.append(section);
+ });
+}
+function appendVideoGrid(parent,items,game){
  const cards=el('div',null,'grid');
- section.append(heading);section.append(cards);feed.append(section);
- items.forEach(v=>{const card=el('article',null,'card'),b=el('button',null,'thumb'),img=el('img');img.src=`https://i.ytimg.com/vi/${v.id}/hqdefault.jpg`;img.alt=v.title;img.loading='lazy';b.append(img,el('span','▶','play'));b.setAttribute('aria-label',v.title+' 재생');b.onclick=()=>play(v);const body=el('div',null,'cardbody');body.append(el('span',`${state.games.find(g=>g.id===v.gameId)?.name} / ${v.type}${v.variants?.length>1?' · 언어별 '+v.variants.length+'개 통합':''}`,'tag'),el('h3',v.title),el('small',v.characterReleaseDate?`${v.characterName} · ${v.characterKind==='weapon'?'작품 출시':'출시'} ${v.characterReleaseDate}`:v.characterName?`${v.characterName} · ${v.characterReleaseBasis?.includes('예정')?v.characterReleaseBasis:'일자 미확인 · 공식 목록순'}`:'캐릭터 출시일 확인 중','release-meta'),el('div',`${v.channelTitle||'직접 추가 · 출처 확인 필요'} · ${v.publishedAt?new Date(v.publishedAt).toLocaleDateString('ko-KR',{timeZone:'Asia/Seoul'}):'게시일 확인 중'}`,'meta'));const tags=el('div',null,'weapon-tags');tags.setAttribute('aria-label','무기군 태그');for(const id of v.weaponTags){const info=WEAPON_TYPES.find(t=>t.id===id),chip=el('button',info.label,'weapon-chip');chip.setAttribute('aria-label',info.label+' 태그로 필터');chip.onclick=()=>{$('#weaponFilter').value=id;renderFeed();};tags.append(chip);}if(!v.weaponTags.length)tags.append(el('span','미분류','weapon-unclassified'));const edit=el('button','태그 편집','edit-weapon');edit.setAttribute('aria-label',v.title+' 무기군 태그 편집');edit.onclick=()=>openWeaponEditor(v);body.append(tags,edit);card.dataset.videoId=v.id;card.append(b,body);cards.append(card);});});}
+ parent.append(cards);
+ items.forEach(v=>{const card=el('article',null,'card'),b=el('button',null,'thumb'),img=el('img');img.src=`https://i.ytimg.com/vi/${v.id}/hqdefault.jpg`;img.alt=v.title;img.loading='lazy';b.append(img,el('span','▶','play'));b.setAttribute('aria-label',v.title+' 재생');b.onclick=()=>play(v);const body=el('div',null,'cardbody');body.append(el('span',`${game.name} / ${v.type}${v.variants?.length>1?' · 언어별 '+v.variants.length+'개 통합':''}`,'tag'),el(game.groupByWeapon?'h4':'h3',v.title,'card-title'),el('small',v.characterReleaseDate?`${v.characterName} · ${v.characterKind==='weapon'?(game.groupByWeapon?'무기 추가':'작품 출시'):'출시'} ${v.characterReleaseDate}`:v.characterName?`${v.characterName} · ${v.characterReleaseBasis?.includes('예정')?v.characterReleaseBasis:'일자 미확인 · 공식 목록순'}`:game.groupByWeapon?'':'캐릭터 출시일 확인 중','release-meta'),el('div',`${v.channelTitle||'직접 추가 · 출처 확인 필요'} · ${v.publishedAt?new Date(v.publishedAt).toLocaleDateString('ko-KR',{timeZone:'Asia/Seoul'}):'게시일 확인 중'}`,'meta'));const tags=el('div',null,'weapon-tags');tags.setAttribute('aria-label','무기군 태그');for(const id of v.weaponTags){const info=WEAPON_TYPES.find(t=>t.id===id),chip=el('button',info.label,'weapon-chip');chip.setAttribute('aria-label',info.label+' 태그로 필터');chip.onclick=()=>{$('#weaponFilter').value=id;renderFeed();};tags.append(chip);}if(!v.weaponTags.length)tags.append(el('span','미분류','weapon-unclassified'));const edit=el('button','태그 편집','edit-weapon');edit.setAttribute('aria-label',v.title+' 무기군 태그 편집');edit.onclick=()=>openWeaponEditor(v);body.append(tags,edit);card.dataset.videoId=v.id;card.append(b,body);cards.append(card);});
+}
 function play(v){$('#playerTitle').textContent=v.title;const f=el('iframe');f.src=`https://www.youtube.com/embed/${v.id}`;f.title=v.title;f.allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';f.allowFullscreen=true;f.referrerPolicy='strict-origin-when-cross-origin';$('#embed').replaceChildren(f);$('#youtube').href=`https://www.youtube.com/watch?v=${v.id}`;$('#player').showModal();}
 $('#player').addEventListener('close',()=>$('#embed').replaceChildren());
 document.querySelectorAll('[data-close]').forEach(b=>b.onclick=()=>$('#'+b.dataset.close).close());$('#settings').onclick=()=>$('#manager').showModal();$('#addVideo').onclick=()=>{if(!state.games.length){$('#manager').showModal();return;}$('#videoDialog').showModal();};['search','gameFilter','typeFilter','sortOrder','weaponFilter'].forEach(id=>$('#'+id).addEventListener('input',renderFeed));

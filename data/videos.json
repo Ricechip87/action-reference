@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T16:45:47.593597+00:00",
+  "updatedAt": "2026-11-16T17:31:41.101943+00:00",
   "source": "rss",
   "channels": [
     {
@@ -1355,6 +1355,114 @@
     {
       "gameId": "lost-ark",
       "channel": "UCRXsghlV3FRv7rqtf4wc0ew",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "nioh-2",
+      "channel": "UCZpjPApClr0g-CPt7-qktdw",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "nioh-2",
+      "channel": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "nioh-2",
+      "channel": "UCvGWdOpqf44AChMzqV9Ja5Q",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "nioh-2",
+      "channel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "nioh-2",
+      "channel": "UCLoCvEvOg3EubUOuT9GIGog",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "stellar-blade",
+      "channel": "UCZpjPApClr0g-CPt7-qktdw",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "stellar-blade",
+      "channel": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "stellar-blade",
+      "channel": "UCmpGI8Ub5QwzPqPjcNSzl0g",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "street-fighter-6",
+      "channel": "UC02q4A9aCXUARMI51rFcl5A",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "street-fighter-6",
+      "channel": "UCVg9nCmmfIyP4QcGOnZZ9Qg",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "street-fighter-6",
+      "channel": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "street-fighter-6",
+      "channel": "UCPBgqVbpoOF5Ee3m_MOyR2g",
       "ok": true,
       "via": "rss",
       "rssError": null,
@@ -6273,6 +6381,779 @@
       "characterReleaseBasis": "한국 서비스 클래스 추가일"
     },
     {
+      "id": "IgZspaGq4U0",
+      "title": "仁王2 Nioh 2 | Odachi Skill Customization | PS4PRO",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCLoCvEvOg3EubUOuT9GIGog",
+      "channelId": "UCLoCvEvOg3EubUOuT9GIGog",
+      "channelTitle": "Kagerasimaru",
+      "publishedAt": "2021-03-15T20:30:19-07:00",
+      "language": "en",
+      "type": "개별 기술 모션",
+      "gameVerified": true,
+      "referenceScope": "skill-excerpt",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=IgZspaGq4U0",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT99S",
+      "referenceCoverageNote": "상·중·하단 자세별로 고른 기술 시연",
+      "variants": [
+        {
+          "id": "IgZspaGq4U0",
+          "title": "仁王2 Nioh 2 | Odachi Skill Customization | PS4PRO",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:odachi",
+      "characterName": "대태도",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 6,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "-DP98VE4jx4",
+      "title": "Nioh 2: Adept Lessons - 71 - Odachi Guide I",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-06-17T06:30:00-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=-DP98VE4jx4",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1605S",
+      "variants": [
+        {
+          "id": "-DP98VE4jx4",
+          "title": "Nioh 2: Adept Lessons - 71 - Odachi Guide I",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:odachi",
+      "characterName": "대태도",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 6,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "Bl4g0bWbY_g",
+      "title": "Nioh 2: Adept Lessons - 83 - Odachi Guide II",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-07-09T18:30:01-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=Bl4g0bWbY_g",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1694S",
+      "variants": [
+        {
+          "id": "Bl4g0bWbY_g",
+          "title": "Nioh 2: Adept Lessons - 83 - Odachi Guide II",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:odachi",
+      "characterName": "대태도",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 6,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "oAzsjjhyhcI",
+      "title": "Nioh 2: Adept Lessons - 66 - Sword Guide I",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-06-11T18:30:05-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=oAzsjjhyhcI",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1262S",
+      "variants": [
+        {
+          "id": "oAzsjjhyhcI",
+          "title": "Nioh 2: Adept Lessons - 66 - Sword Guide I",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:sword",
+      "characterName": "도",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 1,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "8QrFBqfyhOU",
+      "title": "Nioh 2: Adept Lessons - 78 - Sword Guide II",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-06-29T18:30:02-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=8QrFBqfyhOU",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1735S",
+      "variants": [
+        {
+          "id": "8QrFBqfyhOU",
+          "title": "Nioh 2: Adept Lessons - 78 - Sword Guide II",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:sword",
+      "characterName": "도",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 1,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "ua-EXPDvQXE",
+      "title": "Nioh 2: Adept Lessons - 89 - Sword Guide III",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-07-21T18:30:04-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=ua-EXPDvQXE",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1281S",
+      "variants": [
+        {
+          "id": "ua-EXPDvQXE",
+          "title": "Nioh 2: Adept Lessons - 89 - Sword Guide III",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:sword",
+      "characterName": "도",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 1,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "1hOYpYVOkSc",
+      "title": "Nioh 2: Adept Lessons - 69 - Axe Guide I",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-06-15T06:30:00-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=1hOYpYVOkSc",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1503S",
+      "variants": [
+        {
+          "id": "1hOYpYVOkSc",
+          "title": "Nioh 2: Adept Lessons - 69 - Axe Guide I",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:axe",
+      "characterName": "도끼·망치",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 4,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "6iHfnQO1cZA",
+      "title": "Nioh 2: Adept Lessons - 81 - Axe Guide II",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-07-05T18:30:01-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=6iHfnQO1cZA",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1774S",
+      "variants": [
+        {
+          "id": "6iHfnQO1cZA",
+          "title": "Nioh 2: Adept Lessons - 81 - Axe Guide II",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:axe",
+      "characterName": "도끼·망치",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 4,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "HuHhlnW35KM",
+      "title": "Nioh 2: Adept Lessons - 70 - Kusarigama Guide I",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-06-15T18:30:04-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=HuHhlnW35KM",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1527S",
+      "variants": [
+        {
+          "id": "HuHhlnW35KM",
+          "title": "Nioh 2: Adept Lessons - 70 - Kusarigama Guide I",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:kusarigama",
+      "characterName": "사슬낫",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 5,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "iLmBOnsegI4",
+      "title": "Nioh 2: Adept Lessons - 82 - Kusarigama Guide II",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-07-07T18:30:05-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=iLmBOnsegI4",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1868S",
+      "variants": [
+        {
+          "id": "iLmBOnsegI4",
+          "title": "Nioh 2: Adept Lessons - 82 - Kusarigama Guide II",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:kusarigama",
+      "characterName": "사슬낫",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 5,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "43BPnWCGySM",
+      "title": "Nioh 2: Adept Lessons - 72 - Tonfa Guide I",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-06-17T18:30:01-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=43BPnWCGySM",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1519S",
+      "variants": [
+        {
+          "id": "43BPnWCGySM",
+          "title": "Nioh 2: Adept Lessons - 72 - Tonfa Guide I",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:tonfa",
+      "characterName": "선곤",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 7,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "DX_X92irTjk",
+      "title": "Nioh 2: Adept Lessons - 84 - Tonfa Guide II",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-07-11T18:30:02-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=DX_X92irTjk",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1666S",
+      "variants": [
+        {
+          "id": "DX_X92irTjk",
+          "title": "Nioh 2: Adept Lessons - 84 - Tonfa Guide II",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:tonfa",
+      "characterName": "선곤",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 7,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "o8KcwqVLyz8",
+      "title": "Nioh 2: Adept Lessons - 73 - Hatchets Guide I",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-06-19T18:30:06-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=o8KcwqVLyz8",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1567S",
+      "variants": [
+        {
+          "id": "o8KcwqVLyz8",
+          "title": "Nioh 2: Adept Lessons - 73 - Hatchets Guide I",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:hatchets",
+      "characterName": "손도끼",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 8,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "cBGRsQlZqVA",
+      "title": "Nioh 2: Adept Lessons - 85 - Hatchets Guide II",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-07-13T18:30:08-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=cBGRsQlZqVA",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT2159S",
+      "variants": [
+        {
+          "id": "cBGRsQlZqVA",
+          "title": "Nioh 2: Adept Lessons - 85 - Hatchets Guide II",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:hatchets",
+      "characterName": "손도끼",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 8,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "wgWdggTjWTE",
+      "title": "Nioh 2: Adept Lessons - 74 - Switchglaive Guide I",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-06-21T18:30:06-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=wgWdggTjWTE",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1527S",
+      "variants": [
+        {
+          "id": "wgWdggTjWTE",
+          "title": "Nioh 2: Adept Lessons - 74 - Switchglaive Guide I",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:switchglaive",
+      "characterName": "언월도",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 9,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "LTmu8KY-QYM",
+      "title": "Nioh 2: Adept Lessons - 86 - Switchglaive Guide II",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-07-15T18:30:03-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=LTmu8KY-QYM",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT2017S",
+      "variants": [
+        {
+          "id": "LTmu8KY-QYM",
+          "title": "Nioh 2: Adept Lessons - 86 - Switchglaive Guide II",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:switchglaive",
+      "characterName": "언월도",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 9,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "noWdX3eGwrk",
+      "title": "Nioh 2: Adept Lessons - 67 - Dual Swords Guide I",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-06-13T06:30:04-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=noWdX3eGwrk",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1489S",
+      "variants": [
+        {
+          "id": "noWdX3eGwrk",
+          "title": "Nioh 2: Adept Lessons - 67 - Dual Swords Guide I",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:dual-swords",
+      "characterName": "이도",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 2,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "Ie0Xo2OyFMM",
+      "title": "Nioh 2: Adept Lessons - 79 - Dual Swords Guide II",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-07-01T18:30:05-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=Ie0Xo2OyFMM",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1838S",
+      "variants": [
+        {
+          "id": "Ie0Xo2OyFMM",
+          "title": "Nioh 2: Adept Lessons - 79 - Dual Swords Guide II",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:dual-swords",
+      "characterName": "이도",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 2,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "sfrrvIPwiLo",
+      "title": "仁王2 Nioh 2 | Spear Skill Customization | PS4PRO",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCLoCvEvOg3EubUOuT9GIGog",
+      "channelId": "UCLoCvEvOg3EubUOuT9GIGog",
+      "channelTitle": "Kagerasimaru",
+      "publishedAt": "2021-03-14T22:51:49-07:00",
+      "language": "en",
+      "type": "개별 기술 모션",
+      "gameVerified": true,
+      "referenceScope": "skill-excerpt",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=sfrrvIPwiLo",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT97S",
+      "referenceCoverageNote": "상·중·하단 자세별로 고른 기술 시연",
+      "variants": [
+        {
+          "id": "sfrrvIPwiLo",
+          "title": "仁王2 Nioh 2 | Spear Skill Customization | PS4PRO",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:spear",
+      "characterName": "창",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 3,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "BpwUf7P8rcI",
+      "title": "Nioh 2: Adept Lessons - 68 - Spear Guide I",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-06-13T18:30:03-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=BpwUf7P8rcI",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1405S",
+      "variants": [
+        {
+          "id": "BpwUf7P8rcI",
+          "title": "Nioh 2: Adept Lessons - 68 - Spear Guide I",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:spear",
+      "characterName": "창",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 3,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "0E_4aTxpVbw",
+      "title": "Nioh 2: Adept Lessons - 80 - Spear Guide II",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-07-03T18:30:00-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=0E_4aTxpVbw",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1923S",
+      "variants": [
+        {
+          "id": "0E_4aTxpVbw",
+          "title": "Nioh 2: Adept Lessons - 80 - Spear Guide II",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:spear",
+      "characterName": "창",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-03-12",
+      "characterReleaseOrder": 3,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "hp7num2Hn2k",
+      "title": "Nioh 2: Adept Lessons - 75 - Splitstaff Guide I",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-06-23T18:30:04-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=hp7num2Hn2k",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1608S",
+      "variants": [
+        {
+          "id": "hp7num2Hn2k",
+          "title": "Nioh 2: Adept Lessons - 75 - Splitstaff Guide I",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:splitstaff",
+      "characterName": "변형곤",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-07-30",
+      "characterReleaseOrder": 10,
+      "characterReleaseBasis": "무기 추가 DLC 출시일"
+    },
+    {
+      "id": "wD0RLCR0Bjo",
+      "title": "Nioh 2: Adept Lessons - 87 - Splitstaff Guide II",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-07-17T18:30:09-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=wD0RLCR0Bjo",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1955S",
+      "variants": [
+        {
+          "id": "wD0RLCR0Bjo",
+          "title": "Nioh 2: Adept Lessons - 87 - Splitstaff Guide II",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:splitstaff",
+      "characterName": "변형곤",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-07-30",
+      "characterReleaseOrder": 10,
+      "characterReleaseBasis": "무기 추가 DLC 출시일"
+    },
+    {
+      "id": "vDTPvF8W65U",
+      "title": "Nioh 2: The Tengu’s Disciple - DLC Trailer | PS4",
+      "gameId": "nioh-2",
+      "sourceKind": "official",
+      "sourceChannel": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+      "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+      "channelTitle": "PlayStation",
+      "publishedAt": "2020-07-30",
+      "language": "en",
+      "type": "공식 무기 시연",
+      "gameVerified": true,
+      "referenceScope": "official-weapon-showcase",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.playstation.com/th-th/games/nioh-2/dlc/",
+      "reviewedAt": "2026-11-17",
+      "localizedTitles": [
+        "변형곤",
+        "변형곤 Nioh 2: The Tengu’s Disciple - DLC Trailer | PS4"
+      ],
+      "referenceCoverageNote": "변형곤이 추가된 DLC 공식 시연",
+      "variants": [
+        {
+          "id": "vDTPvF8W65U",
+          "title": "Nioh 2: The Tengu’s Disciple - DLC Trailer | PS4",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:splitstaff",
+      "characterName": "변형곤",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-07-30",
+      "characterReleaseOrder": 10,
+      "characterReleaseBasis": "무기 추가 DLC 출시일"
+    },
+    {
       "id": "kCWP-oEjUEQ",
       "title": "[로스트아크] 신규 클래스 스카우터 소개영상 (LOST ARK CLASS - Scouter)",
       "gameId": "lost-ark",
@@ -7709,6 +8590,105 @@
       "characterReleaseDate": "2020-09-29",
       "characterReleaseOrder": 24,
       "characterReleaseBasis": "한국 서비스 클래스 추가일"
+    },
+    {
+      "id": "bQbsBSsGR_w",
+      "title": "Nioh 2 - Darkness in the Capital | PS4",
+      "gameId": "nioh-2",
+      "sourceKind": "official",
+      "sourceChannel": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+      "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+      "channelTitle": "PlayStation",
+      "publishedAt": "2020-10-15",
+      "language": "en",
+      "type": "공식 무기 시연",
+      "gameVerified": true,
+      "referenceScope": "official-weapon-showcase",
+      "verification": "public-watch-page",
+      "verificationSource": "https://blog.playstation.com/?p=342281",
+      "reviewedAt": "2026-11-17",
+      "localizedTitles": [
+        "수갑",
+        "수갑 Nioh 2 - Darkness in the Capital | PS4"
+      ],
+      "referenceCoverageNote": "수갑이 추가된 DLC 공식 시연",
+      "variants": [
+        {
+          "id": "bQbsBSsGR_w",
+          "title": "Nioh 2 - Darkness in the Capital | PS4",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:fists",
+      "characterName": "수갑",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-10-15",
+      "characterReleaseOrder": 11,
+      "characterReleaseBasis": "무기 추가 DLC 출시일"
+    },
+    {
+      "id": "R4ehlH-ntuA",
+      "title": "Nioh 2: Adept Lessons - 76 - Fists Guide I",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-06-25T18:30:02-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=R4ehlH-ntuA",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1588S",
+      "variants": [
+        {
+          "id": "R4ehlH-ntuA",
+          "title": "Nioh 2: Adept Lessons - 76 - Fists Guide I",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:fists",
+      "characterName": "수갑",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-10-15",
+      "characterReleaseOrder": 11,
+      "characterReleaseBasis": "무기 추가 DLC 출시일"
+    },
+    {
+      "id": "xVarghA8hPw",
+      "title": "Nioh 2: Adept Lessons - 88 - Fists Guide II",
+      "gameId": "nioh-2",
+      "sourceKind": "creator",
+      "sourceChannel": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelId": "UCBCQRW1YDcqA9g70VWeUvUw",
+      "channelTitle": "PooferLlama",
+      "publishedAt": "2021-07-19T18:30:10-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "referenceScope": "commentary-guide",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=xVarghA8hPw",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT2565S",
+      "variants": [
+        {
+          "id": "xVarghA8hPw",
+          "title": "Nioh 2: Adept Lessons - 88 - Fists Guide II",
+          "language": "en"
+        }
+      ],
+      "characterId": "nioh-2:fists",
+      "characterName": "수갑",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2020-10-15",
+      "characterReleaseOrder": 11,
+      "characterReleaseBasis": "무기 추가 DLC 출시일"
     },
     {
       "id": "lEA9Lw-7V-Y",
@@ -15852,6 +16832,1023 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "Qx3m5qhoZz8",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜가일(Guile)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2023-05-16T19:00:14-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=Qx3m5qhoZz8",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT47S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "Qx3m5qhoZz8",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜가일(Guile)",
+          "language": "ko"
+        }
+      ],
+      "characterId": "street-fighter-6:guile",
+      "characterName": "가일",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 5,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "wz0ydGzKTXY",
+      "title": "GUILE MOVE LIST - Street Fighter 6 (SF6)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelId": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelTitle": "Fighting Game Move Lists",
+      "publishedAt": "2025-01-19T06:00:58-08:00",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "referenceScope": "command-list",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=wz0ydGzKTXY",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT256S",
+      "referenceCoverageNote": "커맨드 입력으로 쓰는 기술 시연",
+      "variants": [
+        {
+          "id": "wz0ydGzKTXY",
+          "title": "GUILE MOVE LIST - Street Fighter 6 (SF6)",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:guile",
+      "characterName": "가일",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 5,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "dGyV4dnNryo",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜달심(Dhalsim)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2023-05-20T19:00:21-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=dGyV4dnNryo",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT43S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "dGyV4dnNryo",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜달심(Dhalsim)",
+          "language": "ko"
+        }
+      ],
+      "characterId": "street-fighter-6:dhalsim",
+      "characterName": "달심",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 10,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "SO8WI-Wffxo",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜디제이(Dee Jay)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2023-05-22T19:00:07-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=SO8WI-Wffxo",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT58S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "SO8WI-Wffxo",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜디제이(Dee Jay)",
+          "language": "ko"
+        },
+        {
+          "id": "GUDRAkoriD4",
+          "title": "Street Fighter 6 Character Guide | Dee Jay",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:dee-jay",
+      "characterName": "디제이",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 12,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "KXDHK9jg6hY",
+      "title": "DEE JAY MOVE LIST - Street Fighter 6 (SF6)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelId": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelTitle": "Fighting Game Move Lists",
+      "publishedAt": "2025-02-08T06:00:30-08:00",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "referenceScope": "command-list",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=KXDHK9jg6hY",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT313S",
+      "referenceCoverageNote": "커맨드 입력으로 쓰는 기술 시연",
+      "variants": [
+        {
+          "id": "KXDHK9jg6hY",
+          "title": "DEE JAY MOVE LIST - Street Fighter 6 (SF6)",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:dee-jay",
+      "characterName": "디제이",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 12,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "2Vu1KD270FM",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜루크(Luke)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2023-05-11T19:00:00-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=2Vu1KD270FM",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT44S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "2Vu1KD270FM",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜루크(Luke)",
+          "language": "ko"
+        }
+      ],
+      "characterId": "street-fighter-6:luke",
+      "characterName": "루크",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 2,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "gRts1GZeBy4",
+      "title": "LUKE MOVE LIST - Street Fighter 6 (SF6)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelId": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelTitle": "Fighting Game Move Lists",
+      "publishedAt": "2025-10-30T07:01:16-07:00",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "referenceScope": "command-list",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=gRts1GZeBy4",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT227S",
+      "referenceCoverageNote": "커맨드 입력으로 쓰는 기술 시연",
+      "variants": [
+        {
+          "id": "gRts1GZeBy4",
+          "title": "LUKE MOVE LIST - Street Fighter 6 (SF6)",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:luke",
+      "characterName": "루크",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 2,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "DC8_o6RrN1M",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜류(Ryu)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2023-05-13T19:00:06-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=DC8_o6RrN1M",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT41S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "DC8_o6RrN1M",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜류(Ryu)",
+          "language": "ko"
+        },
+        {
+          "id": "iAs1p3LVdAs",
+          "title": "Street Fighter 6 Character Guide | Ryu",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:ryu",
+      "characterName": "류",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 1,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "0qQfMjDPNoo",
+      "title": "RYU MOVE LIST - Street Fighter 6 (SF6)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelId": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelTitle": "Fighting Game Move Lists",
+      "publishedAt": "2024-11-12T06:00:01-08:00",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "referenceScope": "command-list",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=0qQfMjDPNoo",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT267S",
+      "referenceCoverageNote": "커맨드 입력으로 쓰는 기술 시연",
+      "variants": [
+        {
+          "id": "0qQfMjDPNoo",
+          "title": "RYU MOVE LIST - Street Fighter 6 (SF6)",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:ryu",
+      "characterName": "류",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 1,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "nVHthNCNpVE",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜릴리(Lily)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2023-05-27T19:00:15-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=nVHthNCNpVE",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT47S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "nVHthNCNpVE",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜릴리(Lily)",
+          "language": "ko"
+        }
+      ],
+      "characterId": "street-fighter-6:lily",
+      "characterName": "릴리",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 17,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "ezBR7RhRWII",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜마농(Manon)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2023-05-23T19:00:12-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=ezBR7RhRWII",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT44S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "ezBR7RhRWII",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜마농(Manon)",
+          "language": "ko"
+        },
+        {
+          "id": "On9nmbUvCTw",
+          "title": "Street Fighter 6 Character Guide | Manon",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:manon",
+      "characterName": "마농",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 13,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "Dq6cEWfK7UY",
+      "title": "Street Fighter 6 - Manon Moveset (Full Video Move List)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCPBgqVbpoOF5Ee3m_MOyR2g",
+      "channelId": "UCPBgqVbpoOF5Ee3m_MOyR2g",
+      "channelTitle": "ToniToniPlays",
+      "publishedAt": "2025-01-06",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "referenceScope": "command-list",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=Dq6cEWfK7UY",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT174S",
+      "referenceCoverageNote": "캐릭터별 커맨드 기술 시연",
+      "variants": [
+        {
+          "id": "Dq6cEWfK7UY",
+          "title": "Street Fighter 6 - Manon Moveset (Full Video Move List)",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:manon",
+      "characterName": "마농",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 13,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "eIb2VzMILMc",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜마리사(Marisa)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2023-05-24T19:00:13-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=eIb2VzMILMc",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT58S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "eIb2VzMILMc",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜마리사(Marisa)",
+          "language": "ko"
+        }
+      ],
+      "characterId": "street-fighter-6:marisa",
+      "characterName": "마리사",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 14,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "vDCWjbsga0A",
+      "title": "MARISA MOVE LIST - Street Fighter 6 (SF6)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelId": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelTitle": "Fighting Game Move Lists",
+      "publishedAt": "2024-12-10T06:00:58-08:00",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "referenceScope": "command-list",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=vDCWjbsga0A",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT287S",
+      "referenceCoverageNote": "커맨드 입력으로 쓰는 기술 시연",
+      "variants": [
+        {
+          "id": "vDCWjbsga0A",
+          "title": "MARISA MOVE LIST - Street Fighter 6 (SF6)",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:marisa",
+      "characterName": "마리사",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 14,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "re6E4w75KbA",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜블랑카(Blanka)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2023-05-19T19:00:30-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=re6E4w75KbA",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT54S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "re6E4w75KbA",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜블랑카(Blanka)",
+          "language": "ko"
+        }
+      ],
+      "characterId": "street-fighter-6:blanka",
+      "characterName": "블랑카",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 9,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "0SFTIUlIDwg",
+      "title": "BLANKA MOVE LIST - Street Fighter 6 (SF6)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelId": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelTitle": "Fighting Game Move Lists",
+      "publishedAt": "2025-11-01T10:00:02-07:00",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "referenceScope": "command-list",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=0SFTIUlIDwg",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT366S",
+      "referenceCoverageNote": "커맨드 입력으로 쓰는 기술 시연",
+      "variants": [
+        {
+          "id": "0SFTIUlIDwg",
+          "title": "BLANKA MOVE LIST - Street Fighter 6 (SF6)",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:blanka",
+      "characterName": "블랑카",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 9,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "gIoVq7TFQ3Y",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜장기에프(Zangief)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2023-05-26T19:00:16-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=gIoVq7TFQ3Y",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT56S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "gIoVq7TFQ3Y",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜장기에프(Zangief)",
+          "language": "ko"
+        },
+        {
+          "id": "zj213DBy0TY",
+          "title": "Street Fighter 6 Character Guide | Zangief",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:zangief",
+      "characterName": "장기에프",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 16,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "awrqhUgcUbk",
+      "title": "ZANGIEF MOVE LIST - Street Fighter 6 (SF6)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelId": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelTitle": "Fighting Game Move Lists",
+      "publishedAt": "2025-06-20T07:00:08-07:00",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "referenceScope": "command-list",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=awrqhUgcUbk",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT277S",
+      "referenceCoverageNote": "커맨드 입력으로 쓰는 기술 시연",
+      "variants": [
+        {
+          "id": "awrqhUgcUbk",
+          "title": "ZANGIEF MOVE LIST - Street Fighter 6 (SF6)",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:zangief",
+      "characterName": "장기에프",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 16,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "dED-i7TetFY",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜제이미(Jamie)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2023-05-15T19:00:21-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=dED-i7TetFY",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT59S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "dED-i7TetFY",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜제이미(Jamie)",
+          "language": "ko"
+        },
+        {
+          "id": "qg1KoyDiqHI",
+          "title": "Street Fighter 6 Character Guide | Jamie",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:jamie",
+      "characterName": "제이미",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 3,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "KE7Wo9VrQFU",
+      "title": "JURI MOVE LIST - Street Fighter 6 (SF6)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelId": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelTitle": "Fighting Game Move Lists",
+      "publishedAt": "2024-12-26T06:00:17-08:00",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "referenceScope": "command-list",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=KE7Wo9VrQFU",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT261S",
+      "referenceCoverageNote": "커맨드 입력으로 쓰는 기술 시연",
+      "variants": [
+        {
+          "id": "KE7Wo9VrQFU",
+          "title": "JURI MOVE LIST - Street Fighter 6 (SF6)",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:juri",
+      "characterName": "주리",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 7,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "E3i6ZOWJ2Ng",
+      "title": "Street Fighter 6 Character Guide | Juri",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UCVg9nCmmfIyP4QcGOnZZ9Qg",
+      "channelId": "UCVg9nCmmfIyP4QcGOnZZ9Qg",
+      "channelTitle": "Street Fighter",
+      "publishedAt": "2023-05-17T19:00:04-07:00",
+      "language": "en",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=E3i6ZOWJ2Ng",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT46S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "E3i6ZOWJ2Ng",
+          "title": "Street Fighter 6 Character Guide | Juri",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:juri",
+      "characterName": "주리",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 7,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "huC5ixjXS3o",
+      "title": "CHUN-LI MOVE LIST - Street Fighter 6 (SF6)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelId": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelTitle": "Fighting Game Move Lists",
+      "publishedAt": "2025-01-07T06:00:55-08:00",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "referenceScope": "command-list",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=huC5ixjXS3o",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT275S",
+      "referenceCoverageNote": "커맨드 입력으로 쓰는 기술 시연",
+      "variants": [
+        {
+          "id": "huC5ixjXS3o",
+          "title": "CHUN-LI MOVE LIST - Street Fighter 6 (SF6)",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:chun-li",
+      "characterName": "춘리",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 4,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "seX6oUfwjII",
+      "title": "Street Fighter 6 Character Guide | Chun-Li",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UCVg9nCmmfIyP4QcGOnZZ9Qg",
+      "channelId": "UCVg9nCmmfIyP4QcGOnZZ9Qg",
+      "channelTitle": "Street Fighter",
+      "publishedAt": "2023-05-14T19:00:14-07:00",
+      "language": "en",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=seX6oUfwjII",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT44S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "seX6oUfwjII",
+          "title": "Street Fighter 6 Character Guide | Chun-Li",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:chun-li",
+      "characterName": "춘리",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 4,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "DTK8eDKgVjI",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜캐미(Cammy)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2023-05-28T19:00:08-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=DTK8eDKgVjI",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT55S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "DTK8eDKgVjI",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜캐미(Cammy)",
+          "language": "ko"
+        },
+        {
+          "id": "u-CHmzZ9z-8",
+          "title": "Street Fighter 6 Character Guide | Cammy",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:cammy",
+      "characterName": "캐미",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 18,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "ZuYunH67MBc",
+      "title": "CAMMY WHITE MOVE LIST - Street Fighter 6 (SF6)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelId": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelTitle": "Fighting Game Move Lists",
+      "publishedAt": "2024-12-02T06:00:37-08:00",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "referenceScope": "command-list",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=ZuYunH67MBc",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT278S",
+      "referenceCoverageNote": "커맨드 입력으로 쓰는 기술 시연",
+      "variants": [
+        {
+          "id": "ZuYunH67MBc",
+          "title": "CAMMY WHITE MOVE LIST - Street Fighter 6 (SF6)",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:cammy",
+      "characterName": "캐미",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 18,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "0bLDIf_xI98",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜켄(Ken)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2023-05-18T19:00:00-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=0bLDIf_xI98",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT46S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "0bLDIf_xI98",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜켄(Ken)",
+          "language": "ko"
+        }
+      ],
+      "characterId": "street-fighter-6:ken",
+      "characterName": "켄",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 8,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "8LqYLR5UIaA",
+      "title": "KEN MASTERS MOVE LIST - Street Fighter 6 (SF6)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelId": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelTitle": "Fighting Game Move Lists",
+      "publishedAt": "2024-11-16T06:00:07-08:00",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "referenceScope": "command-list",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=8LqYLR5UIaA",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT247S",
+      "referenceCoverageNote": "커맨드 입력으로 쓰는 기술 시연",
+      "variants": [
+        {
+          "id": "8LqYLR5UIaA",
+          "title": "KEN MASTERS MOVE LIST - Street Fighter 6 (SF6)",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:ken",
+      "characterName": "켄",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 8,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "lg7-1KprJuA",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜킴벌리(Kimberly)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2023-05-12T19:00:25-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=lg7-1KprJuA",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT52S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "lg7-1KprJuA",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜킴벌리(Kimberly)",
+          "language": "ko"
+        },
+        {
+          "id": "OEWHuUzI1Os",
+          "title": "Street Fighter 6 Character Guide | Kimberly",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:kimberly",
+      "characterName": "킴벌리",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 6,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "B7j0mfRvPvk",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜E.혼다(E.Honda)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2023-05-21T19:00:03-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=B7j0mfRvPvk",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT52S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "B7j0mfRvPvk",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜E.혼다(E.Honda)",
+          "language": "ko"
+        },
+        {
+          "id": "knPaBQmrfjo",
+          "title": "Street Fighter 6 Character Guide | E. Honda",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:e-honda",
+      "characterName": "E. 혼다",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 11,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "qDmcCcpqQLU",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜JP",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2023-05-25T19:00:15-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=qDmcCcpqQLU",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT54S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "qDmcCcpqQLU",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜JP",
+          "language": "ko"
+        },
+        {
+          "id": "ClWYUU7WhTA",
+          "title": "Street Fighter 6 Character Guide | JP",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:jp",
+      "characterName": "JP",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 15,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
       "id": "EjWDEOi_veA",
       "title": "Haicma Starveil | Punishing: Gray Raven | Character Ultimates | Finishers | Brief Moveset Showcase",
       "publishedAt": "2026-08-16T21:00:14-07:00",
@@ -16092,6 +18089,43 @@
       "characterReleaseDate": "2023-07-19",
       "characterReleaseOrder": 25,
       "characterReleaseBasis": "한국 서비스 클래스 추가일"
+    },
+    {
+      "id": "M0vOHgweOcs",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜라시드(Rashid)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2023-07-17T16:00:16-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=M0vOHgweOcs",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT439S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "M0vOHgweOcs",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜라시드(Rashid)",
+          "language": "ko"
+        },
+        {
+          "id": "c2U3nex-8C4",
+          "title": "Street Fighter 6 Character Guide | Rashid",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:rashid",
+      "characterName": "라시드",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-07-24",
+      "characterReleaseOrder": 19,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
     },
     {
       "id": "qYEUllEkKKM",
@@ -16416,6 +18450,76 @@
       "characterReleaseDate": "2023-09-27",
       "characterReleaseOrder": 72,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "40SVPwig0vo",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드 ｜A.K.I.",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2023-09-18T17:03:25-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=40SVPwig0vo",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT639S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "40SVPwig0vo",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드 ｜A.K.I.",
+          "language": "ko"
+        },
+        {
+          "id": "Yva_TJaMfrk",
+          "title": "Street Fighter 6 Character Guide | A.K.I.",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:aki",
+      "characterName": "A.K.I.",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-09-27",
+      "characterReleaseOrder": 20,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
+    },
+    {
+      "id": "lzYwUwi053c",
+      "title": "A.K.I. MOVE LIST - Street Fighter 6 (SF6)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelId": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelTitle": "Fighting Game Move Lists",
+      "publishedAt": "2025-01-31T06:00:51-08:00",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "referenceScope": "command-list",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=lzYwUwi053c",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT287S",
+      "referenceCoverageNote": "커맨드 입력으로 쓰는 기술 시연",
+      "variants": [
+        {
+          "id": "lzYwUwi053c",
+          "title": "A.K.I. MOVE LIST - Street Fighter 6 (SF6)",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:aki",
+      "characterName": "A.K.I.",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-09-27",
+      "characterReleaseOrder": 20,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
     },
     {
       "id": "xdscN4yg-wU",
@@ -19374,6 +21478,43 @@
       "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)"
     },
     {
+      "id": "Wmgb08FV-pY",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드 ｜에드(Ed)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2024-02-15T17:11:26-08:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=Wmgb08FV-pY",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT434S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "Wmgb08FV-pY",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드 ｜에드(Ed)",
+          "language": "ko"
+        },
+        {
+          "id": "TqumE_S5jUs",
+          "title": "Street Fighter 6 Character Guide | Ed",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:ed",
+      "characterName": "에드",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-27",
+      "characterReleaseOrder": 21,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
+    },
+    {
       "id": "RWuZk5r5q7U",
       "title": "원신 | 데인 여담-「치오리: 그 소매는 향기를 남기고」",
       "publishedAt": "2024-03-12T21:00:13-07:00",
@@ -19608,6 +21749,152 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "Ov1bPlIhm0A",
+      "title": "PS5｜스텔라 블레이드 -  베타 스킬 (4K)",
+      "gameId": "stellar-blade",
+      "sourceKind": "official",
+      "sourceChannel": "UCZpjPApClr0g-CPt7-qktdw",
+      "channelId": "UCZpjPApClr0g-CPt7-qktdw",
+      "channelTitle": "PlayStation Korea",
+      "publishedAt": "",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCZpjPApClr0g-CPt7-qktdw/videos",
+      "reviewedAt": "2026-11-17",
+      "localizedTitles": [
+        "이브",
+        "이브 PS5｜스텔라 블레이드 -  베타 스킬 (4K)"
+      ],
+      "duration": "PT41S",
+      "referenceCoverageNote": "베타 에너지를 소비하는 이브의 전투 기술",
+      "variants": [
+        {
+          "id": "Ov1bPlIhm0A",
+          "title": "PS5｜스텔라 블레이드 -  베타 스킬 (4K)",
+          "language": "ko"
+        }
+      ],
+      "characterId": "stellar-blade:eve",
+      "characterName": "이브",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-04-26",
+      "characterReleaseOrder": 1,
+      "characterReleaseBasis": "PS5 본편 출시일"
+    },
+    {
+      "id": "Ah8yuyXwcI0",
+      "title": "PS5｜스텔라 블레이드 - 예약주문 트레일러 (4K, 한글 자막)",
+      "gameId": "stellar-blade",
+      "sourceKind": "official",
+      "sourceChannel": "UCZpjPApClr0g-CPt7-qktdw",
+      "channelId": "UCZpjPApClr0g-CPt7-qktdw",
+      "channelTitle": "PlayStation Korea",
+      "publishedAt": "",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCZpjPApClr0g-CPt7-qktdw/videos",
+      "reviewedAt": "2026-11-17",
+      "localizedTitles": [
+        "이브",
+        "이브 PS5｜스텔라 블레이드 - 예약주문 트레일러 (4K, 한글 자막)"
+      ],
+      "duration": "PT366S",
+      "referenceCoverageNote": "이브 전투와 게임플레이 개요",
+      "variants": [
+        {
+          "id": "Ah8yuyXwcI0",
+          "title": "PS5｜스텔라 블레이드 - 예약주문 트레일러 (4K, 한글 자막)",
+          "language": "ko"
+        },
+        {
+          "id": "V6XYHiBxkvk",
+          "title": "Stellar Blade - New Gameplay Overview | PS5 Games",
+          "language": "en"
+        }
+      ],
+      "characterId": "stellar-blade:eve",
+      "characterName": "이브",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-04-26",
+      "characterReleaseOrder": 1,
+      "characterReleaseBasis": "PS5 본편 출시일"
+    },
+    {
+      "id": "6rhcrZN0UZQ",
+      "title": "PS5｜스텔라 블레이드 - 출시 트레일러",
+      "gameId": "stellar-blade",
+      "sourceKind": "official",
+      "sourceChannel": "UCZpjPApClr0g-CPt7-qktdw",
+      "channelId": "UCZpjPApClr0g-CPt7-qktdw",
+      "channelTitle": "PlayStation Korea",
+      "publishedAt": "",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-channel-list",
+      "verificationSource": "https://www.youtube.com/channel/UCZpjPApClr0g-CPt7-qktdw/videos",
+      "reviewedAt": "2026-11-17",
+      "localizedTitles": [
+        "이브",
+        "이브 PS5｜스텔라 블레이드 - 출시 트레일러"
+      ],
+      "duration": "PT131S",
+      "referenceCoverageNote": "이브의 전투 장면을 담은 출시 트레일러",
+      "variants": [
+        {
+          "id": "6rhcrZN0UZQ",
+          "title": "PS5｜스텔라 블레이드 - 출시 트레일러",
+          "language": "ko"
+        }
+      ],
+      "characterId": "stellar-blade:eve",
+      "characterName": "이브",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-04-26",
+      "characterReleaseOrder": 1,
+      "characterReleaseBasis": "PS5 본편 출시일"
+    },
+    {
+      "id": "uVOpH5H_pRU",
+      "title": "【Stellar Blade】Eve's Moveset | All Skills, Combo Attacks & Ranged Attacks Showcase",
+      "gameId": "stellar-blade",
+      "sourceKind": "creator",
+      "sourceChannel": "UCmpGI8Ub5QwzPqPjcNSzl0g",
+      "channelId": "UCmpGI8Ub5QwzPqPjcNSzl0g",
+      "channelTitle": "Sykioh",
+      "publishedAt": "2024-05-04T12:12:17-07:00",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "gameVerified": true,
+      "referenceScope": "moveset",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=uVOpH5H_pRU",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT1015S",
+      "referenceCoverageNote": "기본 콤보, 베타·버스트 스킬과 원거리 공격",
+      "variants": [
+        {
+          "id": "uVOpH5H_pRU",
+          "title": "【Stellar Blade】Eve's Moveset | All Skills, Combo Attacks & Ranged Attacks Showcase",
+          "language": "en"
+        }
+      ],
+      "characterId": "stellar-blade:eve",
+      "characterName": "이브",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-04-26",
+      "characterReleaseOrder": 1,
+      "characterReleaseBasis": "PS5 본편 출시일"
+    },
+    {
       "id": "z0YwxSC5wuk",
       "title": "[EN]Granblue Fantasy: Relink - Endless Ragnarok | Meet the Crew: Seofon",
       "description": "Meet Seofon (Voice: Alejandro Saab), in Granblue Fantasy: Relink - Endless Ragnarok, set to launch on July 9, 2026! \n\n🔗Learn more about Seofon:\nhttps://relink-ragnarok.granbluefantasy.com/en/cha...",
@@ -19791,6 +22078,76 @@
       "characterReleaseDate": "2024-05-09",
       "characterReleaseOrder": 60,
       "characterReleaseBasis": "글로벌 서비스 출시 순서 (기체별 구분)"
+    },
+    {
+      "id": "poUK_jUeN3Y",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드 ｜고우키(Gouki)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2024-05-09T18:00:56-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=poUK_jUeN3Y",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT659S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "poUK_jUeN3Y",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드 ｜고우키(Gouki)",
+          "language": "ko"
+        },
+        {
+          "id": "SIPTOVx6pls",
+          "title": "Street Fighter 6 Character Guide | Akuma",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:akuma",
+      "characterName": "고우키",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-05-22",
+      "characterReleaseOrder": 22,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
+    },
+    {
+      "id": "RjmDeKrHg-Y",
+      "title": "AKUMA MOVE LIST - Street Fighter 6 (SF6)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelId": "UCZn5SPWKTfoTGOBlnTuXshQ",
+      "channelTitle": "Fighting Game Move Lists",
+      "publishedAt": "2024-11-20T06:00:23-08:00",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "referenceScope": "command-list",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=RjmDeKrHg-Y",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT394S",
+      "referenceCoverageNote": "커맨드 입력으로 쓰는 기술 시연",
+      "variants": [
+        {
+          "id": "RjmDeKrHg-Y",
+          "title": "AKUMA MOVE LIST - Street Fighter 6 (SF6)",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:akuma",
+      "characterName": "고우키",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-05-22",
+      "characterReleaseOrder": 22,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
     },
     {
       "id": "dq3tgNdYIRs",
@@ -20801,6 +23158,43 @@
       "characterReleaseDate": "2024-06-25",
       "characterReleaseOrder": 84,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "-5EQ1jYmpdY",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜베가(Vega)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2024-06-18T19:30:01-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=-5EQ1jYmpdY",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT434S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "-5EQ1jYmpdY",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜베가(Vega)",
+          "language": "ko"
+        },
+        {
+          "id": "oT1SLN39OiI",
+          "title": "Street Fighter 6 Character Guide | M. Bison",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:m-bison",
+      "characterName": "베가",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-06-26",
+      "characterReleaseOrder": 23,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
     },
     {
       "id": "EJ4MxpwcxEA",
@@ -22592,6 +24986,76 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "NbQG8_enjt8",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜테리(Terry)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2024-09-16T17:55:26-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=NbQG8_enjt8",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT503S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "NbQG8_enjt8",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜테리(Terry)",
+          "language": "ko"
+        },
+        {
+          "id": "qQnF07Owwd8",
+          "title": "Street Fighter 6 Character Guide | Terry",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:terry",
+      "characterName": "테리",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-09-24",
+      "characterReleaseOrder": 24,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
+    },
+    {
+      "id": "JeIW7PpSTbc",
+      "title": "Street Fighter 6 - Terry Bogard Moveset (Full Video Move List)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCPBgqVbpoOF5Ee3m_MOyR2g",
+      "channelId": "UCPBgqVbpoOF5Ee3m_MOyR2g",
+      "channelTitle": "ToniToniPlays",
+      "publishedAt": "2025-01-07",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "referenceScope": "command-list",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=JeIW7PpSTbc",
+      "reviewedAt": "2026-11-17",
+      "reviewedAfterCharacterRelease": true,
+      "duration": "PT183S",
+      "referenceCoverageNote": "캐릭터별 커맨드 기술 시연",
+      "variants": [
+        {
+          "id": "JeIW7PpSTbc",
+          "title": "Street Fighter 6 - Terry Bogard Moveset (Full Video Move List)",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:terry",
+      "characterName": "테리",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-09-24",
+      "characterReleaseOrder": 24,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
+    },
+    {
       "id": "naPWlGOTaPA",
       "title": "카이사르 캐릭터 플레이 「칼리돈의 라이딩」 | 젠레스 존 제로",
       "publishedAt": "2024-09-19T21:00:12-07:00",
@@ -23710,6 +26174,43 @@
       "characterReleaseDate": "2025-01-23",
       "characterReleaseOrder": 28,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "vtF1dAiSheM",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜마이(Mai)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2025-01-27T15:55:37-08:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=vtF1dAiSheM",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT396S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "vtF1dAiSheM",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜마이(Mai)",
+          "language": "ko"
+        },
+        {
+          "id": "g31J9y8usSs",
+          "title": "Street Fighter 6 Character Guide | Mai",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:mai",
+      "characterName": "마이",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-02-05",
+      "characterReleaseOrder": 25,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
     },
     {
       "id": "GC6gMNncniw",
@@ -26116,6 +28617,43 @@
       "characterReleaseBasis": "글로벌 정식 서비스 클래스 추가일"
     },
     {
+      "id": "fQNzgO3iQbM",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜엘레나(Elena)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2025-05-20T18:10:48-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=fQNzgO3iQbM",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT445S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "fQNzgO3iQbM",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜엘레나(Elena)",
+          "language": "ko"
+        },
+        {
+          "id": "nlnv52mGbL0",
+          "title": "Street Fighter 6 Character Guide | Elena",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:elena",
+      "characterName": "엘레나",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-06-05",
+      "characterReleaseOrder": 26,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
+    },
+    {
       "id": "WYrm2RTe7Ww",
       "title": "의현 캐릭터 플레이 「결전, 무도의 정상」 | 젠레스 존 제로",
       "publishedAt": "2025-05-29T21:00:06-07:00",
@@ -26659,6 +29197,43 @@
       "characterReleaseDate": "2025-07-24",
       "characterReleaseOrder": 37,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "H_qTw_EaPDk",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜사가트(Sagat)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2025-07-29T16:03:53-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=H_qTw_EaPDk",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT363S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "H_qTw_EaPDk",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜사가트(Sagat)",
+          "language": "ko"
+        },
+        {
+          "id": "k6M3iDp8hq4",
+          "title": "Street Fighter 6 Character Guide | Sagat",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:sagat",
+      "characterName": "사가트",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-08-05",
+      "characterReleaseOrder": 27,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
     },
     {
       "id": "Sxxkl2qDzT4",
@@ -27234,6 +29809,43 @@
       "characterReleaseDate": "2025-10-15",
       "characterReleaseOrder": 42,
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "d78pD5Vky1o",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜C.바이퍼(C. Viper)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2025-09-30T16:00:47-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=d78pD5Vky1o",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT444S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "d78pD5Vky1o",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜C.바이퍼(C. Viper)",
+          "language": "ko"
+        },
+        {
+          "id": "NKH8jAkt_8Y",
+          "title": "Street Fighter 6 Character Guide | C. Viper",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:c-viper",
+      "characterName": "C. 바이퍼",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-10-15",
+      "characterReleaseOrder": 28,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
     },
     {
       "id": "Cs9PNrfOKb0",
@@ -28958,6 +31570,43 @@
       "requiresReleaseWindow": false
     },
     {
+      "id": "g-h5zvhuOh8",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜알렉스(Alex)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2026-03-03T18:23:01-08:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=g-h5zvhuOh8",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT431S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "g-h5zvhuOh8",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜알렉스(Alex)",
+          "language": "ko"
+        },
+        {
+          "id": "e-xXJ-uzIHI",
+          "title": "Street Fighter 6 Character Guide | Alex",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:alex",
+      "characterName": "알렉스",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-03-17",
+      "characterReleaseOrder": 29,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
+    },
+    {
       "id": "ne8Blx9pkqo",
       "title": "공명자 전투 모션 | 시그리카",
       "publishedAt": "2026-03-14T20:00:54-07:00",
@@ -30368,6 +33017,43 @@
         "capturedAt": "2026-11-16"
       },
       "requiresReleaseWindow": false
+    },
+    {
+      "id": "H5VuXZpWSHk",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜잉그리드(Ingrid)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2026-05-21T16:00:33-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=H5VuXZpWSHk",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT467S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "H5VuXZpWSHk",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜잉그리드(Ingrid)",
+          "language": "ko"
+        },
+        {
+          "id": "Rdlx9Ick920",
+          "title": "Street Fighter 6 Character Guide | Ingrid",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:ingrid",
+      "characterName": "잉그리드",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-05-28",
+      "characterReleaseOrder": 30,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
     },
     {
       "id": "HcdclDU0UYM",
@@ -32340,6 +35026,43 @@
       "requiresReleaseWindow": false
     },
     {
+      "id": "bjq5iJqzQpY",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜야스민(Yasmine)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2026-07-23T16:00:23-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=bjq5iJqzQpY",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT394S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "bjq5iJqzQpY",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜야스민(Yasmine)",
+          "language": "ko"
+        },
+        {
+          "id": "M7NfqAcU7KI",
+          "title": "Street Fighter 6 Character Guide | Yasmine",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:yasmine",
+      "characterName": "야스민",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-08-03",
+      "characterReleaseOrder": 31,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
+    },
+    {
       "id": "RHCkcsfozvs",
       "title": "「명일방주: 엔드필드」 오퍼레이터 전투 시연 - 리노",
       "publishedAt": "2026-08-06T20:00:12-07:00",
@@ -33181,6 +35904,79 @@
         "capturedAt": "2026-11-16"
       },
       "requiresReleaseWindow": false
+    },
+    {
+      "id": "trFtFJeqz6w",
+      "title": "스트리트 파이터 6 - 아르준(Arjun) 게임 플레이 트레일러",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2026-09-08",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=trFtFJeqz6w",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT163S",
+      "variants": [
+        {
+          "id": "trFtFJeqz6w",
+          "title": "스트리트 파이터 6 - 아르준(Arjun) 게임 플레이 트레일러",
+          "language": "ko"
+        },
+        {
+          "id": "b3SvMJvr998",
+          "title": "Street Fighter 6 - Arjun Gameplay Trailer",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:arjun",
+      "characterName": "아르준",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-10-13",
+      "characterReleaseOrder": 32,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
+    },
+    {
+      "id": "7IOvNBwb054",
+      "title": "스트리트 파이터 6 - 캐릭터 가이드｜아르준(Arjun)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "official",
+      "sourceChannel": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelId": "UC02q4A9aCXUARMI51rFcl5A",
+      "channelTitle": "캡콤아시아",
+      "publishedAt": "2026-10-01T19:24:42-07:00",
+      "language": "ko",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=7IOvNBwb054",
+      "reviewedAt": "2026-11-17",
+      "duration": "PT507S",
+      "referenceCoverageNote": "캡콤 캐릭터 가이드",
+      "variants": [
+        {
+          "id": "7IOvNBwb054",
+          "title": "스트리트 파이터 6 - 캐릭터 가이드｜아르준(Arjun)",
+          "language": "ko"
+        },
+        {
+          "id": "6l9RFvk3fec",
+          "title": "Street Fighter 6 Character Guide | Arjun",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:arjun",
+      "characterName": "아르준",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-10-13",
+      "characterReleaseOrder": 32,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
     },
     {
       "id": "yFh0Pk6GsNI",
@@ -36527,6 +39323,36 @@
       "characterReleaseDate": null,
       "characterReleaseOrder": 14,
       "characterReleaseBasis": "2027년 출시 예정 · 공식 선공개"
+    },
+    {
+      "id": "hHt30e-r-G8",
+      "title": "Nioh 2 - Launch Trailer | PS4",
+      "gameId": "nioh-2",
+      "sourceKind": "official",
+      "sourceChannel": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+      "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+      "channelTitle": "PlayStation",
+      "publishedAt": "2020-03-11",
+      "language": "en",
+      "type": "출시 전 공식 시연",
+      "gameVerified": true,
+      "referenceScope": "official-preview",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=hHt30e-r-G8",
+      "reviewedAt": "2026-11-17",
+      "variants": [
+        {
+          "id": "hHt30e-r-G8",
+          "title": "Nioh 2 - Launch Trailer | PS4",
+          "language": "en"
+        }
+      ],
+      "characterId": null,
+      "characterName": null,
+      "characterKind": "character",
+      "characterReleaseDate": null,
+      "characterReleaseOrder": null,
+      "characterReleaseBasis": null
     },
     {
       "id": "aLDoA9tjBKc",

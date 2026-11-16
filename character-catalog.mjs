@@ -43,7 +43,7 @@ export function enrichVideos(videos,characters,{asOf=todayKorea()}={}){
   if(video.sourceKind==='creator'&&video.requiresReleaseWindow&&(!validDate(footageRelease)||!validDate(earliest)||earliest<footageRelease)){excluded.push({...video,exclusionReason:'출시 후 게시 여부 미확인'});continue;}
   const officialPreview=video.sourceKind==='official'&&c?.kind!=='weapon'&&publishedBeforeRelease;
   const scope=officialPreview?'official-preview':video.referenceScope||(video.sourceKind==='creator'&&/overview and combo guide/i.test(video.title)?'commentary-guide':null);
-  const scopeType={'basic-attacks':'기본 공격 모션','skill-excerpt':'개별 기술 모션','motion-excerpt':'개별 모션','commentary-guide':'해설 가이드','official-preview':'출시 전 공식 시연','official-weapon-showcase':'공식 무기 시연','official-combat-showcase':'전투 모션'}[scope];
+  const scopeType={'basic-attacks':'기본 공격 모션','skill-excerpt':'개별 기술 모션','motion-excerpt':'개별 모션','command-list':'커맨드 시연','commentary-guide':'해설 가이드','official-preview':'출시 전 공식 시연','official-weapon-showcase':'공식 무기 시연','official-combat-showcase':'전투 모션'}[scope];
   output.push({...video,...(scope?{referenceScope:scope}:{}),...(scopeType?{type:scopeType}:{}),characterId:c?.id||null,characterName:c?.name||null,characterKind:c?.kind||'character',characterReleaseDate:validDate(release)?release:null,characterReleaseOrder:c?.releaseOrder??null,characterReleaseBasis:c?.releaseBasis||null});
  }
  return {videos:output,excluded};

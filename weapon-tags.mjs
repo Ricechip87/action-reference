@@ -4,7 +4,7 @@ export const WEAPON_TYPES=[
  ['pistol','권총'],['firearm','총기·포'],['bow','활'],['staff','지팡이'],['focus','법구·마법'],
  ['whip','채찍·사슬'],['shield','방패'],['summon','소환·인형'],['special','특수 무기'],
  ['sword-shield','검과 방패'],['lance','랜스'],['gunlance','건랜스'],['switch-axe','슬래시액스'],
- ['charge-blade','차지액스'],['insect-glaive','조충곤'],['hunting-horn','수렵피리'],['light-bowgun','라이트보우건'],['heavy-bowgun','헤비보우건']
+ ['charge-blade','차지액스'],['insect-glaive','조충곤'],['hunting-horn','수렵피리'],['light-bowgun','라이트보우건'],['heavy-bowgun','헤비보우건'],['tonfa','톤파·선곤']
 ].map(([id,label])=>({id,label}));
 const allowed=new Set(WEAPON_TYPES.map(t=>t.id));
 const own=(value,key)=>Object.prototype.hasOwnProperty.call(value||{},key);

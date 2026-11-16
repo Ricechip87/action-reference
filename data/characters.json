@@ -13155,6 +13155,647 @@
         "fist"
       ],
       "weaponTagSource": "https://coa.skykeep.net/classes/sugariff/"
+    },
+    {
+      "id": "nioh-2:sword",
+      "gameId": "nioh-2",
+      "name": "도",
+      "aliases": [
+        "Sword",
+        "Katana",
+        "일도",
+        "刀"
+      ],
+      "releaseDate": "2020-03-12",
+      "releaseOrder": 1,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.playstation.com/en-ca/editorial/8-new-things-you-will-be-doing-in-nioh-2/",
+      "kind": "weapon",
+      "weaponTags": [
+        "katana",
+        "sword"
+      ],
+      "weaponTagSource": "https://teamninja-studio.com/nioh2/en-us/"
+    },
+    {
+      "id": "nioh-2:dual-swords",
+      "gameId": "nioh-2",
+      "name": "이도",
+      "aliases": [
+        "Dual Swords",
+        "Dual Sword",
+        "쌍검",
+        "二刀"
+      ],
+      "releaseDate": "2020-03-12",
+      "releaseOrder": 2,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.playstation.com/en-ca/editorial/8-new-things-you-will-be-doing-in-nioh-2/",
+      "kind": "weapon",
+      "weaponTags": [
+        "dual-blades"
+      ],
+      "weaponTagSource": "https://teamninja-studio.com/nioh2/en-us/"
+    },
+    {
+      "id": "nioh-2:spear",
+      "gameId": "nioh-2",
+      "name": "창",
+      "aliases": [
+        "Spear",
+        "槍"
+      ],
+      "releaseDate": "2020-03-12",
+      "releaseOrder": 3,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.playstation.com/en-ca/editorial/8-new-things-you-will-be-doing-in-nioh-2/",
+      "kind": "weapon",
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://teamninja-studio.com/nioh2/en-us/"
+    },
+    {
+      "id": "nioh-2:axe",
+      "gameId": "nioh-2",
+      "name": "도끼·망치",
+      "aliases": [
+        "Axe",
+        "Hammer",
+        "도끼",
+        "망치",
+        "斧"
+      ],
+      "releaseDate": "2020-03-12",
+      "releaseOrder": 4,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.playstation.com/en-ca/editorial/8-new-things-you-will-be-doing-in-nioh-2/",
+      "kind": "weapon",
+      "weaponTags": [
+        "axe",
+        "hammer"
+      ],
+      "weaponTagSource": "https://teamninja-studio.com/nioh2/en-us/"
+    },
+    {
+      "id": "nioh-2:kusarigama",
+      "gameId": "nioh-2",
+      "name": "사슬낫",
+      "aliases": [
+        "Kusarigama",
+        "Chain Sickle",
+        "鎖鎌"
+      ],
+      "releaseDate": "2020-03-12",
+      "releaseOrder": 5,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.playstation.com/en-ca/editorial/8-new-things-you-will-be-doing-in-nioh-2/",
+      "kind": "weapon",
+      "weaponTags": [
+        "whip",
+        "scythe"
+      ],
+      "weaponTagSource": "https://teamninja-studio.com/nioh2/en-us/"
+    },
+    {
+      "id": "nioh-2:odachi",
+      "gameId": "nioh-2",
+      "name": "대태도",
+      "aliases": [
+        "Odachi",
+        "Ōdachi",
+        "大太刀"
+      ],
+      "releaseDate": "2020-03-12",
+      "releaseOrder": 6,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.playstation.com/en-ca/editorial/8-new-things-you-will-be-doing-in-nioh-2/",
+      "kind": "weapon",
+      "weaponTags": [
+        "greatsword",
+        "katana"
+      ],
+      "weaponTagSource": "https://teamninja-studio.com/nioh2/en-us/"
+    },
+    {
+      "id": "nioh-2:tonfa",
+      "gameId": "nioh-2",
+      "name": "선곤",
+      "aliases": [
+        "Tonfa",
+        "Tonfas",
+        "톤파",
+        "旋棍"
+      ],
+      "releaseDate": "2020-03-12",
+      "releaseOrder": 7,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.playstation.com/en-ca/editorial/8-new-things-you-will-be-doing-in-nioh-2/",
+      "kind": "weapon",
+      "weaponTags": [
+        "tonfa"
+      ],
+      "weaponTagSource": "https://teamninja-studio.com/nioh2/en-us/"
+    },
+    {
+      "id": "nioh-2:hatchets",
+      "gameId": "nioh-2",
+      "name": "손도끼",
+      "aliases": [
+        "Hatchets",
+        "Hatchet",
+        "쌍도끼",
+        "手斧"
+      ],
+      "releaseDate": "2020-03-12",
+      "releaseOrder": 8,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.playstation.com/en-ca/editorial/8-new-things-you-will-be-doing-in-nioh-2/",
+      "kind": "weapon",
+      "weaponTags": [
+        "axe"
+      ],
+      "weaponTagSource": "https://teamninja-studio.com/nioh2/en-us/"
+    },
+    {
+      "id": "nioh-2:switchglaive",
+      "gameId": "nioh-2",
+      "name": "언월도",
+      "aliases": [
+        "Switchglaive",
+        "Switch Glaive",
+        "변형낫",
+        "薙刀鎌"
+      ],
+      "releaseDate": "2020-03-12",
+      "releaseOrder": 9,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.playstation.com/en-ca/editorial/8-new-things-you-will-be-doing-in-nioh-2/",
+      "kind": "weapon",
+      "weaponTags": [
+        "scythe",
+        "spear"
+      ],
+      "weaponTagSource": "https://teamninja-studio.com/nioh2/en-us/"
+    },
+    {
+      "id": "nioh-2:splitstaff",
+      "gameId": "nioh-2",
+      "name": "변형곤",
+      "aliases": [
+        "Splitstaff",
+        "Split Staff",
+        "仕込棍"
+      ],
+      "releaseDate": "2020-07-30",
+      "releaseOrder": 10,
+      "releaseBasis": "무기 추가 DLC 출시일",
+      "source": "https://www.playstation.com/th-th/games/nioh-2/dlc/",
+      "kind": "weapon",
+      "weaponTags": [
+        "staff"
+      ],
+      "weaponTagSource": "https://www.playstation.com/th-th/games/nioh-2/dlc/"
+    },
+    {
+      "id": "nioh-2:fists",
+      "gameId": "nioh-2",
+      "name": "수갑",
+      "aliases": [
+        "Fists",
+        "Clawed Fists",
+        "Fist",
+        "권갑",
+        "手甲"
+      ],
+      "releaseDate": "2020-10-15",
+      "releaseOrder": 11,
+      "releaseBasis": "무기 추가 DLC 출시일",
+      "source": "https://blog.playstation.com/?p=342281",
+      "kind": "weapon",
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://blog.playstation.com/?p=342281"
+    },
+    {
+      "id": "street-fighter-6:ryu",
+      "gameId": "street-fighter-6",
+      "name": "류",
+      "aliases": [
+        "Ryu"
+      ],
+      "releaseDate": "2023-06-02",
+      "releaseOrder": 1,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.streetfighter.com/6/ko-kr/character"
+    },
+    {
+      "id": "street-fighter-6:luke",
+      "gameId": "street-fighter-6",
+      "name": "루크",
+      "aliases": [
+        "Luke"
+      ],
+      "releaseDate": "2023-06-02",
+      "releaseOrder": 2,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.streetfighter.com/6/ko-kr/character"
+    },
+    {
+      "id": "street-fighter-6:jamie",
+      "gameId": "street-fighter-6",
+      "name": "제이미",
+      "aliases": [
+        "Jamie"
+      ],
+      "releaseDate": "2023-06-02",
+      "releaseOrder": 3,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.streetfighter.com/6/ko-kr/character"
+    },
+    {
+      "id": "street-fighter-6:chun-li",
+      "gameId": "street-fighter-6",
+      "name": "춘리",
+      "aliases": [
+        "Chun-Li",
+        "Chun Li",
+        "춘 리"
+      ],
+      "releaseDate": "2023-06-02",
+      "releaseOrder": 4,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.streetfighter.com/6/ko-kr/character"
+    },
+    {
+      "id": "street-fighter-6:guile",
+      "gameId": "street-fighter-6",
+      "name": "가일",
+      "aliases": [
+        "Guile"
+      ],
+      "releaseDate": "2023-06-02",
+      "releaseOrder": 5,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.streetfighter.com/6/ko-kr/character"
+    },
+    {
+      "id": "street-fighter-6:kimberly",
+      "gameId": "street-fighter-6",
+      "name": "킴벌리",
+      "aliases": [
+        "Kimberly"
+      ],
+      "releaseDate": "2023-06-02",
+      "releaseOrder": 6,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.streetfighter.com/6/ko-kr/character"
+    },
+    {
+      "id": "street-fighter-6:juri",
+      "gameId": "street-fighter-6",
+      "name": "주리",
+      "aliases": [
+        "Juri",
+        "Han Juri",
+        "한주리"
+      ],
+      "releaseDate": "2023-06-02",
+      "releaseOrder": 7,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.streetfighter.com/6/ko-kr/character"
+    },
+    {
+      "id": "street-fighter-6:ken",
+      "gameId": "street-fighter-6",
+      "name": "켄",
+      "aliases": [
+        "Ken",
+        "Ken Masters"
+      ],
+      "releaseDate": "2023-06-02",
+      "releaseOrder": 8,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.streetfighter.com/6/ko-kr/character"
+    },
+    {
+      "id": "street-fighter-6:blanka",
+      "gameId": "street-fighter-6",
+      "name": "블랑카",
+      "aliases": [
+        "Blanka"
+      ],
+      "releaseDate": "2023-06-02",
+      "releaseOrder": 9,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.streetfighter.com/6/ko-kr/character"
+    },
+    {
+      "id": "street-fighter-6:dhalsim",
+      "gameId": "street-fighter-6",
+      "name": "달심",
+      "aliases": [
+        "Dhalsim"
+      ],
+      "releaseDate": "2023-06-02",
+      "releaseOrder": 10,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.streetfighter.com/6/ko-kr/character"
+    },
+    {
+      "id": "street-fighter-6:e-honda",
+      "gameId": "street-fighter-6",
+      "name": "E. 혼다",
+      "aliases": [
+        "E. Honda",
+        "E Honda",
+        "Honda",
+        "Edmond Honda",
+        "E.혼다"
+      ],
+      "releaseDate": "2023-06-02",
+      "releaseOrder": 11,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.streetfighter.com/6/ko-kr/character"
+    },
+    {
+      "id": "street-fighter-6:dee-jay",
+      "gameId": "street-fighter-6",
+      "name": "디제이",
+      "aliases": [
+        "Dee Jay",
+        "Deejay"
+      ],
+      "releaseDate": "2023-06-02",
+      "releaseOrder": 12,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.streetfighter.com/6/ko-kr/character"
+    },
+    {
+      "id": "street-fighter-6:manon",
+      "gameId": "street-fighter-6",
+      "name": "마농",
+      "aliases": [
+        "Manon"
+      ],
+      "releaseDate": "2023-06-02",
+      "releaseOrder": 13,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.streetfighter.com/6/ko-kr/character"
+    },
+    {
+      "id": "street-fighter-6:marisa",
+      "gameId": "street-fighter-6",
+      "name": "마리사",
+      "aliases": [
+        "Marisa"
+      ],
+      "releaseDate": "2023-06-02",
+      "releaseOrder": 14,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.streetfighter.com/6/ko-kr/character"
+    },
+    {
+      "id": "street-fighter-6:jp",
+      "gameId": "street-fighter-6",
+      "name": "JP",
+      "aliases": [
+        "JP"
+      ],
+      "releaseDate": "2023-06-02",
+      "releaseOrder": 15,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.streetfighter.com/6/ko-kr/character"
+    },
+    {
+      "id": "street-fighter-6:zangief",
+      "gameId": "street-fighter-6",
+      "name": "장기에프",
+      "aliases": [
+        "Zangief"
+      ],
+      "releaseDate": "2023-06-02",
+      "releaseOrder": 16,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.streetfighter.com/6/ko-kr/character"
+    },
+    {
+      "id": "street-fighter-6:lily",
+      "gameId": "street-fighter-6",
+      "name": "릴리",
+      "aliases": [
+        "Lily"
+      ],
+      "releaseDate": "2023-06-02",
+      "releaseOrder": 17,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.streetfighter.com/6/ko-kr/character"
+    },
+    {
+      "id": "street-fighter-6:cammy",
+      "gameId": "street-fighter-6",
+      "name": "캐미",
+      "aliases": [
+        "Cammy",
+        "Cammy White"
+      ],
+      "releaseDate": "2023-06-02",
+      "releaseOrder": 18,
+      "releaseBasis": "본편 출시일",
+      "source": "https://www.streetfighter.com/6/ko-kr/character"
+    },
+    {
+      "id": "street-fighter-6:rashid",
+      "gameId": "street-fighter-6",
+      "name": "라시드",
+      "aliases": [
+        "Rashid"
+      ],
+      "releaseDate": "2023-07-24",
+      "releaseOrder": 19,
+      "releaseBasis": "DLC 캐릭터 추가일",
+      "source": "https://steamcommunity.com/app/1364780/announcements/?l=english"
+    },
+    {
+      "id": "street-fighter-6:aki",
+      "gameId": "street-fighter-6",
+      "name": "A.K.I.",
+      "aliases": [
+        "AKI",
+        "A.K.I.",
+        "아키"
+      ],
+      "releaseDate": "2023-09-27",
+      "releaseOrder": 20,
+      "releaseBasis": "DLC 캐릭터 추가일",
+      "source": "https://steamcommunity.com/app/1364780/announcements/?l=english"
+    },
+    {
+      "id": "street-fighter-6:ed",
+      "gameId": "street-fighter-6",
+      "name": "에드",
+      "aliases": [
+        "Ed"
+      ],
+      "releaseDate": "2024-02-27",
+      "releaseOrder": 21,
+      "releaseBasis": "DLC 캐릭터 추가일",
+      "source": "https://steamcommunity.com/app/1364780/announcements/?l=english"
+    },
+    {
+      "id": "street-fighter-6:akuma",
+      "gameId": "street-fighter-6",
+      "name": "고우키",
+      "aliases": [
+        "Gouki",
+        "Akuma"
+      ],
+      "releaseDate": "2024-05-22",
+      "releaseOrder": 22,
+      "releaseBasis": "DLC 캐릭터 추가일",
+      "source": "https://steamcommunity.com/app/1364780/announcements/?l=english"
+    },
+    {
+      "id": "street-fighter-6:m-bison",
+      "gameId": "street-fighter-6",
+      "name": "베가",
+      "aliases": [
+        "M. Bison",
+        "M Bison",
+        "Bison",
+        "Vega"
+      ],
+      "releaseDate": "2024-06-26",
+      "releaseOrder": 23,
+      "releaseBasis": "DLC 캐릭터 추가일",
+      "source": "https://steamcommunity.com/app/1364780/announcements/?l=english"
+    },
+    {
+      "id": "street-fighter-6:terry",
+      "gameId": "street-fighter-6",
+      "name": "테리",
+      "aliases": [
+        "Terry",
+        "Terry Bogard"
+      ],
+      "releaseDate": "2024-09-24",
+      "releaseOrder": 24,
+      "releaseBasis": "DLC 캐릭터 추가일",
+      "source": "https://steamcommunity.com/app/1364780/announcements/?l=english"
+    },
+    {
+      "id": "street-fighter-6:mai",
+      "gameId": "street-fighter-6",
+      "name": "마이",
+      "aliases": [
+        "Mai",
+        "Mai Shiranui"
+      ],
+      "releaseDate": "2025-02-05",
+      "releaseOrder": 25,
+      "releaseBasis": "DLC 캐릭터 추가일",
+      "source": "https://steamcommunity.com/app/1364780/announcements/?l=english"
+    },
+    {
+      "id": "street-fighter-6:elena",
+      "gameId": "street-fighter-6",
+      "name": "엘레나",
+      "aliases": [
+        "Elena"
+      ],
+      "releaseDate": "2025-06-05",
+      "releaseOrder": 26,
+      "releaseBasis": "DLC 캐릭터 추가일",
+      "source": "https://steamcommunity.com/app/1364780/announcements/?l=english"
+    },
+    {
+      "id": "street-fighter-6:sagat",
+      "gameId": "street-fighter-6",
+      "name": "사가트",
+      "aliases": [
+        "Sagat"
+      ],
+      "releaseDate": "2025-08-05",
+      "releaseOrder": 27,
+      "releaseBasis": "DLC 캐릭터 추가일",
+      "source": "https://steamcommunity.com/app/1364780/announcements/?l=english"
+    },
+    {
+      "id": "street-fighter-6:c-viper",
+      "gameId": "street-fighter-6",
+      "name": "C. 바이퍼",
+      "aliases": [
+        "C.바이퍼",
+        "C. Viper",
+        "C Viper",
+        "Crimson Viper"
+      ],
+      "releaseDate": "2025-10-15",
+      "releaseOrder": 28,
+      "releaseBasis": "DLC 캐릭터 추가일",
+      "source": "https://steamcommunity.com/app/1364780/announcements/?l=english"
+    },
+    {
+      "id": "street-fighter-6:alex",
+      "gameId": "street-fighter-6",
+      "name": "알렉스",
+      "aliases": [
+        "Alex"
+      ],
+      "releaseDate": "2026-03-17",
+      "releaseOrder": 29,
+      "releaseBasis": "DLC 캐릭터 추가일",
+      "source": "https://steamcommunity.com/app/1364780/announcements/?l=english"
+    },
+    {
+      "id": "street-fighter-6:ingrid",
+      "gameId": "street-fighter-6",
+      "name": "잉그리드",
+      "aliases": [
+        "Ingrid"
+      ],
+      "releaseDate": "2026-05-28",
+      "releaseOrder": 30,
+      "releaseBasis": "DLC 캐릭터 추가일",
+      "source": "https://steamcommunity.com/app/1364780/announcements/?l=english"
+    },
+    {
+      "id": "street-fighter-6:yasmine",
+      "gameId": "street-fighter-6",
+      "name": "야스민",
+      "aliases": [
+        "Yasmine"
+      ],
+      "releaseDate": "2026-08-03",
+      "releaseOrder": 31,
+      "releaseBasis": "DLC 캐릭터 추가일",
+      "source": "https://steamcommunity.com/app/1364780/announcements/?l=english"
+    },
+    {
+      "id": "street-fighter-6:arjun",
+      "gameId": "street-fighter-6",
+      "name": "아르준",
+      "aliases": [
+        "Arjun"
+      ],
+      "releaseDate": "2026-10-13",
+      "releaseOrder": 32,
+      "releaseBasis": "DLC 캐릭터 추가일",
+      "source": "https://steamcommunity.com/app/1364780/announcements/?l=english"
+    },
+    {
+      "id": "stellar-blade:eve",
+      "gameId": "stellar-blade",
+      "name": "이브",
+      "aliases": [
+        "Eve",
+        "이브의"
+      ],
+      "releaseDate": "2024-04-26",
+      "releaseOrder": 1,
+      "releaseBasis": "PS5 본편 출시일",
+      "source": "https://www.playstation.com/ko-kr/games/stellar-blade/"
     }
   ]
 }
