@@ -12160,6 +12160,1001 @@
       "releaseOrder": 25,
       "releaseBasis": "한국 / 글로벌 정식 출시",
       "source": "https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html"
+    },
+    {
+      "id": "lost-ark:berserker",
+      "gameId": "lost-ark",
+      "name": "버서커",
+      "aliases": [
+        "버서커",
+        "Berserker"
+      ],
+      "releaseDate": "2018-11-07",
+      "releaseOrder": 1,
+      "releaseBasis": "한국 첫 공개 서비스 시작일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:paladin",
+      "gameId": "lost-ark",
+      "name": "홀리나이트",
+      "aliases": [
+        "홀리나이트",
+        "Paladin",
+        "Holy Knight"
+      ],
+      "releaseDate": "2019-12-04",
+      "releaseOrder": 2,
+      "releaseBasis": "한국 서비스 클래스 추가일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:gunlancer",
+      "gameId": "lost-ark",
+      "name": "워로드",
+      "aliases": [
+        "워로드",
+        "Gunlancer",
+        "Warlord"
+      ],
+      "releaseDate": "2018-11-07",
+      "releaseOrder": 3,
+      "releaseBasis": "한국 첫 공개 서비스 시작일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "gunlance",
+        "shield"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:destroyer",
+      "gameId": "lost-ark",
+      "name": "디스트로이어",
+      "aliases": [
+        "디스트로이어",
+        "Destroyer"
+      ],
+      "releaseDate": "2018-11-07",
+      "releaseOrder": 4,
+      "releaseBasis": "한국 첫 공개 서비스 시작일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "hammer"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:slayer",
+      "gameId": "lost-ark",
+      "name": "슬레이어",
+      "aliases": [
+        "슬레이어",
+        "Slayer"
+      ],
+      "releaseDate": "2023-01-18",
+      "releaseOrder": 5,
+      "releaseBasis": "한국 서비스 클래스 추가일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:valkyrie",
+      "gameId": "lost-ark",
+      "name": "발키리",
+      "aliases": [
+        "발키리",
+        "Valkyrie"
+      ],
+      "releaseDate": "2025-06-25",
+      "releaseOrder": 6,
+      "releaseBasis": "한국 서비스 클래스 추가일",
+      "source": "https://newsroom.smilegate.com/bbs/board.php?bo_table=news&wr_id=1992",
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://newsroom.smilegate.com/bbs/board.php?bo_table=news&wr_id=1992"
+    },
+    {
+      "id": "lost-ark:striker",
+      "gameId": "lost-ark",
+      "name": "스트라이커",
+      "aliases": [
+        "스트라이커",
+        "Striker"
+      ],
+      "releaseDate": "2021-03-17",
+      "releaseOrder": 7,
+      "releaseBasis": "한국 서비스 클래스 추가일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:wardancer",
+      "gameId": "lost-ark",
+      "name": "배틀마스터",
+      "aliases": [
+        "배틀마스터",
+        "Wardancer",
+        "Battle Master"
+      ],
+      "releaseDate": "2018-11-07",
+      "releaseOrder": 8,
+      "releaseBasis": "한국 첫 공개 서비스 시작일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:scrapper",
+      "gameId": "lost-ark",
+      "name": "인파이터",
+      "aliases": [
+        "인파이터",
+        "Scrapper",
+        "Infighter"
+      ],
+      "releaseDate": "2018-11-07",
+      "releaseOrder": 9,
+      "releaseBasis": "한국 첫 공개 서비스 시작일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:soulfist",
+      "gameId": "lost-ark",
+      "name": "기공사",
+      "aliases": [
+        "기공사",
+        "Soulfist",
+        "Soul Master"
+      ],
+      "releaseDate": "2018-11-07",
+      "releaseOrder": 10,
+      "releaseBasis": "한국 첫 공개 서비스 시작일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "fist",
+        "focus"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:glaivier",
+      "gameId": "lost-ark",
+      "name": "창술사",
+      "aliases": [
+        "창술사",
+        "Glaivier",
+        "Glavier",
+        "Lance Master"
+      ],
+      "releaseDate": "2019-04-24",
+      "releaseOrder": 11,
+      "releaseBasis": "한국 서비스 클래스 추가일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:breaker",
+      "gameId": "lost-ark",
+      "name": "브레이커",
+      "aliases": [
+        "브레이커",
+        "Breaker"
+      ],
+      "releaseDate": "2023-12-20",
+      "releaseOrder": 12,
+      "releaseBasis": "한국 서비스 클래스 추가일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:gunslinger",
+      "gameId": "lost-ark",
+      "name": "건슬링어",
+      "aliases": [
+        "건슬링어",
+        "Gunslinger"
+      ],
+      "releaseDate": "2021-01-27",
+      "releaseOrder": 13,
+      "releaseBasis": "한국 서비스 클래스 추가일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "pistol",
+        "firearm"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:artillerist",
+      "gameId": "lost-ark",
+      "name": "블래스터",
+      "aliases": [
+        "블래스터",
+        "Artillerist",
+        "Blaster"
+      ],
+      "releaseDate": "2018-11-07",
+      "releaseOrder": 14,
+      "releaseBasis": "한국 첫 공개 서비스 시작일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "firearm"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:deadeye",
+      "gameId": "lost-ark",
+      "name": "데빌헌터",
+      "aliases": [
+        "데빌헌터",
+        "Deadeye",
+        "Devil Hunter"
+      ],
+      "releaseDate": "2018-11-07",
+      "releaseOrder": 15,
+      "releaseBasis": "한국 첫 공개 서비스 시작일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "pistol",
+        "firearm"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:sharpshooter",
+      "gameId": "lost-ark",
+      "name": "호크아이",
+      "aliases": [
+        "호크아이",
+        "Sharpshooter",
+        "Hawkeye"
+      ],
+      "releaseDate": "2018-11-07",
+      "releaseOrder": 16,
+      "releaseBasis": "한국 첫 공개 서비스 시작일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "bow"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:machinist",
+      "gameId": "lost-ark",
+      "name": "스카우터",
+      "aliases": [
+        "스카우터",
+        "Machinist",
+        "Scouter"
+      ],
+      "releaseDate": "2020-08-12",
+      "releaseOrder": 17,
+      "releaseBasis": "한국 서비스 클래스 추가일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "firearm"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:bard",
+      "gameId": "lost-ark",
+      "name": "바드",
+      "aliases": [
+        "바드",
+        "Bard"
+      ],
+      "releaseDate": "2018-11-07",
+      "releaseOrder": 18,
+      "releaseBasis": "한국 첫 공개 서비스 시작일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:sorceress",
+      "gameId": "lost-ark",
+      "name": "소서리스",
+      "aliases": [
+        "소서리스",
+        "Sorceress"
+      ],
+      "releaseDate": "2021-08-11",
+      "releaseOrder": 19,
+      "releaseBasis": "한국 서비스 클래스 추가일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "staff"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:arcanist",
+      "gameId": "lost-ark",
+      "name": "아르카나",
+      "aliases": [
+        "아르카나",
+        "Arcanist",
+        "Arcana"
+      ],
+      "releaseDate": "2018-11-07",
+      "releaseOrder": 20,
+      "releaseBasis": "한국 첫 공개 서비스 시작일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:summoner",
+      "gameId": "lost-ark",
+      "name": "서머너",
+      "aliases": [
+        "서머너",
+        "Summoner"
+      ],
+      "releaseDate": "2018-11-07",
+      "releaseOrder": 21,
+      "releaseBasis": "한국 첫 공개 서비스 시작일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "staff",
+        "summon"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:shadowhunter",
+      "gameId": "lost-ark",
+      "name": "데모닉",
+      "aliases": [
+        "데모닉",
+        "Shadowhunter"
+      ],
+      "releaseDate": "2019-07-31",
+      "releaseOrder": 22,
+      "releaseBasis": "한국 서비스 클래스 추가일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "dual-blades"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:deathblade",
+      "gameId": "lost-ark",
+      "name": "블레이드",
+      "aliases": [
+        "블레이드",
+        "Deathblade"
+      ],
+      "releaseDate": "2019-07-31",
+      "releaseOrder": 23,
+      "releaseBasis": "한국 서비스 클래스 추가일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "dual-blades"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:reaper",
+      "gameId": "lost-ark",
+      "name": "리퍼",
+      "aliases": [
+        "리퍼",
+        "Reaper"
+      ],
+      "releaseDate": "2020-09-29",
+      "releaseOrder": 24,
+      "releaseBasis": "한국 서비스 클래스 추가일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "dagger"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:souleater",
+      "gameId": "lost-ark",
+      "name": "소울이터",
+      "aliases": [
+        "소울이터",
+        "Souleater",
+        "Soul Eater"
+      ],
+      "releaseDate": "2023-07-19",
+      "releaseOrder": 25,
+      "releaseBasis": "한국 서비스 클래스 추가일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "scythe"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:artist",
+      "gameId": "lost-ark",
+      "name": "도화가",
+      "aliases": [
+        "도화가",
+        "Artist",
+        "Painter"
+      ],
+      "releaseDate": "2022-01-12",
+      "releaseOrder": 26,
+      "releaseBasis": "한국 서비스 클래스 추가일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:aeromancer",
+      "gameId": "lost-ark",
+      "name": "기상술사",
+      "aliases": [
+        "기상술사",
+        "Aeromancer"
+      ],
+      "releaseDate": "2022-07-06",
+      "releaseOrder": 27,
+      "releaseBasis": "한국 서비스 클래스 추가일",
+      "source": "https://lostark.game.onstove.com/Class",
+      "weaponTags": [
+        "special"
+      ],
+      "weaponTagSource": "https://www.playlostark.com/en-us/game/classes"
+    },
+    {
+      "id": "lost-ark:wildsoul",
+      "gameId": "lost-ark",
+      "name": "환수사",
+      "aliases": [
+        "환수사",
+        "Wildsoul",
+        "Wild Soul"
+      ],
+      "releaseDate": "2025-01-08",
+      "releaseOrder": 28,
+      "releaseBasis": "한국 서비스 클래스 추가일",
+      "source": "https://newsroom.smilegate.com/bbs/board.php?bo_table=news&wr_id=1880",
+      "weaponTags": [
+        "summon",
+        "focus"
+      ],
+      "weaponTagSource": "https://newsroom.smilegate.com/bbs/board.php?bo_table=news&wr_id=1880"
+    },
+    {
+      "id": "lost-ark:guardianknight",
+      "gameId": "lost-ark",
+      "name": "가디언나이트",
+      "aliases": [
+        "가디언나이트",
+        "Guardianknight",
+        "Guardian Knight",
+        "가디언 나이트"
+      ],
+      "releaseDate": "2025-12-10",
+      "releaseOrder": 29,
+      "releaseBasis": "한국 서비스 클래스 추가일",
+      "source": "https://newsroom.smilegate.com/news/1765356381",
+      "weaponTags": [
+        "spear"
+      ],
+      "weaponTagSource": "https://newsroom.smilegate.com/news/1765356381"
+    },
+    {
+      "id": "lost-ark:dimensionalist",
+      "gameId": "lost-ark",
+      "name": "차원술사",
+      "aliases": [
+        "차원술사",
+        "Dimensionalist",
+        "Dimension Master"
+      ],
+      "releaseDate": "2026-07-08",
+      "releaseOrder": 30,
+      "releaseBasis": "한국 서비스 클래스 추가일",
+      "source": "https://newsroom.smilegate.com/news/1783500519",
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://newsroom.smilegate.com/news/1783500519"
+    },
+    {
+      "id": "crystal-of-atlan:swordsman",
+      "gameId": "crystal-of-atlan",
+      "name": "검사",
+      "aliases": [
+        "검사",
+        "Swordsman"
+      ],
+      "releaseDate": "2025-05-28",
+      "releaseOrder": 1,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/swordsman/",
+      "kind": "family"
+    },
+    {
+      "id": "crystal-of-atlan:magiblade",
+      "gameId": "crystal-of-atlan",
+      "name": "마검사",
+      "aliases": [
+        "마검사",
+        "Magiblade"
+      ],
+      "releaseDate": "2025-05-28",
+      "releaseOrder": 2,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "sword"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/magiblade/"
+    },
+    {
+      "id": "crystal-of-atlan:berserker",
+      "gameId": "crystal-of-atlan",
+      "name": "버서커",
+      "aliases": [
+        "버서커",
+        "Berserker"
+      ],
+      "releaseDate": "2025-05-28",
+      "releaseOrder": 3,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "greatsword"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/berserker/"
+    },
+    {
+      "id": "crystal-of-atlan:magister",
+      "gameId": "crystal-of-atlan",
+      "name": "마도사",
+      "aliases": [
+        "마도사",
+        "Magister"
+      ],
+      "releaseDate": "2025-05-28",
+      "releaseOrder": 4,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "staff"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/magister/",
+      "kind": "family"
+    },
+    {
+      "id": "crystal-of-atlan:elementalist",
+      "gameId": "crystal-of-atlan",
+      "name": "엘리멘탈리스트",
+      "aliases": [
+        "엘리멘탈리스트",
+        "Elementalist"
+      ],
+      "releaseDate": "2025-05-28",
+      "releaseOrder": 5,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "staff"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/elementalist/"
+    },
+    {
+      "id": "crystal-of-atlan:warlock",
+      "gameId": "crystal-of-atlan",
+      "name": "워록",
+      "aliases": [
+        "워록",
+        "Warlock"
+      ],
+      "releaseDate": "2025-05-28",
+      "releaseOrder": 6,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/warlock/"
+    },
+    {
+      "id": "crystal-of-atlan:magician",
+      "gameId": "crystal-of-atlan",
+      "name": "매지션",
+      "aliases": [
+        "매지션",
+        "Magician",
+        "매지션편"
+      ],
+      "releaseDate": "2025-05-28",
+      "releaseOrder": 7,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "focus"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/magician/"
+    },
+    {
+      "id": "crystal-of-atlan:musketeer",
+      "gameId": "crystal-of-atlan",
+      "name": "총사",
+      "aliases": [
+        "총사",
+        "Musketeer"
+      ],
+      "releaseDate": "2025-05-28",
+      "releaseOrder": 8,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "firearm"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/musketeer/",
+      "kind": "family"
+    },
+    {
+      "id": "crystal-of-atlan:bounty-hunter",
+      "gameId": "crystal-of-atlan",
+      "name": "바운티헌터",
+      "aliases": [
+        "바운티헌터",
+        "Bounty Hunter",
+        "Bountyhunter",
+        "바운티헌터편"
+      ],
+      "releaseDate": "2025-05-28",
+      "releaseOrder": 9,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "pistol"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/bounty-hunter/"
+    },
+    {
+      "id": "crystal-of-atlan:gunner",
+      "gameId": "crystal-of-atlan",
+      "name": "거너",
+      "aliases": [
+        "거너",
+        "Gunner"
+      ],
+      "releaseDate": "2025-05-28",
+      "releaseOrder": 10,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "firearm"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/gunner/"
+    },
+    {
+      "id": "crystal-of-atlan:puppeteer",
+      "gameId": "crystal-of-atlan",
+      "name": "인형사",
+      "aliases": [
+        "인형사",
+        "Puppeteer"
+      ],
+      "releaseDate": "2025-05-28",
+      "releaseOrder": 11,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "summon"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/puppeteer/",
+      "kind": "family"
+    },
+    {
+      "id": "crystal-of-atlan:scytheguard",
+      "gameId": "crystal-of-atlan",
+      "name": "가드리퍼",
+      "aliases": [
+        "가드리퍼",
+        "Scytheguard",
+        "Scythe Guardian"
+      ],
+      "releaseDate": "2025-05-28",
+      "releaseOrder": 12,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "scythe",
+        "summon"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/scytheguard/"
+    },
+    {
+      "id": "crystal-of-atlan:blademaiden",
+      "gameId": "crystal-of-atlan",
+      "name": "블레이드",
+      "aliases": [
+        "블레이드",
+        "Blademaiden"
+      ],
+      "releaseDate": "2025-05-28",
+      "releaseOrder": 13,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "dual-blades",
+        "summon"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/blademaiden/"
+    },
+    {
+      "id": "crystal-of-atlan:fighter",
+      "gameId": "crystal-of-atlan",
+      "name": "파이터",
+      "aliases": [
+        "파이터",
+        "Fighter"
+      ],
+      "releaseDate": "2025-05-28",
+      "releaseOrder": 14,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/fighter/",
+      "kind": "family"
+    },
+    {
+      "id": "crystal-of-atlan:cloudstrider",
+      "gameId": "crystal-of-atlan",
+      "name": "Cloudstrider",
+      "aliases": [
+        "Cloudstrider",
+        "Cloud Strider"
+      ],
+      "releaseDate": "2025-05-28",
+      "releaseOrder": 15,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/cloudstrider/"
+    },
+    {
+      "id": "crystal-of-atlan:starbreaker",
+      "gameId": "crystal-of-atlan",
+      "name": "Starbreaker",
+      "aliases": [
+        "Starbreaker",
+        "Star Breaker"
+      ],
+      "releaseDate": "2025-05-28",
+      "releaseOrder": 16,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/starbreaker/"
+    },
+    {
+      "id": "crystal-of-atlan:mystrix",
+      "gameId": "crystal-of-atlan",
+      "name": "스파이",
+      "aliases": [
+        "스파이",
+        "Mystrix",
+        "스파이편"
+      ],
+      "releaseDate": "2025-07-10",
+      "releaseOrder": 17,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "firearm"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/mystrix/"
+    },
+    {
+      "id": "crystal-of-atlan:assassin",
+      "gameId": "crystal-of-atlan",
+      "name": "어쌔신",
+      "aliases": [
+        "어쌔신",
+        "Assassin"
+      ],
+      "releaseDate": "2025-09-18",
+      "releaseOrder": 18,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "dagger"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/assassin/",
+      "kind": "family"
+    },
+    {
+      "id": "crystal-of-atlan:specter",
+      "gameId": "crystal-of-atlan",
+      "name": "스펙터",
+      "aliases": [
+        "스펙터",
+        "Specter",
+        "스펙터편"
+      ],
+      "releaseDate": "2025-09-18",
+      "releaseOrder": 19,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "dual-blades"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/specter/"
+    },
+    {
+      "id": "crystal-of-atlan:mirage",
+      "gameId": "crystal-of-atlan",
+      "name": "플리커",
+      "aliases": [
+        "플리커",
+        "Mirage",
+        "Flicker",
+        "플리커편"
+      ],
+      "releaseDate": "2025-09-18",
+      "releaseOrder": 20,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "dagger"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/mirage/"
+    },
+    {
+      "id": "crystal-of-atlan:glaciette",
+      "gameId": "crystal-of-atlan",
+      "name": "글레이셔",
+      "aliases": [
+        "글레이셔",
+        "Glaciette",
+        "글레이셔편"
+      ],
+      "releaseDate": "2025-11-27",
+      "releaseOrder": 21,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "special",
+        "summon"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/glaciette/"
+    },
+    {
+      "id": "crystal-of-atlan:inventor",
+      "gameId": "crystal-of-atlan",
+      "name": "인벤터",
+      "aliases": [
+        "인벤터",
+        "Inventor"
+      ],
+      "releaseDate": "2026-03-12",
+      "releaseOrder": 22,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "summon"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/inventor/",
+      "kind": "family"
+    },
+    {
+      "id": "crystal-of-atlan:empirica",
+      "gameId": "crystal-of-atlan",
+      "name": "Empirica",
+      "aliases": [
+        "Empirica"
+      ],
+      "releaseDate": "2026-03-12",
+      "releaseOrder": 23,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "summon"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/empirica/"
+    },
+    {
+      "id": "crystal-of-atlan:rhapsodia",
+      "gameId": "crystal-of-atlan",
+      "name": "Rhapsodia",
+      "aliases": [
+        "Rhapsodia"
+      ],
+      "releaseDate": "2026-03-12",
+      "releaseOrder": 24,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "summon"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/rhapsodia/"
+    },
+    {
+      "id": "crystal-of-atlan:karmaslayer",
+      "gameId": "crystal-of-atlan",
+      "name": "Karmaslayer",
+      "aliases": [
+        "Karmaslayer",
+        "Karma Slayer"
+      ],
+      "releaseDate": "2026-05-21",
+      "releaseOrder": 25,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "sword",
+        "summon"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/karmaslayer/"
+    },
+    {
+      "id": "crystal-of-atlan:sugariff",
+      "gameId": "crystal-of-atlan",
+      "name": "슈가리프",
+      "aliases": [
+        "슈가리프",
+        "Sugariff",
+        "Sonic Boom"
+      ],
+      "releaseDate": "2026-08-27",
+      "releaseOrder": 26,
+      "releaseBasis": "글로벌 정식 서비스 클래스 추가일",
+      "source": "https://apps.apple.com/kr/app/coa-%EC%95%84%ED%8B%80%EB%9E%80%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/id6453111576",
+      "weaponTags": [
+        "fist"
+      ],
+      "weaponTagSource": "https://coa.skykeep.net/classes/sugariff/"
     }
   ]
 }
