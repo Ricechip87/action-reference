@@ -1164,7 +1164,13 @@
             "테스트 서버"
           ],
           "enabled": true,
-          "titleGameRequired": true
+          "titleGameRequired": true,
+          "approvedVideoIds": [
+            "fy13K8YNceM",
+            "2bwqA4YM11U",
+            "SVZpUTVXpOA",
+            "WEb9Ow4d6pM"
+          ]
         },
         {
           "channel": "UCaRXeatgLKRhkSNd50IPFMg",
@@ -1621,6 +1627,70 @@
             "compilation",
             "Global Labs",
             "Global Lab"
+          ]
+        },
+        {
+          "channel": "UCIJp_9RGR9ZcUDz4vNjSvzg",
+          "name": "MyCheatSheet",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "5CB74ZJs8d4"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
+          ]
+        },
+        {
+          "channel": "UC0Ub0eXEdXn05VsHhU8sULA",
+          "name": "Ion0X",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "7xV26XkCqRw"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
           ]
         }
       ],
@@ -3152,6 +3222,38 @@
             "Global Labs",
             "Global Lab"
           ]
+        },
+        {
+          "channel": "UCOJraGBIESTqpzcidkCuyag",
+          "name": "MoKonDo TV",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "mL3r7Jd4vvI"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
+          ]
         }
       ]
     },
@@ -3952,6 +4054,38 @@
             "Global Labs",
             "Global Lab"
           ]
+        },
+        {
+          "channel": "UCE-Cu8v2eCpiNqXoJiFTs6Q",
+          "name": "Shreeder4092",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "qOiBqULufVw"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
+          ]
         }
       ],
       "approvedVideoIds": [
@@ -4256,6 +4390,38 @@
             "compilation",
             "Global Labs",
             "Global Lab"
+          ]
+        },
+        {
+          "channel": "UCaMloZVFJEML46Zlw7g0FIw",
+          "name": "점등원",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "rgaOqGm-fio"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
           ]
         }
       ],
@@ -4587,6 +4753,70 @@
             "compilation",
             "Global Labs",
             "Global Lab"
+          ]
+        },
+        {
+          "channel": "UCCxP0og5DJ5sSLsFaxwBJbQ",
+          "name": "BiceptimusPrime",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "HUcENorPJQM"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
+          ]
+        },
+        {
+          "channel": "UCSBP9Ko9so2jZYVyA09oodw",
+          "name": "GameruRc",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "4DgNYgZTqlM"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
           ]
         }
       ],
@@ -5405,7 +5635,8 @@
           "enabled": true,
           "approvedOnly": true,
           "approvedVideoIds": [
-            "iYRkcjEEh58"
+            "iYRkcjEEh58",
+            "4_xWoYR335U"
           ],
           "includeKeywords": [],
           "strictContentExclusions": true,
@@ -6882,6 +7113,70 @@
             "Global Labs",
             "Global Lab"
           ]
+        },
+        {
+          "channel": "UCHXzRSxKOpHYwm9v2-TiCuQ",
+          "name": "Gids",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "N2SCX-3quAI"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
+          ]
+        },
+        {
+          "channel": "UCko9xxt7pttN32-ejX-JTKQ",
+          "name": "Nobody",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "DQMfZOY5Al8"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
+          ]
         }
       ],
       "id": "crystal-of-atlan",
@@ -7362,7 +7657,8 @@
           "enabled": true,
           "approvedOnly": true,
           "approvedVideoIds": [
-            "hOvs-dofbww"
+            "hOvs-dofbww",
+            "wal_d3nyc7o"
           ],
           "includeKeywords": [],
           "strictContentExclusions": true,
@@ -7394,6 +7690,38 @@
             "compilation",
             "Global Labs",
             "Global Lab"
+          ]
+        },
+        {
+          "channel": "UCsKvMw6wdud2I9oHulJHjGQ",
+          "name": "Omegacore TV",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "QECvFvhoDj8"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
           ]
         }
       ],
@@ -7885,6 +8213,330 @@
             "테스트 서버",
             "베타 테스트",
             "모드 영상"
+          ]
+        },
+        {
+          "channel": "UCqKqqYKSkFJAVnY5fJ2QIFg",
+          "name": "Chikis's LVG",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "JGVmq-0i4l4",
+            "7Z6a7IBUBWU",
+            "dl70VBTeHR0"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
+          ]
+        },
+        {
+          "channel": "UCyoEdSymlmPLvJ3PskwhHDg",
+          "name": "ElChakotay",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "QozZS-RsXJA"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
+          ]
+        },
+        {
+          "channel": "UCYM41zVMj8BCHH4_cDAGY3g",
+          "name": "DarthLugia",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "oteaczIbOYw"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
+          ]
+        },
+        {
+          "channel": "UC0ur6YKLy23KAumI0bwJRBg",
+          "name": "HiFight",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "WX2P09J71GQ"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
+          ]
+        },
+        {
+          "channel": "UCE-Cu8v2eCpiNqXoJiFTs6Q",
+          "name": "Shreeder4092",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "Z3ow9k73Rqk",
+            "LbJ_tFN7q0Q"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
+          ]
+        },
+        {
+          "channel": "UCSDpSvl-JfX4q9SemAyAQzg",
+          "name": "VesperArcade",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "KyXSs_foNl0",
+            "zclm5B9jVys"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
+          ]
+        },
+        {
+          "channel": "UCTRj2nP4lH2kjXvNmhek8cg",
+          "name": "MagcargoPassTheBlunt",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "TrTAsTMnmNE"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
+          ]
+        },
+        {
+          "channel": "UC4MqE5FKvc241rpcZE3t9PQ",
+          "name": "DR K",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "AvJCsoWVArI"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
+          ]
+        },
+        {
+          "channel": "UCK3oHS1T6j-DJ-x-LWv_5mA",
+          "name": "umbra",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "epctrIOQv-M"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
+          ]
+        },
+        {
+          "channel": "UC-zoo0r7MUN8qD34J8s3Pqw",
+          "name": "rooflemonger",
+          "enabled": true,
+          "approvedOnly": true,
+          "approvedVideoIds": [
+            "KYM_Xan1VmU"
+          ],
+          "requireCharacterMatch": true,
+          "titleGameRequired": true,
+          "strictContentExclusions": true,
+          "excludeKeywords": [
+            "CBT",
+            "Closed Beta",
+            "Open Beta",
+            "Alpha Test",
+            "Beta Test",
+            "Beta Gameplay",
+            "Test Server",
+            "Private Server",
+            "Leaked",
+            "Leak Footage",
+            "Modded",
+            "All Characters",
+            "All Classes",
+            "All Weapons",
+            "Compilation",
+            "유출",
+            "테스트 서버",
+            "합본"
           ]
         }
       ],

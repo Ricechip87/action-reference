@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T17:31:41.101943+00:00",
+  "updatedAt": "2026-11-20T11:05:08.714998+00:00",
   "source": "rss",
   "channels": [
     {
@@ -9,7 +9,7 @@
       "via": "rss",
       "rssError": null,
       "feedCount": 15,
-      "matchedCount": 1
+      "matchedCount": 0
     },
     {
       "gameId": "wuthering-waves",
@@ -99,7 +99,7 @@
       "via": "rss",
       "rssError": null,
       "feedCount": 15,
-      "matchedCount": 5
+      "matchedCount": 0
     },
     {
       "gameId": "wuthering-waves",
@@ -356,6 +356,24 @@
     {
       "gameId": "zenless-zone-zero",
       "channel": "UCuIKsoNRJDi2w4JYW85thoA",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "zenless-zone-zero",
+      "channel": "UCIJp_9RGR9ZcUDz4vNjSvzg",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 1
+    },
+    {
+      "gameId": "zenless-zone-zero",
+      "channel": "UC0Ub0eXEdXn05VsHhU8sULA",
       "ok": true,
       "via": "rss",
       "rssError": null,
@@ -669,6 +687,15 @@
       "matchedCount": 0
     },
     {
+      "gameId": "genshin-impact",
+      "channel": "UCOJraGBIESTqpzcidkCuyag",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
       "gameId": "arknights-endfield",
       "channel": "UCIf9gYpmmIJV7flBhUhuqYQ",
       "ok": true,
@@ -827,8 +854,8 @@
       "ok": true,
       "via": "rss",
       "rssError": null,
-      "feedCount": 15,
-      "matchedCount": 1
+      "feedCount": 0,
+      "matchedCount": 0
     },
     {
       "gameId": "granblue-versus-rising",
@@ -851,6 +878,15 @@
     {
       "gameId": "granblue-versus-rising",
       "channel": "UC1SJiKx7iYyDXvILwZdSLUA",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "granblue-versus-rising",
+      "channel": "UCE-Cu8v2eCpiNqXoJiFTs6Q",
       "ok": true,
       "via": "rss",
       "rssError": null,
@@ -903,6 +939,15 @@
       "matchedCount": 0
     },
     {
+      "gameId": "vindictus",
+      "channel": "UCaMloZVFJEML46Zlw7g0FIw",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 1
+    },
+    {
       "gameId": "vindictus-defying-fate",
       "channel": "UC3aYuFGqSWLzZ7CvNlZ2aBw",
       "ok": true,
@@ -932,6 +977,24 @@
     {
       "gameId": "black-desert-pc",
       "channel": "UCQXa-K5QwavqJf3urN5XDRQ",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "black-desert-pc",
+      "channel": "UCCxP0og5DJ5sSLsFaxwBJbQ",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "black-desert-pc",
+      "channel": "UCSBP9Ko9so2jZYVyA09oodw",
       "ok": true,
       "via": "rss",
       "rssError": null,
@@ -1281,6 +1344,24 @@
       "matchedCount": 0
     },
     {
+      "gameId": "crystal-of-atlan",
+      "channel": "UCHXzRSxKOpHYwm9v2-TiCuQ",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "crystal-of-atlan",
+      "channel": "UCko9xxt7pttN32-ejX-JTKQ",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
       "gameId": "lost-ark",
       "channel": "UCL3gnarNIeI_M0cFxjNYdAA",
       "ok": true,
@@ -1355,6 +1436,15 @@
     {
       "gameId": "lost-ark",
       "channel": "UCRXsghlV3FRv7rqtf4wc0ew",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "lost-ark",
+      "channel": "UCsKvMw6wdud2I9oHulJHjGQ",
       "ok": true,
       "via": "rss",
       "rssError": null,
@@ -1463,6 +1553,96 @@
     {
       "gameId": "street-fighter-6",
       "channel": "UCPBgqVbpoOF5Ee3m_MOyR2g",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "street-fighter-6",
+      "channel": "UCqKqqYKSkFJAVnY5fJ2QIFg",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "street-fighter-6",
+      "channel": "UCyoEdSymlmPLvJ3PskwhHDg",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "street-fighter-6",
+      "channel": "UCYM41zVMj8BCHH4_cDAGY3g",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "street-fighter-6",
+      "channel": "UC0ur6YKLy23KAumI0bwJRBg",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "street-fighter-6",
+      "channel": "UCE-Cu8v2eCpiNqXoJiFTs6Q",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "street-fighter-6",
+      "channel": "UCSDpSvl-JfX4q9SemAyAQzg",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 1
+    },
+    {
+      "gameId": "street-fighter-6",
+      "channel": "UCTRj2nP4lH2kjXvNmhek8cg",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 0
+    },
+    {
+      "gameId": "street-fighter-6",
+      "channel": "UC4MqE5FKvc241rpcZE3t9PQ",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 1
+    },
+    {
+      "gameId": "street-fighter-6",
+      "channel": "UCK3oHS1T6j-DJ-x-LWv_5mA",
+      "ok": true,
+      "via": "rss",
+      "rssError": null,
+      "feedCount": 15,
+      "matchedCount": 1
+    },
+    {
+      "gameId": "street-fighter-6",
+      "channel": "UC-zoo0r7MUN8qD34J8s3Pqw",
       "ok": true,
       "via": "rss",
       "rssError": null,
@@ -2958,6 +3138,39 @@
       "characterReleaseBasis": "한국 첫 공개 서비스 시작일"
     },
     {
+      "id": "QECvFvhoDj8",
+      "title": "Lost Ark - Deadeye - Skills",
+      "gameId": "lost-ark",
+      "sourceKind": "creator",
+      "sourceChannel": "UCsKvMw6wdud2I9oHulJHjGQ",
+      "channelId": "UCsKvMw6wdud2I9oHulJHjGQ",
+      "channelTitle": "Omegacore TV",
+      "publishedAt": "2022-03-21T12:00:25-07:00",
+      "language": "en",
+      "type": "개별 기술 모션",
+      "gameVerified": true,
+      "duration": "PT150S",
+      "referenceScope": "skill-excerpt",
+      "referenceCoverageNote": "수련장 일반 기술 시연. 각성기 미포함",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=QECvFvhoDj8",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "QECvFvhoDj8",
+          "title": "Lost Ark - Deadeye - Skills",
+          "language": "en"
+        }
+      ],
+      "characterId": "lost-ark:deadeye",
+      "characterName": "데빌헌터",
+      "characterKind": "character",
+      "characterReleaseDate": "2018-11-07",
+      "characterReleaseOrder": 15,
+      "characterReleaseBasis": "한국 첫 공개 서비스 시작일"
+    },
+    {
       "id": "-TQHAIyso0k",
       "title": "Destroyer Dreadnaught",
       "gameId": "lost-ark",
@@ -4161,6 +4374,39 @@
         {
           "id": "mF4ca3yi2fQ",
           "title": "Arcanist Unlimited Shuffle",
+          "language": "en"
+        }
+      ],
+      "characterId": "lost-ark:arcanist",
+      "characterName": "아르카나",
+      "characterKind": "character",
+      "characterReleaseDate": "2018-11-07",
+      "characterReleaseOrder": 20,
+      "characterReleaseBasis": "한국 첫 공개 서비스 시작일"
+    },
+    {
+      "id": "wal_d3nyc7o",
+      "title": "Lost Ark Arcana's all skills effects",
+      "gameId": "lost-ark",
+      "sourceKind": "creator",
+      "sourceChannel": "UCRXsghlV3FRv7rqtf4wc0ew",
+      "channelId": "UCRXsghlV3FRv7rqtf4wc0ew",
+      "channelTitle": "Mindolphin20",
+      "publishedAt": "2021-08-25T11:00:30-07:00",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "gameVerified": true,
+      "duration": "PT486S",
+      "referenceScope": "moveset",
+      "referenceCoverageNote": "일반·스택트·루인 기술, 트라이포드 효과 및 각성기 2종",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=wal_d3nyc7o",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "wal_d3nyc7o",
+          "title": "Lost Ark Arcana's all skills effects",
           "language": "en"
         }
       ],
@@ -6159,6 +6405,39 @@
       "characterKind": "weapon",
       "characterReleaseDate": "2019-09-06",
       "characterReleaseOrder": 13,
+      "characterReleaseBasis": "작품·확장판의 최초 정식 발매일"
+    },
+    {
+      "id": "4_xWoYR335U",
+      "title": "Bow Iceborne Guide | PC Keyboard | Coatings, Stamina Skills, and Mechanics to Keep in Mind",
+      "gameId": "monster-hunter-iceborne",
+      "sourceKind": "creator",
+      "sourceChannel": "UCb8ZXCDFxAlgRO6m4vxI0Ig",
+      "channelId": "UCb8ZXCDFxAlgRO6m4vxI0Ig",
+      "channelTitle": "SkySensei",
+      "publishedAt": "2020-05-18T14:30:01-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "duration": "PT1087S",
+      "referenceScope": "commentary-guide",
+      "referenceCoverageNote": "아이스본 활 기본 공격, 곡사, 용화살 및 천천시",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=4_xWoYR335U",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "4_xWoYR335U",
+          "title": "Bow Iceborne Guide | PC Keyboard | Coatings, Stamina Skills, and Mechanics to Keep in Mind",
+          "language": "en"
+        }
+      ],
+      "characterId": "monster-hunter-iceborne:bow",
+      "characterName": "활",
+      "characterKind": "weapon",
+      "characterReleaseDate": "2019-09-06",
+      "characterReleaseOrder": 14,
       "characterReleaseBasis": "작품·확장판의 최초 정식 발매일"
     },
     {
@@ -16832,6 +17111,39 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "mL3r7Jd4vvI",
+      "title": "Genshin Impact 3.7 - Kirara Normal Attack Skill And Burst",
+      "gameId": "genshin-impact",
+      "sourceKind": "creator",
+      "sourceChannel": "UCOJraGBIESTqpzcidkCuyag",
+      "channelId": "UCOJraGBIESTqpzcidkCuyag",
+      "channelTitle": "MoKonDo TV",
+      "publishedAt": "2023-05-24T06:12:56-07:00",
+      "language": "en",
+      "type": "개별 기술 모션",
+      "gameVerified": true,
+      "duration": "PT55S",
+      "referenceScope": "skill-excerpt",
+      "referenceCoverageNote": "일반 공격, 원소전투 스킬 및 원소폭발",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=mL3r7Jd4vvI",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "mL3r7Jd4vvI",
+          "title": "Genshin Impact 3.7 - Kirara Normal Attack Skill And Burst",
+          "language": "en"
+        }
+      ],
+      "characterId": "genshin-impact:kirara",
+      "characterName": "키라라",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-05-24",
+      "characterReleaseOrder": 68,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
       "id": "Qx3m5qhoZz8",
       "title": "스트리트 파이터 6 - 캐릭터 가이드｜가일(Guile)",
       "gameId": "street-fighter-6",
@@ -17166,6 +17478,39 @@
       "characterReleaseBasis": "본편 출시일"
     },
     {
+      "id": "QozZS-RsXJA",
+      "title": "How to play Lily in SF6 - A Complete Guide",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCyoEdSymlmPLvJ3PskwhHDg",
+      "channelId": "UCyoEdSymlmPLvJ3PskwhHDg",
+      "channelTitle": "ElChakotay",
+      "publishedAt": "2026-04-14T09:30:05-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "duration": "PT8187S",
+      "referenceScope": "commentary-guide",
+      "referenceCoverageNote": "릴리 기본기, 필살기, 슈퍼 아츠와 콤보",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=QozZS-RsXJA",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "QozZS-RsXJA",
+          "title": "How to play Lily in SF6 - A Complete Guide",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:lily",
+      "characterName": "릴리",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 17,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
       "id": "ezBR7RhRWII",
       "title": "스트리트 파이터 6 - 캐릭터 가이드｜마농(Manon)",
       "gameId": "street-fighter-6",
@@ -17462,6 +17807,39 @@
         {
           "id": "qg1KoyDiqHI",
           "title": "Street Fighter 6 Character Guide | Jamie",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:jamie",
+      "characterName": "제이미",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 3,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "JGVmq-0i4l4",
+      "title": "Jamie Street Fighter 6 Movelist [02]",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCqKqqYKSkFJAVnY5fJ2QIFg",
+      "channelId": "UCqKqqYKSkFJAVnY5fJ2QIFg",
+      "channelTitle": "Chikis's LVG",
+      "publishedAt": "2023-06-24T23:54:01-07:00",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "duration": "PT371S",
+      "referenceScope": "command-list",
+      "referenceCoverageNote": "PS5 훈련 모드의 제이미 커맨드 시연",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=JGVmq-0i4l4",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "JGVmq-0i4l4",
+          "title": "Jamie Street Fighter 6 Movelist [02]",
           "language": "en"
         }
       ],
@@ -17775,6 +18153,39 @@
       "characterReleaseBasis": "본편 출시일"
     },
     {
+      "id": "7Z6a7IBUBWU",
+      "title": "Kimberly Street Fighter 6 Movelist [04]",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCqKqqYKSkFJAVnY5fJ2QIFg",
+      "channelId": "UCqKqqYKSkFJAVnY5fJ2QIFg",
+      "channelTitle": "Chikis's LVG",
+      "publishedAt": "2023-07-01T20:51:03-07:00",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "duration": "PT406S",
+      "referenceScope": "command-list",
+      "referenceCoverageNote": "PS5 훈련 모드의 킴벌리 커맨드 시연",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=7Z6a7IBUBWU",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "7Z6a7IBUBWU",
+          "title": "Kimberly Street Fighter 6 Movelist [04]",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:kimberly",
+      "characterName": "킴벌리",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 6,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
       "id": "B7j0mfRvPvk",
       "title": "스트리트 파이터 6 - 캐릭터 가이드｜E.혼다(E.Honda)",
       "gameId": "street-fighter-6",
@@ -17801,6 +18212,39 @@
         {
           "id": "knPaBQmrfjo",
           "title": "Street Fighter 6 Character Guide | E. Honda",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:e-honda",
+      "characterName": "E. 혼다",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-06-02",
+      "characterReleaseOrder": 11,
+      "characterReleaseBasis": "본편 출시일"
+    },
+    {
+      "id": "dl70VBTeHR0",
+      "title": "E. Honda Street Fighter 6 Movelist [12]",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCqKqqYKSkFJAVnY5fJ2QIFg",
+      "channelId": "UCqKqqYKSkFJAVnY5fJ2QIFg",
+      "channelTitle": "Chikis's LVG",
+      "publishedAt": "2023-07-24T02:08:41-07:00",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "duration": "PT317S",
+      "referenceScope": "command-list",
+      "referenceCoverageNote": "PS5 훈련 모드의 혼다 커맨드 시연",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=dl70VBTeHR0",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "dl70VBTeHR0",
+          "title": "E. Honda Street Fighter 6 Movelist [12]",
           "language": "en"
         }
       ],
@@ -18117,6 +18561,39 @@
         {
           "id": "c2U3nex-8C4",
           "title": "Street Fighter 6 Character Guide | Rashid",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:rashid",
+      "characterName": "라시드",
+      "characterKind": "character",
+      "characterReleaseDate": "2023-07-24",
+      "characterReleaseOrder": 19,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
+    },
+    {
+      "id": "oteaczIbOYw",
+      "title": "THESE BROKE ME!!! Rashid Combo Trials: Street Fighter 6!",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCYM41zVMj8BCHH4_cDAGY3g",
+      "channelId": "UCYM41zVMj8BCHH4_cDAGY3g",
+      "channelTitle": "DarthLugia",
+      "publishedAt": "2023-07-25T14:12:57-07:00",
+      "language": "en",
+      "type": "개별 기술 모션",
+      "gameVerified": true,
+      "duration": "PT1050S",
+      "referenceScope": "skill-excerpt",
+      "referenceCoverageNote": "라시드 콤보 트라이얼",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=oteaczIbOYw",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "oteaczIbOYw",
+          "title": "THESE BROKE ME!!! Rashid Combo Trials: Street Fighter 6!",
           "language": "en"
         }
       ],
@@ -21504,6 +21981,39 @@
         {
           "id": "TqumE_S5jUs",
           "title": "Street Fighter 6 Character Guide | Ed",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:ed",
+      "characterName": "에드",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-02-27",
+      "characterReleaseOrder": 21,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
+    },
+    {
+      "id": "WX2P09J71GQ",
+      "title": "SF6 ED COMBO SHOWCASE",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UC0ur6YKLy23KAumI0bwJRBg",
+      "channelId": "UC0ur6YKLy23KAumI0bwJRBg",
+      "channelTitle": "HiFight",
+      "publishedAt": "2024-02-27T18:43:31-08:00",
+      "language": "en",
+      "type": "개별 기술 모션",
+      "gameVerified": true,
+      "duration": "PT128S",
+      "referenceScope": "skill-excerpt",
+      "referenceCoverageNote": "에드 저스트 프레임 및 슈퍼 아츠 연계",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=WX2P09J71GQ",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "WX2P09J71GQ",
+          "title": "SF6 ED COMBO SHOWCASE",
           "language": "en"
         }
       ],
@@ -25255,6 +25765,39 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "fy13K8YNceM",
+      "title": "Burnice [2.5 Rework] Simplified Guide | ZZZ Made EZ",
+      "gameId": "zenless-zone-zero",
+      "sourceKind": "creator",
+      "sourceChannel": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "channelId": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "channelTitle": "The Sacred Spear",
+      "publishedAt": "2026-04-06T08:38:35-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "duration": "PT405S",
+      "referenceScope": "commentary-guide",
+      "referenceCoverageNote": "2.5 개편 이후 버니스의 기술과 운용 해설",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=fy13K8YNceM",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "fy13K8YNceM",
+          "title": "Burnice [2.5 Rework] Simplified Guide | ZZZ Made EZ",
+          "language": "en"
+        }
+      ],
+      "characterId": "zenless-zone-zero:burnice-white",
+      "characterName": "버니스",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-10-16",
+      "characterReleaseOrder": 22,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
       "id": "NLAqpQc0n_A",
       "title": "Youhu Skill Showcase | Wuthering Wave",
       "gameId": "wuthering-waves",
@@ -25796,6 +26339,40 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "5CB74ZJs8d4",
+      "title": "Hoshimi Miyabi | Character & Weapon Turntable, References, Animation Showcase [Zenless Zone Zero]",
+      "gameId": "zenless-zone-zero",
+      "sourceKind": "creator",
+      "sourceChannel": "UCIJp_9RGR9ZcUDz4vNjSvzg",
+      "channelId": "UCIJp_9RGR9ZcUDz4vNjSvzg",
+      "channelTitle": "MyCheatSheet",
+      "publishedAt": "2025-02-23T03:48:22+00:00",
+      "language": "en",
+      "type": "개별 모션",
+      "gameVerified": true,
+      "duration": "PT239S",
+      "referenceScope": "motion-excerpt",
+      "referenceCoverageNote": "2분부터 캐릭터 소개와 전투 동작",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=5CB74ZJs8d4",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "requiresReleaseWindow": false,
+      "variants": [
+        {
+          "id": "5CB74ZJs8d4",
+          "title": "Hoshimi Miyabi | Character & Weapon Turntable, References, Animation Showcase [Zenless Zone Zero]",
+          "language": "en"
+        }
+      ],
+      "characterId": "zenless-zone-zero:hoshimi-miyabi",
+      "characterName": "호시미 미야비",
+      "characterKind": "character",
+      "characterReleaseDate": "2024-12-18",
+      "characterReleaseOrder": 26,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
       "id": "46MoNcF0a2k",
       "title": "원신 | 데인 여담-「마비카: 태양의 순례」",
       "publishedAt": "2024-12-26T20:00:04-08:00",
@@ -26151,6 +26728,39 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "7xV26XkCqRw",
+      "title": "Astra Yao | Showcase Gameplay - ZZZ",
+      "gameId": "zenless-zone-zero",
+      "sourceKind": "creator",
+      "sourceChannel": "UC0Ub0eXEdXn05VsHhU8sULA",
+      "channelId": "UC0Ub0eXEdXn05VsHhU8sULA",
+      "channelTitle": "Ion0X",
+      "publishedAt": "2025-02-02T18:23:46-08:00",
+      "language": "en",
+      "type": "개별 모션",
+      "gameVerified": true,
+      "duration": "PT116S",
+      "referenceScope": "motion-excerpt",
+      "referenceCoverageNote": "1.5 아스트라 야오 교전 동작",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=7xV26XkCqRw",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "7xV26XkCqRw",
+          "title": "Astra Yao | Showcase Gameplay - ZZZ",
+          "language": "en"
+        }
+      ],
+      "characterId": "zenless-zone-zero:astra-yao",
+      "characterName": "아스트라 야오",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-01-22",
+      "characterReleaseOrder": 27,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
       "id": "BGwSkJ77rgc",
       "title": "공명자 전투 모션 | 로코코",
       "publishedAt": "2025-01-16T20:00:11-08:00",
@@ -26202,6 +26812,39 @@
         {
           "id": "g31J9y8usSs",
           "title": "Street Fighter 6 Character Guide | Mai",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:mai",
+      "characterName": "마이",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-02-05",
+      "characterReleaseOrder": 25,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
+    },
+    {
+      "id": "Z3ow9k73Rqk",
+      "title": "Street Fighter 6 - Mai (DLC) Combo Trials (Classic & Modern Controls)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCE-Cu8v2eCpiNqXoJiFTs6Q",
+      "channelId": "UCE-Cu8v2eCpiNqXoJiFTs6Q",
+      "channelTitle": "Shreeder4092",
+      "publishedAt": "2025-02-05T16:34:02-08:00",
+      "language": "en",
+      "type": "개별 기술 모션",
+      "gameVerified": true,
+      "duration": "PT303S",
+      "referenceScope": "skill-excerpt",
+      "referenceCoverageNote": "마이 클래식·모던 입력별 콤보 트라이얼",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=Z3ow9k73Rqk",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "Z3ow9k73Rqk",
+          "title": "Street Fighter 6 - Mai (DLC) Combo Trials (Classic & Modern Controls)",
           "language": "en"
         }
       ],
@@ -28359,6 +29002,39 @@
       "characterReleaseBasis": "글로벌 정식 서비스 클래스 추가일"
     },
     {
+      "id": "DQMfZOY5Al8",
+      "title": "Crystal of Atlan - Bounty Hunter Guide | Builds, Combos & Gameplay #coa #crystalofatlanpvp",
+      "gameId": "crystal-of-atlan",
+      "sourceKind": "creator",
+      "sourceChannel": "UCko9xxt7pttN32-ejX-JTKQ",
+      "channelId": "UCko9xxt7pttN32-ejX-JTKQ",
+      "channelTitle": "Nobody",
+      "publishedAt": "2025-06-08T13:51:55-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "duration": "PT1825S",
+      "referenceScope": "commentary-guide",
+      "referenceCoverageNote": "바운티헌터 기술 구성과 PvE·PvP 콤보",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=DQMfZOY5Al8",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "DQMfZOY5Al8",
+          "title": "Crystal of Atlan - Bounty Hunter Guide | Builds, Combos & Gameplay #coa #crystalofatlanpvp",
+          "language": "en"
+        }
+      ],
+      "characterId": "crystal-of-atlan:bounty-hunter",
+      "characterName": "바운티헌터",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-05-28",
+      "characterReleaseOrder": 9,
+      "characterReleaseBasis": "글로벌 정식 서비스 클래스 추가일"
+    },
+    {
       "id": "WaNnbRJZLiU",
       "title": "Berserker Class Display",
       "gameId": "crystal-of-atlan",
@@ -28441,6 +29117,39 @@
         {
           "id": "_E-soLZclZg",
           "title": "Elementalist Class Display",
+          "language": "en"
+        }
+      ],
+      "characterId": "crystal-of-atlan:elementalist",
+      "characterName": "엘리멘탈리스트",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-05-28",
+      "characterReleaseOrder": 5,
+      "characterReleaseBasis": "글로벌 정식 서비스 클래스 추가일"
+    },
+    {
+      "id": "N2SCX-3quAI",
+      "title": "Ultimate Elementalist Guide! PVP and PVE! Crystal of Atlan",
+      "gameId": "crystal-of-atlan",
+      "sourceKind": "creator",
+      "sourceChannel": "UCHXzRSxKOpHYwm9v2-TiCuQ",
+      "channelId": "UCHXzRSxKOpHYwm9v2-TiCuQ",
+      "channelTitle": "Gids",
+      "publishedAt": "2025-06-07T05:00:39-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "duration": "PT1049S",
+      "referenceScope": "commentary-guide",
+      "referenceCoverageNote": "엘리멘탈리스트 PvE·PvP 기술과 콤보",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=N2SCX-3quAI",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "N2SCX-3quAI",
+          "title": "Ultimate Elementalist Guide! PVP and PVE! Crystal of Atlan",
           "language": "en"
         }
       ],
@@ -28643,6 +29352,39 @@
         {
           "id": "nlnv52mGbL0",
           "title": "Street Fighter 6 Character Guide | Elena",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:elena",
+      "characterName": "엘레나",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-06-05",
+      "characterReleaseOrder": 26,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
+    },
+    {
+      "id": "KyXSs_foNl0",
+      "title": "Street Fighter 6 Elena Complete Guide! Mix-ups, Combos, Tips & Tricks",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCSDpSvl-JfX4q9SemAyAQzg",
+      "channelId": "UCSDpSvl-JfX4q9SemAyAQzg",
+      "channelTitle": "VesperArcade",
+      "publishedAt": "2025-07-12T06:53:12-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "duration": "PT4999S",
+      "referenceScope": "commentary-guide",
+      "referenceCoverageNote": "엘레나의 주요 기본기, 필살기 및 콤보",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=KyXSs_foNl0",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "KyXSs_foNl0",
+          "title": "Street Fighter 6 Elena Complete Guide! Mix-ups, Combos, Tips & Tricks",
           "language": "en"
         }
       ],
@@ -28945,6 +29687,39 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "2bwqA4YM11U",
+      "title": "Ju Fufu Simplified Guide | ZZZ Made EZ",
+      "gameId": "zenless-zone-zero",
+      "sourceKind": "creator",
+      "sourceChannel": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "channelId": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "channelTitle": "The Sacred Spear",
+      "publishedAt": "2025-06-26T15:02:06-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "duration": "PT316S",
+      "referenceScope": "commentary-guide",
+      "referenceCoverageNote": "귤복복의 기술 시연과 운용 해설",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=2bwqA4YM11U",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "2bwqA4YM11U",
+          "title": "Ju Fufu Simplified Guide | ZZZ Made EZ",
+          "language": "en"
+        }
+      ],
+      "characterId": "zenless-zone-zero:ju-fufu",
+      "characterName": "귤복복",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-06-25",
+      "characterReleaseOrder": 36,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
       "id": "mtQR2MafFmc",
       "title": "Lost Ark: Valkyrie",
       "gameId": "lost-ark",
@@ -29141,6 +29916,39 @@
       "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
     },
     {
+      "id": "SVZpUTVXpOA",
+      "title": "Yuzuha Simplified Guide | ZZZ Made EZ",
+      "gameId": "zenless-zone-zero",
+      "sourceKind": "creator",
+      "sourceChannel": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "channelId": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "channelTitle": "The Sacred Spear",
+      "publishedAt": "2025-07-16T16:37:10-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "duration": "PT350S",
+      "referenceScope": "commentary-guide",
+      "referenceCoverageNote": "유즈하의 기술 시연과 운용 해설",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=SVZpUTVXpOA",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "SVZpUTVXpOA",
+          "title": "Yuzuha Simplified Guide | ZZZ Made EZ",
+          "language": "en"
+        }
+      ],
+      "characterId": "zenless-zone-zero:ukinami-yuzuha",
+      "characterName": "우키나미 유즈하",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-07-16",
+      "characterReleaseOrder": 37,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
       "id": "PyG3_Aydfpg",
       "title": "공명자 전투 모션 | 플로로",
       "publishedAt": "2025-07-19T20:00:33-07:00",
@@ -29236,6 +30044,39 @@
       "characterReleaseBasis": "DLC 캐릭터 추가일"
     },
     {
+      "id": "TrTAsTMnmNE",
+      "title": "Sf6 Sagat move list, and all taunts",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCTRj2nP4lH2kjXvNmhek8cg",
+      "channelId": "UCTRj2nP4lH2kjXvNmhek8cg",
+      "channelTitle": "MagcargoPassTheBlunt",
+      "publishedAt": "2025-08-06T09:44:35-07:00",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "duration": "PT235S",
+      "referenceScope": "command-list",
+      "referenceCoverageNote": "사가트 커맨드 기술 및 도발 시연",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=TrTAsTMnmNE",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "TrTAsTMnmNE",
+          "title": "Sf6 Sagat move list, and all taunts",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:sagat",
+      "characterName": "사가트",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-08-05",
+      "characterReleaseOrder": 27,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
+    },
+    {
       "id": "Sxxkl2qDzT4",
       "title": "Granblue Fantasy Versus: Rising – Wilnas Character Guide",
       "description": "Let blaze your passion! Wilnas the Vermillion storms in as the next playable DLC character in Granblue Fantasy Versus: Rising on August 5. Use this guide as your recipe for victory, and get...",
@@ -29292,6 +30133,39 @@
           "id": "XtbkNuGlRus",
           "title": "앨리스 캐릭터 플레이 「검과 왈츠」 | 젠레스 존 제로",
           "language": "ko"
+        }
+      ],
+      "characterId": "zenless-zone-zero:alice-thymefield",
+      "characterName": "앨리스",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-08-06",
+      "characterReleaseOrder": 38,
+      "characterReleaseBasis": "글로벌 / 아시아 출시 일정"
+    },
+    {
+      "id": "WEb9Ow4d6pM",
+      "title": "Alice Simplified Guide | ZZZ Made EZ",
+      "gameId": "zenless-zone-zero",
+      "sourceKind": "creator",
+      "sourceChannel": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "channelId": "UCvpx2wJnOhCExPLs4a1mfoQ",
+      "channelTitle": "The Sacred Spear",
+      "publishedAt": "2025-08-08T16:15:00-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "duration": "PT349S",
+      "referenceScope": "commentary-guide",
+      "referenceCoverageNote": "앨리스의 기술 시연과 운용 해설",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=WEb9Ow4d6pM",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "WEb9Ow4d6pM",
+          "title": "Alice Simplified Guide | ZZZ Made EZ",
+          "language": "en"
         }
       ],
       "characterId": "zenless-zone-zero:alice-thymefield",
@@ -29837,6 +30711,40 @@
         {
           "id": "NKH8jAkt_8Y",
           "title": "Street Fighter 6 Character Guide | C. Viper",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:c-viper",
+      "characterName": "C. 바이퍼",
+      "characterKind": "character",
+      "characterReleaseDate": "2025-10-15",
+      "characterReleaseOrder": 28,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
+    },
+    {
+      "id": "AvJCsoWVArI",
+      "title": "SF6 C.Viper move list",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UC4MqE5FKvc241rpcZE3t9PQ",
+      "channelId": "UC4MqE5FKvc241rpcZE3t9PQ",
+      "channelTitle": "DR K",
+      "publishedAt": "2025-10-18T12:18:54+00:00",
+      "language": "en",
+      "type": "커맨드 시연",
+      "gameVerified": true,
+      "duration": "PT495S",
+      "referenceScope": "command-list",
+      "referenceCoverageNote": "C. 바이퍼 커맨드 기술 시연",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=AvJCsoWVArI",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "requiresReleaseWindow": false,
+      "variants": [
+        {
+          "id": "AvJCsoWVArI",
+          "title": "SF6 C.Viper move list",
           "language": "en"
         }
       ],
@@ -31292,6 +32200,39 @@
       "requiresReleaseWindow": false
     },
     {
+      "id": "qOiBqULufVw",
+      "title": "Granblue Fantasy Versus: Rising - Ilsa (DLC) Combo Trials (Simple + Technical Inputs)",
+      "gameId": "granblue-versus-rising",
+      "sourceKind": "creator",
+      "sourceChannel": "UCE-Cu8v2eCpiNqXoJiFTs6Q",
+      "channelId": "UCE-Cu8v2eCpiNqXoJiFTs6Q",
+      "channelTitle": "Shreeder4092",
+      "publishedAt": "2026-02-10T15:39:20-08:00",
+      "language": "en",
+      "type": "개별 기술 모션",
+      "gameVerified": true,
+      "duration": "PT278S",
+      "referenceScope": "skill-excerpt",
+      "referenceCoverageNote": "일사 콤보 트라이얼에서 간이·기술 입력 시연",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=qOiBqULufVw",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "qOiBqULufVw",
+          "title": "Granblue Fantasy Versus: Rising - Ilsa (DLC) Combo Trials (Simple + Technical Inputs)",
+          "language": "en"
+        }
+      ],
+      "characterId": "granblue-versus-rising:ilsa",
+      "characterName": "Ilsa",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-02-10",
+      "characterReleaseOrder": 38,
+      "characterReleaseBasis": "라이징 출시 / 공식 DLC 발매일"
+    },
+    {
       "id": "TS0UI5oYXr4",
       "title": "Granblue Fantasy Versus: Rising – Ilsa Character Guide",
       "description": "At attention, soldier! You're gonna learn today—Ilsa reports for duty as the next DLC character in Granblue Fantasy Versus: Rising on February 10. Get yourself mission-ready at launch with...",
@@ -31596,6 +32537,40 @@
         {
           "id": "e-xXJ-uzIHI",
           "title": "Street Fighter 6 Character Guide | Alex",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:alex",
+      "characterName": "알렉스",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-03-17",
+      "characterReleaseOrder": 29,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
+    },
+    {
+      "id": "epctrIOQv-M",
+      "title": "Street Fighter 6 - All Alex Animations (Perfect, Taunts, Special Moves)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCK3oHS1T6j-DJ-x-LWv_5mA",
+      "channelId": "UCK3oHS1T6j-DJ-x-LWv_5mA",
+      "channelTitle": "umbra",
+      "publishedAt": "2026-03-17T19:45:06+00:00",
+      "language": "en",
+      "type": "캐릭터 무브셋",
+      "gameVerified": true,
+      "duration": "PT506S",
+      "referenceScope": "moveset",
+      "referenceCoverageNote": "알렉스 기본기, 고유기, 필살기, 슈퍼 아츠, 잡기와 이동",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=epctrIOQv-M",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "requiresReleaseWindow": false,
+      "variants": [
+        {
+          "id": "epctrIOQv-M",
+          "title": "Street Fighter 6 - All Alex Animations (Perfect, Taunts, Special Moves)",
           "language": "en"
         }
       ],
@@ -33045,6 +34020,39 @@
         {
           "id": "Rdlx9Ick920",
           "title": "Street Fighter 6 Character Guide | Ingrid",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:ingrid",
+      "characterName": "잉그리드",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-05-28",
+      "characterReleaseOrder": 30,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
+    },
+    {
+      "id": "LbJ_tFN7q0Q",
+      "title": "Street Fighter 6 - Ingrid (DLC) Combo Trials (Classic & Modern Controls)",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCE-Cu8v2eCpiNqXoJiFTs6Q",
+      "channelId": "UCE-Cu8v2eCpiNqXoJiFTs6Q",
+      "channelTitle": "Shreeder4092",
+      "publishedAt": "2026-05-28T21:44:30-07:00",
+      "language": "en",
+      "type": "개별 기술 모션",
+      "gameVerified": true,
+      "duration": "PT435S",
+      "referenceScope": "skill-excerpt",
+      "referenceCoverageNote": "잉그리드 클래식·모던 입력별 콤보 트라이얼",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=LbJ_tFN7q0Q",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "LbJ_tFN7q0Q",
+          "title": "Street Fighter 6 - Ingrid (DLC) Combo Trials (Classic & Modern Controls)",
           "language": "en"
         }
       ],
@@ -35063,6 +36071,40 @@
       "characterReleaseBasis": "DLC 캐릭터 추가일"
     },
     {
+      "id": "zclm5B9jVys",
+      "title": "Street Fighter 6 Yasmine Combos Guide! Annotations & Timestamps",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UCSDpSvl-JfX4q9SemAyAQzg",
+      "channelId": "UCSDpSvl-JfX4q9SemAyAQzg",
+      "channelTitle": "VesperArcade",
+      "publishedAt": "2026-08-05T15:37:19+00:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "duration": "PT828S",
+      "referenceScope": "commentary-guide",
+      "referenceCoverageNote": "야스민의 바야니 모드와 콤보 해설",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=zclm5B9jVys",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "requiresReleaseWindow": false,
+      "variants": [
+        {
+          "id": "zclm5B9jVys",
+          "title": "Street Fighter 6 Yasmine Combos Guide! Annotations & Timestamps",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:yasmine",
+      "characterName": "야스민",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-08-03",
+      "characterReleaseOrder": 31,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
+    },
+    {
       "id": "RHCkcsfozvs",
       "title": "「명일방주: 엔드필드」 오퍼레이터 전투 시연 - 리노",
       "publishedAt": "2026-08-06T20:00:12-07:00",
@@ -35979,6 +37021,39 @@
       "characterReleaseBasis": "DLC 캐릭터 추가일"
     },
     {
+      "id": "KYM_Xan1VmU",
+      "title": "Arjun Ultimate Starter Guide - Street Fighter 6",
+      "gameId": "street-fighter-6",
+      "sourceKind": "creator",
+      "sourceChannel": "UC-zoo0r7MUN8qD34J8s3Pqw",
+      "channelId": "UC-zoo0r7MUN8qD34J8s3Pqw",
+      "channelTitle": "rooflemonger",
+      "publishedAt": "2026-10-19T14:11:02-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "duration": "PT4182S",
+      "referenceScope": "commentary-guide",
+      "referenceCoverageNote": "아르준 필살기, 슈퍼 아츠, 주요 기본기와 콤보",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=KYM_Xan1VmU",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "KYM_Xan1VmU",
+          "title": "Arjun Ultimate Starter Guide - Street Fighter 6",
+          "language": "en"
+        }
+      ],
+      "characterId": "street-fighter-6:arjun",
+      "characterName": "아르준",
+      "characterKind": "character",
+      "characterReleaseDate": "2026-10-13",
+      "characterReleaseOrder": 32,
+      "characterReleaseBasis": "DLC 캐릭터 추가일"
+    },
+    {
       "id": "yFh0Pk6GsNI",
       "title": "「명일방주: 엔드필드」 오퍼레이터 전투 시연 - 사",
       "publishedAt": "2026-10-12T20:00:38-07:00",
@@ -36451,6 +37526,39 @@
       "characterReleaseBasis": "공식 클래스 목록 순서 · 일자 미확인"
     },
     {
+      "id": "HUcENorPJQM",
+      "title": "BDO Ultimate Succession Warrior Guide | Black Desert Guide PvE & PvP Combo",
+      "gameId": "black-desert-pc",
+      "sourceKind": "creator",
+      "sourceChannel": "UCCxP0og5DJ5sSLsFaxwBJbQ",
+      "channelId": "UCCxP0og5DJ5sSLsFaxwBJbQ",
+      "channelTitle": "BiceptimusPrime",
+      "publishedAt": "2026-09-11T22:00:36-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "duration": "PT1500S",
+      "referenceScope": "commentary-guide",
+      "referenceCoverageNote": "PC 전승 워리어 기술·이동·PvE 및 PvP 콤보",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=HUcENorPJQM",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "variants": [
+        {
+          "id": "HUcENorPJQM",
+          "title": "BDO Ultimate Succession Warrior Guide | Black Desert Guide PvE & PvP Combo",
+          "language": "en"
+        }
+      ],
+      "characterId": "black-desert-pc:0",
+      "characterName": "워리어",
+      "characterKind": "character",
+      "characterReleaseDate": null,
+      "characterReleaseOrder": 1,
+      "characterReleaseBasis": "공식 클래스 목록 순서 · 일자 미확인"
+    },
+    {
       "id": "6t9-yctqRSU",
       "title": "[검은사막] 레인저 각성 전투 영상",
       "localizedTitles": [
@@ -36633,6 +37741,43 @@
           "id": "jc5WzXSR9zU",
           "title": "[검은사막] 소서러 전투 영상",
           "language": "ko"
+        }
+      ],
+      "characterId": "black-desert-pc:8",
+      "characterName": "소서러",
+      "characterKind": "character",
+      "characterReleaseDate": null,
+      "characterReleaseOrder": 3,
+      "characterReleaseBasis": "공식 클래스 목록 순서 · 일자 미확인"
+    },
+    {
+      "id": "4DgNYgZTqlM",
+      "title": "BDO | Sorceress PvE Combos Guide - Awakening & Succession",
+      "gameId": "black-desert-pc",
+      "sourceKind": "creator",
+      "sourceChannel": "UCSBP9Ko9so2jZYVyA09oodw",
+      "channelId": "UCSBP9Ko9so2jZYVyA09oodw",
+      "channelTitle": "GameruRc",
+      "publishedAt": "2026-03-10T10:51:33-07:00",
+      "language": "en",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "duration": "PT487S",
+      "referenceScope": "commentary-guide",
+      "referenceCoverageNote": "PC 전승과 각성의 기술 및 콤보",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=4DgNYgZTqlM",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "weaponTags": [
+        "focus",
+        "scythe"
+      ],
+      "variants": [
+        {
+          "id": "4DgNYgZTqlM",
+          "title": "BDO | Sorceress PvE Combos Guide - Awakening & Succession",
+          "language": "en"
         }
       ],
       "characterId": "black-desert-pc:8",
@@ -39408,6 +40553,40 @@
         {
           "id": "jBx8jb4S1So",
           "title": "[마비노기 영웅전] 피오나 캐릭터 소개",
+          "language": "ko"
+        }
+      ],
+      "characterId": "vindictus:fiona",
+      "characterName": "피오나",
+      "characterKind": "character",
+      "characterReleaseDate": null,
+      "characterReleaseOrder": 2,
+      "characterReleaseBasis": "공식 신규 캐릭터 추가 순서 · 일자 미확인"
+    },
+    {
+      "id": "rgaOqGm-fio",
+      "title": "마영전 피오나(검) 스킬,딜사이클 공략",
+      "gameId": "vindictus",
+      "sourceKind": "creator",
+      "sourceChannel": "UCaMloZVFJEML46Zlw7g0FIw",
+      "channelId": "UCaMloZVFJEML46Zlw7g0FIw",
+      "channelTitle": "점등원",
+      "publishedAt": "2024-04-17T04:35:33+00:00",
+      "language": "ko",
+      "type": "해설 가이드",
+      "gameVerified": true,
+      "duration": "PT943S",
+      "referenceScope": "commentary-guide",
+      "referenceCoverageNote": "피오나 검·방패 스킬과 공격 연계",
+      "verification": "public-watch-page",
+      "verificationSource": "https://www.youtube.com/watch?v=rgaOqGm-fio",
+      "reviewedAt": "2026-11-20",
+      "reviewedAfterCharacterRelease": true,
+      "requiresReleaseWindow": false,
+      "variants": [
+        {
+          "id": "rgaOqGm-fio",
+          "title": "마영전 피오나(검) 스킬,딜사이클 공략",
           "language": "ko"
         }
       ],
